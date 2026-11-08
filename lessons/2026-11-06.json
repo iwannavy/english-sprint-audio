@@ -1,0 +1,623 @@
+{
+ "date": "2026-11-06",
+ "theme": "Vaccines, cancer & patient power · 백신과 환자",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Could vaccines cure cancer?",
+    "show": "BBC Learning English · 6 Minute English (Nov 5)",
+    "url": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pldlfg.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261105.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261105-075.mp3"
+    ],
+    "minutes": 7,
+    "episodeUrl": "https://www.bbc.co.uk/programmes/p0pldm3h",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261105",
+    "note": "오늘 기사(환자가 소비자처럼 행동한다)와 같은 '건강·의료' 주제예요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 36.05,
+      "t1": 36.69,
+      "speaker": "Georgie",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 36.69,
+      "t1": 37.55,
+      "speaker": "Phil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 37.83,
+      "t1": 40.58,
+      "speaker": "Georgie",
+      "text": "Phil, have you had many vaccines in your life?"
+     },
+     {
+      "t0": 40.58,
+      "t1": 43.61,
+      "speaker": "Georgie",
+      "text": "So, these are injections to protect you from diseases."
+     },
+     {
+      "t0": 44.07,
+      "t1": 45.63,
+      "speaker": "Phil",
+      "text": "Oh, I've had loads."
+     },
+     {
+      "t0": 46.09,
+      "t1": 52.54,
+      "speaker": "Phil",
+      "text": "I had all the ones you have when you're a child, but I've also had some for travelling and working abroad so... yeah, I've had lots."
+     },
+     {
+      "t0": 52.54,
+      "t1": 53.43,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 53.43,
+      "t1": 64.13,
+      "speaker": "Georgie",
+      "text": "Well, many of us will have had vaccines to stop us getting common diseases such as flu or Covid 19, but could injections help us fight more complicated diseases too?"
+     },
+     {
+      "t0": 64.53,
+      "t1": 74.79,
+      "speaker": "Georgie",
+      "text": "In this episode of 6 Minute English, we'll be looking at some new research that has scientists very excited, and we'll be asking the question, 'Could vaccines cure cancer?'"
+     },
+     {
+      "t0": 76.15,
+      "t1": 76.83,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 76.83,
+      "t1": 79.17,
+      "speaker": "Georgie",
+      "text": "Let's start with a quiz question, Phil."
+     },
+     {
+      "t0": 79.21,
+      "t1": 88.37,
+      "speaker": "Georgie",
+      "text": "There are lots of different types of cancer affecting many parts of the body, but according to the World Health Organisation, what is the most common cancer worldwide?"
+     },
+     {
+      "t0": 88.77,
+      "t1": 94.03,
+      "speaker": "Georgie",
+      "text": "Is it: a) lung cancer, b) skin cancer, or c) stomach cancer?"
+     },
+     {
+      "t0": 94.03,
+      "t1": 95.33,
+      "speaker": "Phil",
+      "text": "Well, I don't know."
+     },
+     {
+      "t0": 96.11,
+      "t1": 98.97,
+      "speaker": "Phil",
+      "text": "I'm going to guess b) skin cancer."
+     },
+     {
+      "t0": 99.15,
+      "t1": 102.11,
+      "speaker": "Georgie",
+      "text": "Well, we'll find out the answer at the end of the programme."
+     },
+     {
+      "t0": 102.39,
+      "t1": 102.82,
+      "speaker": "Phil",
+      "text": "Right."
+     },
+     {
+      "t0": 102.82,
+      "t1": 108.22,
+      "speaker": "Phil",
+      "text": "Now, this idea of a vaccine that could cure cancer sounds really interesting."
+     },
+     {
+      "t0": 108.22,
+      "t1": 110.26,
+      "speaker": "Phil",
+      "text": "Could you tell us a bit more about it, Georgie?"
+     },
+     {
+      "t0": 110.26,
+      "t1": 114.79,
+      "speaker": "Georgie",
+      "text": "Well, scientists have been trying to develop a cancer vaccine for quite a long time."
+     },
+     {
+      "t0": 114.79,
+      "t1": 121.93,
+      "speaker": "Georgie",
+      "text": "If you think about many existing cancer treatments, such as radiotherapy and chemotherapy, these have quite a few side effects."
+     },
+     {
+      "t0": 122.19,
+      "t1": 131.11,
+      "speaker": "Georgie",
+      "text": "But the idea is that a cancer vaccine would help the body's natural immune system help fight the disease, which could have fewer side effects and also be more effective."
+     },
+     {
+      "t0": 131.45,
+      "t1": 136.43,
+      "speaker": "Georgie",
+      "text": "Scientists are particularly hopeful about a new vaccine developed to treat skin cancer."
+     },
+     {
+      "t0": 137.15,
+      "t1": 142.11,
+      "speaker": "Georgie",
+      "text": "BBC Radio 4 programme Inside Science has been hearing about the latest research."
+     },
+     {
+      "t0": 142.37,
+      "t1": 146.51,
+      "speaker": "Georgie",
+      "text": "Cancer cell biologist Anne Willis spoke to presenter Tom Whipple."
+     },
+     {
+      "t0": 146.73,
+      "t1": 150.82,
+      "speaker": "Tom Whipple",
+      "text": "I guess this moment has been quite a long time coming, hasn't it?"
+     },
+     {
+      "t0": 150.82,
+      "t1": 153.17,
+      "speaker": "Tom Whipple",
+      "text": "There's been some false dawns in cancer vaccines."
+     },
+     {
+      "t0": 153.71,
+      "t1": 168.99,
+      "speaker": "Anne Willis",
+      "text": "I mean, there's been a lot of work in this space, and it's all been very encouraging, particularly in the animal models, but getting this to translate into humans can be a much harder, longer process, so it's very exciting that there's this breakthrough - apparent breakthrough - that's come through today."
+     },
+     {
+      "t0": 169.37,
+      "t1": 179.15,
+      "speaker": "Phil",
+      "text": "Tom says that the development of the cancer vaccine has been a long time coming, and this means that it's taken a lot of time to achieve."
+     },
+     {
+      "t0": 179.51,
+      "t1": 180.03,
+      "speaker": "Georgie",
+      "text": "Yes."
+     },
+     {
+      "t0": 180.03,
+      "t1": 187.59,
+      "speaker": "Georgie",
+      "text": "Tom also says there have been some false dawns, an expression meaning that something looks like it's improving when it's actually not."
+     },
+     {
+      "t0": 188.21,
+      "t1": 192.23,
+      "speaker": "Phil",
+      "text": "Anne says there's been a lot of work in this space."
+     },
+     {
+      "t0": 192.55,
+      "t1": 199.63,
+      "speaker": "Phil",
+      "text": "Space here means field of research - so, in this context, research into cancer vaccines."
+     },
+     {
+      "t0": 200.19,
+      "t1": 202.87,
+      "speaker": "Georgie",
+      "text": "Scientists think they might have made a breakthrough."
+     },
+     {
+      "t0": 202.91,
+      "t1": 205.43,
+      "speaker": "Georgie",
+      "text": "That means they've made significant progress."
+     },
+     {
+      "t0": 205.63,
+      "t1": 212.84,
+      "speaker": "Phil",
+      "text": "And Georgie, these vaccines that we're talking about, they aren't quite like the ones that we're all familiar with, are they?"
+     },
+     {
+      "t0": 212.84,
+      "t1": 216.94,
+      "speaker": "Phil",
+      "text": "This isn't a vaccine to prevent you from getting skin cancer, is it?"
+     },
+     {
+      "t0": 216.94,
+      "t1": 217.4,
+      "speaker": "Georgie",
+      "text": "No."
+     },
+     {
+      "t0": 217.4,
+      "t1": 222.25,
+      "speaker": "Georgie",
+      "text": "The vaccine being tested is used to treat people after they've had a tumour removed."
+     },
+     {
+      "t0": 222.47,
+      "t1": 235.07,
+      "speaker": "Georgie",
+      "text": "It's used to target any cancer cells that have been spread around the body, to stop the cancer from coming back, and the vaccine is made specially for each patient by looking at the cancerous cells in the tumour that's been removed."
+     },
+     {
+      "t0": 235.75,
+      "t1": 239.67,
+      "speaker": "Georgie",
+      "text": "Anne Willis explained more to BBC Radio 4's Inside Science."
+     },
+     {
+      "t0": 240.19,
+      "t1": 242.36,
+      "speaker": "Anne Willis",
+      "text": "So, cancer cells are very different from normal cells."
+     },
+     {
+      "t0": 242.36,
+      "t1": 243.6,
+      "speaker": "Anne Willis",
+      "text": "They contain lots of mutations."
+     },
+     {
+      "t0": 243.6,
+      "t1": 248.79,
+      "speaker": "Anne Willis",
+      "text": "So, you sequence the DNA of the cancer cell to work out how it's different from a normal cell."
+     },
+     {
+      "t0": 249.03,
+      "t1": 263.21,
+      "speaker": "Anne Willis",
+      "text": "And then, particularly for the bits of the cancer that's different on the surface of the cell, you take those bits of DNA and then you put them into the RNA vaccine, and then they'll make these bits of proteins that get recognised by the immune system."
+     },
+     {
+      "t0": 263.47,
+      "t1": 266.8,
+      "speaker": "Anne Willis",
+      "text": "So, it's a way of priming the immune system to the cancer."
+     },
+     {
+      "t0": 266.8,
+      "t1": 275.23,
+      "speaker": "Phil",
+      "text": "Anne is saying that the scientists work out what in the cancer cells is different and put these bits into the vaccine."
+     },
+     {
+      "t0": 275.43,
+      "t1": 276.01,
+      "speaker": "Georgie",
+      "text": "Right."
+     },
+     {
+      "t0": 276.03,
+      "t1": 280.21,
+      "speaker": "Georgie",
+      "text": "The vaccine then becomes a way of priming the immune system to cancer."
+     },
+     {
+      "t0": 280.57,
+      "t1": 283.03,
+      "speaker": "Georgie",
+      "text": "If you prime something, you get it ready."
+     },
+     {
+      "t0": 283.03,
+      "t1": 289.47,
+      "speaker": "Georgie",
+      "text": "The vaccine basically helps the immune system get better at recognising and fighting cancer cells in the body."
+     },
+     {
+      "t0": 290.09,
+      "t1": 294.03,
+      "speaker": "Phil",
+      "text": "Now, that sounds like some really clever science here."
+     },
+     {
+      "t0": 294.61,
+      "t1": 297.03,
+      "speaker": "Phil",
+      "text": "Could it make a big difference, Georgie?"
+     },
+     {
+      "t0": 297.25,
+      "t1": 300.56,
+      "speaker": "Georgie",
+      "text": "Well, more trials are needed, but scientists are hopeful."
+     },
+     {
+      "t0": 300.56,
+      "t1": 305.51,
+      "speaker": "Georgie",
+      "text": "Here's Anne Willis again talking to Tom Whipple, presenter of Inside Science."
+     },
+     {
+      "t0": 306.11,
+      "t1": 307.07,
+      "speaker": "Tom Whipple",
+      "text": "Are you excited?"
+     },
+     {
+      "t0": 307.27,
+      "t1": 308.42,
+      "speaker": "Anne Willis",
+      "text": "Oh, I mean, very!"
+     },
+     {
+      "t0": 308.42,
+      "t1": 313.21,
+      "speaker": "Anne Willis",
+      "text": "I'm just, you know... anything that will improve lives of cancer patients is always wonderful."
+     },
+     {
+      "t0": 313.55,
+      "t1": 319.81,
+      "speaker": "Anne Willis",
+      "text": "And actually, seeing that this extraordinary technology is, sort of, starting to reach its promise - this is very exciting for everybody."
+     },
+     {
+      "t0": 320.31,
+      "t1": 322.13,
+      "speaker": "Phil",
+      "text": "So, Anne is excited."
+     },
+     {
+      "t0": 322.45,
+      "t1": 328.71,
+      "speaker": "Phil",
+      "text": "She says that after a long time working on this technology, it's starting to reach its promise."
+     },
+     {
+      "t0": 328.89,
+      "t1": 332.23,
+      "speaker": "Phil",
+      "text": "And promise here means positive potential."
+     },
+     {
+      "t0": 333.31,
+      "t1": 333.68,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 333.68,
+      "t1": 336.97,
+      "speaker": "Georgie",
+      "text": "Phil, I think it's time I revealed the answer to my question."
+     },
+     {
+      "t0": 337.23,
+      "t1": 340.89,
+      "speaker": "Georgie",
+      "text": "I asked you, \"What is the most common form of cancer worldwide?\""
+     },
+     {
+      "t0": 341.31,
+      "t1": 345.69,
+      "speaker": "Georgie",
+      "text": "You said skin cancer, but the answer is actually lung cancer."
+     },
+     {
+      "t0": 346.01,
+      "t1": 352.97,
+      "speaker": "Georgie",
+      "text": "In 2024, there were an estimated 2.4 million cases worldwide, according to the World Health Organisation."
+     },
+     {
+      "t0": 353.48,
+      "t1": 354.07,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 354.51,
+      "t1": 365.99,
+      "speaker": "Phil",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with the expression a long time coming, which means something has taken a long time to achieve."
+     },
+     {
+      "t0": 366.57,
+      "t1": 371.11,
+      "speaker": "Georgie",
+      "text": "A false dawn is when something appears to be improving, when it actually isn't."
+     },
+     {
+      "t0": 371.49,
+      "t1": 374.77,
+      "speaker": "Phil",
+      "text": "Space can mean field of research."
+     },
+     {
+      "t0": 375.39,
+      "t1": 379.15,
+      "speaker": "Georgie",
+      "text": "A breakthrough refers to making significant progress with something."
+     },
+     {
+      "t0": 379.43,
+      "t1": 382.77,
+      "speaker": "Phil",
+      "text": "If you prime something, you get it ready."
+     },
+     {
+      "t0": 382.77,
+      "t1": 386.15,
+      "speaker": "Georgie",
+      "text": "And promise can mean positive potential."
+     },
+     {
+      "t0": 386.47,
+      "t1": 389.07,
+      "speaker": "Phil",
+      "text": "Once again, our six minutes are up."
+     },
+     {
+      "t0": 389.27,
+      "t1": 392.63,
+      "speaker": "Phil",
+      "text": "Test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 392.63,
+      "t1": 395.97,
+      "speaker": "Phil",
+      "text": "And that's bbclearningenglish.com."
+     },
+     {
+      "t0": 396.11,
+      "t1": 398.07,
+      "speaker": "Georgie",
+      "text": "Thanks for joining us and goodbye."
+     },
+     {
+      "t0": 398.33,
+      "t1": 398.79,
+      "speaker": "Phil",
+      "text": "Bye."
+     }
+    ]
+   },
+   {
+    "title": "The Voters Who Flipped Congress",
+    "show": "NYT · The Daily (Nov 5)",
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/60627ca2-a3fc-41c5-a85e-673e60593e30/audio/128/default.mp3?awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=60627ca2-a3fc-41c5-a85e-673e60593e30",
+    "minutes": 29,
+    "episodeUrl": "https://www.nytimes.com/column/the-daily",
+    "note": "선택. 중간선거 결과 해설이에요. 출근길이 남으면 들어요. 원어민 속도 도전. 스크립트는 NYT 앱의 에피소드 페이지에 있어요."
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'breakthrough'와 'prime'이 나오는 부분을 잘 들어 보세요. 시간이 남으면 The Daily로 이어가요.",
+  "quiz": {
+   "q": "According to the World Health Organisation, what is the most common cancer worldwide? a) lung cancer, b) skin cancer, c) stomach cancer",
+   "answer": "a) lung cancer. 2024년 WHO 추산으로 전 세계 약 240만 건이에요. 보너스: 오늘 나온 암 백신은 예방용이 아니라, 종양을 제거한 뒤 남은 암세포를 면역계가 잡도록 'prime'하는 개인 맞춤형 치료 백신이에요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Nov 5",
+  "sentences": [
+   {
+    "text": "Could you tell us a bit more about it, Georgie?",
+    "ko": "조지, 그거에 대해 조금만 더 설명해 주실래요?",
+    "t0": 108.22,
+    "t1": 110.26,
+    "track": 0
+   },
+   {
+    "text": "Cancer cell biologist Anne Willis spoke to presenter Tom Whipple.",
+    "ko": "암세포 생물학자 Anne Willis가 진행자 Tom Whipple과 이야기했어요.",
+    "t0": 142.37,
+    "t1": 146.51,
+    "track": 0
+   },
+   {
+    "text": "Anne says there's been a lot of work in this space.",
+    "ko": "Anne은 이 분야(space)에서 많은 연구가 이뤄져 왔다고 말해요.",
+    "t0": 188.21,
+    "t1": 192.23,
+    "track": 0
+   },
+   {
+    "text": "Now, that sounds like some really clever science here.",
+    "ko": "와, 여기 정말 똑똑한 과학이 있네요.",
+    "t0": 290.09,
+    "t1": 294.03,
+    "track": 0
+   },
+   {
+    "text": "Test what you've learned with the worksheet on our website.",
+    "ko": "웹사이트의 워크시트로 배운 내용을 확인해 보세요.",
+    "t0": 389.27,
+    "t1": 392.63,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Patients are acting more like consumers. Good",
+  "url": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
+  "source": "The Economist",
+  "section": "Leaders · Markets maketh medicine · Nov 5th 2026",
+  "minutes": 4,
+  "summaryKo": "의료는 보통 보험사·의사가 결정하고 환자는 받는 쪽이라 시장이 비효율적이에요. 그래서 환자들이 챗봇으로 묻고, 스스로 검사를 시키고, 제약사가 직접 약을 파는 흐름이 커지고 있는데, Economist는 이 세 가지가 모두 반가운 변화라고 말해요. (앞부분만; 전체는 구독 로그인)",
+  "excerpt": [
+   "The person who uses a product usually chooses it and pays for it. The great exception is health care. Most of the time insurers (public or private) decide what is covered; doctors decide what is prescribed and patients take what they are given. The result is markets riddled with inefficiency, and nowhere more so than in America, the world's biggest. This year Americans are expected to spend about $6trn on health, nearly a fifth of their country's gdp. Yet for all that money, about one adult in ten could not get an appointment when they needed one last year, and more than a quarter put off or skipped care because of the cost.",
+   "No wonder patients are taking matters into their own hands. They pepper chatbots with questions such as how to decode a blood test or prepare for an appointment; every week more than 300m people ask Chatgpt about health, says Openai, its creator. The market for tests that patients order themselves has grown to be worth about $4bn a year in America, double its size in 2021, reckons Morgan Stanley, a bank. And drugmakers have started selling directly to patients. Eli Lilly, an American pharmaceutical giant, now fills about half of new prescriptions for its obesity jab in America this way, bypassing insurers. All three developments are good news."
+  ],
+  "tip": "부제 'Markets maketh medicine'은 성경체 말투(maketh)로 '시장이 의료를 만든다'는 말장난이에요. 임상검사실에서 일하시니 'decode a blood test', 'tests that patients order themselves'는 바로 써 볼 표현이에요. take matters into their own hands = 스스로 나서다."
+ },
+ "vocab": [
+  {
+   "word": "a long time coming",
+   "meaning": "오래 기다려 온, 드디어 온",
+   "example": "This breakthrough has been a long time coming."
+  },
+  {
+   "word": "false dawn",
+   "meaning": "거짓 희망, 잠깐 좋아 보이는 상황",
+   "example": "There have been some false dawns in cancer vaccines."
+  },
+  {
+   "word": "breakthrough",
+   "meaning": "돌파구, 중대한 진전",
+   "example": "Scientists think they might have made a breakthrough."
+  },
+  {
+   "word": "prime (something)",
+   "meaning": "(준비시키다) ~을 대비·준비시키다",
+   "example": "The vaccine is a way of priming the immune system to the cancer."
+  },
+  {
+   "word": "promise (n.)",
+   "meaning": "전망, 잠재력 (positive potential)",
+   "example": "This technology is starting to reach its promise."
+  },
+  {
+   "word": "riddled with",
+   "meaning": "~으로 가득 찬 (문제·비효율 등)",
+   "example": "Health-care markets are riddled with inefficiency."
+  },
+  {
+   "word": "take matters into their own hands",
+   "meaning": "스스로 나서다, 직접 해결하다",
+   "example": "Patients are taking matters into their own hands."
+  }
+ ],
+ "writing": {
+  "prompt": "Would you ask ChatGPT about a blood-test result before seeing a doctor? Write 3–5 sentences in English.",
+  "question": "When is it helpful for patients to act like consumers, and when is it risky?",
+  "hint": "이런 표현을 써 보세요: On the one hand ... / On the other hand ... / I'd rather ask ... first because ... / The risk is that ... / In my lab / hospital, patients often ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain to a friend what a cancer vaccine does in this episode — and whether you find it exciting or worrying.",
+  "phrases": [
+   "It's a way of priming the immune system to ...",
+   "There have been false dawns, but ...",
+   "What surprised me was that ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Have you had many vaccines in your life? Which ones, and why?"
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "나흘째예요. 어제 이어서 10페이지. 금요일이니 피곤하면 5페이지만 읽어도 충분해요. Minimum day도 OK."
+ }
+}

@@ -1,0 +1,599 @@
+{
+ "date": "2026-11-05",
+ "theme": "Gold, Google & AI · 돈과 시장",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Why do people buy gold?",
+    "show": "BBC Learning English · 6 Minute English (Oct 15)",
+    "url": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0pgs15w.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261015.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261015-075.mp3"
+    ],
+    "minutes": 7,
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261015",
+    "note": "오늘 기사(구글 시가총액 급락)와 같은 '돈과 시장' 주제예요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 3.98,
+      "t1": 5.05,
+      "speaker": "Georgie",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 16.57,
+      "t1": 17.81,
+      "speaker": "Phil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 18.17,
+      "t1": 19.81,
+      "speaker": "Phil",
+      "text": "I've got a question for you."
+     },
+     {
+      "t0": 20.13,
+      "t1": 23.31,
+      "speaker": "Phil",
+      "text": "Do you own anything made of gold?"
+     },
+     {
+      "t0": 23.51,
+      "t1": 31.15,
+      "speaker": "Georgie",
+      "text": "Well, at the moment I'm wearing a lot of gold-coloured jewellery, but I'm not sure exactly how much of it is made of gold."
+     },
+     {
+      "t0": 31.79,
+      "t1": 32.31,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 32.49,
+      "t1": 34.95,
+      "speaker": "Phil",
+      "text": "I don't think I own anything made of gold."
+     },
+     {
+      "t0": 35.43,
+      "t1": 41.75,
+      "speaker": "Phil",
+      "text": "Beyond jewellery and other personal items, gold is bought and sold by investors and banks."
+     },
+     {
+      "t0": 42.07,
+      "t1": 48.79,
+      "speaker": "Phil",
+      "text": "The price of gold has always gone up and down, but in 2026 it reached its highest ever price."
+     },
+     {
+      "t0": 49.49,
+      "t1": 58.77,
+      "speaker": "Phil",
+      "text": "In this episode of 6 Minute English, we'll be talking about how gold became a valuable investment and asking the question, why do people buy gold?"
+     },
+     {
+      "t0": 61.99,
+      "t1": 65.11,
+      "speaker": "Phil",
+      "text": "Let's start with our quiz question, Georgie."
+     },
+     {
+      "t0": 65.27,
+      "t1": 70.87,
+      "speaker": "Phil",
+      "text": "Gold is a metal that's extracted or dug up from under the ground in mines."
+     },
+     {
+      "t0": 71.25,
+      "t1": 76,
+      "speaker": "Phil",
+      "text": "But how much gold has been extracted from the earth?"
+     },
+     {
+      "t0": 76,
+      "t1": 89.17,
+      "speaker": "Phil",
+      "text": "Is it: a) over 50,000 tonnes, b) over 100,000 tonnes, or c) over 200,000 tonnes?"
+     },
+     {
+      "t0": 89.43,
+      "t1": 94.67,
+      "speaker": "Georgie",
+      "text": "Phil, I have absolutely no idea, but I'm going to go with c) 200,000 tonnes."
+     },
+     {
+      "t0": 94.77,
+      "t1": 95.14,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 95.14,
+      "t1": 98.45,
+      "speaker": "Phil",
+      "text": "Well, we'll give you the answer at the end of the programme."
+     },
+     {
+      "t0": 98.73,
+      "t1": 99.49,
+      "speaker": "Georgie",
+      "text": "OK Phil."
+     },
+     {
+      "t0": 99.49,
+      "t1": 104.62,
+      "speaker": "Georgie",
+      "text": "So, we've been using gold for thousands of years, but why and how did it start?"
+     },
+     {
+      "t0": 104.62,
+      "t1": 112.83,
+      "speaker": "Phil",
+      "text": "Well, before money was paper or plastic or just numbers in your bank account, a lot of it was actually gold."
+     },
+     {
+      "t0": 113.05,
+      "t1": 120.17,
+      "speaker": "Phil",
+      "text": "And experts have discovered gold in coins that are thought to have been made in the 6th Century BC."
+     },
+     {
+      "t0": 120.61,
+      "t1": 128.67,
+      "speaker": "Phil",
+      "text": "So, gold coins were made and they were used because the metal was much easier to carry and trade than things like cattle or timber."
+     },
+     {
+      "t0": 128.91,
+      "t1": 129.28,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 129.28,
+      "t1": 134.08,
+      "speaker": "Georgie",
+      "text": "But now our money isn't literally made of gold, so why is gold valuable?"
+     },
+     {
+      "t0": 134.08,
+      "t1": 143.73,
+      "speaker": "Phil",
+      "text": "It's a good question, but even though it isn't money, gold is still a financial asset, and an asset is something valuable that could be sold for money."
+     },
+     {
+      "t0": 144.31,
+      "t1": 150.05,
+      "speaker": "Phil",
+      "text": "And people buy gold in times of crisis because it's thought of as a safe investment."
+     },
+     {
+      "t0": 150.33,
+      "t1": 155.41,
+      "speaker": "Phil",
+      "text": "Let's listen to expert Suki Cooper explaining more to the BBC World Service."
+     },
+     {
+      "t0": 156.05,
+      "t1": 169.77,
+      "speaker": "Suki Cooper",
+      "text": "Gold is a safe haven because it's not connected to one particular government or one particular economy or one particular market, so the fact that it's neutral means it's an asset that's perceived to be a store of value over a longer term."
+     },
+     {
+      "t0": 169.83,
+      "t1": 181.49,
+      "speaker": "Phil",
+      "text": "Suki describes gold as a safe haven, and a safe haven means something or somewhere that's protected from harm or danger, or in financial terms, from a fall in value."
+     },
+     {
+      "t0": 181.71,
+      "t1": 188.61,
+      "speaker": "Georgie",
+      "text": "Yes, Suki explains that, unlike dollars or pounds for example, gold is not connected to a particular country."
+     },
+     {
+      "t0": 188.71,
+      "t1": 189.57,
+      "speaker": "Georgie",
+      "text": "It's neutral."
+     },
+     {
+      "t0": 190.11,
+      "t1": 195.73,
+      "speaker": "Phil",
+      "text": "And Georgie, because we get gold from mines, there's more or less a fixed amount."
+     },
+     {
+      "t0": 195.75,
+      "t1": 203.05,
+      "speaker": "Phil",
+      "text": "Unlike paper money, you can't just print more, as Catherine Schenk, professor of economic and social history, explains."
+     },
+     {
+      "t0": 203.19,
+      "t1": 213.24,
+      "speaker": "Catherine Schenk",
+      "text": "It can't be created and fabricated out of thin air through alchemy, and so this, sort of, controls the supply and sustains an underlying value behind the demand for gold."
+     },
+     {
+      "t0": 213.24,
+      "t1": 220.49,
+      "speaker": "Georgie",
+      "text": "Catherine explains that gold can't be created out of thin air, an expression meaning making something from nothing."
+     },
+     {
+      "t0": 220.61,
+      "t1": 224.47,
+      "speaker": "Phil",
+      "text": "As Catherine says, we don't make gold through alchemy."
+     },
+     {
+      "t0": 224.77,
+      "t1": 232.55,
+      "speaker": "Phil",
+      "text": "Alchemy is an ancient kind of chemistry that attempted to do impossible things, like turn ordinary metals into gold."
+     },
+     {
+      "t0": 232.83,
+      "t1": 240.89,
+      "speaker": "Phil",
+      "text": "And because we can't just magically make more gold, when lots of people want to buy gold, the price increases."
+     },
+     {
+      "t0": 241.79,
+      "t1": 242.38,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 242.38,
+      "t1": 243.07,
+      "speaker": "Georgie",
+      "text": "Understood."
+     },
+     {
+      "t0": 243.51,
+      "t1": 250.19,
+      "speaker": "Georgie",
+      "text": "Now, Phil, at the start of this programme, you said that gold prices hit an all-time high in early 2026."
+     },
+     {
+      "t0": 250.51,
+      "t1": 251.73,
+      "speaker": "Georgie",
+      "text": "So, what's going on?"
+     },
+     {
+      "t0": 251.97,
+      "t1": 260.25,
+      "speaker": "Phil",
+      "text": "Well, we mentioned that the price of gold increases in times of crisis because government banks want to buy more of it."
+     },
+     {
+      "t0": 260.39,
+      "t1": 274.89,
+      "speaker": "Phil",
+      "text": "And there has been a series of world events that have made government banks want to buy more gold, for example the wars in Ukraine and the Middle East, and in politics too, for example the US imposing tariffs on international products."
+     },
+     {
+      "t0": 275.27,
+      "t1": 279.11,
+      "speaker": "Phil",
+      "text": "But since that peak in January, the price has dropped a bit."
+     },
+     {
+      "t0": 279.63,
+      "t1": 280.15,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 280.23,
+      "t1": 285.23,
+      "speaker": "Georgie",
+      "text": "And does the fall in the price of gold mean that people won't want to invest in it in the future?"
+     },
+     {
+      "t0": 285.33,
+      "t1": 285.73,
+      "speaker": "Phil",
+      "text": "No."
+     },
+     {
+      "t0": 285.83,
+      "t1": 288.81,
+      "speaker": "Phil",
+      "text": "It's likely that the price will go up again."
+     },
+     {
+      "t0": 289.51,
+      "t1": 294.38,
+      "speaker": "Phil",
+      "text": "Experts believe that gold will always be an attractive investment during uncertain times."
+     },
+     {
+      "t0": 294.38,
+      "t1": 298.67,
+      "speaker": "Phil",
+      "text": "Let's hear from market strategist John Reade."
+     },
+     {
+      "t0": 298.67,
+      "t1": 301.78,
+      "speaker": "John Reade",
+      "text": "So much of the world we live in now is ethereal."
+     },
+     {
+      "t0": 301.78,
+      "t1": 312.16,
+      "speaker": "John Reade",
+      "text": "It's... it's virtual, it's online, it disappears, whereas gold is something solid, something dependable and, you know, maybe something a little bit old fashioned."
+     },
+     {
+      "t0": 312.16,
+      "t1": 318.84,
+      "speaker": "John Reade",
+      "text": "And maybe it's a hankering for traditional values rather than what is super modern and super changeable."
+     },
+     {
+      "t0": 318.84,
+      "t1": 324.13,
+      "speaker": "Georgie",
+      "text": "John says that much of the modern world is ethereal, meaning it doesn't seem real."
+     },
+     {
+      "t0": 324.13,
+      "t1": 330.83,
+      "speaker": "Phil",
+      "text": "And in this ethereal world, people have a hankering for something that's solid and real, like gold."
+     },
+     {
+      "t0": 330.83,
+      "t1": 336.03,
+      "speaker": "Phil",
+      "text": "And the expression a hankering for means a strong desire for something."
+     },
+     {
+      "t0": 336.17,
+      "t1": 336.54,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 336.54,
+      "t1": 339.79,
+      "speaker": "Georgie",
+      "text": "Phil, I think it's time for the answer to your quiz question."
+     },
+     {
+      "t0": 339.95,
+      "t1": 340.47,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 340.47,
+      "t1": 346.05,
+      "speaker": "Phil",
+      "text": "Well, I asked how much gold has been mined from the ground to date."
+     },
+     {
+      "t0": 346.35,
+      "t1": 349.09,
+      "speaker": "Georgie",
+      "text": "I said 200,000 tonnes."
+     },
+     {
+      "t0": 349.25,
+      "t1": 351.19,
+      "speaker": "Phil",
+      "text": "And that is the correct answer!"
+     },
+     {
+      "t0": 351.41,
+      "t1": 351.93,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 352.07,
+      "t1": 356.61,
+      "speaker": "Phil",
+      "text": "Let's recap the vocabulary we learnt in this programme, starting with asset."
+     },
+     {
+      "t0": 356.81,
+      "t1": 361.57,
+      "speaker": "Phil",
+      "text": "And an asset is something of financial value that can be sold for money."
+     },
+     {
+      "t0": 361.65,
+      "t1": 365.93,
+      "speaker": "Georgie",
+      "text": "A safe haven is something or somewhere protected from harm or loss."
+     },
+     {
+      "t0": 366.35,
+      "t1": 371.91,
+      "speaker": "Phil",
+      "text": "To make something out of thin air is an expression meaning to make something from nothing."
+     },
+     {
+      "t0": 372.09,
+      "t1": 379.41,
+      "speaker": "Georgie",
+      "text": "Alchemy is a kind of ancient chemistry that attempted to do impossible things, like making gold from ordinary metals."
+     },
+     {
+      "t0": 379.47,
+      "t1": 383.29,
+      "speaker": "Phil",
+      "text": "If something is ethereal, it doesn't seem real."
+     },
+     {
+      "t0": 383.63,
+      "t1": 388.13,
+      "speaker": "Georgie",
+      "text": "And if you have a hankering for something, you have a strong desire for it."
+     },
+     {
+      "t0": 388.13,
+      "t1": 395.63,
+      "speaker": "Phil",
+      "text": "Once again, our six minutes are up, and if you have a hankering for more practice, test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 395.63,
+      "t1": 398.39,
+      "speaker": "Phil",
+      "text": "That's bbclearningenglish.com."
+     },
+     {
+      "t0": 398.39,
+      "t1": 399.64,
+      "speaker": "Georgie",
+      "text": "Thank you for joining us."
+     },
+     {
+      "t0": 399.64,
+      "t1": 400.19,
+      "speaker": "Georgie",
+      "text": "Goodbye."
+     },
+     {
+      "t0": 400.29,
+      "t1": 400.89,
+      "speaker": "Phil",
+      "text": "Goodbye!"
+     }
+    ]
+   },
+   {
+    "title": "A Plan for Two Dans: How Democrats Manipulated Alaska's Ballot",
+    "show": "NYT · The Daily (Oct 29)",
+    "url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9aeacd77-c434-4046-b7e1-a8b0c90c8090/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9aeacd77-c434-4046-b7e1-a8b0c90c8090&feed=54nAGcIl",
+    "minutes": 27,
+    "episodeUrl": "https://www.nytimes.com/column/the-daily",
+    "note": "선택. 출근길이 남으면 들어요. 원어민 속도 도전. 스크립트는 NYT 앱의 에피소드 페이지에 있어요."
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'safe haven'이 나오는 부분을 잘 들어 보세요. 시간이 남으면 The Daily로 이어가요.",
+  "quiz": {
+   "q": "How much gold has been extracted from the earth? a) over 50,000 tonnes, b) over 100,000 tonnes, c) over 200,000 tonnes",
+   "answer": "c) over 200,000 tonnes. 보너스: 금이 'safe haven'인 이유는 특정 정부·경제·시장에 묶여 있지 않은 중립 자산이라서예요. 금화는 기원전 6세기쯤 처음 만들어졌어요 (소나 목재보다 들고 다니며 거래하기 쉬웠으니까요)."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Oct 15",
+  "sentences": [
+   {
+    "text": "But how much gold has been extracted from the earth?",
+    "ko": "그런데 지금까지 땅에서 캐낸 금은 얼마나 될까요?",
+    "t0": 71.25,
+    "t1": 76,
+    "track": 0
+   },
+   {
+    "text": "Well, we'll give you the answer at the end of the programme.",
+    "ko": "음, 정답은 프로그램 마지막에 알려 드릴게요.",
+    "t0": 95.14,
+    "t1": 98.45,
+    "track": 0
+   },
+   {
+    "text": "And Georgie, because we get gold from mines, there's more or less a fixed amount.",
+    "ko": "그리고 조지, 금은 광산에서 캐내기 때문에 양이 거의 정해져 있어요.",
+    "t0": 190.11,
+    "t1": 195.73,
+    "track": 0
+   },
+   {
+    "text": "It's likely that the price will go up again.",
+    "ko": "가격이 다시 오를 가능성이 커요.",
+    "t0": 285.83,
+    "t1": 288.81,
+    "track": 0
+   },
+   {
+    "text": "And the expression a hankering for means a strong desire for something.",
+    "ko": "그리고 'a hankering for'라는 표현은 무언가를 강하게 원한다는 뜻이에요.",
+    "t0": 330.83,
+    "t1": 336.03,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Google's $500bn bloodbath reflects the danger it faces from AI",
+  "url": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
+  "source": "The Economist",
+  "section": "Business · Oct 29th 2026",
+  "minutes": 6,
+  "summaryKo": "검색 광고 성장이 5분기 만에 가장 느려지자 알파벳 시가총액이 하루에 5천억 달러(12%) 증발했어요. AI 챗봇이 구글 검색 사업을 위협하고 있고, AI를 더 빨리 활용한 메타가 곧 세계 최대 광고 매출 기업이 될 수 있다는 글이에요.",
+  "excerpt": [
+   "Soon after Chatgpt first captured the world's attention four years ago, some investors began to fret that clever chatbots would upend one of the most lucrative businesses to have emerged in decades: Google search. For a time these concerns seemed unfounded, with the firm's ad sales showing little sign of slowing. On October 29th, however, the fears returned with a vengeance, as Alphabet, Google's parent company, shed $500bn of market value, 12% of its total, in a single trading session following disappointing quarterly earnings the previous day.",
+   "In the three months from July to September Google's ad revenue from search and other businesses grew by 11%, year on year, the slowest pace in five quarters. A strong performance at the company's cloud arm did little to assuage investors. Before long Meta, which has been quicker to harness artificial intelligence to boost its advertising business, may overtake the search giant as the world's biggest generator of ad revenue."
+  ],
+  "tip": "전체 기사는 Economist 구독 계정으로 읽어 보세요. 돈·시장 표현에 주목: shed $500bn of market value (시가총액이 증발하다), with a vengeance (더 거세게), assuage investors (투자자를 안심시키다), overtake (추월하다)."
+ },
+ "vocab": [
+  {
+   "word": "fret",
+   "meaning": "조바심 내다, 걱정하다",
+   "example": "Some investors began to fret that chatbots would hurt Google search."
+  },
+  {
+   "word": "upend",
+   "meaning": "뒤엎다, 완전히 바꿔 놓다",
+   "example": "AI could upend the way we look for information."
+  },
+  {
+   "word": "with a vengeance",
+   "meaning": "더 거세게, 맹렬하게 (돌아오다)",
+   "example": "The fears returned with a vengeance."
+  },
+  {
+   "word": "shed (value)",
+   "meaning": "(가치·시가총액을) 잃다, 날리다",
+   "example": "Alphabet shed $500bn of market value in a single day."
+  },
+  {
+   "word": "assuage",
+   "meaning": "(걱정·불안을) 달래다, 누그러뜨리다",
+   "example": "Strong cloud sales did little to assuage investors."
+  },
+  {
+   "word": "safe haven",
+   "meaning": "안전 자산, 피난처 (오늘 BBC 금 에피소드)",
+   "example": "In a crisis, many investors see gold as a safe haven."
+  }
+ ],
+ "writing": {
+  "prompt": "Do you still use Google search, or do you ask an AI chatbot? Write 4–5 sentences in English.",
+  "question": "When do you use Google, and when do you use an AI chatbot? Which one do you trust more?",
+  "hint": "이런 표현을 써 보세요: These days I mostly ... / When I need ..., I ... / I still prefer ... because ... / The problem with ... is that ... / I'd rather ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, tell a friend: would you buy gold or tech stocks right now? Why?",
+  "phrases": [
+   "I'd rather ... than ...",
+   "It's a safe bet that ...",
+   "On the other hand, ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Do you own anything made of gold? Tell me about it."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "사흘째예요! 어제 이어서 10페이지. 습관이 잡히는 중이니 피곤하면 5페이지만 읽어도 충분해요."
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "nyt": "https://www.nytimes.com/news-event/2026-midterm-elections",
+ "source": "NYT 해설집 · 2026 Midterms",
+ "glossary": [
+  {
+   "word": "midterm election",
+   "meaning": "중간선거 · 대통령 임기 중간(4년 중 2년 차)에 치르는 의회·주지사 선거",
+   "example": "The midterm elections fall nearly halfway through a president's term."
+  },
+  {
+   "word": "referendum (on the president)",
+   "meaning": "(대통령에 대한) 신임 투표 성격",
+   "example": "Midterms are often a referendum on the sitting president."
+  },
+  {
+   "word": "incumbent",
+   "meaning": "현직자 (재선에 도전하는 현직 의원·주지사)",
+   "example": "Senator Susan Collins is the incumbent in Maine."
+  },
+  {
+   "word": "open seat",
+   "meaning": "현직자가 출마하지 않아 비어 있는 자리",
+   "example": "Michigan's Senate race is an open seat."
+  },
+  {
+   "word": "swing state",
+   "meaning": "경합주 (선거마다 승리 정당이 바뀌는 주)",
+   "example": "Both parties are spending heavily in swing states."
+  },
+  {
+   "word": "battleground",
+   "meaning": "격전지",
+   "example": "Ballotpedia identified 46 battleground House districts."
+  },
+  {
+   "word": "toss-up",
+   "meaning": "반반 승부, 예측 불가",
+   "example": "Cook rates the Maine Senate race a toss-up."
+  },
+  {
+   "word": "lean / likely / solid",
+   "meaning": "약간 우세 / 우세 / 확실 (선거 예측 등급)",
+   "example": "The Michigan seat moved from toss-up to lean Democrat."
+  },
+  {
+   "word": "flip (a seat)",
+   "meaning": "(의석을) 상대 당 쪽으로 뒤집다",
+   "example": "Democrats need to flip a net four Republican-held seats."
+  },
+  {
+   "word": "net gain",
+   "meaning": "순증 (얻은 의석 − 잃은 의석)",
+   "example": "Democrats need a net gain of three House seats."
+  },
+  {
+   "word": "majority / minority",
+   "meaning": "다수당 / 소수당",
+   "example": "Republicans hold slim majorities in both chambers."
+  },
+  {
+   "word": "Speaker of the House",
+   "meaning": "하원의장 (하원 다수당 대표)",
+   "example": "Speaker Mike Johnson holds a historically narrow majority."
+  },
+  {
+   "word": "tiebreaking vote",
+   "meaning": "(상원 50 대 50일 때) 부통령의 결정 투표",
+   "example": "The vice president can cast a tiebreaking vote in the Senate."
+  },
+  {
+   "word": "filibuster",
+   "meaning": "필리버스터 · 상원의 의사 진행 방해 (끝내려면 보통 60표 필요)",
+   "example": "Most bills need 60 votes to overcome a filibuster."
+  },
+  {
+   "word": "redistricting",
+   "meaning": "선거구 재획정",
+   "example": "Redistricting changed the map in Texas and California."
+  },
+  {
+   "word": "gerrymandering",
+   "meaning": "게리맨더링 · 특정 정당에 유리하게 선거구를 긋는 것",
+   "example": "Critics call the new map partisan gerrymandering."
+  },
+  {
+   "word": "turnout",
+   "meaning": "투표율, 투표자 수",
+   "example": "Early-voting turnout is higher than in 2022 in some states."
+  },
+  {
+   "word": "early voting",
+   "meaning": "사전 투표",
+   "example": "Early voting is underway in many states."
+  },
+  {
+   "word": "mail-in ballot",
+   "meaning": "우편 투표 용지",
+   "example": "Mail-in ballots can take longer to count."
+  },
+  {
+   "word": "exit poll",
+   "meaning": "출구 조사",
+   "example": "Exit polls ask voters why they chose a candidate."
+  },
+  {
+   "word": "call a race",
+   "meaning": "(언론사가) 당선자를 확정 발표하다",
+   "example": "The A.P. called the race shortly after midnight."
+  },
+  {
+   "word": "too close to call",
+   "meaning": "너무 박빙이라 아직 당선자를 정할 수 없음",
+   "example": "The Senate race in Alaska is still too close to call."
+  },
+  {
+   "word": "concede",
+   "meaning": "패배를 인정하다",
+   "example": "The candidate conceded in a speech to supporters."
+  },
+  {
+   "word": "runoff",
+   "meaning": "결선 투표 (과반 득표자가 없을 때)",
+   "example": "Georgia requires a majority, so a runoff is possible."
+  },
+  {
+   "word": "ranked-choice voting",
+   "meaning": "선호 투표제 (후보에게 순위를 매겨 투표)",
+   "example": "Alaska uses ranked-choice voting, so the count takes longer."
+  }
+ ],
+ "patterns": [
+  {
+   "pattern": "[X] Wins Re-election",
+   "ko": "현직자가 재선에 성공했다. 헤드라인은 현재형으로 과거 사건을 말해요 (wins = won).",
+   "example": "[Senator] Wins Re-election in [State]"
+  },
+  {
+   "pattern": "[Party] Flips [Seat]",
+   "ko": "상대 당 의석을 빼앗았다. 오늘 밤 가장 많이 볼 동사예요.",
+   "example": "Democrats Flip a House Seat in [State]"
+  },
+  {
+   "pattern": "Holds / Keeps / Retains",
+   "ko": "자기 당 의석이나 다수당 지위를 지켰다.",
+   "example": "[Party] Holds On to [State] Senate Seat"
+  },
+  {
+   "pattern": "Takes / Wins Control of the House",
+   "ko": "다수당이 되었다 (의회 장악).",
+   "example": "[Party] Win Control of the House"
+  },
+  {
+   "pattern": "Ousts / Unseats / Defeats",
+   "ko": "현직자를 꺾었다. ousts·unseats는 '현직을 끌어내렸다'는 뉘앙스예요.",
+   "example": "[Challenger] Ousts [Incumbent]"
+  },
+  {
+   "pattern": "Edges Out",
+   "ko": "근소한 차이로 이겼다.",
+   "example": "[Candidate] Edges Out [Rival] in [State]"
+  },
+  {
+   "pattern": "Race Is Too Close to Call",
+   "ko": "박빙이라 아직 승자를 확정할 수 없다.",
+   "example": "[State] Senate Race Is Too Close to Call"
+  },
+  {
+   "pattern": "[X] Concedes",
+   "ko": "패배를 인정했다.",
+   "example": "[Candidate] Concedes in [State] Governor's Race"
+  },
+  {
+   "pattern": "G.O.P.",
+   "ko": "Grand Old Party = 공화당. NYT는 약어에 마침표를 찍어요 (G.O.P., A.P.).",
+   "example": "G.O.P. Braces for Losses in the House"
+  },
+  {
+   "pattern": "to + 동사",
+   "ko": "헤드라인의 to는 미래 (will). 'Senate to Vote' = 상원이 표결할 예정.",
+   "example": "[Party] to Lead the House in 2027"
+  },
+  {
+   "pattern": "Live Updates: / Takeaways",
+   "ko": "실시간 업데이트 / 핵심 정리 기사. 아침엔 Takeaways부터 읽으면 효율적이에요.",
+   "example": "5 Takeaways From Election Night"
+  },
+  {
+   "pattern": "Bellwether",
+   "ko": "풍향계 (전체 흐름을 미리 보여 주는 지역·선거구).",
+   "example": "A Bellwether District Points to [Trend]"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How many House seats are on the ballot this year?",
+   "options": [
+    "100",
+    "218",
+    "435"
+   ],
+   "answer": 2,
+   "why": "하원 435석 전체가 2년마다 선거를 치러요 (ABC, Ballotpedia)."
+  },
+  {
+   "q": "What net gain do Democrats need to win the Senate majority?",
+   "options": [
+    "2 seats",
+    "3 seats",
+    "4 seats"
+   ],
+   "answer": 2,
+   "why": "현재 공화 53 대 민주 47(무소속 2 포함)이라 순증 4석이 필요해요 (ABC, Ballotpedia)."
+  },
+  {
+   "q": "If the Senate ends up 50–50, who breaks the tie?",
+   "options": [
+    "The Speaker of the House",
+    "Vice President JD Vance",
+    "The Chief Justice"
+   ],
+   "answer": 1,
+   "why": "부통령이 상원 동수일 때 결정 투표권을 가져요. 그래서 공화당은 3석을 잃어도 다수당을 유지해요 (ABC)."
+  },
+  {
+   "q": "A headline says a race is 'too close to call'. What does it mean?",
+   "options": [
+    "The race was cancelled",
+    "No winner can be projected yet",
+    "The loser has conceded"
+   ],
+   "answer": 1,
+   "why": "표차가 작아서 아직 당선자를 확정 발표(call)할 수 없다는 뜻이에요."
+  },
+  {
+   "q": "Since 1946, in how many of the past 20 midterms did the president's party lose House seats?",
+   "options": [
+    "10",
+    "14",
+    "18"
+   ],
+   "answer": 2,
+   "why": "20번 중 18번이에요 (The Guardian). 그래서 중간선거를 대통령 신임 투표라고 불러요."
+  },
+  {
+   "q": "What did California's Proposition 50 do?",
+   "options": [
+    "Lowered the voting age",
+    "Replaced commission-drawn House maps with maps drawn by the Legislature",
+    "Ended early voting"
+   ],
+   "answer": 1,
+   "why": "독립위원회가 그린 하원 지도를 주 의회가 그린 지도로 바꿨어요. 민주당이 최대 5석을 더 노릴 수 있게 됐어요 (AP)."
+  }
+ ],
+ "title": "해설집: 2026 US Midterm Elections",
+ "caption": "기준: 11/3 (화) 오후 KST, 투표 시작 전 · 결과는 NYT 페이지에서 확인",
+ "asOf": "2026-11-03",
+ "intro": "미국 중간선거 날(현지 11/3)이에요. 이 해설집은 NYT 페이지 https://www.nytimes.com/news-event/2026-midterm-elections 를 읽기 위한 준비물이에요. 순서: 배경 → 용어 → 헤드라인 패턴 → 결과 페이지 읽는 법 → 말하기·퀴즈.",
+ "nytLabel": "NYT 2026 Midterm Elections 페이지 열기 (구독 로그인) ↗",
+ "background": {
+  "heading": "1. 배경 · What's at stake",
+  "text": "중간선거(midterms)는 대통령 4년 임기의 중간에 치르는 선거예요. 하원 전체, 상원 약 3분의 1, 많은 주의 주지사를 뽑아요. 결과에 따라 트럼프 2기 마지막 2년 동안 의회를 어느 당이 장악할지가 정해져요.",
+  "table": {
+   "columns": [
+    "선거",
+    "이번에 뽑는 자리",
+    "현재 구도",
+    "다수당이 되려면"
+   ],
+   "rows": [
+    [
+     "House 하원",
+     "435석 전체 (임기 2년)",
+     "공화 218 + 무소속 1 (공화 쪽) vs 민주 214, 공석 2",
+     "민주당 순증 3석 (218석)"
+    ],
+    [
+     "Senate 상원",
+     "35석 (정기 33 + 특별 2: 플로리다·오하이오, 임기 6년)",
+     "공화 53 vs 민주 45 + 민주 쪽 무소속 2",
+     "민주당 순증 4석. 공화당은 3석까지 잃어도 부통령 결정 투표로 유지"
+    ],
+    [
+     "Governors 주지사",
+     "36개 주 (+ 미국령 3곳)",
+     "공화 26 vs 민주 24",
+     "주 단위 선거라 다수당 개념 없음"
+    ]
+   ]
+  },
+  "note": "하원 숫자는 ABC News 기준이에요. Ballotpedia는 공석을 4석으로 세서 218-212로 적는 등 출처마다 조금 달라요. 하지만 민주당이 하원은 순증 3석, 상원은 순증 4석이 필요하다는 점은 같아요."
+ },
+ "senate": {
+  "heading": "상원 핵심 경합 · Senate races to watch",
+  "table": {
+   "columns": [
+    "주",
+    "후보·현직",
+    "Cook 최종 등급 (11/2)"
+   ],
+   "rows": [
+    [
+     "Alaska",
+     "Dan Sullivan (R, 현직)",
+     "Toss Up"
+    ],
+    [
+     "Iowa",
+     "Open seat (공화 보유)",
+     "Toss Up"
+    ],
+    [
+     "Kansas",
+     "Roger Marshall (R, 현직)",
+     "Toss Up"
+    ],
+    [
+     "Maine",
+     "Susan Collins (R, 현직)",
+     "Toss Up"
+    ],
+    [
+     "Ohio",
+     "Jon Husted (R, 현직 · 특별선거)",
+     "Toss Up"
+    ],
+    [
+     "Texas",
+     "Open seat (공화 보유)",
+     "Toss Up"
+    ],
+    [
+     "Michigan",
+     "Open seat (민주 보유): Abdul El-Sayed (D) vs Mike Rogers (R)",
+     "Lean D (11/2 Toss Up에서 이동)"
+    ]
+   ]
+  },
+  "note": "Toss Up 6곳이 모두 공화당 의석이라, Cook은 민주당이 상원을 뒤집을 시나리오가 여럿 있다고 봤어요. 미시간은 NYT/Siena 여론조사 등을 근거로 마지막 날 Lean D로 옮겨졌어요."
+ },
+ "governors": {
+  "heading": "주지사·선거구 · Governors & redistricting",
+  "items": [
+   {
+    "label": "주지사 Toss Up (Cook, NPR 정리)",
+    "value": "Georgia: Keisha Lance Bottoms (D) vs Rick Jackson (R), 공석 · Kansas: Cindy Holscher (D) vs Ty Masterson (R), 공석 · Nevada: Aaron Ford (D) vs Joe Lombardo (R, 현직)"
+   },
+   {
+    "label": "Texas 선거구 재획정",
+    "value": "주지사 Greg Abbott가 새 하원 지도에 서명. 공화당이 최대 5석을 더 얻을 수 있는 구조 (AP)"
+   },
+   {
+    "label": "California Prop 50",
+    "value": "2025년 11월 주민투표 통과. 독립위원회 지도를 주 의회 지도로 교체해 민주당이 최대 5석을 더 노릴 수 있게 함 (AP)"
+   },
+   {
+    "label": "역사적 패턴",
+    "value": "1946년 이후 중간선거 20번 중 18번, 대통령의 당이 하원 의석을 잃었어요 (The Guardian)"
+   }
+  ]
+ },
+ "glossaryHeading": "2. 핵심 용어 · Glossary",
+ "glossaryNote": "예문은 공부용으로 쓴 문장이에요. 사실 관계는 위 배경과 출처를 기준으로 해요.",
+ "patternsHeading": "3. NYT 헤드라인 패턴 · Headline phrases",
+ "patternsIntro": "헤드라인은 관사(a, the)를 빼고, 현재형으로 과거를 말하고, to로 미래를 말해요. 예시의 [ ]는 빈칸이에요. 실제 결과가 아니라 패턴 연습용이에요.",
+ "needle": {
+  "heading": "4. 결과 페이지·Needle 읽는 법 · Reading live results",
+  "steps": [
+   {
+    "title": "한국 시간으로 언제 보나",
+    "detail": "투표 마감은 내일 11/4 (수) 오전이에요. 아래 표를 보고 출근길엔 듣기, 오전·점심에 결과 페이지를 열어요."
+   },
+   {
+    "title": "맨 위 control 막대부터",
+    "detail": "하원은 218석, 상원은 51석 (또는 50석 + 부통령)이 다수당 기준이에요. 각 당이 확보한 의석과 남은 의석을 먼저 봐요."
+   },
+   {
+    "title": "개표율 확인: % of votes counted / expected vote",
+    "detail": "앞서는 후보가 있어도 개표가 덜 됐으면 뒤집힐 수 있어요. 우편 투표는 늦게 세는 주가 많아요."
+   },
+   {
+    "title": "체크 표시 = race call",
+    "detail": "언론사가 당선자를 확정 발표했다는 뜻이에요. 'projected winner'와 같은 의미이고, 어느 기관의 call인지는 페이지 하단 Source 표기로 확인해요."
+   },
+   {
+    "title": "Flip 표시와 D+ / R+",
+    "detail": "Flip은 지난번과 다른 당이 이긴 곳이에요. D+5는 민주당 5%p 우세, R+3은 공화당 3%p 우세예요."
+   },
+   {
+    "title": "The Needle은 확률이지 결과가 아니에요",
+    "detail": "선거 전 여론조사·인구 통계·과거 결과로 지역별 기준치(baseline)를 만들고, 들어오는 실제 개표와 비교해 남은 표를 추정해요. 바늘이 '70% Likely D'를 가리켜도 아직 확정이 아니에요."
+   },
+   {
+    "title": "알래스카는 늦어요",
+    "detail": "선호 투표제(ranked-choice)라 최종 집계가 다른 주보다 오래 걸려요."
+   }
+  ],
+  "pollClosing": {
+   "columns": [
+    "마감 (미 동부 EST, 11/3)",
+    "한국 시간 (11/4 수)",
+    "이때 마감되는 주요 주"
+   ],
+   "rows": [
+    [
+     "7:00 pm",
+     "09:00",
+     "Georgia, Virginia, South Carolina, Vermont, Indiana, Kentucky"
+    ],
+    [
+     "7:30 pm",
+     "09:30",
+     "North Carolina, Ohio, West Virginia"
+    ],
+    [
+     "8:00 pm",
+     "10:00",
+     "Pennsylvania, Florida, Maine, New Hampshire, Illinois 등"
+    ],
+    [
+     "9:00 pm",
+     "11:00",
+     "Texas, Michigan, Iowa, Kansas, New York, Wisconsin, Arizona 등"
+    ],
+    [
+     "10:00 pm",
+     "12:00",
+     "Nevada, Montana, Utah"
+    ],
+    [
+     "11:00 pm",
+     "13:00",
+     "California, Oregon, Washington, Idaho"
+    ],
+    [
+     "1:00 am (11/4)",
+     "15:00",
+     "Alaska"
+    ]
+   ]
+  },
+  "note": "PBS가 정리한 '주 전체 투표 마감' 시각이에요. 그 주의 첫 race call은 이 시각 이후에 나올 수 있어요."
+ },
+ "speaking": {
+  "heading": "5. 말하기·퀴즈 · Speak & check",
+  "prompts": [
+   {
+    "prompt": "Explain to a coworker in one minute what a midterm election is and why this one matters.",
+    "hint": "Use: majority, net gain, referendum on the president"
+   },
+   {
+    "prompt": "Which race would you watch tonight, and why?",
+    "hint": "Use: toss-up, incumbent, flip · e.g. 'I'd watch Maine because ...'"
+   },
+   {
+    "prompt": "Is redistricting fair? Compare it with how electoral districts are drawn in Korea.",
+    "hint": "Use: redistricting, gerrymandering, 'In my opinion, ...'"
+   }
+  ],
+  "recordLabel": "60초 말하기 녹음 · 퇴근길엔 타이머 없이 소리 내서 말하기만 해요",
+  "seconds": 60
+ },
+ "sourcesHeading": "출처 · Sources",
+ "sources": [
+  {
+   "title": "2026 Midterm Elections (NYT 원문 페이지)",
+   "site": "nytimes.com",
+   "url": "https://www.nytimes.com/news-event/2026-midterm-elections"
+  },
+  {
+   "title": "Control of Congress is up for grabs on Election Day. What's the math?",
+   "site": "ABC News",
+   "url": "https://abcnews.com/Politics/control-congress-grabs-election-day-math-democrats-republicans/story?id=137229697"
+  },
+  {
+   "title": "United States Congress elections, 2026",
+   "site": "Ballotpedia",
+   "url": "https://ballotpedia.org/United_States_Congress_elections,_2026"
+  },
+  {
+   "title": "2026 CPR Senate Race Ratings (Nov 2)",
+   "site": "Cook Political Report",
+   "url": "https://www.cookpolitical.com/ratings/senate-race-ratings"
+  },
+  {
+   "title": "As Michigan Moves to Lean Democrat, Here Are Our Final Senate Ratings",
+   "site": "Cook Political Report",
+   "date": "Nov 2, 2026",
+   "url": "https://www.cookpolitical.com/analysis/senate/senate-overview/michigan-moves-final-ratings"
+  },
+  {
+   "title": "Here's a look at the 36 races for governor this year",
+   "site": "NPR",
+   "url": "https://apps.npr.org/primary-election-results-2026/governors.html"
+  },
+  {
+   "title": "What are the races to watch in the US midterm elections and why do they matter?",
+   "site": "The Guardian",
+   "date": "Nov 2, 2026",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/what-are-midterm-elections"
+  },
+  {
+   "title": "California voters approve new US House map to help Democrats",
+   "site": "AP News",
+   "url": "https://apnews.com/article/california-redistricting-prop-50-gavin-newsom-839193bfc2a817086acca7365315f26f"
+  },
+  {
+   "title": "Republicans win congressional redistricting battle",
+   "site": "AP News",
+   "url": "https://apnews.com/article/redistricting-congress-trump-b5cab63100d50086231fe12c766f4d30"
+  },
+  {
+   "title": "What to watch in Tuesday's midterm election",
+   "site": "AP News",
+   "url": "https://apnews.com/article/election-takeaways-midterms-trump-democrats-takeover-republicans-1cb09c8674598632ec3e4307eda5fbb8"
+  },
+  {
+   "title": "Here's when polls are closing in your state this midterm election",
+   "site": "PBS News",
+   "date": "Nov 2, 2026",
+   "url": "https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election"
+  },
+  {
+   "title": "Introducing the Needle (how the live forecast works)",
+   "site": "nytimes.com",
+   "url": "https://www.nytimes.com/2020/02/11/upshot/needle-election-new-hampshire.html"
+  },
+  {
+   "title": "What to Know About Election Results and The New York Times Needle",
+   "site": "nytimes.com",
+   "url": "https://www.nytimes.com/article/election-2024-results-needle.html"
+  }
+ ]
+}

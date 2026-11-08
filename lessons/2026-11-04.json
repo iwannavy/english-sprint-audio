@@ -1,0 +1,599 @@
+{
+ "date": "2026-11-04",
+ "theme": "Food, rice & sleep · 먹는 것과 건강",
+ "listening": {
+  "tracks": [
+   {
+    "title": "What should you eat for a better night's sleep?",
+    "show": "BBC Learning English · 6 Minute English (Oct 22)",
+    "url": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0phyzz9.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261022.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261022-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/programmes/p0phz9z7",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261022",
+    "transcript": [
+     {
+      "t0": 5.04,
+      "t1": 6.04,
+      "speaker": "Phil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 6.04,
+      "t1": 7.09,
+      "speaker": "Georgie",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 13.99,
+      "t1": 17.41,
+      "speaker": "Georgie",
+      "text": "Now, Phil, do you ever struggle to get a good night's sleep?"
+     },
+     {
+      "t0": 17.45,
+      "t1": 18.87,
+      "speaker": "Phil",
+      "text": "You know, I do sometimes."
+     },
+     {
+      "t0": 19.11,
+      "t1": 28.43,
+      "speaker": "Phil",
+      "text": "If I've been thinking about something a lot, or even worse, if I've had a cup of coffee later than I should, sometimes I can lie there for hours."
+     },
+     {
+      "t0": 28.81,
+      "t1": 29.34,
+      "speaker": "Georgie",
+      "text": "Yes."
+     },
+     {
+      "t0": 29.34,
+      "t1": 41.89,
+      "speaker": "Georgie",
+      "text": "Well, many of us will be familiar with that feeling of lying in bed, feeling really tired, but just not being able to go to sleep, but what causes us to struggle to sleep and is there anything we can do about it?"
+     },
+     {
+      "t0": 42.03,
+      "t1": 47.91,
+      "speaker": "Georgie",
+      "text": "Well, researchers have for a while been interested in the link between what we eat and how we sleep."
+     },
+     {
+      "t0": 48.09,
+      "t1": 54.61,
+      "speaker": "Georgie",
+      "text": "Today on 6 Minute English, we'll be talking about this and asking, \"What should you eat for a better night's sleep?\""
+     },
+     {
+      "t0": 57.21,
+      "t1": 57.86,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 57.86,
+      "t1": 60.51,
+      "speaker": "Georgie",
+      "text": "Phil, let's start with a quiz question."
+     },
+     {
+      "t0": 60.67,
+      "t1": 71.11,
+      "speaker": "Georgie",
+      "text": "So, adults need between 7–9 hours sleep a night to stay healthy, according to experts, but what percentage of people in the UK say they get less than this?"
+     },
+     {
+      "t0": 71.23,
+      "t1": 77.09,
+      "speaker": "Georgie",
+      "text": "Is it: a) 15%, b) 25%, or c) 35%?"
+     },
+     {
+      "t0": 77.29,
+      "t1": 77.79,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 77.79,
+      "t1": 84.18,
+      "speaker": "Phil",
+      "text": "I think people find sleeping hard, so I think it's going to be c) 35%."
+     },
+     {
+      "t0": 84.18,
+      "t1": 84.62,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 84.62,
+      "t1": 87.31,
+      "speaker": "Georgie",
+      "text": "Well, we'll find out the answer later in the programme."
+     },
+     {
+      "t0": 87.31,
+      "t1": 90.01,
+      "speaker": "Phil",
+      "text": "Georgie, you've been looking at the research on this."
+     },
+     {
+      "t0": 90.63,
+      "t1": 94.79,
+      "speaker": "Phil",
+      "text": "Do scientists think that what we eat affects how we sleep?"
+     },
+     {
+      "t0": 94.85,
+      "t1": 95.93,
+      "speaker": "Georgie",
+      "text": "Yes, they do."
+     },
+     {
+      "t0": 95.93,
+      "t1": 98.17,
+      "speaker": "Georgie",
+      "text": "Scientists have done some long-term studies."
+     },
+     {
+      "t0": 98.21,
+      "t1": 106.91,
+      "speaker": "Georgie",
+      "text": "So, looking at large groups of people over a long period of time, and they found that a healthier diet is associated with better quality sleep."
+     },
+     {
+      "t0": 107.07,
+      "t1": 115.11,
+      "speaker": "Georgie",
+      "text": "They've also done some smaller studies looking in more detail at exactly what people are eating and then studying how they sleep in a laboratory."
+     },
+     {
+      "t0": 115.47,
+      "t1": 115.72,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 115.72,
+      "t1": 122.93,
+      "speaker": "Phil",
+      "text": "And in these studies, have they found that particular foods are better for our sleep than others?"
+     },
+     {
+      "t0": 122.95,
+      "t1": 127.53,
+      "speaker": "Georgie",
+      "text": "Well, it's less about particular foods and more about particular nutrients."
+     },
+     {
+      "t0": 127.79,
+      "t1": 132.35,
+      "speaker": "Georgie",
+      "text": "So, nutrients means important things your body needs to survive and be healthy."
+     },
+     {
+      "t0": 132.39,
+      "t1": 134.61,
+      "speaker": "Georgie",
+      "text": "For example, protein is a nutrient."
+     },
+     {
+      "t0": 134.87,
+      "t1": 143.69,
+      "speaker": "Georgie",
+      "text": "BBC World Service programme The Food Chain has been speaking to researcher Professor Marie-Pierre St-Onge about which nutrients are important for sleep."
+     },
+     {
+      "t0": 144.19,
+      "t1": 155.61,
+      "speaker": "Marie-Pierre St-Onge",
+      "text": "So, diets that look more like a Mediterranean pattern – higher in fruits and vegetables, whole grains, lower in animal-based foods, lower in sugar."
+     },
+     {
+      "t0": 156.13,
+      "t1": 164.44,
+      "speaker": "Marie-Pierre St-Onge",
+      "text": "But then from our own research, where we evaluate food intakes in the lab, we see different... similar patterns, really."
+     },
+     {
+      "t0": 164.44,
+      "t1": 179.67,
+      "speaker": "Marie-Pierre St-Onge",
+      "text": "But when we talk about nutrients, diets that are higher in fibre, which we find in fruits and vegetables and whole grains, and lower in saturated fats, which we find in more plant-based types of foods, are associated with more deep sleep at night."
+     },
+     {
+      "t0": 179.89,
+      "t1": 184.89,
+      "speaker": "Georgie",
+      "text": "Marie-Pierre says that Mediterranean-style diets are associated with good sleep."
+     },
+     {
+      "t0": 185.07,
+      "t1": 190.92,
+      "speaker": "Georgie",
+      "text": "A Mediterranean diet includes lots of vegetables and less animal-based foods such as meat and dairy."
+     },
+     {
+      "t0": 190.92,
+      "t1": 201.71,
+      "speaker": "Phil",
+      "text": "Yes, and Marie-Pierre's own research shows that some nutrients, such as fibre, are important for sleep and others, such as saturated fats, are less important."
+     },
+     {
+      "t0": 202.33,
+      "t1": 208.27,
+      "speaker": "Phil",
+      "text": "Saturated fat is a type of fat mainly found in meat and dairy that's thought to be bad for your health."
+     },
+     {
+      "t0": 208.37,
+      "t1": 208.91,
+      "speaker": "Georgie",
+      "text": "Right."
+     },
+     {
+      "t0": 208.91,
+      "t1": 217.34,
+      "speaker": "Georgie",
+      "text": "And according to Marie-Pierre, eating less saturated fat and more nutrients like fibre is associated with more deep sleep at night."
+     },
+     {
+      "t0": 217.34,
+      "t1": 222.39,
+      "speaker": "Georgie",
+      "text": "A deep sleep is when you are more fully asleep and your body is able to rest."
+     },
+     {
+      "t0": 223.23,
+      "t1": 229.72,
+      "speaker": "Phil",
+      "text": "So, Georgie, it sounds like thinking about our diets is important if we want to improve our sleep."
+     },
+     {
+      "t0": 229.72,
+      "t1": 235.68,
+      "speaker": "Phil",
+      "text": "And now I've heard that certain foods have a lot of nutrients that can be helpful for sleep."
+     },
+     {
+      "t0": 235.68,
+      "t1": 236.39,
+      "speaker": "Phil",
+      "text": "Is that true?"
+     },
+     {
+      "t0": 236.57,
+      "t1": 241.43,
+      "speaker": "Georgie",
+      "text": "Well, there is some limited research on specific foods and their impact on sleep."
+     },
+     {
+      "t0": 241.43,
+      "t1": 246.45,
+      "speaker": "Georgie",
+      "text": "So, for example, scientists have been studying kiwi fruits and also tart cherry juice."
+     },
+     {
+      "t0": 246.79,
+      "t1": 250.51,
+      "speaker": "Georgie",
+      "text": "And you may also see adverts for supplements that claim to improve sleep."
+     },
+     {
+      "t0": 250.73,
+      "t1": 256.87,
+      "speaker": "Georgie",
+      "text": "Supplements are tablets you take, which contain particular nutrients that you might not get in your everyday diet."
+     },
+     {
+      "t0": 257.01,
+      "t1": 264.87,
+      "speaker": "Georgie",
+      "text": "But experts say that focusing on our whole diet, rather than one particular fruit or supplement, is going to be the most effective."
+     },
+     {
+      "t0": 264.95,
+      "t1": 270.45,
+      "speaker": "Georgie",
+      "text": "Here's sleep doctor Allie Hare explaining more to BBC World Service programme The Food Chain."
+     },
+     {
+      "t0": 270.85,
+      "t1": 278.07,
+      "speaker": "Allie Hare",
+      "text": "I think people are looking for the one supplement often or the... you know, we're fed a lot of these things, aren't we, on social media?"
+     },
+     {
+      "t0": 278.07,
+      "t1": 287.24,
+      "speaker": "Allie Hare",
+      "text": "This magical powder or this magical tablet that you can take that will, you know, help you sleep better immediately from tonight."
+     },
+     {
+      "t0": 287.24,
+      "t1": 292.91,
+      "speaker": "Allie Hare",
+      "text": "And of course, you know, Marie-Pierre and I know that there is no such magic bullet, unfortunately."
+     },
+     {
+      "t0": 292.91,
+      "t1": 298.51,
+      "speaker": "Allie Hare",
+      "text": "And if there was, I'm sure, you know, we would be... we would be doing very well for ourselves."
+     },
+     {
+      "t0": 299.15,
+      "t1": 303.89,
+      "speaker": "Phil",
+      "text": "Allie says people are looking for a supplement that can help them sleep."
+     },
+     {
+      "t0": 304.19,
+      "t1": 304.61,
+      "speaker": "Georgie",
+      "text": "Yes."
+     },
+     {
+      "t0": 304.61,
+      "t1": 309.33,
+      "speaker": "Georgie",
+      "text": "She says we are fed information on social media about magical tablets."
+     },
+     {
+      "t0": 309.59,
+      "t1": 313.83,
+      "speaker": "Georgie",
+      "text": "If you are fed information, you are given lots of it in a continuous way."
+     },
+     {
+      "t0": 313.97,
+      "t1": 326.74,
+      "speaker": "Phil",
+      "text": "But Allie argues that experts know there's no magic bullet to help you sleep, and a magic bullet refers to a simple and effective solution to a problem that's usually one that doesn't exist."
+     },
+     {
+      "t0": 326.74,
+      "t1": 327.44,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 327.44,
+      "t1": 332.53,
+      "speaker": "Phil",
+      "text": "Well, now I think it's time to find out the answer to your quiz question, Georgie."
+     },
+     {
+      "t0": 332.53,
+      "t1": 332.99,
+      "speaker": "Georgie",
+      "text": "Yes."
+     },
+     {
+      "t0": 333.05,
+      "t1": 338.66,
+      "speaker": "Georgie",
+      "text": "I asked you what percentage of UK adults say they get less than seven hours sleep a night."
+     },
+     {
+      "t0": 338.66,
+      "t1": 342.58,
+      "speaker": "Phil",
+      "text": "And I said I thought it was c) 35%."
+     },
+     {
+      "t0": 342.58,
+      "t1": 344.29,
+      "speaker": "Georgie",
+      "text": "You are correct, Phil."
+     },
+     {
+      "t0": 344.31,
+      "t1": 350.99,
+      "speaker": "Georgie",
+      "text": "Yes, 35% of adults say they get six hours or less sleep a night, according to a study by YouGov."
+     },
+     {
+      "t0": 351.29,
+      "t1": 351.64,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 351.64,
+      "t1": 360.19,
+      "speaker": "Georgie",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with nutrients, which are important things your body needs to survive and be healthy."
+     },
+     {
+      "t0": 360.83,
+      "t1": 367.29,
+      "speaker": "Phil",
+      "text": "Saturated fats are fats mainly found in meat and dairy products that are thought to be bad for our health."
+     },
+     {
+      "t0": 367.57,
+      "t1": 371.43,
+      "speaker": "Georgie",
+      "text": "A deep sleep is when your body is fully asleep and able to rest."
+     },
+     {
+      "t0": 372.05,
+      "t1": 378.47,
+      "speaker": "Phil",
+      "text": "Supplements are tablets or other things which contain particular nutrients you might not get in your everyday diet."
+     },
+     {
+      "t0": 378.65,
+      "t1": 382.34,
+      "speaker": "Georgie",
+      "text": "To feed information means to give lots of it in a continuous way."
+     },
+     {
+      "t0": 382.34,
+      "t1": 388.71,
+      "speaker": "Phil",
+      "text": "And a magic bullet is a simple and effective solution, and it's often one that doesn't exist."
+     },
+     {
+      "t0": 388.99,
+      "t1": 394.69,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but don't forget you can test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 394.69,
+      "t1": 397.13,
+      "speaker": "Georgie",
+      "text": "Go to bbclearningenglish.com."
+     },
+     {
+      "t0": 397.13,
+      "t1": 399.51,
+      "speaker": "Phil",
+      "text": "Thanks for joining us and goodbye."
+     },
+     {
+      "t0": 399.71,
+      "t1": 400.31,
+      "speaker": "Georgie",
+      "text": "Goodbye!"
+     }
+    ],
+    "note": "오늘 기사(현미 vs 백미)와 주제가 이어져요. 1회차는 그냥 듣고, 2회차는 0.75x로 들어요."
+   },
+   {
+    "title": "A Guide to Election Night 2026",
+    "show": "NYT · The Daily (Nov 3)",
+    "url": "https://nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/7269d6cb-724a-4375-8898-e4be357e5108/audio/128/default.mp3",
+    "minutes": 35,
+    "episodeUrl": "https://www.nytimes.com/column/the-daily",
+    "note": "선택. 오늘 아침 미국 중간선거 개표 중이라 시의성이 좋아요. 출근길 + 퇴근길로 나눠 들어도 돼요."
+   }
+  ],
+  "task": "6 Minute English를 듣고 퀴즈에 답해 보세요. 'magic bullet'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "What percentage of UK adults say they get less than seven hours of sleep a night? a) 15%, b) 25%, c) 35%",
+   "answer": "c) 35%. YouGov 조사 결과예요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Oct 22",
+  "sentences": [
+   {
+    "text": "Now, Phil, do you ever struggle to get a good night's sleep?",
+    "ko": "그런데 필, 밤에 잠을 잘 못 자서 힘들 때가 있나요?",
+    "t0": 13.99,
+    "t1": 17.41,
+    "track": 0
+   },
+   {
+    "text": "Sometimes I can lie there for hours.",
+    "ko": "가끔은 몇 시간 동안 누워만 있어요.",
+    "t0": 26.33,
+    "t1": 28.43,
+    "track": 0
+   },
+   {
+    "text": "They found that a healthier diet is associated with better quality sleep.",
+    "ko": "더 건강한 식단이 더 질 좋은 잠과 관련이 있다는 걸 발견했어요.",
+    "t0": 102.4,
+    "t1": 106.91,
+    "track": 0
+   },
+   {
+    "text": "Well, it's less about particular foods and more about particular nutrients.",
+    "ko": "음, 특정 음식보다는 특정 영양소가 더 중요해요.",
+    "t0": 122.95,
+    "t1": 127.53,
+    "track": 0
+   },
+   {
+    "text": "And of course, you know, Marie-Pierre and I know that there is no such magic bullet, unfortunately.",
+    "ko": "물론 마리피에르와 저는 안타깝지만 그런 만능 해결책은 없다는 걸 알아요.",
+    "t0": 287.24,
+    "t1": 292.91,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Is brown rice really healthier than white rice?",
+  "url": "https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+  "source": "The Economist",
+  "section": "Science & technology · Well Informed · Oct 30th 2026",
+  "minutes": 3,
+  "summaryKo": "현미가 몸에 좋다는 연구는 대부분 관찰 연구라 생활습관 차이가 섞여 있어요. 실제 무작위 시험에서는 혈당 개선 효과가 뚜렷하지 않았고, 색깔보다 쌀 품종(아밀로스 함량)과 가공법(파보일링, 냉장 보관)이 더 중요하다는 글이에요.",
+  "excerpt": [
+   "Rice supplies nearly a fifth of the world's calories. Which sort, though, is healthiest? Brown rice becomes white when milling removes its fibrous outer layer (known as the bran), and nutrient-rich seed embryo (the germ), so nutritional lore naturally favours the former. Indeed, some striking findings seem to support that preference. Look closer, though, and the colour of rice may not be what matters most.",
+   "Correlation, though, is not causation. People who prefer brown rice tend to smoke less, exercise more and eat healthier food overall. Although the authors of the papers from 2022 and 2010 attempted to account for such confounding lifestyle differences, they acknowledged that their findings could still be skewed. So what happens when researchers actually instruct people to eat brown rather than white rice?"
+  ],
+  "tip": "부제 'The scientific evidence goes against the grain'은 말장난이에요. go against the grain = 통념에 어긋나다, grain = 곡물. 임상검사실에서 일하시니 'correlation is not causation'은 업무 대화에서도 바로 쓸 수 있어요."
+ },
+ "vocab": [
+  {
+   "word": "lore",
+   "meaning": "(전해 내려오는) 통념, 속설",
+   "example": "Nutritional lore naturally favours brown rice."
+  },
+  {
+   "word": "striking",
+   "meaning": "눈에 띄는, 놀라운",
+   "example": "Some striking findings seem to support that preference."
+  },
+  {
+   "word": "correlation is not causation",
+   "meaning": "상관관계가 인과관계는 아니다",
+   "example": "Correlation, though, is not causation."
+  },
+  {
+   "word": "confounding",
+   "meaning": "교란하는 (결과를 왜곡하는 다른 요인)",
+   "example": "They tried to account for confounding lifestyle differences."
+  },
+  {
+   "word": "skewed",
+   "meaning": "한쪽으로 치우친, 왜곡된",
+   "example": "Their findings could still be skewed."
+  },
+  {
+   "word": "determinant",
+   "meaning": "결정 요인",
+   "example": "Amylose content is the most consistently important determinant of how sharply rice raises blood sugar."
+  },
+  {
+   "word": "go against the grain",
+   "meaning": "통념(본성)에 어긋나다",
+   "example": "The scientific evidence goes against the grain."
+  }
+ ],
+ "writing": {
+  "prompt": "What is the article's main point? Write 1–3 sentences in English.",
+  "question": "Why can't observational studies prove that brown rice prevents diabetes?",
+  "hint": "현미를 먹는 사람들은 담배를 덜 피우고 운동을 더 해요. 'confounding'과 'correlation is not causation'을 써 보세요."
+ },
+ "speaking": {
+  "prompt": "In one minute, tell a friend whether they should switch to brown rice, and why (or why not).",
+  "phrases": [
+   "It turns out that ...",
+   "What matters more is ...",
+   "A simple trick is to ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: What do you usually eat for dinner? Does it affect your sleep?"
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "어제 이어서 10페이지. 피곤하면 5페이지만 읽어도 충분해요."
+ }
+}
