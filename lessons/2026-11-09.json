@@ -1,0 +1,663 @@
+{
+ "date": "2026-11-09",
+ "theme": "Grip strength, sobriety & health habits · 악력과 건강 습관",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Are people drinking less alcohol?",
+    "show": "BBC Learning English · 6 Minute English (Oct 8)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/261008_6_minute_english_are_people_drinking_less_alcohol_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261008.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261008-075.mp3"
+    ],
+    "minutes": 7,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261008",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261008",
+    "note": "오늘 기사(악력은 건강 지표일까?)와 같은 '건강 습관' 주제예요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 18.97,
+      "t1": 19.77,
+      "speaker": "Georgie",
+      "text": "Hi Neil."
+     },
+     {
+      "t0": 19.81,
+      "t1": 20.67,
+      "speaker": "Neil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 20.71,
+      "t1": 23.43,
+      "speaker": "Neil",
+      "text": "Do you want to hear something quite unusual for me?"
+     },
+     {
+      "t0": 23.47,
+      "t1": 24.31,
+      "speaker": "Georgie",
+      "text": "Err, yes!"
+     },
+     {
+      "t0": 24.67,
+      "t1": 28.0,
+      "speaker": "Neil",
+      "text": "I haven't had an alcoholic drink this year."
+     },
+     {
+      "t0": 28.0,
+      "t1": 28.9,
+      "speaker": "Georgie",
+      "text": "Wow!"
+     },
+     {
+      "t0": 28.9,
+      "t1": 30.49,
+      "speaker": "Georgie",
+      "text": "That is really impressive."
+     },
+     {
+      "t0": 30.49,
+      "t1": 31.36,
+      "speaker": "Georgie",
+      "text": "How do you feel?"
+     },
+     {
+      "t0": 31.36,
+      "t1": 32.49,
+      "speaker": "Georgie",
+      "text": "Like a new person?"
+     },
+     {
+      "t0": 32.87,
+      "t1": 35.21,
+      "speaker": "Neil",
+      "text": "I do feel very good, I have to say."
+     },
+     {
+      "t0": 35.43,
+      "t1": 40.41,
+      "speaker": "Georgie",
+      "text": "I can't say the same – I did have a few alcoholic drinks at the weekend with my friends."
+     },
+     {
+      "t0": 40.89,
+      "t1": 44.55,
+      "speaker": "Georgie",
+      "text": "But in many parts of the world, people don't drink alcohol at all."
+     },
+     {
+      "t0": 44.79,
+      "t1": 48.87,
+      "speaker": "Georgie",
+      "text": "In the UK it's very common – that is until recently."
+     },
+     {
+      "t0": 48.99,
+      "t1": 60.95,
+      "speaker": "Georgie",
+      "text": "Today on 6 Minute English, we're going to find out why many people are choosing to give up or cut down on alcohol, and we'll be asking, \"Is this the end of British drinking culture?\""
+     },
+     {
+      "t0": 62.59,
+      "t1": 62.96,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 62.96,
+      "t1": 65.47,
+      "speaker": "Georgie",
+      "text": "Neil, let's start with a quiz question."
+     },
+     {
+      "t0": 65.59,
+      "t1": 76.07,
+      "speaker": "Georgie",
+      "text": "Many people in the UK and other countries choose to give up alcohol in the new year for the whole of the month of January, but what is the challenge called?"
+     },
+     {
+      "t0": 76.21,
+      "t1": 83.37,
+      "speaker": "Georgie",
+      "text": "Is it: a) No-drink New Year b) Alcohol-free January, or c) Dry January?"
+     },
+     {
+      "t0": 83.67,
+      "t1": 87.55,
+      "speaker": "Neil",
+      "text": "Well, I know the answer to this, but I'm not going to give it away."
+     },
+     {
+      "t0": 87.65,
+      "t1": 88.02,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 88.02,
+      "t1": 91.45,
+      "speaker": "Georgie",
+      "text": "Well, then our listeners can find out the answer at the end of the programme."
+     },
+     {
+      "t0": 91.55,
+      "t1": 92.43,
+      "speaker": "Neil",
+      "text": "Yes, they can."
+     },
+     {
+      "t0": 92.51,
+      "t1": 100.07,
+      "speaker": "Neil",
+      "text": "So, Georgie, I hear all the time that younger people don't drink as much alcohol today as they used to in the past."
+     },
+     {
+      "t0": 100.31,
+      "t1": 101.35,
+      "speaker": "Neil",
+      "text": "Is that true?"
+     },
+     {
+      "t0": 101.67,
+      "t1": 110.41,
+      "speaker": "Georgie",
+      "text": "Well, in the UK, surveys suggest that 16 to 24-year-olds are more likely to be non-drinkers than the older generations."
+     },
+     {
+      "t0": 110.49,
+      "t1": 111.01,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 111.17,
+      "t1": 114.73,
+      "speaker": "Neil",
+      "text": "So, why are more young people choosing to be sober?"
+     },
+     {
+      "t0": 114.81,
+      "t1": 116.95,
+      "speaker": "Neil",
+      "text": "That means not to drink alcohol."
+     },
+     {
+      "t0": 117.33,
+      "t1": 122.03,
+      "speaker": "Georgie",
+      "text": "Well, the BBC World Service podcast What in the World have been investigating this."
+     },
+     {
+      "t0": 122.27,
+      "t1": 129.77,
+      "speaker": "Georgie",
+      "text": "Presenter Hannah Gelbart met three young people who choose to be sober for some alcohol-free drinks to find out more."
+     },
+     {
+      "t0": 129.83,
+      "t1": 131.27,
+      "speaker": "Georgie",
+      "text": "Here's Daniel's story:"
+     },
+     {
+      "t0": 131.69,
+      "t1": 132.06,
+      "speaker": "Daniel",
+      "text": "Yeah."
+     },
+     {
+      "t0": 132.06,
+      "t1": 141.71,
+      "speaker": "Daniel",
+      "text": "So, today I don't drink at all, but when I was in my early 20s, I think I felt maybe a bit of, like, societal pressure – you know, work drinks or being at uni, where it was the norm to just join in."
+     },
+     {
+      "t0": 141.85,
+      "t1": 145.01,
+      "speaker": "Daniel",
+      "text": "I think you'd probably get a few weird glances if you're like, \"Yeah, I'm not going to join in at all.\""
+     },
+     {
+      "t0": 145.01,
+      "t1": 151.18,
+      "speaker": "Daniel",
+      "text": "So, I did that and I think Covid lockdown just gave me a bit of confidence to say, \"OK, let me step away from this."
+     },
+     {
+      "t0": 151.18,
+      "t1": 153.69,
+      "speaker": "Daniel",
+      "text": "It's not necessarily something I want to do moving forward.\""
+     },
+     {
+      "t0": 153.81,
+      "t1": 155.83,
+      "speaker": "Hannah Gelbart",
+      "text": "So, how many years have you been sober for?"
+     },
+     {
+      "t0": 155.89,
+      "t1": 158.1,
+      "speaker": "Daniel",
+      "text": "I would say it's been six years now."
+     },
+     {
+      "t0": 158.1,
+      "t1": 158.83,
+      "speaker": "Hannah Gelbart",
+      "text": "Six years?"
+     },
+     {
+      "t0": 159.39,
+      "t1": 164.61,
+      "speaker": "Georgie",
+      "text": "So, Daniel says that when he was younger, he felt societal pressure to drink alcohol."
+     },
+     {
+      "t0": 164.97,
+      "t1": 170.99,
+      "speaker": "Georgie",
+      "text": "Societal pressure is feeling like you need to do something because lots of people around you are doing it."
+     },
+     {
+      "t0": 170.99,
+      "t1": 171.57,
+      "speaker": "Neil",
+      "text": "Right."
+     },
+     {
+      "t0": 171.65,
+      "t1": 175.91,
+      "speaker": "Neil",
+      "text": "So, Daniel says drinking was the norm at university and after work."
+     },
+     {
+      "t0": 176.07,
+      "t1": 179.79,
+      "speaker": "Neil",
+      "text": "The norm is a way of saying that something is normal or common."
+     },
+     {
+      "t0": 180.05,
+      "t1": 189.89,
+      "speaker": "Georgie",
+      "text": "But during the Covid-19 pandemic, when people in the UK were unable to socialise and visit pubs and bars, Daniel's attitude to alcohol changed."
+     },
+     {
+      "t0": 190.09,
+      "t1": 195.01,
+      "speaker": "Georgie",
+      "text": "After that, he decided to be sober and he hasn't had a drink for about six years."
+     },
+     {
+      "t0": 195.61,
+      "t1": 204.11,
+      "speaker": "Neil",
+      "text": "So, Georgie, it seems like many young people don't drink at all and lots of them share their experience of being sober on social media."
+     },
+     {
+      "t0": 204.37,
+      "t1": 207.65,
+      "speaker": "Neil",
+      "text": "But recently there's been a bit of a change, hasn't there?"
+     },
+     {
+      "t0": 207.71,
+      "t1": 208.31,
+      "speaker": "Georgie",
+      "text": "Yes."
+     },
+     {
+      "t0": 208.33,
+      "t1": 220.07,
+      "speaker": "Georgie",
+      "text": "Whilst many people use social media to share their experience of drinking less alcohol or no alcohol at all, some people have been saying that they want to go out more and drink and have fun with friends."
+     },
+     {
+      "t0": 220.31,
+      "t1": 226.83,
+      "speaker": "Georgie",
+      "text": "They argue we're too worried about fitness and wellness, and that drinking some alcohol to have a good time is fine."
+     },
+     {
+      "t0": 227.27,
+      "t1": 232.04,
+      "speaker": "Georgie",
+      "text": "Here's Millie talking more about this to BBC World Service podcast What in the World:"
+     },
+     {
+      "t0": 232.04,
+      "t1": 234.69,
+      "speaker": "Millie",
+      "text": "I think we had this, like, rise of self-optimisation content."
+     },
+     {
+      "t0": 234.69,
+      "t1": 240.47,
+      "speaker": "Millie",
+      "text": "I think unfortunately sobriety, kind of, got swept in with that and it got touted as this way to, you know, get up at 5am, do a HYROX."
+     },
+     {
+      "t0": 240.47,
+      "t1": 243.98,
+      "speaker": "Millie",
+      "text": "And, you know, for many of us, that's probably not our reality with not drinking."
+     },
+     {
+      "t0": 243.98,
+      "t1": 247.19,
+      "speaker": "Millie",
+      "text": "It's that we do it to feel a bit more sane or, you know, things like that."
+     },
+     {
+      "t0": 247.19,
+      "t1": 252.2,
+      "speaker": "Millie",
+      "text": "And so, I think now we are entering this, like, almost pushback era of that content and you're seeing celebrities..."
+     },
+     {
+      "t0": 252.2,
+      "t1": 258.66,
+      "speaker": "Millie",
+      "text": "Like, it's not just alcohol – you're seeing more celebrities smoking and, like, posting that on their Instagram and not worrying if it's brand-friendly."
+     },
+     {
+      "t0": 258.66,
+      "t1": 259.41,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 261.17,
+      "t1": 271.81,
+      "speaker": "Neil",
+      "text": "So, Millie thinks that being sober is associated with certain kinds of self-optimisation content, where people talk about fitness, diet and having big goals for themselves."
+     },
+     {
+      "t0": 271.99,
+      "t1": 278.09,
+      "speaker": "Georgie",
+      "text": "Yes, and Millie says being sober gets touted as a way to get up at 5am to exercise."
+     },
+     {
+      "t0": 278.29,
+      "t1": 282.85,
+      "speaker": "Georgie",
+      "text": "In other words, people talk about it a lot and try to encourage people to do it."
+     },
+     {
+      "t0": 282.85,
+      "t1": 287.65,
+      "speaker": "Neil",
+      "text": "But Millie says that being sober isn't always about being super fit and healthy."
+     },
+     {
+      "t0": 287.65,
+      "t1": 289.99,
+      "speaker": "Neil",
+      "text": "For her, it's about being sane."
+     },
+     {
+      "t0": 290.29,
+      "t1": 295.35,
+      "speaker": "Georgie",
+      "text": "But still, Millie thinks there's a pushback against self-optimisation content."
+     },
+     {
+      "t0": 295.65,
+      "t1": 301.25,
+      "speaker": "Georgie",
+      "text": "Pushback means a criticism of the content, and people are pushing back by doing the opposite."
+     },
+     {
+      "t0": 301.31,
+      "t1": 305.65,
+      "speaker": "Georgie",
+      "text": "For example, lots of celebrities post about themselves drinking and smoking."
+     },
+     {
+      "t0": 306.03,
+      "t1": 313.84,
+      "speaker": "Neil",
+      "text": "Well, Georgie, I've decided to try to give up alcohol for a whole year, but I don't think everybody should do that if they don't want to."
+     },
+     {
+      "t0": 313.84,
+      "t1": 315.85,
+      "speaker": "Neil",
+      "text": "It's really up to the individual."
+     },
+     {
+      "t0": 316.01,
+      "t1": 319.09,
+      "speaker": "Georgie",
+      "text": "Yeah, I still enjoy having a few drinks with my friends."
+     },
+     {
+      "t0": 319.09,
+      "t1": 321.17,
+      "speaker": "Georgie",
+      "text": "I think it's just all about balance, really."
+     },
+     {
+      "t0": 321.35,
+      "t1": 321.68,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 321.68,
+      "t1": 325.31,
+      "speaker": "Georgie",
+      "text": "Neil, it's time to reveal the answer to this week's question."
+     },
+     {
+      "t0": 325.53,
+      "t1": 330.81,
+      "speaker": "Georgie",
+      "text": "I asked, \"What was the name given for when people give up alcohol in January?\""
+     },
+     {
+      "t0": 331.33,
+      "t1": 331.79,
+      "speaker": "Neil",
+      "text": "Yes."
+     },
+     {
+      "t0": 331.83,
+      "t1": 334.26,
+      "speaker": "Neil",
+      "text": "And the answer is Dry January."
+     },
+     {
+      "t0": 334.26,
+      "t1": 335.46,
+      "speaker": "Georgie",
+      "text": "That is correct."
+     },
+     {
+      "t0": 335.46,
+      "t1": 336.19,
+      "speaker": "Georgie",
+      "text": "Well done!"
+     },
+     {
+      "t0": 336.19,
+      "t1": 345.53,
+      "speaker": "Georgie",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with sober, which describes someone who doesn't drink alcohol or take recreational drugs."
+     },
+     {
+      "t0": 346.23,
+      "t1": 352.05,
+      "speaker": "Neil",
+      "text": "Societal pressure is the feeling that you should do something because lots of other people expect you to."
+     },
+     {
+      "t0": 352.23,
+      "t1": 356.75,
+      "speaker": "Georgie",
+      "text": "Saying something is the norm is a way to say it's usual or common."
+     },
+     {
+      "t0": 357.39,
+      "t1": 364.61,
+      "speaker": "Neil",
+      "text": "Self-optimisation content means videos and posts about being fit, healthy and achieving big goals."
+     },
+     {
+      "t0": 364.77,
+      "t1": 371.21,
+      "speaker": "Georgie",
+      "text": "If somebody touts an idea or lifestyle, they talk about it a lot and try to convince people to do it."
+     },
+     {
+      "t0": 371.25,
+      "t1": 376.73,
+      "speaker": "Neil",
+      "text": "And pushback is strong criticism of a trend, and people doing the opposite."
+     },
+     {
+      "t0": 377.31,
+      "t1": 385.1,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but don't forget to test what you've learned with the worksheet on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 385.1,
+      "t1": 386.93,
+      "speaker": "Neil",
+      "text": "Thank you for joining us and goodbye."
+     },
+     {
+      "t0": 386.93,
+      "t1": 387.53,
+      "speaker": "Georgie",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'sober'와 'pushback'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "Many people give up alcohol for the whole of January. What is the challenge called? a) No-drink New Year, b) Alcohol-free January, c) Dry January",
+   "answer": "c) Dry January. 보너스: 'sober'는 술(이나 약물)을 하지 않는 상태, 'pushback'은 어떤 유행에 대한 강한 반발이에요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Oct 8",
+  "sentences": [
+   {
+    "text": "Do you want to hear something quite unusual for me?",
+    "ko": "저한텐 꽤 이례적인 얘기를 하나 들려드릴까요?",
+    "t0": 20.71,
+    "t1": 23.43,
+    "track": 0
+   },
+   {
+    "text": "So, why are more young people choosing to be sober?",
+    "ko": "그럼 왜 더 많은 젊은이들이 술을 끊기로(sober) 할까요?",
+    "t0": 111.17,
+    "t1": 114.73,
+    "track": 0
+   },
+   {
+    "text": "But recently there's been a bit of a change, hasn't there?",
+    "ko": "그런데 최근엔 약간 변화가 있었죠, 그렇지 않나요?",
+    "t0": 204.37,
+    "t1": 207.65,
+    "track": 0
+   },
+   {
+    "text": "But still, Millie thinks there's a pushback against self-optimisation content.",
+    "ko": "하지만 Millie는 자기계발(self-optimisation) 콘텐츠에 대한 반발이 있다고 생각해요.",
+    "t0": 290.29,
+    "t1": 295.35,
+    "track": 0
+   },
+   {
+    "text": "Yeah, I still enjoy having a few drinks with my friends.",
+    "ko": "네, 저는 여전히 친구들과 술 몇 잔 하는 걸 즐겨요.",
+    "t0": 316.01,
+    "t1": 319.09,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Is grip strength a useful indicator of health?",
+  "url": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
+  "source": "The Economist",
+  "section": "Science & technology · Nov 6th 2026",
+  "minutes": 4,
+  "summaryKo": "악력이 약하면 사망·심혈관 질환·인지저하 위험이 높다는 연구가 많아요. 하지만 악력 운동만으로 오래 사는 건 아니고, 악력은 뇌-신경-근육 전체 상태를 보여 주는 '모니터'에 가깝다는 내용이에요. 양손 차이가 크면 더 눈여겨봐야 해요. (앞부분 발췌; 전체는 구독 로그인)",
+  "excerpt": [
+   "The likely trigger was a headline-grabbing study in the Lancet in 2015 that associated grip strength with longer life. Following 139,691 people in 17 countries for an average of four years, the researchers linked every 5kg decrease in grip strength with a 16% higher risk of death from any cause. For cardiovascular death, the figure was 17%.",
+   "Alas, regular grip exercises alone are unlikely to lengthen your life. They may, however, be a good way of monitoring your overall health. Muscles, notes Brian Clark, a physiologist at Ohio University, are “puppets” at the end of a neurological chain of command."
+  ],
+  "tip": "'Alas'(안타깝게도)는 글에서 쓰는 문어체예요. 'A 5kg decrease is linked with a 16% higher risk'처럼 숫자+link 구조는 임상 데이터를 영어로 설명할 때 바로 쓸 수 있어요. 발췌는 공개된 부분이며 기사 첫 문단 앞부분은 빠졌을 수 있어요."
+ },
+ "vocab": [
+  {
+   "word": "sober",
+   "meaning": "술(약물)을 하지 않는, 맨정신인",
+   "example": "Daniel has been sober for about six years."
+  },
+  {
+   "word": "societal pressure",
+   "meaning": "사회적 압력, 주변의 기대",
+   "example": "I felt societal pressure to join in."
+  },
+  {
+   "word": "the norm",
+   "meaning": "보통, 일반적인 것",
+   "example": "Drinking was the norm at university."
+  },
+  {
+   "word": "pushback",
+   "meaning": "(유행·정책에 대한) 강한 반발",
+   "example": "There's a pushback against self-optimisation content."
+  },
+  {
+   "word": "headline-grabbing",
+   "meaning": "헤드라인을 장식할 만한, 주목을 끄는",
+   "example": "A headline-grabbing study linked grip strength to longer life."
+  },
+  {
+   "word": "be linked with",
+   "meaning": "~와 연관되다",
+   "example": "Each 5kg decrease was linked with a 16% higher risk of death."
+  },
+  {
+   "word": "alas",
+   "meaning": "안타깝게도 (문어체)",
+   "example": "Alas, grip exercises alone are unlikely to lengthen your life."
+  }
+ ],
+ "writing": {
+  "prompt": "Do you think simple tests, like grip strength, should be part of a regular health check-up? Write 3–5 sentences in English.",
+  "question": "What health habit do you want to keep or change, and why?",
+  "hint": "이런 표현을 써 보세요: I think ... is useful because ... / It is linked with ... / However, it is not a diagnosis. / In my lab, we often see ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain to a friend why grip strength might say something about your health, and whether you'd try measuring yours.",
+  "phrases": [
+   "A weak grip is linked with ...",
+   "It's not a diagnosis, but ...",
+   "I'd like to find out whether ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Do you drink alcohol? Why or why not?"
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "월요일이에요. 이어서 10페이지. 피곤하면 5페이지만 읽어도 충분해요. Minimum day도 OK."
+ }
+}
