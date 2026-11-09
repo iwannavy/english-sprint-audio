@@ -1,0 +1,616 @@
+{
+ "date": "2026-11-10",
+ "theme": "Heartbreak, bonds & raising kids · 사랑의 뇌과학과 사교육 경쟁",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Why does heartbreak hurt so much?",
+    "show": "BBC Learning English · 6 Minute English (Oct 1)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/261001_6_minute_english_why_does_heartbreak_hurt_so_much_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261001.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261001-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261001",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261001",
+    "note": "실연이 왜 '진짜로' 아픈지 뇌과학으로 설명해요. 사회적 관계(social bonds)가 수명과 면역에 주는 영향도 나와서 임상 쪽 관심사와도 잘 맞아요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 4.08,
+      "t1": 5.1,
+      "speaker": "Neil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 5.1,
+      "t1": 6.15,
+      "speaker": "Georgie",
+      "text": "Hi Neil."
+     },
+     {
+      "t0": 13.29,
+      "t1": 18.09,
+      "speaker": "Neil",
+      "text": "Now, I want you to think back to the last time you had your heart broken."
+     },
+     {
+      "t0": 18.09,
+      "t1": 19.19,
+      "speaker": "Neil",
+      "text": "How did it feel?"
+     },
+     {
+      "t0": 19.25,
+      "t1": 20.64,
+      "speaker": "Georgie",
+      "text": "It was a couple of years ago."
+     },
+     {
+      "t0": 20.64,
+      "t1": 24.53,
+      "speaker": "Georgie",
+      "text": "And I just remember a really intense, sad emotion."
+     },
+     {
+      "t0": 24.55,
+      "t1": 28.74,
+      "speaker": "Georgie",
+      "text": "But it also sometimes feels like a physical pain in your stomach, doesn't it?"
+     },
+     {
+      "t0": 28.74,
+      "t1": 29.18,
+      "speaker": "Neil",
+      "text": "It does."
+     },
+     {
+      "t0": 29.18,
+      "t1": 31.11,
+      "speaker": "Neil",
+      "text": "It's like real pain, isn't it?"
+     },
+     {
+      "t0": 31.31,
+      "t1": 34.43,
+      "speaker": "Neil",
+      "text": "And today, in 6 Minute English, we're talking about heartbreak."
+     },
+     {
+      "t0": 34.77,
+      "t1": 39.51,
+      "speaker": "Neil",
+      "text": "Now, heartbreak is the feeling of sadness we get when we lose someone we love."
+     },
+     {
+      "t0": 39.57,
+      "t1": 42.75,
+      "speaker": "Neil",
+      "text": "And that pain you feel, it's not just imaginary."
+     },
+     {
+      "t0": 43.29,
+      "t1": 52.03,
+      "speaker": "Neil",
+      "text": "In this podcast, we'll be understanding how our brains change when we fall in love and asking the question, why does heartbreak hurt so much?"
+     },
+     {
+      "t0": 52.29,
+      "t1": 55.77,
+      "speaker": "Georgie",
+      "text": "And as usual, we'll be learning some useful new vocabulary."
+     },
+     {
+      "t0": 55.99,
+      "t1": 61.17,
+      "speaker": "Georgie",
+      "text": "You can find the full list and the definitions at bbclearningenglish.com."
+     },
+     {
+      "t0": 61.31,
+      "t1": 63.51,
+      "speaker": "Neil",
+      "text": "Georgie, we're going to start with a quiz question."
+     },
+     {
+      "t0": 63.51,
+      "t1": 64.32,
+      "speaker": "Neil",
+      "text": "Are you ready?"
+     },
+     {
+      "t0": 64.32,
+      "t1": 65.87,
+      "speaker": "Georgie",
+      "text": "I am very ready."
+     },
+     {
+      "t0": 66.07,
+      "t1": 78.06,
+      "speaker": "Neil",
+      "text": "So, in the 1950s, psychologists noticed a link between children's early bonds with their parents and their romantic relationships as adults, but what is this theory called?"
+     },
+     {
+      "t0": 78.06,
+      "t1": 85.17,
+      "speaker": "Neil",
+      "text": "Is it: a) contraction theory, b) attachment theory, or c) superstition theory?"
+     },
+     {
+      "t0": 85.31,
+      "t1": 87.71,
+      "speaker": "Georgie",
+      "text": "I think it's b) attachment theory."
+     },
+     {
+      "t0": 87.81,
+      "t1": 88.08,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 88.08,
+      "t1": 90.65,
+      "speaker": "Neil",
+      "text": "Well, we will find out at the end of the programme."
+     },
+     {
+      "t0": 91.23,
+      "t1": 94.41,
+      "speaker": "Georgie",
+      "text": "What's going on in our brains when we fall in love?"
+     },
+     {
+      "t0": 94.51,
+      "t1": 100.51,
+      "speaker": "Neil",
+      "text": "Well, scientists have scanned people's brains while they're looking at a photo of their romantic partner."
+     },
+     {
+      "t0": 100.69,
+      "t1": 108.97,
+      "speaker": "Neil",
+      "text": "And they found that looking at someone you're in love with activates a part of the brain that also reminds us to eat and drink."
+     },
+     {
+      "t0": 108.97,
+      "t1": 113.53,
+      "speaker": "Georgie",
+      "text": "And do scientists know why being in love impacts our brain in this way?"
+     },
+     {
+      "t0": 113.53,
+      "t1": 115.31,
+      "speaker": "Neil",
+      "text": "So, it's all about survival."
+     },
+     {
+      "t0": 115.39,
+      "t1": 117.79,
+      "speaker": "Neil",
+      "text": "Our brains have evolved to be this way."
+     },
+     {
+      "t0": 118.31,
+      "t1": 121.65,
+      "speaker": "Neil",
+      "text": "Dr Lucy Brown explains more to the BBC World Service."
+     },
+     {
+      "t0": 122.47,
+      "t1": 124.12,
+      "speaker": "Dr Lucy Brown",
+      "text": "This is a survival system."
+     },
+     {
+      "t0": 124.12,
+      "t1": 132.45,
+      "speaker": "Dr Lucy Brown",
+      "text": "Nature gave us these systems to be addicted to each other – for reproduction, for protection."
+     },
+     {
+      "t0": 132.67,
+      "t1": 136.11,
+      "speaker": "Dr Lucy Brown",
+      "text": "You're oriented completely toward the other person."
+     },
+     {
+      "t0": 136.11,
+      "t1": 138.55,
+      "speaker": "Dr Lucy Brown",
+      "text": "It's like hunger or thirst."
+     },
+     {
+      "t0": 138.91,
+      "t1": 143.01,
+      "speaker": "Georgie",
+      "text": "Lucy says our brains make us addicted to our romantic partners."
+     },
+     {
+      "t0": 143.23,
+      "t1": 146.03,
+      "speaker": "Georgie",
+      "text": "If you're addicted to something, you want more of it."
+     },
+     {
+      "t0": 146.03,
+      "t1": 153.91,
+      "speaker": "Georgie",
+      "text": "You can literally be addicted to things like drugs or alcohol, but we also use it metaphorically to talk about things we love."
+     },
+     {
+      "t0": 153.95,
+      "t1": 163.2,
+      "speaker": "Neil",
+      "text": "She says that romantic partners are oriented to each other, which in British English we say orientated, and it means they are pointed towards each other."
+     },
+     {
+      "t0": 163.2,
+      "t1": 165.75,
+      "speaker": "Neil",
+      "text": "They think of each other before other people."
+     },
+     {
+      "t0": 166.09,
+      "t1": 171.37,
+      "speaker": "Georgie",
+      "text": "Neil, is there anything else scientists have discovered from scanning the brains of people in love?"
+     },
+     {
+      "t0": 171.69,
+      "t1": 175.03,
+      "speaker": "Neil",
+      "text": "Well, being in love doesn't just change the way we think."
+     },
+     {
+      "t0": 175.05,
+      "t1": 177.65,
+      "speaker": "Neil",
+      "text": "It changes our whole identity."
+     },
+     {
+      "t0": 178.19,
+      "t1": 181.43,
+      "speaker": "Neil",
+      "text": "A 2013 study showed us more about this."
+     },
+     {
+      "t0": 181.69,
+      "t1": 191.01,
+      "speaker": "Neil",
+      "text": "People were shown statements about themselves – for example, Neil is kind – and the part of the brain we use to think about ourselves lit up."
+     },
+     {
+      "t0": 191.47,
+      "t1": 201.07,
+      "speaker": "Neil",
+      "text": "When showing the same statements about their partner, the same part of the brain was active – not the part of the brain we generally use to think about others."
+     },
+     {
+      "t0": 201.37,
+      "t1": 206.93,
+      "speaker": "Georgie",
+      "text": "So, Neil, are all of these brain changes that come with being in love actually good for us?"
+     },
+     {
+      "t0": 206.93,
+      "t1": 213.31,
+      "speaker": "Neil",
+      "text": "Well, studies suggest that good social connections help manage stress and support our immune system."
+     },
+     {
+      "t0": 213.75,
+      "t1": 217.45,
+      "speaker": "Neil",
+      "text": "Professor Zoe Donaldson explained more to the BBC World Service."
+     },
+     {
+      "t0": 217.99,
+      "t1": 225.61,
+      "speaker": "Professor Zoe Donaldson",
+      "text": "Having really strong social bonds increases your likelihood that you'll survive from just about anything, whether that be cancer, depression, etc."
+     },
+     {
+      "t0": 226.21,
+      "t1": 229.83,
+      "speaker": "Professor Zoe Donaldson",
+      "text": "And it overall is the number one predictor of longevity."
+     },
+     {
+      "t0": 230.49,
+      "t1": 238.08,
+      "speaker": "Professor Zoe Donaldson",
+      "text": "So, if you are lonely and you don't have bonds, then your mortality risk goes up in a way that's equivalent to being obese or smoking."
+     },
+     {
+      "t0": 238.08,
+      "t1": 246.75,
+      "speaker": "Georgie",
+      "text": "So, having strong social bonds or close relationships with other people makes you more likely to survive disease, according to Zoe."
+     },
+     {
+      "t0": 246.79,
+      "t1": 251.49,
+      "speaker": "Neil",
+      "text": "Yes, it's an important factor in our longevity, which means how long we live."
+     },
+     {
+      "t0": 251.65,
+      "t1": 261.79,
+      "speaker": "Neil",
+      "text": "In fact, Zoe says, being lonely and not having good social bonds increases your mortality risk, your risk of dying, by as much as being obese or smoking."
+     },
+     {
+      "t0": 262.01,
+      "t1": 262.3,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 262.3,
+      "t1": 266.24,
+      "speaker": "Georgie",
+      "text": "So, what happens when these bonds are broken, when we experience heartbreak?"
+     },
+     {
+      "t0": 266.24,
+      "t1": 274.81,
+      "speaker": "Neil",
+      "text": "Well, scientists have been looking at this by asking people to look at photos of their exes, their former partners, and scanning their brains."
+     },
+     {
+      "t0": 275.11,
+      "t1": 280.79,
+      "speaker": "Neil",
+      "text": "They found that heartbreak activates parts of the brain we use when we're in danger or in pain."
+     },
+     {
+      "t0": 281.33,
+      "t1": 283.71,
+      "speaker": "Neil",
+      "text": "Professor Zoe Donaldson explains more."
+     },
+     {
+      "t0": 283.89,
+      "t1": 286.22,
+      "speaker": "Professor Zoe Donaldson",
+      "text": "It's literal pain in your brain."
+     },
+     {
+      "t0": 286.22,
+      "t1": 298.37,
+      "speaker": "Professor Zoe Donaldson",
+      "text": "So, if you look at the parts of the brain that light up, they overlap with the same brain regions that are activated when you feel visceral pain – when you feel actual, you know... like you get a burn, or you break a... you break a bone."
+     },
+     {
+      "t0": 298.53,
+      "t1": 299.01,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 299.01,
+      "t1": 303.21,
+      "speaker": "Neil",
+      "text": "So, now it's time for the answer to the quiz question I asked you."
+     },
+     {
+      "t0": 303.43,
+      "t1": 314.09,
+      "speaker": "Neil",
+      "text": "It was about a theory developed by psychologists in the 1950s, which says that children's early relationships with their parents impact their relationships as adults."
+     },
+     {
+      "t0": 314.75,
+      "t1": 316.23,
+      "speaker": "Neil",
+      "text": "What's the name of the theory?"
+     },
+     {
+      "t0": 316.23,
+      "t1": 318.94,
+      "speaker": "Georgie",
+      "text": "I was quite confident about this, wasn't I, Neil?"
+     },
+     {
+      "t0": 318.94,
+      "t1": 320.34,
+      "speaker": "Georgie",
+      "text": "I said attachment theory."
+     },
+     {
+      "t0": 320.34,
+      "t1": 324.35,
+      "speaker": "Neil",
+      "text": "Well, you had a reason to be confident because you are correct."
+     },
+     {
+      "t0": 324.41,
+      "t1": 324.87,
+      "speaker": "Georgie",
+      "text": "Yay!"
+     },
+     {
+      "t0": 325.15,
+      "t1": 325.57,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 325.57,
+      "t1": 333.93,
+      "speaker": "Georgie",
+      "text": "Let's recap the vocabulary we learnt in this programme, starting with heartbreak, which is the feeling you experience after you lose someone you love."
+     },
+     {
+      "t0": 334.15,
+      "t1": 338.23,
+      "speaker": "Neil",
+      "text": "If you're addicted to someone or something, you want more of it all the time."
+     },
+     {
+      "t0": 338.67,
+      "t1": 346.21,
+      "speaker": "Georgie",
+      "text": "Oriented or orientated towards is used metaphorically to mean that someone or something is your main focus."
+     },
+     {
+      "t0": 346.73,
+      "t1": 352.11,
+      "speaker": "Neil",
+      "text": "Social bonds are the close relationships we have with family, friends and romantic partners."
+     },
+     {
+      "t0": 352.57,
+      "t1": 354.95,
+      "speaker": "Georgie",
+      "text": "Longevity means how long you'll live."
+     },
+     {
+      "t0": 355.09,
+      "t1": 360.51,
+      "speaker": "Neil",
+      "text": "And an ex is a past romantic partner that you are no longer in a relationship with."
+     },
+     {
+      "t0": 360.61,
+      "t1": 365.67,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but you can test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 365.67,
+      "t1": 368.27,
+      "speaker": "Georgie",
+      "text": "Go to bbclearningenglish.com."
+     },
+     {
+      "t0": 368.43,
+      "t1": 370.24,
+      "speaker": "Neil",
+      "text": "Thanks for joining us and goodbye."
+     },
+     {
+      "t0": 370.24,
+      "t1": 370.83,
+      "speaker": "Georgie",
+      "text": "Goodbye."
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'social bonds'와 'longevity'가 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "In the 1950s, psychologists linked children's early bonds with their parents to their adult romantic relationships. What is this theory called? a) contraction theory, b) attachment theory, c) superstition theory",
+   "answer": "b) attachment theory (애착 이론). 보너스: 외로움(사회적 관계 부족)은 비만이나 흡연과 비슷한 수준으로 사망 위험(mortality risk)을 높인대요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Oct 1",
+  "sentences": [
+   {
+    "text": "Now, heartbreak is the feeling of sadness we get when we lose someone we love.",
+    "ko": "이제 heartbreak(실연의 아픔)는 사랑하는 사람을 잃었을 때 느끼는 슬픔이에요.",
+    "t0": 34.77,
+    "t1": 39.51,
+    "track": 0
+   },
+   {
+    "text": "Our brains have evolved to be this way.",
+    "ko": "우리 뇌는 이런 방식으로 진화해 왔어요.",
+    "t0": 115.39,
+    "t1": 117.79,
+    "track": 0
+   },
+   {
+    "text": "Well, studies suggest that good social connections help manage stress and support our immune system.",
+    "ko": "연구에 따르면 좋은 사회적 관계는 스트레스를 다스리고 면역 체계를 돕는대요.",
+    "t0": 206.93,
+    "t1": 213.31,
+    "track": 0
+   },
+   {
+    "text": "Yes, it's an important factor in our longevity, which means how long we live.",
+    "ko": "네, 그건 우리의 수명(longevity), 즉 얼마나 오래 사는지에 중요한 요인이에요.",
+    "t0": 246.79,
+    "t1": 251.49,
+    "track": 0
+   },
+   {
+    "text": "Well, you had a reason to be confident because you are correct.",
+    "ko": "음, 자신 있을 만했네요. 정답이니까요.",
+    "t0": 320.34,
+    "t1": 324.35,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Intensive parenting is no longer the preserve of the rich",
+  "url": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+  "source": "The Economist",
+  "section": "Finance & economics · Nov 1st 2026",
+  "minutes": 5,
+  "summaryKo": "대학·좋은 일자리 경쟁이 치열해지면서 소득과 상관없이 모든 계층의 부모가 사교육·스포츠에 더 일찍, 더 많이 돈을 써요. 한국은 학령기 아동 4명 중 3명이 사교육을 받고(최저소득층도 57%), 자녀 1인당 평생 교육투자의 42%(약 15만 2천 달러)를 가계가 부담해요. 하지만 부자들도 손을 놓지 않아 계층 이동은 오히려 정체됐다는 내용이에요. (공개 전재본 기준 발췌)",
+  "excerpt": [
+   "RICH PARENTS are different. They have money. They also used to be different in spending pots of it on their offspring’s edification. Yet as competition for university places and well-paying jobs heats up, parents across income levels are bankrolling their children’s futures earlier and more aggressively.",
+   "As with young bodies, so with young minds. Private tutoring has long been an obsession in richer parts of Asia. Three in four school-age South Koreans took paid lessons in 2025, according to national surveys, including 57% in the lowest income quintile. So did four in five five-year-olds."
+  ],
+  "tip": "'bankroll'(돈을 대다), 'heat up'(과열되다)처럼 돈·경쟁 관련 동사가 많아요. 'Three in four ..., including 57% in the lowest income quintile'은 통계를 말할 때 그대로 쓸 수 있는 구조예요. 목동 학부모로서 공감하며 읽어 보세요."
+ },
+ "vocab": [
+  {
+   "word": "social bonds",
+   "meaning": "사회적 유대, 가까운 인간관계",
+   "example": "Strong social bonds help us manage stress."
+  },
+  {
+   "word": "longevity",
+   "meaning": "장수, 수명",
+   "example": "Social bonds are the number one predictor of longevity."
+  },
+  {
+   "word": "mortality risk",
+   "meaning": "사망 위험",
+   "example": "Loneliness raises your mortality risk as much as smoking."
+  },
+  {
+   "word": "bankroll",
+   "meaning": "~에 돈을 대다, 자금을 지원하다",
+   "example": "Parents are bankrolling their children's futures earlier."
+  },
+  {
+   "word": "private tutoring",
+   "meaning": "사교육, 개인 과외",
+   "example": "Private tutoring has long been an obsession in Asia."
+  },
+  {
+   "word": "let up",
+   "meaning": "(노력·압박을) 늦추다, 그만두다",
+   "example": "The poor are spending more, but the rich are not letting up."
+  }
+ ],
+ "writing": {
+  "prompt": "Is spending more on private tutoring worth it for young children? Write 3–5 sentences in English, using your own experience as a parent in Mokdong.",
+  "question": "What do you want your children to learn outside school, and why?",
+  "hint": "이런 표현을 써 보세요: In Korea, most parents ... / I think ... is worth it because ... / However, the rich are not letting up, so ... / For my kids, I care more about ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain to a friend why heartbreak can feel like real physical pain, and why strong social bonds are good for your health.",
+  "phrases": [
+   "It activates the same parts of the brain as ...",
+   "Strong social bonds are linked with ...",
+   "Being lonely raises your mortality risk."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: How many after-school classes do your kids take? Do you think it's too many?"
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "화요일이에요. 어제 이어서 10페이지. 오늘은 서우 생일이니 🎂 가족과 시간 보내고, 5페이지만 읽어도 충분해요. Minimum day도 OK."
+ }
+}
