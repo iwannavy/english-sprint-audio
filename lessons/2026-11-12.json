@@ -1,0 +1,699 @@
+{
+ "date": "2026-11-12",
+ "theme": "Rejection therapy & Xi's 'shared future' · 거절 연습과 시진핑의 세계 질서",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Is rejection good for us?",
+    "show": "BBC Learning English · 6 Minute English (Sep 17)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260917_6_minute_english_is_rejection_good_for_us_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260917.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260917-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260917",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260917",
+    "note": "일부러 낯선 사람에게 말을 걸어 거절당해 보는 '거절 치료(rejection therapy)' 유행 이야기예요. 처음엔 떨리지만 할수록 쉬워진다(it came easier)는 게 영어 말하기 연습이랑 똑같아요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 0.0,
+      "t1": 4.33,
+      "speaker": "Georgie",
+      "text": "Hello and welcome to 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 4.47,
+      "t1": 5.31,
+      "speaker": "Georgie",
+      "text": "I'm Georgie."
+     },
+     {
+      "t0": 5.31,
+      "t1": 6.42,
+      "speaker": "Neil",
+      "text": "And I'm Neil."
+     },
+     {
+      "t0": 6.42,
+      "t1": 14.53,
+      "speaker": "Neil",
+      "text": "Don't forget you can find vocabulary, definitions and a worksheet for free on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 15.23,
+      "t1": 18.69,
+      "speaker": "Georgie",
+      "text": "So Neil, today we're talking about rejection."
+     },
+     {
+      "t0": 19.01,
+      "t1": 25.01,
+      "speaker": "Georgie",
+      "text": "So, rejection means saying no to someone or refusing to accept their idea or suggestion."
+     },
+     {
+      "t0": 25.65,
+      "t1": 27.95,
+      "speaker": "Georgie",
+      "text": "Neil, how do you feel about rejection?"
+     },
+     {
+      "t0": 28.43,
+      "t1": 31.21,
+      "speaker": "Neil",
+      "text": "Well, nobody likes rejection."
+     },
+     {
+      "t0": 31.93,
+      "t1": 35.74,
+      "speaker": "Neil",
+      "text": "But I think as you get older, you get used to it."
+     },
+     {
+      "t0": 35.74,
+      "t1": 42.41,
+      "speaker": "Neil",
+      "text": "And probably it's quite a good thing to experience rejection, even if it doesn't feel nice."
+     },
+     {
+      "t0": 42.65,
+      "t1": 43.85,
+      "speaker": "Georgie",
+      "text": "Yeah, I agree."
+     },
+     {
+      "t0": 43.91,
+      "t1": 45.84,
+      "speaker": "Georgie",
+      "text": "We can't always get what we want, can we?"
+     },
+     {
+      "t0": 45.84,
+      "t1": 46.79,
+      "speaker": "Neil",
+      "text": "We can't, no."
+     },
+     {
+      "t0": 47.11,
+      "t1": 56.55,
+      "speaker": "Neil",
+      "text": "In this podcast, we'll be learning about a new internet trend called rejection therapy and how people are using it to help them to be more confident."
+     },
+     {
+      "t0": 58.67,
+      "t1": 59.45,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 59.45,
+      "t1": 62.13,
+      "speaker": "Neil",
+      "text": "Let's start with our quiz question, Georgie."
+     },
+     {
+      "t0": 62.31,
+      "t1": 75.69,
+      "speaker": "Neil",
+      "text": "Lots of famous people have faced rejection in their lives before they became successful, but which of these things did not happen to the animator Walt Disney before he became successful?"
+     },
+     {
+      "t0": 75.69,
+      "t1": 86.4,
+      "speaker": "Neil",
+      "text": "Was it: a) he lost his job as an artist, b) his first business ran out of money, or c) his first full length film was a failure?"
+     },
+     {
+      "t0": 86.4,
+      "t1": 91.87,
+      "speaker": "Georgie",
+      "text": "I've got no idea, but I'm going to go with a) he lost his job as an artist."
+     },
+     {
+      "t0": 91.89,
+      "t1": 92.3,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 92.3,
+      "t1": 95.45,
+      "speaker": "Neil",
+      "text": "Well, we'll find out the answer at the end of the programme."
+     },
+     {
+      "t0": 95.95,
+      "t1": 96.59,
+      "speaker": "Georgie",
+      "text": "OK Neil."
+     },
+     {
+      "t0": 96.59,
+      "t1": 104.45,
+      "speaker": "Georgie",
+      "text": "So, most people don't like being rejected, but one thing to try might be something called rejection therapy."
+     },
+     {
+      "t0": 104.77,
+      "t1": 112.37,
+      "speaker": "Georgie",
+      "text": "It's a social media trend where people record themselves talking to strangers and sometimes being rejected."
+     },
+     {
+      "t0": 112.83,
+      "t1": 113.3,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 113.3,
+      "t1": 118.29,
+      "speaker": "Neil",
+      "text": "That sounds quite interesting, but let's find out how it works in practice."
+     },
+     {
+      "t0": 118.67,
+      "t1": 125.07,
+      "speaker": "Neil",
+      "text": "Hannah Gelbart, host of the BBC World Service podcast What in the World, had a go at the trend."
+     },
+     {
+      "t0": 125.65,
+      "t1": 127.64,
+      "speaker": "Neil",
+      "text": "Let's see how she got on."
+     },
+     {
+      "t0": 127.64,
+      "t1": 129.96,
+      "speaker": "Hannah Gelbart",
+      "text": "Hey, can I come sit down at your table?"
+     },
+     {
+      "t0": 129.96,
+      "t1": 130.31,
+      "speaker": "Stranger",
+      "text": "Yeah."
+     },
+     {
+      "t0": 130.31,
+      "t1": 131.52,
+      "speaker": "Hannah Gelbart",
+      "text": "Hey, how's it going?"
+     },
+     {
+      "t0": 131.52,
+      "t1": 132.51,
+      "speaker": "Stranger",
+      "text": "Good, thank you."
+     },
+     {
+      "t0": 132.51,
+      "t1": 133.73,
+      "speaker": "Hannah Gelbart",
+      "text": "How's your day gone?"
+     },
+     {
+      "t0": 133.73,
+      "t1": 134.65,
+      "speaker": "Hannah Gelbart",
+      "text": "Good afternoon."
+     },
+     {
+      "t0": 134.65,
+      "t1": 135.75,
+      "speaker": "Hannah Gelbart",
+      "text": "How are you doing?"
+     },
+     {
+      "t0": 135.75,
+      "t1": 137.03,
+      "speaker": "Hannah Gelbart",
+      "text": "Can I drive your cab?"
+     },
+     {
+      "t0": 137.03,
+      "t1": 137.43,
+      "speaker": "Hannah Gelbart",
+      "text": "Can I?"
+     },
+     {
+      "t0": 137.43,
+      "t1": 139.06,
+      "speaker": "Hannah Gelbart",
+      "text": "Can I get behind the wheel?"
+     },
+     {
+      "t0": 139.06,
+      "t1": 139.99,
+      "speaker": "Cab Driver",
+      "text": "Don't be silly!"
+     },
+     {
+      "t0": 139.99,
+      "t1": 141.09,
+      "speaker": "Hannah Gelbart",
+      "text": "Don't be silly...!"
+     },
+     {
+      "t0": 141.09,
+      "t1": 145.61,
+      "speaker": "Hannah Gelbart",
+      "text": "Coming somewhere else to try and face my fears... maybe do a bit of shopping."
+     },
+     {
+      "t0": 145.61,
+      "t1": 148.85,
+      "speaker": "Hannah Gelbart",
+      "text": "I was wondering, can I have a nap in one of these beds?"
+     },
+     {
+      "t0": 148.85,
+      "t1": 150.19,
+      "speaker": "Hannah Gelbart",
+      "text": "Can I just try it out?"
+     },
+     {
+      "t0": 150.19,
+      "t1": 152.62,
+      "speaker": "Hannah Gelbart",
+      "text": "Wow – I didn't expect that one to be a yes!"
+     },
+     {
+      "t0": 152.62,
+      "t1": 157.45,
+      "speaker": "Georgie",
+      "text": "Well, it seems like people were pretty nice to Hannah in those examples."
+     },
+     {
+      "t0": 157.77,
+      "t1": 158.19,
+      "speaker": "Neil",
+      "text": "Yes."
+     },
+     {
+      "t0": 158.19,
+      "t1": 163.73,
+      "speaker": "Neil",
+      "text": "And she talks with psychologist Claudia Hammond about how she felt during the experiment."
+     },
+     {
+      "t0": 163.81,
+      "t1": 168.61,
+      "speaker": "Hannah Gelbart",
+      "text": "And actually, walking up to the first person, I felt my adrenaline really, really spiking."
+     },
+     {
+      "t0": 168.63,
+      "t1": 171.7,
+      "speaker": "Hannah Gelbart",
+      "text": "I'm not a socially anxious person – I think I'm really confident."
+     },
+     {
+      "t0": 171.7,
+      "t1": 173.79,
+      "speaker": "Hannah Gelbart",
+      "text": "But that first thing really scared me."
+     },
+     {
+      "t0": 173.81,
+      "t1": 177.96,
+      "speaker": "Hannah Gelbart",
+      "text": "And once I'd done one, the second one came easier and the third one came even easier."
+     },
+     {
+      "t0": 177.96,
+      "t1": 181.8,
+      "speaker": "Hannah Gelbart",
+      "text": "And you know, by the fourth time I didn't even mind it whether they said yes or no."
+     },
+     {
+      "t0": 181.8,
+      "t1": 188.19,
+      "speaker": "Georgie",
+      "text": "Hannah says that when she walked up to the first stranger in the video, she felt her adrenaline spiking."
+     },
+     {
+      "t0": 188.51,
+      "t1": 191.07,
+      "speaker": "Georgie",
+      "text": "If something spikes, it increases sharply."
+     },
+     {
+      "t0": 191.45,
+      "t1": 194.87,
+      "speaker": "Neil",
+      "text": "Hannah is not generally a socially anxious person."
+     },
+     {
+      "t0": 195.13,
+      "t1": 200.56,
+      "speaker": "Neil",
+      "text": "Someone who is socially anxious is nervous or worried about speaking to other people."
+     },
+     {
+      "t0": 200.56,
+      "t1": 206.01,
+      "speaker": "Georgie",
+      "text": "Each time Hannah tried to speak to a new person, she says, it came easier."
+     },
+     {
+      "t0": 206.37,
+      "t1": 211.05,
+      "speaker": "Georgie",
+      "text": "Come easier is an informal way to say something is easier to achieve."
+     },
+     {
+      "t0": 211.25,
+      "t1": 218.39,
+      "speaker": "Neil",
+      "text": "Now, this social media trend is called rejection therapy, but it's not a proper form of therapy."
+     },
+     {
+      "t0": 218.39,
+      "t1": 219.89,
+      "speaker": "Neil",
+      "text": "It hasn't been tested."
+     },
+     {
+      "t0": 219.99,
+      "t1": 227.77,
+      "speaker": "Georgie",
+      "text": "And there are some criticisms of the videos because they involve filming your interactions with strangers, which people might not want."
+     },
+     {
+      "t0": 228.09,
+      "t1": 232.29,
+      "speaker": "Neil",
+      "text": "But people who post the videos say they boost their confidence."
+     },
+     {
+      "t0": 232.81,
+      "t1": 236.05,
+      "speaker": "Neil",
+      "text": "So, why do people want to ask for rejection?"
+     },
+     {
+      "t0": 236.47,
+      "t1": 244.19,
+      "speaker": "Georgie",
+      "text": "Psychologist Claudia Hammond has some ideas, which she shared with Hannah on the BBC World Service podcast What in the World."
+     },
+     {
+      "t0": 244.65,
+      "t1": 248.26,
+      "speaker": "Claudia Hammond",
+      "text": "What we do know is that there is an increase in perfectionism."
+     },
+     {
+      "t0": 248.26,
+      "t1": 252.21,
+      "speaker": "Claudia Hammond",
+      "text": "People are more worried now, younger people, about how other people are judging them."
+     },
+     {
+      "t0": 252.25,
+      "t1": 269.06,
+      "speaker": "Claudia Hammond",
+      "text": "And so, I wonder whether that might make people more shy of speaking to strangers – worried that the people will, you know, not appraise them in a good way, and so doing something like this to try to counter that might feel like a positive step to people, that they're trying to do something."
+     },
+     {
+      "t0": 269.06,
+      "t1": 270.63,
+      "speaker": "Claudia Hammond",
+      "text": "Also, they're fun to watch."
+     },
+     {
+      "t0": 270.63,
+      "t1": 275.33,
+      "speaker": "Neil",
+      "text": "Claudia says there's an increase in perfectionism among young people."
+     },
+     {
+      "t0": 275.83,
+      "t1": 280.13,
+      "speaker": "Neil",
+      "text": "Perfectionism is the feeling that everything you do needs to be perfect."
+     },
+     {
+      "t0": 280.33,
+      "t1": 286.45,
+      "speaker": "Georgie",
+      "text": "Young people are also worried about how people will appraise them, which means judge them."
+     },
+     {
+      "t0": 286.93,
+      "t1": 294.83,
+      "speaker": "Neil",
+      "text": "Deliberately looking for rejection might be an extreme way to become more confident, but it can lead to surprising discoveries."
+     },
+     {
+      "t0": 295.37,
+      "t1": 303.55,
+      "speaker": "Georgie",
+      "text": "Yes, and Hannah found that most strangers she spoke to were friendly and happy to help, so she didn't really experience rejection much at all."
+     },
+     {
+      "t0": 303.77,
+      "t1": 304.22,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 304.22,
+      "t1": 308.45,
+      "speaker": "Neil",
+      "text": "Georgie, I think it's time now for the answer to my quiz question."
+     },
+     {
+      "t0": 308.65,
+      "t1": 315.57,
+      "speaker": "Neil",
+      "text": "I asked you which rejection Walt Disney didn't experience before becoming successful?"
+     },
+     {
+      "t0": 315.89,
+      "t1": 320.65,
+      "speaker": "Georgie",
+      "text": "Yes, and I went for a) I don't think he lost his job as an artist."
+     },
+     {
+      "t0": 321.59,
+      "t1": 328.89,
+      "speaker": "Neil",
+      "text": "Well, actually, the answer was c) his first full length film, Snow White and the Seven Dwarfs, was not a failure."
+     },
+     {
+      "t0": 328.99,
+      "t1": 330.41,
+      "speaker": "Neil",
+      "text": "It was a huge success."
+     },
+     {
+      "t0": 330.83,
+      "t1": 331.18,
+      "speaker": "Georgie",
+      "text": "Wow!"
+     },
+     {
+      "t0": 331.18,
+      "t1": 332.69,
+      "speaker": "Georgie",
+      "text": "That was his first film?"
+     },
+     {
+      "t0": 332.69,
+      "t1": 333.89,
+      "speaker": "Georgie",
+      "text": "That's really impressive."
+     },
+     {
+      "t0": 333.93,
+      "t1": 334.59,
+      "speaker": "Neil",
+      "text": "It is."
+     },
+     {
+      "t0": 334.95,
+      "t1": 335.32,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 335.32,
+      "t1": 344.63,
+      "speaker": "Georgie",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with rejection, which means saying no or refusing an idea or suggestion."
+     },
+     {
+      "t0": 344.93,
+      "t1": 347.95,
+      "speaker": "Neil",
+      "text": "The verb spike means increase suddenly."
+     },
+     {
+      "t0": 348.29,
+      "t1": 353.81,
+      "speaker": "Georgie",
+      "text": "Someone who is socially anxious is nervous or worried about speaking to other people."
+     },
+     {
+      "t0": 354.17,
+      "t1": 357.77,
+      "speaker": "Neil",
+      "text": "If something comes easier, it's easier to achieve."
+     },
+     {
+      "t0": 358.37,
+      "t1": 362.47,
+      "speaker": "Georgie",
+      "text": "Perfectionism is the feeling that everything you do needs to be perfect."
+     },
+     {
+      "t0": 363.07,
+      "t1": 366.21,
+      "speaker": "Neil",
+      "text": "And if you appraise someone, you judge them."
+     },
+     {
+      "t0": 366.33,
+      "t1": 374.45,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but you can test what you've learned with the free worksheet on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 374.83,
+      "t1": 376.84,
+      "speaker": "Neil",
+      "text": "Thank you for joining us and goodbye."
+     },
+     {
+      "t0": 376.84,
+      "t1": 377.41,
+      "speaker": "Georgie",
+      "text": "Goodbye."
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'spike'와 'appraise'가 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "Which of these did NOT happen to Walt Disney before he became successful? a) he lost his job as an artist, b) his first business ran out of money, c) his first full-length film was a failure",
+   "answer": "c) 첫 장편 영화 'Snow White and the Seven Dwarfs'는 실패가 아니라 대성공이었어요. 보너스: Hannah는 첫 번째 낯선 사람에게 말 걸 때 아드레날린이 확 치솟았지만(spiking), 네 번째쯤엔 yes든 no든 상관없었대요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Sep 17",
+  "sentences": [
+   {
+    "text": "So, rejection means saying no to someone or refusing to accept their idea or suggestion.",
+    "ko": "rejection은 누군가에게 '아니요'라고 하거나 그 사람의 생각이나 제안을 받아들이지 않는다는 뜻이에요.",
+    "t0": 19.01,
+    "t1": 25.01,
+    "track": 0
+   },
+   {
+    "text": "But I think as you get older, you get used to it.",
+    "ko": "그래도 나이가 들수록 거기에 익숙해지는 것 같아요.",
+    "t0": 31.93,
+    "t1": 35.74,
+    "track": 0
+   },
+   {
+    "text": "And once I'd done one, the second one came easier and the third one came even easier.",
+    "ko": "그리고 한 번 해 보고 나니까 두 번째는 더 쉬웠고, 세 번째는 훨씬 더 쉬웠어요.",
+    "t0": 173.81,
+    "t1": 177.96,
+    "track": 0
+   },
+   {
+    "text": "Someone who is socially anxious is nervous or worried about speaking to other people.",
+    "ko": "socially anxious한 사람은 다른 사람과 이야기하는 걸 긴장하거나 걱정하는 사람이에요.",
+    "t0": 195.13,
+    "t1": 200.56,
+    "track": 0
+   },
+   {
+    "text": "Perfectionism is the feeling that everything you do needs to be perfect.",
+    "ko": "perfectionism(완벽주의)은 내가 하는 모든 일이 완벽해야 한다고 느끼는 거예요.",
+    "t0": 275.83,
+    "t1": 280.13,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Xi Jinping’s plan for a China-centric world order",
+  "url": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+  "source": "The Economist",
+  "section": "China · Chaguan · Nov 9th 2026",
+  "minutes": 6,
+  "summaryKo": "다음 주 선전 APEC 정상회의의 주제는 시진핑의 외교 독트린 '인류 운명 공동체(shared future)'를 그대로 따라 해요. 칼럼(Chaguan)은 이 개념이 막연한 말로 가득하지만, 실제로는 중국이 패권을 쥐는 질서, 즉 다른 나라가 중국의 우위를 인정하고 내정에 간섭하지 않는 '독재자에게 안전한 세계'를 뜻한다고 봐요. 다만 1950년대부터 내세운 '상호 불간섭' 원칙을 새로 포장한 것에 가까워서 오히려 덜 위협적이라는 결론이에요. (공개 전재본 기준 발췌)",
+  "excerpt": [
+   "When Donald Trump, Vladimir Putin and nearly 20 other national leaders gather in Shenzhen next week, they will be treated by Xi Jinping to displays of China’s marvels. Drones will swarm and sparkle overhead, fleets of humanoids will usher delegates through conference halls and ultrafast-charging electric vehicles will shuttle them between venues.",
+   "Set against that, talk of a shared future is less threatening precisely because it is not a bold new vision for the world. Rather, it is a rebranding of a long-standing strategy: deeply conservative, occasionally hypocritical and focused on China’s own betterment. Other countries may not love it. But they know it."
+  ],
+  "tip": "Chaguan은 Economist의 중국 칼럼 이름이에요. 'Rather, it is ...'처럼 앞 내용을 뒤집는 연결어를 찾아보세요. 마지막 두 문장(Other countries may not love it. But they know it.)처럼 짧게 끝내는 Economist식 마무리도 눈여겨보세요."
+ },
+ "vocab": [
+  {
+   "word": "rejection",
+   "meaning": "거절, 거부",
+   "example": "Nobody likes rejection, but you get used to it."
+  },
+  {
+   "word": "spike",
+   "meaning": "급증하다, 확 치솟다",
+   "example": "I felt my adrenaline really spiking."
+  },
+  {
+   "word": "appraise",
+   "meaning": "평가하다, 판단하다",
+   "example": "Young people worry about how others will appraise them."
+  },
+  {
+   "word": "a mouthful",
+   "meaning": "길고 말하기 어려운 표현",
+   "example": "The slogan is certainly a mouthful."
+  },
+  {
+   "word": "put meat on the bones",
+   "meaning": "(뼈대에) 살을 붙이다, 구체화하다",
+   "example": "Chinese scholars have tried to put meat on the bones."
+  },
+  {
+   "word": "defer to",
+   "meaning": "~의 뜻에 따르다, 존중해 양보하다",
+   "example": "He wants other countries to defer to China."
+  },
+  {
+   "word": "rebranding",
+   "meaning": "이미지 새 단장, 새로 포장하기",
+   "example": "It is a rebranding of a long-standing strategy."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English about a time you were rejected (a job, an idea at work, a request). How did you feel, and what did you learn?",
+  "question": "Would you try 'rejection therapy' to speak English with strangers? Why or why not?",
+  "hint": "이런 표현을 써 보세요: I once asked ... and they said no. / At first I felt ... / Once I'd done it, it came easier. / Looking back, I learned that ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain to a friend what rejection therapy is and whether you think it really builds confidence.",
+  "phrases": [
+   "It's a social media trend where people talk to strangers.",
+   "My adrenaline was really spiking.",
+   "Each time, it came easier."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Tell me about one thing that scared you at first but got easier with practice, in three sentences."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "목요일이에요. 어제 이어서 10페이지. 피곤하면 5페이지만 읽어도 충분해요. Minimum day도 OK."
+ }
+}
