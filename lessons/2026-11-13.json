@@ -1,0 +1,585 @@
+{
+ "date": "2026-11-13",
+ "theme": "Generations: grand-friends & the end of boomer times · 세대 이야기",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Learning from different generations",
+    "show": "BBC Learning English · 6 Minute English (Nov 12)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/261112_6_minute_english_learning_from_different_generations_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261112.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261112-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261122",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261122",
+    "note": "영국 체스터의 은퇴자 마을 안에 어린이집이 생겨서, 아이들과 어르신('grand-friends')이 함께 춤추고 종이비행기를 만든대요. 서우·윤우와 조부모님 생각하면서 들어 보세요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 5.24,
+      "t1": 6.24,
+      "speaker": "Phil",
+      "text": "Hi Georgie."
+     },
+     {
+      "t0": 6.24,
+      "t1": 7.29,
+      "speaker": "Georgie",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 16.15,
+      "t1": 23.27,
+      "speaker": "Phil",
+      "text": "So, Georgie, do you often spend time with people who are much older than you or much younger than you?"
+     },
+     {
+      "t0": 23.27,
+      "t1": 30.97,
+      "speaker": "Georgie",
+      "text": "I do, actually, because I'm in a choir, so there's quite a wide range of ages – lots of older people, lots of younger people."
+     },
+     {
+      "t0": 31.07,
+      "t1": 34.96,
+      "speaker": "Phil",
+      "text": "We can call an age group of people a generation."
+     },
+     {
+      "t0": 34.96,
+      "t1": 41.93,
+      "speaker": "Phil",
+      "text": "And you might feel that it's difficult to understand or agree with people from a different generation."
+     },
+     {
+      "t0": 42.39,
+      "t1": 55.21,
+      "speaker": "Phil",
+      "text": "Today on 6 Minute English, we're going to be finding out about a project that is gathering together the oldest people – that's those that are retired – with the youngest, and that's children who attend nursery."
+     },
+     {
+      "t0": 55.45,
+      "t1": 60.95,
+      "speaker": "Phil",
+      "text": "And we'll be asking the question, 'What can we learn from different generations?'"
+     },
+     {
+      "t0": 61.65,
+      "t1": 64.35,
+      "speaker": "Phil",
+      "text": "Let's start with our quiz question, Georgie."
+     },
+     {
+      "t0": 64.55,
+      "t1": 70.05,
+      "speaker": "Phil",
+      "text": "What generation would someone born in 1982 be in?"
+     },
+     {
+      "t0": 70.09,
+      "t1": 77.57,
+      "speaker": "Phil",
+      "text": "Is it: a) Generation X, b) Millennial, or c) Gen Z."
+     },
+     {
+      "t0": 78.25,
+      "t1": 81.32,
+      "speaker": "Georgie",
+      "text": "Phil, I'm going to go with Generation X."
+     },
+     {
+      "t0": 81.32,
+      "t1": 82.31,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 82.31,
+      "t1": 85.71,
+      "speaker": "Phil",
+      "text": "Well, we will find out the answer at the end of the programme."
+     },
+     {
+      "t0": 86.01,
+      "t1": 86.26,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 86.26,
+      "t1": 93.49,
+      "speaker": "Georgie",
+      "text": "Phil, so you said we're going to look at a project which gets small children interacting with older retired people."
+     },
+     {
+      "t0": 93.49,
+      "t1": 94.81,
+      "speaker": "Georgie",
+      "text": "So, how does it work?"
+     },
+     {
+      "t0": 95.11,
+      "t1": 101.87,
+      "speaker": "Phil",
+      "text": "Well, in Chester, in the northwest of England, a nursery has opened up in a retirement village."
+     },
+     {
+      "t0": 102.15,
+      "t1": 109.39,
+      "speaker": "Phil",
+      "text": "There's the usual nursery staff to look after the children, but the older residents can join in for activities as well."
+     },
+     {
+      "t0": 109.59,
+      "t1": 124.03,
+      "speaker": "Phil",
+      "text": "There's a library, a cafeteria and a garden for the children and the older people to share, and some of the older people or 'grand-friends', as the children call them, lead some of the activities, like dance or crafts."
+     },
+     {
+      "t0": 124.55,
+      "t1": 133.85,
+      "speaker": "Phil",
+      "text": "And presenter of BBC World Service podcast People Fixing the World, Myra Anubi, went to visit the special nursery and spoke to some of the participants."
+     },
+     {
+      "t0": 134.35,
+      "t1": 140.33,
+      "speaker": "Myra Anubi",
+      "text": "Ian was once a fighter pilot, and getting involved in the nursery has helped him fill a void."
+     },
+     {
+      "t0": 140.45,
+      "t1": 142.89,
+      "speaker": "Ian",
+      "text": "It was after my wife died last year."
+     },
+     {
+      "t0": 143.13,
+      "t1": 146.41,
+      "speaker": "Ian",
+      "text": "It seemed I had a big, big hole to fill."
+     },
+     {
+      "t0": 146.81,
+      "t1": 153.82,
+      "speaker": "Ian",
+      "text": "And the people down in the nursery, they phoned me up and said, \"We were doing such and such a thing."
+     },
+     {
+      "t0": 153.82,
+      "t1": 155.43,
+      "speaker": "Ian",
+      "text": "Why don't you come and join us?\""
+     },
+     {
+      "t0": 155.91,
+      "t1": 157.63,
+      "speaker": "Ian",
+      "text": "And that's what I've been doing."
+     },
+     {
+      "t0": 158.73,
+      "t1": 161.41,
+      "speaker": "Ian",
+      "text": "So, yes, and I've enjoyed it."
+     },
+     {
+      "t0": 161.61,
+      "t1": 166.17,
+      "speaker": "Ian",
+      "text": "And I find it very interesting to see how they develop."
+     },
+     {
+      "t0": 166.19,
+      "t1": 171.15,
+      "speaker": "Myra Anubi",
+      "text": "One of the things I heard from the grapevine is that you help the children make paper planes."
+     },
+     {
+      "t0": 171.15,
+      "t1": 172.05,
+      "speaker": "Ian",
+      "text": "That's right."
+     },
+     {
+      "t0": 172.05,
+      "t1": 177.17,
+      "speaker": "Georgie",
+      "text": "Myra says that the nursery helped Ian fill a void after his wife sadly died."
+     },
+     {
+      "t0": 177.33,
+      "t1": 181.77,
+      "speaker": "Georgie",
+      "text": "If you fill a void, you find something to help you feel better after a loss."
+     },
+     {
+      "t0": 181.95,
+      "t1": 192.14,
+      "speaker": "Phil",
+      "text": "Ian explains that after his wife died, staff at the nursery would phone him to tell him about the daily activities, which he refers to as such and such."
+     },
+     {
+      "t0": 192.14,
+      "t1": 197.61,
+      "speaker": "Phil",
+      "text": "And that's an expression that we use to talk about something without giving a specific example."
+     },
+     {
+      "t0": 197.73,
+      "t1": 207.71,
+      "speaker": "Georgie",
+      "text": "It sounds like Ian has enjoyed spending time with the children at the nursery, and Myra tells him she's heard from the grapevine that he's been teaching the children to make paper planes."
+     },
+     {
+      "t0": 207.91,
+      "t1": 213.56,
+      "speaker": "Phil",
+      "text": "Yes, hear from the grapevine is an expression, meaning that something is a rumour."
+     },
+     {
+      "t0": 213.56,
+      "t1": 216.13,
+      "speaker": "Phil",
+      "text": "And we also say, hear on the grapevine."
+     },
+     {
+      "t0": 216.35,
+      "t1": 219.85,
+      "speaker": "Georgie",
+      "text": "Well, this nursery sounds like a really lovely project, Phil."
+     },
+     {
+      "t0": 220.15,
+      "t1": 223.63,
+      "speaker": "Georgie",
+      "text": "What is the impact it's having on the older and younger people?"
+     },
+     {
+      "t0": 223.79,
+      "t1": 236.15,
+      "speaker": "Phil",
+      "text": "Well, the charity Ready Generations, which runs the nursery, says it works with universities to study the effects of mixing generations on health and wellbeing, and they say they've seen positive results."
+     },
+     {
+      "t0": 236.61,
+      "t1": 251.13,
+      "speaker": "Phil",
+      "text": "And there have been studies around the world on projects that encourage different generations to mix, and they found that they can help reduce loneliness, improve how healthy and well people feel, and even boost learning and creativity."
+     },
+     {
+      "t0": 251.77,
+      "t1": 261.63,
+      "speaker": "Phil",
+      "text": "People Fixing the World host Myra spoke to Liz Ludden, co-founder of the nursery in Chester, about the differences that she's noticed since it opened."
+     },
+     {
+      "t0": 261.91,
+      "t1": 266.73,
+      "speaker": "Myra Anubi",
+      "text": "And as I realised, these interactions also seem to be breaking down stereotypes."
+     },
+     {
+      "t0": 266.99,
+      "t1": 275.65,
+      "speaker": "Liz Ludden",
+      "text": "Your first thought would be how lively and energetic young children can be, and what we found is so can older people."
+     },
+     {
+      "t0": 275.99,
+      "t1": 281.85,
+      "speaker": "Liz Ludden",
+      "text": "And so sometimes, you know, it's the older people that we're saying, \"Can we just calm this down a little bit?\""
+     },
+     {
+      "t0": 281.93,
+      "t1": 284.83,
+      "speaker": "Georgie",
+      "text": "Myra says the nursery breaks down stereotypes."
+     },
+     {
+      "t0": 284.87,
+      "t1": 289.95,
+      "speaker": "Georgie",
+      "text": "This means it provides evidence that common beliefs about a group of people are not true."
+     },
+     {
+      "t0": 290.15,
+      "t1": 301.25,
+      "speaker": "Phil",
+      "text": "For example, a stereotype about generations is that younger people are lively, meaning they're loud and have lots of energy, whereas older people are not that lively."
+     },
+     {
+      "t0": 301.63,
+      "t1": 302.21,
+      "speaker": "Georgie",
+      "text": "Right."
+     },
+     {
+      "t0": 302.21,
+      "t1": 309.59,
+      "speaker": "Georgie",
+      "text": "But in the nursery, Liz says it's often the older people who have lots of energy and are being noisy rather than the children."
+     },
+     {
+      "t0": 309.75,
+      "t1": 312.93,
+      "speaker": "Georgie",
+      "text": "The staff even have to tell them to calm down sometimes!"
+     },
+     {
+      "t0": 313.51,
+      "t1": 316.85,
+      "speaker": "Phil",
+      "text": "So, Georgie, is that something that you found in your choir?"
+     },
+     {
+      "t0": 317.23,
+      "t1": 318.04,
+      "speaker": "Georgie",
+      "text": "Actually, yes."
+     },
+     {
+      "t0": 318.04,
+      "t1": 320.78,
+      "speaker": "Georgie",
+      "text": "The older people in my choir are big characters."
+     },
+     {
+      "t0": 320.78,
+      "t1": 323.65,
+      "speaker": "Georgie",
+      "text": "It's often them who are dragging us all to the pub...!"
+     },
+     {
+      "t0": 324.23,
+      "t1": 324.7,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 324.7,
+      "t1": 328.13,
+      "speaker": "Phil",
+      "text": "Georgie, I think it's time to look at the answer for that question."
+     },
+     {
+      "t0": 328.43,
+      "t1": 334.55,
+      "speaker": "Phil",
+      "text": "I asked if someone was born in 1982, which generation would they be from?"
+     },
+     {
+      "t0": 334.93,
+      "t1": 336.93,
+      "speaker": "Georgie",
+      "text": "I said Generation X."
+     },
+     {
+      "t0": 337.53,
+      "t1": 337.82,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 337.82,
+      "t1": 342.5,
+      "speaker": "Phil",
+      "text": "Well, actually, I'm afraid the answer was b) – they're a Millennial, just like you!"
+     },
+     {
+      "t0": 342.5,
+      "t1": 343.2,
+      "speaker": "Georgie",
+      "text": "Ah...!"
+     },
+     {
+      "t0": 344.17,
+      "t1": 344.85,
+      "speaker": "Georgie",
+      "text": "OK."
+     },
+     {
+      "t0": 344.85,
+      "t1": 352.51,
+      "speaker": "Georgie",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with generation, which is a group of people who are of a similar age."
+     },
+     {
+      "t0": 352.69,
+      "t1": 358.43,
+      "speaker": "Phil",
+      "text": "Fill a void means find something to help you feel better after experiencing loss."
+     },
+     {
+      "t0": 358.99,
+      "t1": 363.63,
+      "speaker": "Georgie",
+      "text": "Such and such is a way to talk about something without giving a specific example."
+     },
+     {
+      "t0": 363.89,
+      "t1": 368.15,
+      "speaker": "Phil",
+      "text": "If you hear something on the grapevine, you hear a rumour."
+     },
+     {
+      "t0": 368.33,
+      "t1": 375.07,
+      "speaker": "Georgie",
+      "text": "The expression break down stereotypes means find evidence that common beliefs about a group of people are untrue."
+     },
+     {
+      "t0": 375.15,
+      "t1": 378.99,
+      "speaker": "Phil",
+      "text": "And lively means loud and with lots of energy."
+     },
+     {
+      "t0": 379.23,
+      "t1": 384.15,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but you can test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 384.15,
+      "t1": 386.63,
+      "speaker": "Georgie",
+      "text": "Go to bbclearningenglish.com."
+     },
+     {
+      "t0": 386.63,
+      "t1": 388.81,
+      "speaker": "Phil",
+      "text": "Thanks for joining us and goodbye."
+     },
+     {
+      "t0": 388.91,
+      "t1": 389.51,
+      "speaker": "Georgie",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'fill a void'와 'hear on the grapevine'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "What generation would someone born in 1982 be in? a) Generation X, b) Millennial, c) Gen Z",
+   "answer": "b) Millennial. Georgie는 Generation X라고 했지만 틀렸어요. 보너스: 어린이집에서는 오히려 어르신들이 더 lively해서 직원들이 'Can we just calm this down?'이라고 할 때도 있대요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Nov 12",
+  "sentences": [
+   {
+    "text": "We can call an age group of people a generation.",
+    "ko": "비슷한 나이대의 사람들을 generation(세대)이라고 부를 수 있어요.",
+    "t0": 31.07,
+    "t1": 34.96,
+    "track": 0
+   },
+   {
+    "text": "It seemed I had a big, big hole to fill.",
+    "ko": "마음에 아주 큰 구멍이 생긴 것 같았어요.",
+    "t0": 143.13,
+    "t1": 146.41,
+    "track": 0
+   },
+   {
+    "text": "And I find it very interesting to see how they develop.",
+    "ko": "그리고 아이들이 어떻게 자라는지 보는 게 정말 흥미로워요.",
+    "t0": 161.61,
+    "t1": 166.17,
+    "track": 0
+   },
+   {
+    "text": "Well, this nursery sounds like a really lovely project, Phil.",
+    "ko": "이 어린이집 정말 멋진 프로젝트 같네요, Phil.",
+    "t0": 216.35,
+    "t1": 219.85,
+    "track": 0
+   },
+   {
+    "text": "The staff even have to tell them to calm down sometimes!",
+    "ko": "직원들이 가끔은 어르신들한테 좀 진정하시라고 말해야 할 정도래요!",
+    "t0": 309.75,
+    "t1": 312.93,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "For boomers, economic boom times are over",
+  "url": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+  "source": "The Economist",
+  "section": "Finance & economics · Nov 10th 2026",
+  "minutes": 8,
+  "summaryKo": "베이비붐 세대가 집·주식·연금을 다 가져갔다는 불만이 흔하지만, Economist의 데이터 분석으로는 부자 나라들이 이미 '피크 부머'를 지났어요. 32개국 중 26개국에서 노인 소득이 젊은 층보다 상대적으로 줄고 있고, 밀레니얼·Z세대는 자산을 빠르게 쌓고 있어요. 이유는 탄탄한 고용과 임금, 고정 연금을 갉아먹은 인플레이션, 그리고 연금 개혁·은퇴 연령 상향·아동수당 확대 같은 정책 변화예요. 한국의 아동수당 확대도 예로 나와요. (공개 전재본 기준 발췌)",
+  "excerpt": [
+   "The riots in France gave another airing to a familiar grievance: that baby-boomers have cornered the market. After cushy careers, the gripe goes, people born between the mid-1940s and mid-1960s own all the best houses and most of the stock market, while receiving generous pensions to boot.",
+   "Mr Moyn’s book and the sentiment it reflects may, however, be out of date. A range of data analysed by The Economist suggests that the world has passed peak boomer. Elderly incomes are falling relative to those of working-age people, the young are accumulating more wealth and governments are introducing more policies that benefit the stripling."
+  ],
+  "tip": "'the gripe goes'는 '불평에 따르면'이라는 뜻으로, 남의 주장을 소개할 때 쓰는 Economist식 표현이에요. 둘째 문단의 'may, however, be out of date'처럼 however를 문장 중간에 넣어 앞 내용을 뒤집는 구조도 눈여겨보세요."
+ },
+ "vocab": [
+  {
+   "word": "generation",
+   "meaning": "세대",
+   "example": "Someone born in 1982 is a Millennial, not Generation X."
+  },
+  {
+   "word": "fill a void",
+   "meaning": "(상실 후) 빈자리를 채우다",
+   "example": "Joining the nursery helped him fill a void after his wife died."
+  },
+  {
+   "word": "hear on the grapevine",
+   "meaning": "소문으로 듣다",
+   "example": "I heard on the grapevine that you help the children make paper planes."
+  },
+  {
+   "word": "break down stereotypes",
+   "meaning": "고정관념을 깨다",
+   "example": "These interactions seem to be breaking down stereotypes."
+  },
+  {
+   "word": "corner the market",
+   "meaning": "시장을 독차지하다",
+   "example": "Many people feel that baby-boomers have cornered the market."
+  },
+  {
+   "word": "grievance",
+   "meaning": "불만, 불평거리",
+   "example": "The riots gave another airing to a familiar grievance."
+  },
+  {
+   "word": "to boot",
+   "meaning": "게다가, 덤으로",
+   "example": "They own the best houses, and receive generous pensions to boot."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English about your kids and their grandparents. What do they do together, and what do they learn from each other?",
+  "question": "In Korea, do you think older or younger people have it easier today? Why?",
+  "hint": "이런 표현을 써 보세요: My kids have a special bond with ... / When they visit, they usually ... / I think older people can teach ... / On the other hand, young people today ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, describe the 'grand-friends' nursery from the podcast and say whether you would like one like it in Mokdong.",
+  "phrases": [
+   "A nursery has opened up in a retirement village.",
+   "It helps older people fill a void.",
+   "It breaks down stereotypes about generations."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Tell me about one older person who taught you something important, in three sentences."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "금요일이에요. 한 주 수고 많았어요! 어제 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
