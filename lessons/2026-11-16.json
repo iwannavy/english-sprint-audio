@@ -1,0 +1,585 @@
+{
+ "date": "2026-11-16",
+ "theme": "Learning smarter: language apps & new lab tests · 배우는 방법, 진단하는 방법",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Can apps teach you a language?",
+    "show": "BBC Learning English · 6 Minute English (Sep 10)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260910_6_minute_english_can_apps_teach_you_a_language_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260910.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260910-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910",
+    "note": "Duolingo 같은 앱으로 정말 언어를 배울 수 있을까요? 연구 결과: 앱 학습자는 문법 시험에서, 교실 학습자는 듣기에서 더 늘었대요. 결론은 '앱 + 다른 방법 조합'. 지금 EnglishSprint로 하는 방식과 딱 맞는 이야기예요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 7.33,
+      "t1": 11.53,
+      "speaker": "Neil",
+      "text": "Hello and welcome to 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 11.53,
+      "t1": 12.15,
+      "speaker": "Neil",
+      "text": "I'm Neil."
+     },
+     {
+      "t0": 12.15,
+      "t1": 13.35,
+      "speaker": "Pippa",
+      "text": "And I'm Pippa."
+     },
+     {
+      "t0": 13.35,
+      "t1": 19.85,
+      "speaker": "Pippa",
+      "text": "Apps like Duolingo, Babbel and Busuu all aim to help you learn a language, but do they really help?"
+     },
+     {
+      "t0": 19.95,
+      "t1": 27.73,
+      "speaker": "Pippa",
+      "text": "We'll be trying to answer that question in today's episode of 6 Minute English, and as usual we'll be learning some useful new vocabulary too."
+     },
+     {
+      "t0": 27.73,
+      "t1": 34.29,
+      "speaker": "Neil",
+      "text": "Yes, and don't forget to head to our website for a transcript of this episode and a free worksheet to test what you've learnt."
+     },
+     {
+      "t0": 34.29,
+      "t1": 37.17,
+      "speaker": "Neil",
+      "text": "It's all at bbclearningenglish.com."
+     },
+     {
+      "t0": 37.27,
+      "t1": 37.53,
+      "speaker": "Pippa",
+      "text": "OK."
+     },
+     {
+      "t0": 37.53,
+      "t1": 40.07,
+      "speaker": "Pippa",
+      "text": "Neil, let's start with a quiz question."
+     },
+     {
+      "t0": 40.13,
+      "t1": 44.09,
+      "speaker": "Pippa",
+      "text": "Which of these is not a language you can learn using Duolingo?"
+     },
+     {
+      "t0": 44.45,
+      "t1": 49.17,
+      "speaker": "Pippa",
+      "text": "Is it: a) Latin, b) Klingon, or c) Elvish?"
+     },
+     {
+      "t0": 49.43,
+      "t1": 52.53,
+      "speaker": "Neil",
+      "text": "I'm going to say c) Elvish."
+     },
+     {
+      "t0": 52.65,
+      "t1": 55.33,
+      "speaker": "Pippa",
+      "text": "Well, we'll find out at the end of the programme."
+     },
+     {
+      "t0": 55.71,
+      "t1": 58.66,
+      "speaker": "Pippa",
+      "text": "Now, people might be familiar with the app Duolingo."
+     },
+     {
+      "t0": 58.66,
+      "t1": 64.91,
+      "speaker": "Pippa",
+      "text": "And then there are other apps which say they can help you learn a language quickly – Bussuu and Babbel, for example."
+     },
+     {
+      "t0": 64.91,
+      "t1": 68.11,
+      "speaker": "Neil",
+      "text": "And listeners might be familiar with how they tend to work."
+     },
+     {
+      "t0": 68.13,
+      "t1": 71.93,
+      "speaker": "Neil",
+      "text": "You get short lessons which test you on a repeated set of words."
+     },
+     {
+      "t0": 71.93,
+      "t1": 72.49,
+      "speaker": "Pippa",
+      "text": "Right."
+     },
+     {
+      "t0": 72.49,
+      "t1": 82.01,
+      "speaker": "Pippa",
+      "text": "And many of these apps say they focus on teaching language for situations and implicit learning, rather than directly teaching language rules such as grammar."
+     },
+     {
+      "t0": 82.09,
+      "t1": 86.39,
+      "speaker": "Pippa",
+      "text": "If something is implicit, it's suggested but not communicated directly."
+     },
+     {
+      "t0": 86.43,
+      "t1": 86.77,
+      "speaker": "Neil",
+      "text": "Yes."
+     },
+     {
+      "t0": 86.77,
+      "t1": 93.55,
+      "speaker": "Neil",
+      "text": "So, if you think about how children learn to speak their first language, it's mostly implicit – they don't have lessons."
+     },
+     {
+      "t0": 94.01,
+      "t1": 95.69,
+      "speaker": "Neil",
+      "text": "But can this work for adults?"
+     },
+     {
+      "t0": 95.91,
+      "t1": 102.27,
+      "speaker": "Pippa",
+      "text": "BBC Radio 4 programme Sliced Bread has been investigating the evidence behind language learning apps."
+     },
+     {
+      "t0": 102.29,
+      "t1": 109.03,
+      "speaker": "Pippa",
+      "text": "Presenter Greg Foot spoke to language learning expert Professor Elizabeth Wonnacott, or Liz, about implicit learning."
+     },
+     {
+      "t0": 109.03,
+      "t1": 119.68,
+      "speaker": "Professor Elizabeth Wonnacott",
+      "text": "There is a very big difference between being a child who gets constantly exposed to this world of language, compared with trying to learn a language a few hours a week."
+     },
+     {
+      "t0": 119.68,
+      "t1": 126.25,
+      "speaker": "Professor Elizabeth Wonnacott",
+      "text": "There is quite a bit of evidence that some explicit teaching of, for example, grammar and vocabulary is helpful."
+     },
+     {
+      "t0": 126.25,
+      "t1": 126.76,
+      "speaker": "Greg Foot",
+      "text": "Got you."
+     },
+     {
+      "t0": 126.76,
+      "t1": 135.67,
+      "speaker": "Greg Foot",
+      "text": "So, it would be helpful to try to mimic what children do, which is full immersion, but realistically you're not going to get to those levels."
+     },
+     {
+      "t0": 135.77,
+      "t1": 145.55,
+      "speaker": "Neil",
+      "text": "Liz says that while children learn their first language implicitly by being constantly surrounded by the language, adults are often learning for only a few hours a week."
+     },
+     {
+      "t0": 145.55,
+      "t1": 145.99,
+      "speaker": "Pippa",
+      "text": "Yes."
+     },
+     {
+      "t0": 145.99,
+      "t1": 151.73,
+      "speaker": "Pippa",
+      "text": "So, for adults trying to learn a new language, research has shown that some explicit teaching is helpful."
+     },
+     {
+      "t0": 152.05,
+      "t1": 154.23,
+      "speaker": "Pippa",
+      "text": "Explicit is the opposite of implicit."
+     },
+     {
+      "t0": 154.25,
+      "t1": 159.69,
+      "speaker": "Pippa",
+      "text": "So, for example, explicit grammar teaching would be somebody explaining a grammar rule to you."
+     },
+     {
+      "t0": 159.75,
+      "t1": 160.31,
+      "speaker": "Neil",
+      "text": "Right."
+     },
+     {
+      "t0": 160.31,
+      "t1": 165.39,
+      "speaker": "Neil",
+      "text": "So, adults can't realistically achieve full immersion in a language like children do."
+     },
+     {
+      "t0": 165.43,
+      "t1": 168.45,
+      "speaker": "Neil",
+      "text": "Immersion means being completely surrounded by something."
+     },
+     {
+      "t0": 168.55,
+      "t1": 169.11,
+      "speaker": "Pippa",
+      "text": "OK."
+     },
+     {
+      "t0": 169.21,
+      "t1": 176.22,
+      "speaker": "Pippa",
+      "text": "So, a mixture of the implicit teaching of the apps and some explicit teaching – for example, learning grammar rules – is useful."
+     },
+     {
+      "t0": 176.22,
+      "t1": 181.99,
+      "speaker": "Pippa",
+      "text": "But Neil, there's limited research about just how effective these apps can be at teaching you a language."
+     },
+     {
+      "t0": 182.05,
+      "t1": 195.41,
+      "speaker": "Neil",
+      "text": "Indeed, Liz Wonnacott has seen one study she thinks could be interesting though, which compares two groups of Spanish speakers learning English – one using an app and one attending classes – for a similar amount of time."
+     },
+     {
+      "t0": 195.67,
+      "t1": 199.57,
+      "speaker": "Neil",
+      "text": "She explains more to BBC Radio 4 programme Sliced Bread."
+     },
+     {
+      "t0": 199.57,
+      "t1": 211.99,
+      "speaker": "Professor Elizabeth Wonnacott",
+      "text": "The key finding was that in some of the tests, written grammar tests, the Duolingo learners actually improved a bit more, while actually in a test where they were looking at listening the classroom learners appeared to improve more."
+     },
+     {
+      "t0": 212.45,
+      "t1": 219.77,
+      "speaker": "Professor Elizabeth Wonnacott",
+      "text": "So, it's really promising, but of course it's one particular language, in one particular app, against one particular school."
+     },
+     {
+      "t0": 219.89,
+      "t1": 229.15,
+      "speaker": "Pippa",
+      "text": "Liz says the key finding from the research is that the app users improved more on written tests, but the classroom learners improved more on listening tests."
+     },
+     {
+      "t0": 229.35,
+      "t1": 233.0,
+      "speaker": "Pippa",
+      "text": "A key finding is the most important conclusion of a piece of research."
+     },
+     {
+      "t0": 233.0,
+      "t1": 237.85,
+      "speaker": "Neil",
+      "text": "Liz says the study is promising, which means it shows signs of being positive."
+     },
+     {
+      "t0": 237.95,
+      "t1": 238.37,
+      "speaker": "Pippa",
+      "text": "Yes."
+     },
+     {
+      "t0": 238.37,
+      "t1": 241.13,
+      "speaker": "Pippa",
+      "text": "However, Liz points out the limits of the study."
+     },
+     {
+      "t0": 241.23,
+      "t1": 247.09,
+      "speaker": "Pippa",
+      "text": "It's only looking at one particular language, one particular app and one particular language school."
+     },
+     {
+      "t0": 247.23,
+      "t1": 257.11,
+      "speaker": "Pippa",
+      "text": "The repetition of one particular here means specific or individual, and Liz would like to see research on more apps, more types of teaching and also more different languages."
+     },
+     {
+      "t0": 257.37,
+      "t1": 273.15,
+      "speaker": "Neil",
+      "text": "Apps can help us learn some parts of a language, but in this study they weren't as successful at improving listening skills, and so Liz concludes that combining learning in apps with some other ways of studying is the best way to try to improve your language skills."
+     },
+     {
+      "t0": 273.15,
+      "t1": 282.09,
+      "speaker": "Professor Elizabeth Wonnacott",
+      "text": "Probably moving forwards, some combination of human teaching and these platforms to give us that repetition is probably going to be the right direction."
+     },
+     {
+      "t0": 282.23,
+      "t1": 289.17,
+      "speaker": "Neil",
+      "text": "As teachers, we'd also suggest doing things that help you improve different skills – speaking, listening, reading and writing."
+     },
+     {
+      "t0": 289.17,
+      "t1": 297.05,
+      "speaker": "Neil",
+      "text": "So, listening to podcasts or trying to practise speaking with a language exchange partner could be things to combine with learning in apps."
+     },
+     {
+      "t0": 297.11,
+      "t1": 298.75,
+      "speaker": "Neil",
+      "text": "Find what works for you."
+     },
+     {
+      "t0": 298.75,
+      "t1": 302.55,
+      "speaker": "Pippa",
+      "text": "I think it's time to find out the answer to the quiz question, Neil."
+     },
+     {
+      "t0": 302.85,
+      "t1": 307.96,
+      "speaker": "Pippa",
+      "text": "I asked you which language you can't learn on Duolingo... and you were right."
+     },
+     {
+      "t0": 307.96,
+      "t1": 315.25,
+      "speaker": "Pippa",
+      "text": "It's c) Elvish, but you can learn Latin and Klingon, the fictional language from the TV series Star Trek, on Duolingo."
+     },
+     {
+      "t0": 315.49,
+      "t1": 320.14,
+      "speaker": "Pippa",
+      "text": "And if you did want to improve your Elvish, we did find an app specifically for that."
+     },
+     {
+      "t0": 320.14,
+      "t1": 320.79,
+      "speaker": "Neil",
+      "text": "Right."
+     },
+     {
+      "t0": 320.79,
+      "t1": 323.83,
+      "speaker": "Neil",
+      "text": "Let's recap the vocabulary we learned in this episode."
+     },
+     {
+      "t0": 324.09,
+      "t1": 327.63,
+      "speaker": "Neil",
+      "text": "Implicit means suggested but not communicated directly."
+     },
+     {
+      "t0": 327.83,
+      "t1": 330.23,
+      "speaker": "Pippa",
+      "text": "Explicit is the opposite of implicit."
+     },
+     {
+      "t0": 330.43,
+      "t1": 333.09,
+      "speaker": "Pippa",
+      "text": "It means something is communicated directly."
+     },
+     {
+      "t0": 333.29,
+      "t1": 336.63,
+      "speaker": "Neil",
+      "text": "Immersion is the state of being fully surrounded by something."
+     },
+     {
+      "t0": 336.77,
+      "t1": 341.87,
+      "speaker": "Pippa",
+      "text": "The key finding of a research study is the most important conclusion of the research."
+     },
+     {
+      "t0": 342.05,
+      "t1": 345.93,
+      "speaker": "Neil",
+      "text": "And the phrase one particular means specific or individual."
+     },
+     {
+      "t0": 346.19,
+      "t1": 348.31,
+      "speaker": "Pippa",
+      "text": "Once again, our six minutes are up."
+     },
+     {
+      "t0": 348.31,
+      "t1": 350.97,
+      "speaker": "Pippa",
+      "text": "Test what you've learned with the worksheet on our website."
+     },
+     {
+      "t0": 351.31,
+      "t1": 359.89,
+      "speaker": "Neil",
+      "text": "And if you're interested to hear the full episode of Sliced Bread about language-learning apps and the science behind them, there's a link in the notes below this episode."
+     },
+     {
+      "t0": 360.07,
+      "t1": 366.15,
+      "speaker": "Neil",
+      "text": "Try listening on 0.5 speed or in short sections if you find it too difficult to keep up."
+     },
+     {
+      "t0": 366.19,
+      "t1": 367.01,
+      "speaker": "Pippa",
+      "text": "Bye for now!"
+     },
+     {
+      "t0": 367.01,
+      "t1": 367.61,
+      "speaker": "Neil",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'implicit / explicit'과 'immersion'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "Which of these is NOT a language you can learn using Duolingo? a) Latin, b) Klingon, c) Elvish",
+   "answer": "c) Elvish. Neil이 맞혔어요! Klingon은 Star Trek에 나오는 가상의 언어인데 Duolingo에서 배울 수 있대요. 보너스: 연구에서 앱 학습자는 written grammar test에서, 교실 학습자는 listening test에서 더 많이 늘었어요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Sep 10",
+  "sentences": [
+   {
+    "text": "If something is implicit, it's suggested but not communicated directly.",
+    "ko": "무언가가 implicit하다는 건, 직접 말하지 않고 암시된다는 뜻이에요.",
+    "t0": 82.09,
+    "t1": 86.39,
+    "track": 0
+   },
+   {
+    "text": "So, adults can't realistically achieve full immersion in a language like children do.",
+    "ko": "그래서 어른들은 아이들처럼 언어에 완전히 몰입하기가 현실적으로 어려워요.",
+    "t0": 160.31,
+    "t1": 165.39,
+    "track": 0
+   },
+   {
+    "text": "However, Liz points out the limits of the study.",
+    "ko": "하지만 Liz는 이 연구의 한계를 지적해요.",
+    "t0": 238.37,
+    "t1": 241.13,
+    "track": 0
+   },
+   {
+    "text": "Immersion is the state of being fully surrounded by something.",
+    "ko": "Immersion(몰입)은 무언가에 완전히 둘러싸인 상태예요.",
+    "t0": 333.29,
+    "t1": 336.63,
+    "track": 0
+   },
+   {
+    "text": "Find what works for you.",
+    "ko": "자기에게 맞는 방법을 찾으세요.",
+    "t0": 297.11,
+    "t1": 298.75,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Scientists are at last starting to understand endometriosis",
+  "url": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-at-last-starting-to-understand-endometriosis",
+  "source": "The Economist",
+  "section": "Science & technology · Nov 9th 2026",
+  "minutes": 7,
+  "summaryKo": "자궁내막증은 전 세계 약 1억9천만 명이 앓지만 원인도 잘 모르고, 진단까지 거의 9년이 걸리며 복강경·생검 같은 침습적 검사가 필요했어요. 최근 대규모 유전체 연구(최대 140만 명)로 면역·호르몬 관련 유전자가 밝혀졌고, 생리혈 속 백혈구 모양(핵이 작고 lobe가 많음), 단백질·microRNA 바이오마커, 새 영상 조영제 같은 '수술 없는 진단법'이 개발 중이에요. 비호르몬 치료제 임상도 시작됐지만, 연구비는 여전히 부족하대요. 임상병리 관점에서 읽어 보면 재미있어요. (공개 전재본 기준 발췌)",
+  "excerpt": [
+   "Modern medicine cannot cure endometriosis, and treatments are inadequate. Its causes are still largely unknown. Obtaining a diagnosis can take almost nine years, requiring such invasive surgical procedures as laparoscopies and biopsies.",
+   "Research efforts on quicker and less invasive means of diagnosing the disease have also ramped up. Katherine Burns of the University of Cincinnati has spent time studying white blood cells in the menstrual fluid of women with the disease. She has found they are distinctive in two ways: the cell nuclei are smaller, and they have more lobes than their healthy equivalents."
+  ],
+  "tip": "'such invasive surgical procedures as ...'는 'such A as B'(B 같은 A) 구조예요. 'have ramped up'은 '빠르게 늘어났다'는 뜻으로, 연구·생산·투자가 늘 때 Economist가 자주 써요. 병원에서 쓰는 단어(biopsy, biomarker, nuclei, lobes)가 영어 기사에서는 어떻게 쓰이는지도 보세요."
+ },
+ "vocab": [
+  {
+   "word": "implicit / explicit",
+   "meaning": "암시적인 / 명시적인",
+   "example": "Some explicit teaching of grammar is helpful for adults."
+  },
+  {
+   "word": "immersion",
+   "meaning": "몰입, (언어 환경에) 푹 잠김",
+   "example": "Adults can't realistically achieve full immersion like children do."
+  },
+  {
+   "word": "key finding",
+   "meaning": "(연구의) 핵심 결과",
+   "example": "The key finding was that app users improved more on written tests."
+  },
+  {
+   "word": "promising",
+   "meaning": "유망한, 조짐이 좋은",
+   "example": "The study is promising, but it has limits."
+  },
+  {
+   "word": "invasive",
+   "meaning": "침습적인",
+   "example": "Diagnosis requires invasive procedures such as biopsies."
+  },
+  {
+   "word": "ramp up",
+   "meaning": "(빠르게) 늘리다, 강화하다",
+   "example": "Research on less invasive diagnosis has ramped up."
+  },
+  {
+   "word": "on a shoestring",
+   "meaning": "아주 적은 돈으로, 쥐꼬리만 한 예산으로",
+   "example": "Much of the work so far has been done on a shoestring."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English about how you are learning English now. What works for you, and what is hard?",
+  "question": "In your lab, which test would you most like to make faster or less invasive for patients? Why?",
+  "hint": "이런 표현을 써 보세요: These days I study English by ... / What works for me is ... / The hardest part is ... / In my lab, I wish we could ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain the key finding of the language-app study from the podcast, and say whether you agree with Liz's conclusion.",
+  "phrases": [
+   "The key finding was that ...",
+   "Apps are good for repetition, but ...",
+   "I think the best way is a combination of ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Tell me about one app you use every day, in three sentences."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "새로운 한 주 시작이에요. 지난주에 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
