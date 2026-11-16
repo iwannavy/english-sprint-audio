@@ -1,0 +1,573 @@
+{
+ "date": "2026-11-17",
+ "theme": "Storms & AI race: big forces, big changes · 날씨와 AI, 거대한 변화",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Climate change and extreme weather",
+    "show": "BBC Learning English · 6 Minute English (Sep 3)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260903_6_minute_english_storms_and_climate_change_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260903.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260903-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903",
+    "note": "BBC 기상캐스터 Sarah Keith-Lucas와 함께 기후변화가 태풍·허리케인 같은 극한 날씨를 어떻게 바꾸는지 이야기해요. 태풍이 느려지면 비와 바람이 더 오래 머물고, 해수면 상승으로 storm surge(폭풍 해일)가 더 위험해진대요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 4.81,
+      "t1": 11.35,
+      "speaker": "Phil",
+      "text": "Hello, this is 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 11.49,
+      "t1": 12.39,
+      "speaker": "Phil",
+      "text": "I'm Phil."
+     },
+     {
+      "t0": 12.39,
+      "t1": 20.35,
+      "speaker": "Phil",
+      "text": "It seems that we're hearing about more and more terrible weather, but how exactly is climate change affecting extreme weather?"
+     },
+     {
+      "t0": 20.35,
+      "t1": 26.41,
+      "speaker": "Phil",
+      "text": "I'm lucky today to be joined by BBC Weather forecaster, meteorologist and presenter, Sarah Keith-Lucas."
+     },
+     {
+      "t0": 26.51,
+      "t1": 27.29,
+      "speaker": "Phil",
+      "text": "Hi Sarah."
+     },
+     {
+      "t0": 27.31,
+      "t1": 27.88,
+      "speaker": "Sarah",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 27.88,
+      "t1": 28.84,
+      "speaker": "Sarah",
+      "text": "It's great to be here."
+     },
+     {
+      "t0": 28.84,
+      "t1": 32.99,
+      "speaker": "Phil",
+      "text": "Sarah's here to help us understand what's happening with extreme weather."
+     },
+     {
+      "t0": 33.03,
+      "t1": 43.12,
+      "speaker": "Phil",
+      "text": "She'll also help explain some of the words and expressions used in a new series of BBC Learning English videos all about weather and climate and the language we use to talk about them."
+     },
+     {
+      "t0": 43.12,
+      "t1": 46.97,
+      "speaker": "Phil",
+      "text": "You can find the link to them on our webpage, or in the show notes for this podcast."
+     },
+     {
+      "t0": 47.05,
+      "t1": 53.98,
+      "speaker": "Phil",
+      "text": "Sarah, let’s start with a really important question: what’s the difference between climate and weather?"
+     },
+     {
+      "t0": 53.98,
+      "t1": 56.03,
+      "speaker": "Sarah",
+      "text": "That’s a great question, Phil."
+     },
+     {
+      "t0": 56.03,
+      "t1": 59.33,
+      "speaker": "Sarah",
+      "text": "The weather is what you see and feel every day."
+     },
+     {
+      "t0": 59.75,
+      "t1": 61.73,
+      "speaker": "Sarah",
+      "text": "Climate is more long-term."
+     },
+     {
+      "t0": 61.75,
+      "t1": 67.27,
+      "speaker": "Sarah",
+      "text": "Today I’ll explain how a change in the climate over the long term can be seen in the weather."
+     },
+     {
+      "t0": 68.87,
+      "t1": 73.33,
+      "speaker": "Phil",
+      "text": "As always, we will also be learning some key vocabulary to talk about the topic."
+     },
+     {
+      "t0": 73.61,
+      "t1": 76.78,
+      "speaker": "Phil",
+      "text": "And, Sarah, it’s traditional for us to set a quiz question."
+     },
+     {
+      "t0": 76.78,
+      "t1": 78.2,
+      "speaker": "Phil",
+      "text": "Have you got one for us?"
+     },
+     {
+      "t0": 78.2,
+      "t1": 79.55,
+      "speaker": "Sarah",
+      "text": "Yes, I have!"
+     },
+     {
+      "t0": 79.63,
+      "t1": 84.09,
+      "speaker": "Sarah",
+      "text": "By how much has Earth's temperature increased since 1970."
+     },
+     {
+      "t0": 84.51,
+      "t1": 91.04,
+      "speaker": "Sarah",
+      "text": "Is it? a) Around 0.5C b) Around 1C c) Around 2C"
+     },
+     {
+      "t0": 91.04,
+      "t1": 95.6,
+      "speaker": "Phil",
+      "text": "I don't know, about 2 degrees?"
+     },
+     {
+      "t0": 95.6,
+      "t1": 100.43,
+      "speaker": "Sarah",
+      "text": "I'll give the answer at the end of the programme, so listen to the end to find out."
+     },
+     {
+      "t0": 100.65,
+      "t1": 103.63,
+      "speaker": "Phil",
+      "text": "Now, we're going to talk about tropical storms."
+     },
+     {
+      "t0": 104.09,
+      "t1": 106.84,
+      "speaker": "Phil",
+      "text": "What do we mean by 'tropical storms', Sarah?"
+     },
+     {
+      "t0": 106.84,
+      "t1": 110.85,
+      "speaker": "Sarah",
+      "text": "Well, those are hurricanes, cyclones and typhoons."
+     },
+     {
+      "t0": 110.95,
+      "t1": 115.41,
+      "speaker": "Sarah",
+      "text": "They're large rotating storm systems formed over warm tropical waters."
+     },
+     {
+      "t0": 115.87,
+      "t1": 121.51,
+      "speaker": "Sarah",
+      "text": "These are actually the same, we just use different names depending on where in the world they form."
+     },
+     {
+      "t0": 122.05,
+      "t1": 128.43,
+      "speaker": "Sarah",
+      "text": "Hurricanes are found in the Atlantic, Cyclones in the Indian Ocean and Typhoons in the West Pacific."
+     },
+     {
+      "t0": 128.89,
+      "t1": 134.09,
+      "speaker": "Sarah",
+      "text": "As the world warms, climate scientists think that these storms will get more destructive."
+     },
+     {
+      "t0": 134.51,
+      "t1": 142.77,
+      "speaker": "Phil",
+      "text": "In one of our new Learning English for weather videos, meteorologist Darren Bett tells us about another worrying change."
+     },
+     {
+      "t0": 143.03,
+      "t1": 146.73,
+      "speaker": "Darren Bett",
+      "text": "Scientists also think storms are slowing down."
+     },
+     {
+      "t0": 146.73,
+      "t1": 164.93,
+      "speaker": "Darren Bett",
+      "text": "They're not moving across as quickly, and that means if a storm is in the same area for longer, the winds will be stronger for longer, and the rain will last for longer producing more flooding and more likelihood of flooding and landslides and also mudslides."
+     },
+     {
+      "t0": 165.03,
+      "t1": 170.97,
+      "speaker": "Phil",
+      "text": "Darren said that if a storm moves more slowly, there will be more likelihood of flooding."
+     },
+     {
+      "t0": 171.47,
+      "t1": 177.19,
+      "speaker": "Phil",
+      "text": "Likelihood is the noun that we use to say how probable, or how likely something is to happen."
+     },
+     {
+      "t0": 177.53,
+      "t1": 181.52,
+      "speaker": "Phil",
+      "text": "Darren also told us about landslides and mudslides."
+     },
+     {
+      "t0": 181.52,
+      "t1": 188.13,
+      "speaker": "Sarah",
+      "text": "Yes, landslides are where a large amount of earth or rock moves down a slope quickly."
+     },
+     {
+      "t0": 188.55,
+      "t1": 191.69,
+      "speaker": "Sarah",
+      "text": "Mudslides tend to be faster and more liquid."
+     },
+     {
+      "t0": 192.39,
+      "t1": 198.53,
+      "speaker": "Sarah",
+      "text": "Both of these things can happen after particularly heavy rain and can cause damage to buildings."
+     },
+     {
+      "t0": 199.03,
+      "t1": 202.24,
+      "speaker": "Sarah",
+      "text": "People can also be killed or injured by them."
+     },
+     {
+      "t0": 202.24,
+      "t1": 206.17,
+      "speaker": "Phil",
+      "text": "What else causes loss of life in a hurricane, typhoon or cyclone?"
+     },
+     {
+      "t0": 206.17,
+      "t1": 209.85,
+      "speaker": "Sarah",
+      "text": "Well, something else that is very dangerous is a storm surge."
+     },
+     {
+      "t0": 210.35,
+      "t1": 212.97,
+      "speaker": "Sarah",
+      "text": "Let's hear again from my colleague Darren Bett."
+     },
+     {
+      "t0": 213.27,
+      "t1": 219.79,
+      "speaker": "Darren Bett",
+      "text": "Storm surge, that's that body of water that gets swept inland and produces widespread flooding."
+     },
+     {
+      "t0": 220.09,
+      "t1": 225.55,
+      "speaker": "Darren Bett",
+      "text": "Climate change is warming our seas, and the sea levels are rising."
+     },
+     {
+      "t0": 225.55,
+      "t1": 239.17,
+      "speaker": "Darren Bett",
+      "text": "That potentially could mean that a storm surge which is one element of a storm that produces more casualties than any other, those storm surges could become even more dangerous."
+     },
+     {
+      "t0": 239.73,
+      "t1": 249.39,
+      "speaker": "Phil",
+      "text": "So, we had the word casualty, and this is used to talk about people killed or injured by an accident, a military attack, or in this case an extreme weather event."
+     },
+     {
+      "t0": 249.55,
+      "t1": 252.21,
+      "speaker": "Sarah",
+      "text": "Darren talked about storm surges."
+     },
+     {
+      "t0": 252.55,
+      "t1": 259.39,
+      "speaker": "Sarah",
+      "text": "A storm surge is where the sea level rises quickly pushed by the strong winds caused by a storm."
+     },
+     {
+      "t0": 259.95,
+      "t1": 267.71,
+      "speaker": "Sarah",
+      "text": "This water comes onto land with an enormous amount lot of force, and storm surges can be up to 10 metres high."
+     },
+     {
+      "t0": 267.99,
+      "t1": 270.93,
+      "speaker": "Sarah",
+      "text": "Buildings get destroyed, people can drown."
+     },
+     {
+      "t0": 271.05,
+      "t1": 273.81,
+      "speaker": "Phil",
+      "text": "We heard about the storm sweeping inland."
+     },
+     {
+      "t0": 273.81,
+      "t1": 277.24,
+      "speaker": "Phil",
+      "text": "Something sweeping in is moving quickly and powerfully."
+     },
+     {
+      "t0": 277.24,
+      "t1": 281.13,
+      "speaker": "Phil",
+      "text": "And you can hear more from Darren in the videos on our website."
+     },
+     {
+      "t0": 281.17,
+      "t1": 284.81,
+      "speaker": "Phil",
+      "text": "Sarah, how about the answer to the quiz question you asked earlier?"
+     },
+     {
+      "t0": 285.01,
+      "t1": 285.87,
+      "speaker": "Sarah",
+      "text": "OK, Phil."
+     },
+     {
+      "t0": 286.03,
+      "t1": 291.8,
+      "speaker": "Sarah",
+      "text": "So, I asked by how much has the world's average temperature increased since 1970."
+     },
+     {
+      "t0": 291.8,
+      "t1": 295.19,
+      "speaker": "Phil",
+      "text": "And I thought that it was around two celsius."
+     },
+     {
+      "t0": 295.65,
+      "t1": 298.59,
+      "speaker": "Sarah",
+      "text": "It's actually around one degree celsius."
+     },
+     {
+      "t0": 298.69,
+      "t1": 303.59,
+      "speaker": "Sarah",
+      "text": "1C is just an average across all of earth's land and ocean surface."
+     },
+     {
+      "t0": 303.71,
+      "t1": 310.63,
+      "speaker": "Sarah",
+      "text": "Some places are warming much quicker than this such as the Arctic that's warming 3 times faster than the average rate."
+     },
+     {
+      "t0": 310.63,
+      "t1": 319.22,
+      "speaker": "Sarah",
+      "text": "Just a small increase in average temperature can lead to a much bigger increase in extreme events such as heatwaves, wildfires and floods."
+     },
+     {
+      "t0": 319.22,
+      "t1": 322.21,
+      "speaker": "Phil",
+      "text": "Oh wow, so that is an important difference."
+     },
+     {
+      "t0": 322.41,
+      "t1": 332.73,
+      "speaker": "Phil",
+      "text": "OK, let's recap the vocabulary we've learned, starting with likelihood, which is noun that we use to talk how probable or how likely something is to happen."
+     },
+     {
+      "t0": 333.01,
+      "t1": 341.23,
+      "speaker": "Sarah",
+      "text": "Landslides and mudslides which can occur after heavy rainfall make earth or mud move downhill very fast."
+     },
+     {
+      "t0": 341.55,
+      "t1": 346.96,
+      "speaker": "Phil",
+      "text": "A storm surge is a sudden rise in the sea level, that can move inland causing destruction."
+     },
+     {
+      "t0": 346.96,
+      "t1": 352.57,
+      "speaker": "Sarah",
+      "text": "If something sweeps in, it moves in very fast and very powerfully."
+     },
+     {
+      "t0": 352.85,
+      "t1": 360.59,
+      "speaker": "Phil",
+      "text": "And finally, a casualty is someone who is injured or killed by an accident, attack, or something like an extreme weather event."
+     },
+     {
+      "t0": 360.59,
+      "t1": 362.82,
+      "speaker": "Phil",
+      "text": "Once again, our six minutes are up."
+     },
+     {
+      "t0": 362.82,
+      "t1": 363.37,
+      "speaker": "Sarah",
+      "text": "Goodbye!"
+     },
+     {
+      "t0": 363.59,
+      "t1": 365.14,
+      "speaker": "Phil",
+      "text": "Thank for joining us today, Sarah!"
+     },
+     {
+      "t0": 365.14,
+      "t1": 365.65,
+      "speaker": "Phil",
+      "text": "Bye!"
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'likelihood', 'storm surge', 'casualty'가 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "By how much has Earth's temperature increased since 1970? a) Around 0.5C, b) Around 1C, c) Around 2C",
+   "answer": "b) Around 1C. Phil은 2도라고 했지만 틀렸어요. 1도는 전 지구 평균이고, 북극은 평균보다 3배 빨리 따뜻해지고 있대요. 작은 평균 상승도 폭염·산불·홍수 같은 극한 현상을 크게 늘릴 수 있어요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Sep 3",
+  "sentences": [
+   {
+    "text": "The weather is what you see and feel every day.",
+    "ko": "날씨는 매일 보고 느끼는 거예요.",
+    "t0": 56.03,
+    "t1": 59.33,
+    "track": 0
+   },
+   {
+    "text": "Climate is more long-term.",
+    "ko": "기후는 더 장기적인 거예요.",
+    "t0": 59.75,
+    "t1": 61.73,
+    "track": 0
+   },
+   {
+    "text": "As the world warms, climate scientists think that these storms will get more destructive.",
+    "ko": "세계가 따뜻해지면서, 기후 과학자들은 이 폭풍들이 더 파괴적이 될 거라고 생각해요.",
+    "t0": 128.89,
+    "t1": 134.09,
+    "track": 0
+   },
+   {
+    "text": "Scientists also think storms are slowing down.",
+    "ko": "과학자들은 폭풍이 느려지고 있다고도 생각해요.",
+    "t0": 143.03,
+    "t1": 146.73,
+    "track": 0
+   },
+   {
+    "text": "Oh wow, so that is an important difference.",
+    "ko": "와, 그건 중요한 차이네요.",
+    "t0": 319.22,
+    "t1": 322.21,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Anthropic's giant IPO puts the heat on OpenAI",
+  "url": "https://www.hindustantimes.com/business/anthropics-giant-ipo-puts-the-heat-on-openai-101794796868849.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "Business · Nov 15th 2026",
+  "minutes": 7,
+  "summaryKo": "ChatGPT로 AI 붐을 연 건 OpenAI지만, 이번 주 사상 최대 규모 IPO(약 900억 달러 조달, 목표 시가총액 1.5조 달러)를 하는 건 OpenAI에서 나온 사람들이 세운 Anthropic이에요. 2단계 경쟁인 '코딩 에이전트'에서 Claude Code가 폭발적으로 성장해 올해 매출 530억 달러 예상(OpenAI는 350억). 다음 경쟁은 모든 사무직 업무로 에이전트를 넓히는 것. OpenAI는 소비자·광고·기기·로봇까지 넓게 벌이고, Anthropic은 기업과 코딩에 집중하며 광고를 하지 않겠다고 했어요. 매일 Claude로 개발하는 입장에서 읽으면 재미있어요.",
+  "excerpt": [
+   "OpenAI may have led the first phase of competition among model-makers, based around chatbots, but Anthropic trounced it in the second phase, where coding agents became the biggest source of business. Claude Code, Anthropic's software-writing bot, was launched in early 2025, but this year has experienced explosive growth.",
+   "Nonetheless, the past few years show how quickly leads can be lost in the fast-evolving AI market. Use of OpenAI's own programming tool, Codex, has grown rapidly in recent months."
+  ],
+  "tip": "'trounce'는 '완패시키다'로, 경쟁 기사에서 beat보다 강한 말이에요. 'Nonetheless'(그럼에도 불구하고)는 앞 내용을 뒤집을 때 쓰는 연결어. 'leads can be lost'처럼 수동태로 일반적인 진실을 말하는 것도 Economist 스타일이에요."
+ },
+ "vocab": [
+  {
+   "word": "likelihood",
+   "meaning": "가능성, 공산",
+   "example": "A slower storm means a greater likelihood of flooding."
+  },
+  {
+   "word": "casualty",
+   "meaning": "사상자 (다치거나 죽은 사람)",
+   "example": "Storm surges produce more casualties than any other part of a storm."
+  },
+  {
+   "word": "sweep in / sweep inland",
+   "meaning": "빠르고 강하게 밀려들다",
+   "example": "The water swept inland and caused widespread flooding."
+  },
+  {
+   "word": "trounce",
+   "meaning": "완패시키다, 크게 이기다",
+   "example": "Anthropic trounced OpenAI in the second phase of competition."
+  },
+  {
+   "word": "explosive growth",
+   "meaning": "폭발적인 성장",
+   "example": "Claude Code has experienced explosive growth this year."
+  },
+  {
+   "word": "arch-rival",
+   "meaning": "최대 라이벌, 숙적",
+   "example": "OpenAI's revenue was nearly triple that of its arch-rival."
+  },
+  {
+   "word": "spread (oneself) too thinly",
+   "meaning": "너무 여러 일에 힘을 분산하다",
+   "example": "The danger is that it spreads its focus and resources too thinly."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English about how you use AI tools (like Claude) in your work or study.",
+  "question": "Do you think it's better for a company to focus on one thing, or to try many things? What about you — do you spread yourself too thinly?",
+  "hint": "이런 표현을 써 보세요: I use AI tools to ... / It helps me ... / I think focusing on ... is better because ... / Sometimes I spread myself too thinly when ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain the difference between weather and climate, and describe one extreme weather event you remember in Korea.",
+  "phrases": [
+   "The weather is what we feel every day, but climate is ...",
+   "I remember when a typhoon hit ...",
+   "There's a greater likelihood of ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Describe today's weather in Seoul in three sentences."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "어제 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
