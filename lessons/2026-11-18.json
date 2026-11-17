@@ -1,0 +1,603 @@
+{
+ "date": "2026-11-18",
+ "theme": "Smells & statistics: describing the world · 냄새와 통계, 세상을 표현하는 법",
+ "listening": {
+  "tracks": [
+   {
+    "title": "How do we describe smells?",
+    "show": "BBC Learning English · 6 Minute English (Aug 27)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260827_6_minute_english_smells_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260827.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260827-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260827",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260827",
+    "note": "Neil과 Georgie가 영어로 냄새를 어떻게 표현하는지 이야기해요. 비 온 뒤 땅 냄새는 petrichor, 헌책 냄새는 vellichor! 영어에는 냄새 '자체'를 묘사하는 단어가 적고, 보통 'smells like ~'로 비교해서 말한대요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 4.63,
+      "t1": 11.17,
+      "speaker": "Neil",
+      "text": "Hello, this is 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 11.23,
+      "t1": 11.8,
+      "speaker": "Neil",
+      "text": "I'm Neil."
+     },
+     {
+      "t0": 11.8,
+      "t1": 12.89,
+      "speaker": "Georgie",
+      "text": "And I'm Georgie."
+     },
+     {
+      "t0": 12.97,
+      "t1": 15.79,
+      "speaker": "Georgie",
+      "text": "In English, there are many ways to describe smells."
+     },
+     {
+      "t0": 16.03,
+      "t1": 24.84,
+      "speaker": "Georgie",
+      "text": "Poet Michael Rosen wanted to find words describing bad smells, and asked listeners of his BBC Radio 4 programme Word of Mouth for some suggestions."
+     },
+     {
+      "t0": 24.84,
+      "t1": 28.53,
+      "speaker": "Michael Rosen",
+      "text": "Fusty, reeking, toiking, honking, humming, funky…"
+     },
+     {
+      "t0": 28.69,
+      "t1": 37.41,
+      "speaker": "Neil",
+      "text": "Smells are everywhere, whether they're bad smells like rotten eggs and sweaty feet, or pleasant ones like lavender and freshly baked bread."
+     },
+     {
+      "t0": 37.81,
+      "t1": 41.53,
+      "speaker": "Neil",
+      "text": "What smells do you especially like or dislike, Georgie?"
+     },
+     {
+      "t0": 41.59,
+      "t1": 49.64,
+      "speaker": "Georgie",
+      "text": "Well, I really enjoy the smell of leather, but something I really love is the smell of rain, which has a name."
+     },
+     {
+      "t0": 49.64,
+      "t1": 50.5,
+      "speaker": "Georgie",
+      "text": "Do you know it, Neil?"
+     },
+     {
+      "t0": 50.5,
+      "t1": 53.02,
+      "speaker": "Neil",
+      "text": "Erm, I don't think I do actually."
+     },
+     {
+      "t0": 53.02,
+      "t1": 54.66,
+      "speaker": "Georgie",
+      "text": "It's called petrichor."
+     },
+     {
+      "t0": 54.66,
+      "t1": 57.36,
+      "speaker": "Georgie",
+      "text": "It's that smell of the ground just after it's rained."
+     },
+     {
+      "t0": 57.36,
+      "t1": 58.12,
+      "speaker": "Neil",
+      "text": "Mmm."
+     },
+     {
+      "t0": 58.12,
+      "t1": 59.12,
+      "speaker": "Georgie",
+      "text": "Neil, what about you?"
+     },
+     {
+      "t0": 59.12,
+      "t1": 60.47,
+      "speaker": "Georgie",
+      "text": "Which smells do you like?"
+     },
+     {
+      "t0": 60.49,
+      "t1": 65.95,
+      "speaker": "Neil",
+      "text": "Well, I don't think you can beat the smell of a freshly opened packet of ground coffee."
+     },
+     {
+      "t0": 66.03,
+      "t1": 67.23,
+      "speaker": "Georgie",
+      "text": "Ooh, that's a good one."
+     },
+     {
+      "t0": 67.63,
+      "t1": 72.41,
+      "speaker": "Georgie",
+      "text": "In this episode, we'll be learning the language of smells using some useful new words and phrases."
+     },
+     {
+      "t0": 72.41,
+      "t1": 79.42,
+      "speaker": "Georgie",
+      "text": "And remember, you can find all the vocabulary plus a quiz and worksheet on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 79.42,
+      "t1": 82.0,
+      "speaker": "Neil",
+      "text": "But first, I have a question for you, Georgie."
+     },
+     {
+      "t0": 82.0,
+      "t1": 89.75,
+      "speaker": "Neil",
+      "text": "One smell many people love is the smell of old books and the sentimental feeling it gives them for second-hand bookshops."
+     },
+     {
+      "t0": 89.89,
+      "t1": 93.19,
+      "speaker": "Neil",
+      "text": "In fact, there's even a word for it, but what is it?"
+     },
+     {
+      "t0": 93.47,
+      "t1": 98.31,
+      "speaker": "Neil",
+      "text": "Is it: a) vellichor, b) petrichor, or c) nidor?"
+     },
+     {
+      "t0": 98.53,
+      "t1": 103.65,
+      "speaker": "Georgie",
+      "text": "Well, we already know that petrichor is the smell of the ground after rain."
+     },
+     {
+      "t0": 104.13,
+      "t1": 106.25,
+      "speaker": "Georgie",
+      "text": "I'm going to go with a) vellichor."
+     },
+     {
+      "t0": 106.55,
+      "t1": 109.09,
+      "speaker": "Neil",
+      "text": "Well, we'll find out at the end of the programme."
+     },
+     {
+      "t0": 109.69,
+      "t1": 121.85,
+      "speaker": "Neil",
+      "text": "Listening to Michael Rosen's list – funky, reeking, humming and the rest – you might think English is good at describing smells, but in fact, all those words really mean is bad smelling."
+     },
+     {
+      "t0": 121.99,
+      "t1": 126.45,
+      "speaker": "Georgie",
+      "text": "In English, we often describe smells by comparing them to other objects."
+     },
+     {
+      "t0": 126.51,
+      "t1": 136.87,
+      "speaker": "Georgie",
+      "text": "For example, something nice might smell like a rose, while something bad might smell like rotten eggs, but there are few words to describe the actual smell itself."
+     },
+     {
+      "t0": 137.13,
+      "t1": 142.91,
+      "speaker": "Neil",
+      "text": "Oxford University psychologist Asifa Majid has researched the subject of smell extensively."
+     },
+     {
+      "t0": 143.33,
+      "t1": 149.57,
+      "speaker": "Neil",
+      "text": "Here, she tells Michael Rosen a little of what she's found out on BBC Radio 4 programme Word of Mouth."
+     },
+     {
+      "t0": 149.57,
+      "t1": 156.19,
+      "speaker": "Asifa Majid",
+      "text": "So, if we think about things like stinky or fragrant, they're definitely telling us that something is good or bad."
+     },
+     {
+      "t0": 156.53,
+      "t1": 160.99,
+      "speaker": "Asifa Majid",
+      "text": "But unlike colour terms, it doesn't really seem to be about the object it's describing."
+     },
+     {
+      "t0": 160.99,
+      "t1": 162.89,
+      "speaker": "Asifa Majid",
+      "text": "It seems to be a subjective thing."
+     },
+     {
+      "t0": 163.29,
+      "t1": 170.47,
+      "speaker": "Asifa Majid",
+      "text": "I could say, \"Oh this perfume you think is really fragrant, I think is stinky,\" and both can be true."
+     },
+     {
+      "t0": 170.79,
+      "t1": 173.83,
+      "speaker": "Georgie",
+      "text": "Describing smell is not like describing other senses."
+     },
+     {
+      "t0": 174.23,
+      "t1": 183.17,
+      "speaker": "Georgie",
+      "text": "I might think a perfume is stinky, an adjective meaning bad smelling, while Neil might find the same perfume fragrant, meaning pleasant smelling."
+     },
+     {
+      "t0": 183.33,
+      "t1": 184.59,
+      "speaker": "Georgie",
+      "text": "Both can be true."
+     },
+     {
+      "t0": 184.61,
+      "t1": 190.67,
+      "speaker": "Georgie",
+      "text": "The point is that neither stinky nor fragrant say anything specific about the perfume's actual smell."
+     },
+     {
+      "t0": 190.67,
+      "t1": 193.23,
+      "speaker": "Neil",
+      "text": "With our sense of taste, it's different."
+     },
+     {
+      "t0": 193.23,
+      "t1": 200.87,
+      "speaker": "Neil",
+      "text": "Words like spicy, sweet or salty create a common idea that we can all agree on, but that's not the case for smells."
+     },
+     {
+      "t0": 201.19,
+      "t1": 211.11,
+      "speaker": "Neil",
+      "text": "Asifa thinks this is because, unlike tastes and colours, smell words are subjective – they're based on personal opinions and feelings rather than objective truth."
+     },
+     {
+      "t0": 211.15,
+      "t1": 215.73,
+      "speaker": "Georgie",
+      "text": "This might explain why our attitude to talking about smells is so different."
+     },
+     {
+      "t0": 215.91,
+      "t1": 221.95,
+      "speaker": "Georgie",
+      "text": "Here's Asifa again, sharing some examples of how we talk about smells with BBC Radio 4."
+     },
+     {
+      "t0": 221.95,
+      "t1": 234.17,
+      "speaker": "Asifa Majid",
+      "text": "So, if we compare how often people talk about visual things, or auditory things, or tastes or smells, what we find is we talk a lot about what we see and very rarely about what we smell."
+     },
+     {
+      "t0": 234.17,
+      "t1": 242.71,
+      "speaker": "Asifa Majid",
+      "text": "Young children in the UK are often interested in the sense of smell and they'll remark on it, and the parent will shut it down."
+     },
+     {
+      "t0": 242.71,
+      "t1": 244.47,
+      "speaker": "Asifa Majid",
+      "text": "They'll say, \"That's disgusting!"
+     },
+     {
+      "t0": 244.47,
+      "t1": 245.47,
+      "speaker": "Asifa Majid",
+      "text": "Put it down.\""
+     },
+     {
+      "t0": 245.93,
+      "t1": 253.75,
+      "speaker": "Georgie",
+      "text": "Asifa's research shows that, here in the UK at least, people talk about visual or auditory things much more than they talk about smells."
+     },
+     {
+      "t0": 253.93,
+      "t1": 259.67,
+      "speaker": "Georgie",
+      "text": "The adjective visual means related to seeing, and auditory means related to hearing."
+     },
+     {
+      "t0": 259.69,
+      "t1": 263.39,
+      "speaker": "Georgie",
+      "text": "The adjective for things related to smelling is olfactory."
+     },
+     {
+      "t0": 263.81,
+      "t1": 266.95,
+      "speaker": "Neil",
+      "text": "Maybe this is because of how we're raised by our parents."
+     },
+     {
+      "t0": 267.05,
+      "t1": 274.25,
+      "speaker": "Neil",
+      "text": "When children start talking about smells, especially unpleasant ones, parents often react by shutting the conversation down."
+     },
+     {
+      "t0": 274.71,
+      "t1": 277.75,
+      "speaker": "Neil",
+      "text": "The phrase to shut something down means to stop it."
+     },
+     {
+      "t0": 277.75,
+      "t1": 285.25,
+      "speaker": "Georgie",
+      "text": "Along with other European languages, English doesn't have much vocabulary dedicated to the different qualities of actual smells."
+     },
+     {
+      "t0": 285.33,
+      "t1": 293.05,
+      "speaker": "Georgie",
+      "text": "There are many ways of talking about smells, especially unpleasant ones, but only a few words which describe actual smells themselves."
+     },
+     {
+      "t0": 293.31,
+      "t1": 300.65,
+      "speaker": "Georgie",
+      "text": "A good example of a word which does this is musty – a damp, stale smell you might find in an old bookshop."
+     },
+     {
+      "t0": 300.79,
+      "t1": 303.61,
+      "speaker": "Georgie",
+      "text": "And Neil, that reminds me of your question."
+     },
+     {
+      "t0": 303.69,
+      "t1": 304.42,
+      "speaker": "Neil",
+      "text": "That's right."
+     },
+     {
+      "t0": 304.42,
+      "t1": 309.11,
+      "speaker": "Neil",
+      "text": "I asked you what the word is, which means the smell of old books."
+     },
+     {
+      "t0": 309.35,
+      "t1": 311.41,
+      "speaker": "Georgie",
+      "text": "I said it was vellichor."
+     },
+     {
+      "t0": 311.67,
+      "t1": 314.73,
+      "speaker": "Neil",
+      "text": "Well, Georgie, you are absolutely right."
+     },
+     {
+      "t0": 314.73,
+      "t1": 315.04,
+      "speaker": "Georgie",
+      "text": "Yay!"
+     },
+     {
+      "t0": 315.04,
+      "t1": 319.55,
+      "speaker": "Neil",
+      "text": "Petrichor, as you said earlier, is the smell of the earth after rain."
+     },
+     {
+      "t0": 319.73,
+      "t1": 323.01,
+      "speaker": "Neil",
+      "text": "And nidor is the smell of cooking meat and fat."
+     },
+     {
+      "t0": 323.37,
+      "t1": 323.77,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 323.77,
+      "t1": 326.65,
+      "speaker": "Neil",
+      "text": "It's time for a recap of the vocabulary we've learned."
+     },
+     {
+      "t0": 326.71,
+      "t1": 333.05,
+      "speaker": "Neil",
+      "text": "The adjective stinky means foul smelling, while the adjective fragrant means pleasant smelling."
+     },
+     {
+      "t0": 333.29,
+      "t1": 339.21,
+      "speaker": "Georgie",
+      "text": "Subjective things are based on your own personal opinions and feelings rather than objective facts."
+     },
+     {
+      "t0": 339.37,
+      "t1": 345.45,
+      "speaker": "Neil",
+      "text": "The adjective visual describes things related to seeing, while auditory means related to hearing."
+     },
+     {
+      "t0": 345.45,
+      "t1": 348.73,
+      "speaker": "Neil",
+      "text": "Things related to smelling are called olfactory."
+     },
+     {
+      "t0": 348.91,
+      "t1": 353.03,
+      "speaker": "Georgie",
+      "text": "And finally, the phrasal verb to shut something down means to stop it."
+     },
+     {
+      "t0": 353.19,
+      "t1": 363.93,
+      "speaker": "Georgie",
+      "text": "Once again, our six minutes are up, but there's still time to head over to our website, bbclearningenglish.com, for a quiz and worksheet containing all the vocabulary we've discussed."
+     },
+     {
+      "t0": 363.97,
+      "t1": 365.03,
+      "speaker": "Georgie",
+      "text": "See you again soon!"
+     },
+     {
+      "t0": 365.03,
+      "t1": 366.57,
+      "speaker": "Georgie",
+      "text": "But for now, it's goodbye."
+     },
+     {
+      "t0": 366.57,
+      "t1": 367.17,
+      "speaker": "Neil",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "6 Minute English를 한 번은 대략적인 내용만 듣고, 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'fragrant', 'subjective', 'shut down'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "What is the word for the smell of old books? a) vellichor, b) petrichor, c) nidor",
+   "answer": "a) vellichor. Georgie가 맞혔어요! petrichor는 비 온 뒤 땅 냄새, nidor는 고기와 기름을 요리하는 냄새예요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Aug 27",
+  "sentences": [
+   {
+    "text": "It's that smell of the ground just after it's rained.",
+    "ko": "비가 온 직후 땅에서 나는 그 냄새예요.",
+    "t0": 54.66,
+    "t1": 57.36,
+    "track": 0
+   },
+   {
+    "text": "Well, I don't think you can beat the smell of a freshly opened packet of ground coffee.",
+    "ko": "갓 뜯은 원두커피 냄새를 이길 건 없는 것 같아요.",
+    "t0": 60.49,
+    "t1": 65.95,
+    "track": 0
+   },
+   {
+    "text": "Describing smell is not like describing other senses.",
+    "ko": "냄새를 묘사하는 건 다른 감각을 묘사하는 것과 달라요.",
+    "t0": 170.79,
+    "t1": 173.83,
+    "track": 0
+   },
+   {
+    "text": "Maybe this is because of how we're raised by our parents.",
+    "ko": "어쩌면 부모님이 우리를 키우는 방식 때문일지도 몰라요.",
+    "t0": 263.81,
+    "t1": 266.95,
+    "track": 0
+   },
+   {
+    "text": "The phrase to shut something down means to stop it.",
+    "ko": "'shut something down'이라는 표현은 그걸 멈추게 한다는 뜻이에요.",
+    "t0": 274.71,
+    "t1": 277.75,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "America does not produce world-beating statistics. Who does?",
+  "url": "https://www.hindustantimes.com/world-news/america-does-not-produce-world-beating-statistics-who-does-101794885439734.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "Economic data · Nov 17th 2026",
+  "minutes": 8,
+  "summaryKo": "전 세계적으로 공식 통계 조사 응답률이 무너지고(미국 소비지출 조사 응답률 60%→40% 미만), 예산 삭감과 정치 개입까지 겹쳐 '통계 위기'가 왔어요. Economist는 네 가지 기준(자주 발표하는가, 정치적으로 독립적인가, 정확한가, 변화에 적응하는가)으로 최고의 통계 기관을 찾았어요. 미국·영국은 탈락, 인구등록부(population register)를 가진 네덜란드·노르웨이·스위스와 캐나다가 상위권, 그중 혁신성에서 네덜란드가 1등. 검사실에서 매일 데이터의 정확도를 다루는 입장에서 공감할 만한 글이에요.",
+  "excerpt": [
+   "Everyone should worry about the stats-pocalypse, not least because policy drawn up using junk statistics risks being junk itself. Central banks need reliable employment data to set interest rates.",
+   "It is not enough to produce statistics frequently and without fear or favour. A good system also needs to consistently get the numbers right."
+  ],
+  "tip": "'not least because ~'는 '특히 ~ 때문에'라는 뜻으로 중요한 이유를 강조할 때 써요. 'without fear or favour'는 '두려움도 편애도 없이 = 공정하게'라는 관용구. 'junk statistics risks being junk itself'처럼 같은 단어를 반복해 재치 있게 말하는 게 Economist 스타일이에요."
+ },
+ "vocab": [
+  {
+   "word": "fragrant",
+   "meaning": "향기로운",
+   "example": "Neil might find the same perfume fragrant."
+  },
+  {
+   "word": "subjective",
+   "meaning": "주관적인 (↔ objective 객관적인)",
+   "example": "Smell words are subjective – they're based on personal opinions."
+  },
+  {
+   "word": "shut (something) down",
+   "meaning": "(대화·활동을) 멈추게 하다, 막다",
+   "example": "When children talk about smells, parents often shut the conversation down."
+  },
+  {
+   "word": "response rate",
+   "meaning": "응답률",
+   "example": "Response rates to official surveys have collapsed globally."
+  },
+  {
+   "word": "reliable",
+   "meaning": "믿을 수 있는, 신뢰할 만한",
+   "example": "Central banks need reliable employment data to set interest rates."
+  },
+  {
+   "word": "granular",
+   "meaning": "아주 세밀한, 세부적인",
+   "example": "Tax records can provide a much more granular picture."
+  },
+  {
+   "word": "beyond suspicion",
+   "meaning": "의심의 여지가 없는",
+   "example": "Statistical offices must be beyond suspicion."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English about why accurate data matters in your work at the clinical lab.",
+  "question": "What happens if a lab result is wrong? How do you make sure your numbers are reliable?",
+  "hint": "이런 표현을 써 보세요: In my lab, accurate results are important because ... / If a result is wrong, ... / We check ... to make sure the data is reliable."
+ },
+ "speaking": {
+  "prompt": "In one minute, describe a smell you love and a smell you hate. Why do you feel that way?",
+  "phrases": [
+   "I really love the smell of ...",
+   "It reminds me of ...",
+   "I can't stand the smell of ... It smells like ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Name three smells you like, in three short sentences (e.g. I like the smell of coffee.)."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "어제 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
