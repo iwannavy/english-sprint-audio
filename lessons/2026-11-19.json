@@ -1,0 +1,561 @@
+{
+ "date": "2026-11-19",
+ "theme": "Roads & rain: a changing world · 도로와 비, 변하는 세상",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Sharing the road with driverless cars",
+    "show": "BBC Learning English · 6 Minute English (Aug 20)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260820_6_minute_english_sharing_the_road_with_driverless_cars_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260820.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260820-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260820",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260820",
+    "note": "Phil과 Pippa가 운전자 없는 자율주행차(robotaxi)와 보행자·자전거가 어떻게 '소통'할지 이야기해요. 사람 운전자와는 눈을 마주치고 손을 흔들지만, 운전석이 비어 있으면? 그리고 한국은 무단횡단(jaywalking)이 드물어서 자율주행차에 잘 맞는 나라라는 이야기도 나와요! 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 4.87,
+      "t1": 12.15,
+      "speaker": "Phil",
+      "text": "Hello, this is 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 12.15,
+      "t1": 12.87,
+      "speaker": "Phil",
+      "text": "I'm Phil."
+     },
+     {
+      "t0": 12.89,
+      "t1": 14.13,
+      "speaker": "Pippa",
+      "text": "And I'm Pippa."
+     },
+     {
+      "t0": 14.15,
+      "t1": 18.17,
+      "speaker": "Phil",
+      "text": "Here at 6 Minute English, we love discussing new tech."
+     },
+     {
+      "t0": 18.17,
+      "t1": 28.99,
+      "speaker": "Phil",
+      "text": "One of the most controversial technologies of recent years is driverless cars, also known as self-driving cars, autonomous cars or robotaxis."
+     },
+     {
+      "t0": 29.29,
+      "t1": 39.99,
+      "speaker": "Pippa",
+      "text": "Many people say they wouldn't feel safe in a car without a human driver, but there are concerns from other road users too – pedestrians, runners and cyclists."
+     },
+     {
+      "t0": 40.23,
+      "t1": 42.85,
+      "speaker": "Pippa",
+      "text": "How will driverless cars interact with them?"
+     },
+     {
+      "t0": 43.27,
+      "t1": 48.43,
+      "speaker": "Pippa",
+      "text": "It's a problem Professor Stephen Brewster, from Glasgow University, has been working on."
+     },
+     {
+      "t0": 48.65,
+      "t1": 52.41,
+      "speaker": "Pippa",
+      "text": "He explained more to BBC World Service programme Tech Life."
+     },
+     {
+      "t0": 52.65,
+      "t1": 58.69,
+      "speaker": "Stephen Brewster",
+      "text": "If you're outside a vehicle right now, you can see the driver inside the vehicle, you can wave to them, they can see you, you can make eye contact."
+     },
+     {
+      "t0": 58.97,
+      "t1": 68.45,
+      "speaker": "Stephen Brewster",
+      "text": "But when you come to an autonomous vehicle, there's no person in the driving seat, so how do you negotiate whether they're going to go, whether they're going to let you go?"
+     },
+     {
+      "t0": 68.49,
+      "t1": 71.17,
+      "speaker": "Phil",
+      "text": "On my walk to work, I need to cross the road."
+     },
+     {
+      "t0": 71.29,
+      "t1": 74.04,
+      "speaker": "Phil",
+      "text": "Usually, a driver makes eye contact with me."
+     },
+     {
+      "t0": 74.04,
+      "t1": 77.61,
+      "speaker": "Phil",
+      "text": "They look directly into my eyes and then wave me across."
+     },
+     {
+      "t0": 78.09,
+      "t1": 82.35,
+      "speaker": "Phil",
+      "text": "To wave means to raise your hand and move it from side to side."
+     },
+     {
+      "t0": 82.51,
+      "t1": 87.11,
+      "speaker": "Phil",
+      "text": "It's a gesture for saying hello, or a way of telling a person to do something."
+     },
+     {
+      "t0": 87.27,
+      "t1": 94.37,
+      "speaker": "Pippa",
+      "text": "Luckily, Phil, you usually arrive safely at work and as yet there are no driverless cars in London."
+     },
+     {
+      "t0": 94.73,
+      "t1": 99.89,
+      "speaker": "Pippa",
+      "text": "But, Phil, how would you feel about crossing that road in front of a robotaxi?"
+     },
+     {
+      "t0": 99.91,
+      "t1": 101.87,
+      "speaker": "Phil",
+      "text": "Well, maybe a little bit nervous."
+     },
+     {
+      "t0": 101.87,
+      "t1": 104.75,
+      "speaker": "Phil",
+      "text": "I might wait for it to go and go behind it or something."
+     },
+     {
+      "t0": 104.93,
+      "t1": 106.75,
+      "speaker": "Pippa",
+      "text": "Mmm... yeah, I get that."
+     },
+     {
+      "t0": 106.75,
+      "t1": 114.33,
+      "speaker": "Pippa",
+      "text": "I think maybe as we get more used to these technologies, we'll get more used to how to deal with them and when to cross."
+     },
+     {
+      "t0": 114.57,
+      "t1": 120.61,
+      "speaker": "Pippa",
+      "text": "But in this episode, we investigate the tech helping driverless cars communicate on the roads."
+     },
+     {
+      "t0": 120.83,
+      "t1": 129.78,
+      "speaker": "Pippa",
+      "text": "We'll learn some useful new words and phrases, and as usual you'll find all the vocabulary on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 129.78,
+      "t1": 133.35,
+      "speaker": "Phil",
+      "text": "But first, I have a question for you, Pippa."
+     },
+     {
+      "t0": 133.51,
+      "t1": 137.37,
+      "speaker": "Phil",
+      "text": "As you mentioned, we don't have self-driving cars here in London yet."
+     },
+     {
+      "t0": 137.91,
+      "t1": 143.95,
+      "speaker": "Phil",
+      "text": "So, which was the first city to have fully driverless robotaxis on the streets?"
+     },
+     {
+      "t0": 144.21,
+      "t1": 149.57,
+      "speaker": "Phil",
+      "text": "Was it: a) Philadelphia, b) Phoenix, or c) San Francisco?"
+     },
+     {
+      "t0": 149.99,
+      "t1": 156.21,
+      "speaker": "Pippa",
+      "text": "I'm going to say b) Phoenix because I think it's quite a car-friendly city."
+     },
+     {
+      "t0": 156.29,
+      "t1": 156.66,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 156.66,
+      "t1": 160.69,
+      "speaker": "Phil",
+      "text": "Well, we will find out the answer, but at the end of the programme."
+     },
+     {
+      "t0": 160.79,
+      "t1": 169.39,
+      "speaker": "Phil",
+      "text": "Because accidents are often caused by not seeing the oncoming danger, Professor Brewster wants to make driverless cars more visible."
+     },
+     {
+      "t0": 169.65,
+      "t1": 174.63,
+      "speaker": "Phil",
+      "text": "He discussed his work with BBC Tech Life's presenter Chris Vallance."
+     },
+     {
+      "t0": 174.91,
+      "t1": 183.65,
+      "speaker": "Chris Vallance",
+      "text": "What kind of signals worked in terms of alerting pedestrians and runners and cyclists to the intentions of the vehicle?"
+     },
+     {
+      "t0": 183.69,
+      "t1": 184.78,
+      "speaker": "Stephen Brewster",
+      "text": "We tested two things."
+     },
+     {
+      "t0": 184.78,
+      "t1": 188.63,
+      "speaker": "Stephen Brewster",
+      "text": "We tested animations and fixed, coloured light rings."
+     },
+     {
+      "t0": 188.85,
+      "t1": 199.13,
+      "speaker": "Stephen Brewster",
+      "text": "The animations – they work well for pedestrians, but when it came to runners and cyclists, they have much less time to make their decisions, so if you do a quick glance at a vehicle, you don't really see the animation."
+     },
+     {
+      "t0": 199.51,
+      "t1": 203.23,
+      "speaker": "Pippa",
+      "text": "It's important to alert people to driverless cars."
+     },
+     {
+      "t0": 203.55,
+      "t1": 207.61,
+      "speaker": "Pippa",
+      "text": "To alert somebody means to warn them about a potential danger."
+     },
+     {
+      "t0": 207.71,
+      "t1": 211.64,
+      "speaker": "Pippa",
+      "text": "Some cars do this with animations – displays of moving images."
+     },
+     {
+      "t0": 211.64,
+      "t1": 215.95,
+      "speaker": "Pippa",
+      "text": "For example, a green man walking to signal it's safe to cross."
+     },
+     {
+      "t0": 216.51,
+      "t1": 223.23,
+      "speaker": "Phil",
+      "text": "Animations alert pedestrians but are not suitable for runners and cyclists, who are travelling too fast to react."
+     },
+     {
+      "t0": 223.49,
+      "t1": 225.85,
+      "speaker": "Phil",
+      "text": "They only have time for a glance."
+     },
+     {
+      "t0": 226.15,
+      "t1": 229.07,
+      "speaker": "Phil",
+      "text": "A glance at something means a quick look."
+     },
+     {
+      "t0": 229.37,
+      "t1": 236.39,
+      "speaker": "Phil",
+      "text": "So, instead Stephen's team used coloured light rings, similar to traffic lights, to warn cyclists and runners."
+     },
+     {
+      "t0": 236.73,
+      "t1": 238.81,
+      "speaker": "Pippa",
+      "text": "Culture is another problem."
+     },
+     {
+      "t0": 238.93,
+      "t1": 241.33,
+      "speaker": "Pippa",
+      "text": "The meaning of body language can change."
+     },
+     {
+      "t0": 241.33,
+      "t1": 247.79,
+      "speaker": "Pippa",
+      "text": "For example, hand waving can mean 'please proceed' in one culture, but 'thank you' in another."
+     },
+     {
+      "t0": 247.95,
+      "t1": 253.79,
+      "speaker": "Phil",
+      "text": "Ammar Al-Taie is a researcher at the Advanced Institute of Science and Technology in South Korea."
+     },
+     {
+      "t0": 253.97,
+      "t1": 262.75,
+      "speaker": "Phil",
+      "text": "Here, Ammar tells BBC World Service's Tech Life why Korean culture is especially suited to self-driving cars."
+     },
+     {
+      "t0": 262.75,
+      "t1": 268.38,
+      "speaker": "Ammar Al-Taie",
+      "text": "In South Korea, for example, jaywalking is illegal, whereas in the UK, you know, we tend to jaywalk a lot."
+     },
+     {
+      "t0": 268.38,
+      "t1": 271.41,
+      "speaker": "Pippa",
+      "text": "Jaywalking is an American English word."
+     },
+     {
+      "t0": 271.57,
+      "t1": 276.93,
+      "speaker": "Pippa",
+      "text": "It means crossing the road at a place where crossing is not allowed or without taking care."
+     },
+     {
+      "t0": 277.05,
+      "t1": 283.53,
+      "speaker": "Pippa",
+      "text": "Unlike Britain, jaywalking is rare in South Korea, making the country safer for autonomous cars."
+     },
+     {
+      "t0": 283.71,
+      "t1": 294.15,
+      "speaker": "Phil",
+      "text": "We've heard a lot about making driverless cars safer, and with plans to introduce them to London later this year, we'll soon see how safe they really are."
+     },
+     {
+      "t0": 294.39,
+      "t1": 297.71,
+      "speaker": "Pippa",
+      "text": "Now, isn't it time to reveal the answer to your question, Phil?"
+     },
+     {
+      "t0": 298.13,
+      "t1": 307.09,
+      "speaker": "Phil",
+      "text": "I asked you which city was the first to have self-driving cars on the road, and you said it was Phoenix... and that is the correct answer."
+     },
+     {
+      "t0": 307.29,
+      "t1": 316.79,
+      "speaker": "Phil",
+      "text": "Phoenix, Arizona, was the first city in the world to have self-driving cars operating on public roads without a human safety driver, and that was in 2017."
+     },
+     {
+      "t0": 317.15,
+      "t1": 324.65,
+      "speaker": "Phil",
+      "text": "Let's recap the vocabulary we've learned, starting with eye contact – looking directly into someone's eyes."
+     },
+     {
+      "t0": 324.89,
+      "t1": 330.71,
+      "speaker": "Pippa",
+      "text": "To wave at someone is a way of saying hi, by raising your hand and waving it from side to side."
+     },
+     {
+      "t0": 330.79,
+      "t1": 334.27,
+      "speaker": "Phil",
+      "text": "If you alert someone, you warn them of potential danger."
+     },
+     {
+      "t0": 334.39,
+      "t1": 338.19,
+      "speaker": "Pippa",
+      "text": "An animation is a display made up of moving images."
+     },
+     {
+      "t0": 338.31,
+      "t1": 341.25,
+      "speaker": "Phil",
+      "text": "A glance is a quick, brief look at something."
+     },
+     {
+      "t0": 341.53,
+      "t1": 347.79,
+      "speaker": "Pippa",
+      "text": "And finally, the American English term jaywalking means crossing the road where you're not supposed to."
+     },
+     {
+      "t0": 347.99,
+      "t1": 350.13,
+      "speaker": "Pippa",
+      "text": "Once again, our six minutes are up."
+     },
+     {
+      "t0": 350.13,
+      "t1": 356.94,
+      "speaker": "Pippa",
+      "text": "If you'd like to hear more programmes about technology, you'll find plenty on our tech topic page, all on our website."
+     },
+     {
+      "t0": 356.94,
+      "t1": 360.91,
+      "speaker": "Pippa",
+      "text": "And there you'll also find a quiz and worksheet for this episode."
+     },
+     {
+      "t0": 360.99,
+      "t1": 363.59,
+      "speaker": "Pippa",
+      "text": "Visit bbclearningenglish.com."
+     },
+     {
+      "t0": 363.75,
+      "t1": 366.57,
+      "speaker": "Pippa",
+      "text": "We'll see you again soon, but for now it's goodbye."
+     },
+     {
+      "t0": 366.97,
+      "t1": 367.57,
+      "speaker": "Phil",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "출근길 운전하면서 한 번은 대략적인 내용만 듣고, 저녁에 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'eye contact', 'alert', 'glance', 'jaywalking'이 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "Which was the first city to have fully driverless robotaxis on the streets? a) Philadelphia, b) Phoenix, c) San Francisco",
+   "answer": "b) Phoenix. 2017년 미국 애리조나주 Phoenix에서 안전요원 없이 자율주행차가 처음 공공도로를 달렸어요. Pippa가 맞혔어요!"
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Aug 20",
+  "sentences": [
+   {
+    "text": "On my walk to work, I need to cross the road.",
+    "ko": "출근길에 걸어가다 보면 길을 건너야 해요.",
+    "t0": 68.49,
+    "t1": 71.17,
+    "track": 0
+   },
+   {
+    "text": "Usually, a driver makes eye contact with me.",
+    "ko": "보통 운전자가 저와 눈을 마주쳐요.",
+    "t0": 71.29,
+    "t1": 74.04,
+    "track": 0
+   },
+   {
+    "text": "Well, maybe a little bit nervous.",
+    "ko": "음, 아마 좀 긴장될 것 같아요.",
+    "t0": 99.91,
+    "t1": 101.87,
+    "track": 0
+   },
+   {
+    "text": "A glance at something means a quick look.",
+    "ko": "glance는 무언가를 빠르게 한 번 보는 걸 뜻해요.",
+    "t0": 226.15,
+    "t1": 229.07,
+    "track": 0
+   },
+   {
+    "text": "If you alert someone, you warn them of potential danger.",
+    "ko": "누군가에게 alert한다는 건 잠재적인 위험을 경고하는 거예요.",
+    "t0": 330.79,
+    "t1": 334.27,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Climate change is making some African deserts greener",
+  "url": "https://www.hindustantimes.com/world-news/climate-change-is-making-some-african-deserts-greener-101794970100856.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "Middle East & Africa · Nov 18th 2026",
+  "minutes": 8,
+  "summaryKo": "한때 90%까지 줄어 '기후 붕괴의 상징'이던 아프리카 차드호(Lake Chad)가 2012년 이후 수면 면적이 두 배 이상 늘었어요. 사하라 남쪽 사헬 지역은 비가 많아져 땅이 다시 초록으로 변하고 있지만, 그만큼 홍수 피해도 커지고 있어요. 문제는 아프리카의 기후가 '더 습해질지 더 건조해질지' 방향조차 예측하기 어렵다는 것. 기상 관측소가 세계의 10%뿐이고 그마저 절반은 데이터가 부정확해서, 결국 '더 많고 더 좋은 데이터'가 적응의 첫걸음이래요. 어제 통계 기사와도 이어지는 주제예요.",
+  "excerpt": [
+   "For decades Lake Chad seemed to be a terrifying portent of climate collapse. Yet years of punishing droughts helped to shrink it by as much as 90%.",
+   "Instead the opposite happened. Today Lake Chad has more water than it has had for decades."
+  ],
+  "tip": "'Instead the opposite happened.'처럼 짧은 문장으로 예상을 뒤집는 게 Economist의 전형적인 전개예요. 'seemed destined to ~'(~할 운명처럼 보였다), 'a grim preview of ~'(~의 암울한 예고편) 같은 표현도 눈여겨보세요."
+ },
+ "vocab": [
+  {
+   "word": "eye contact",
+   "meaning": "눈 맞춤",
+   "example": "Usually, a driver makes eye contact with me."
+  },
+  {
+   "word": "alert (someone)",
+   "meaning": "(위험을) 알리다, 경고하다",
+   "example": "It's important to alert people to driverless cars."
+  },
+  {
+   "word": "glance",
+   "meaning": "힐끗 봄, 흘긋 보다",
+   "example": "Cyclists only have time for a glance."
+  },
+  {
+   "word": "jaywalking",
+   "meaning": "무단횡단",
+   "example": "In South Korea, jaywalking is illegal."
+  },
+  {
+   "word": "portent",
+   "meaning": "(불길한) 징조, 전조",
+   "example": "Lake Chad seemed to be a terrifying portent of climate collapse."
+  },
+  {
+   "word": "uncertain",
+   "meaning": "불확실한",
+   "example": "How climate change will play out across Africa is deeply uncertain."
+  },
+  {
+   "word": "adapt (to)",
+   "meaning": "(~에) 적응하다",
+   "example": "Helping Africans adapt to shifts that are hard to predict is a priority."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English: Would you ride in a driverless car with your kids? Why or why not?",
+  "question": "Do you think driverless cars would be safe on the roads in Mokdong? What would worry you most?",
+  "hint": "이런 표현을 써 보세요: I would / wouldn't feel safe in a driverless car because ... / What worries me most is ... / Maybe in the future, ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, describe your drive to work. What do you see, and how do you deal with pedestrians and other drivers?",
+  "phrases": [
+   "On my way to work, I usually ...",
+   "When someone crosses the road, I ...",
+   "The most stressful part is ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Say three short sentences about your commute (e.g. I drive to work. It takes 30 minutes.)."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "어제 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
