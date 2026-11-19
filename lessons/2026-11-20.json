@@ -1,0 +1,549 @@
+{
+ "date": "2026-11-20",
+ "theme": "Health & evidence · 건강과 근거",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Are microplastics harming us?",
+    "show": "BBC Learning English · 6 Minute English (Nov 19)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/261119_6_minute_english_are_microplastics_harming_us_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261119.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-261119-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261119",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261119",
+    "note": "Phil과 Becca가 미세플라스틱(microplastics)이 우리 건강에 해로운지 이야기해요. 해산물에서 많이 발견된다는 연구, 나일론 공장 노동자 데이터, 그리고 플라스틱 도마·티백을 바꾸라는 팁까지! 데이터·근거 이야기라 실험실 일과도 잘 맞아요. 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 0.0,
+      "t1": 0.79,
+      "speaker": "Phil",
+      "text": "Hi Becca."
+     },
+     {
+      "t0": 0.79,
+      "t1": 1.51,
+      "speaker": "Becca",
+      "text": "Hi Phil."
+     },
+     {
+      "t0": 1.63,
+      "t1": 3.93,
+      "speaker": "Phil",
+      "text": "Becca, I've got a question for you."
+     },
+     {
+      "t0": 3.99,
+      "t1": 7.03,
+      "speaker": "Phil",
+      "text": "What's the last plastic thing you had in your hands?"
+     },
+     {
+      "t0": 7.05,
+      "t1": 11.39,
+      "speaker": "Becca",
+      "text": "Well, I just did my makeup, so probably a makeup brush."
+     },
+     {
+      "t0": 11.67,
+      "t1": 15.79,
+      "speaker": "Phil",
+      "text": "Many of us own lots of things made of plastic."
+     },
+     {
+      "t0": 15.97,
+      "t1": 21.69,
+      "speaker": "Phil",
+      "text": "It's cheap, easy to shape and long lasting, but that's not always a good thing."
+     },
+     {
+      "t0": 22.01,
+      "t1": 31.35,
+      "speaker": "Phil",
+      "text": "In this episode of 6 Minute English, we'll be hearing from experts as they teach us about microplastics – those are tiny plastic pieces."
+     },
+     {
+      "t0": 31.59,
+      "t1": 37.35,
+      "speaker": "Phil",
+      "text": "And we'll be asking the question, 'Are microplastics affecting our health?'"
+     },
+     {
+      "t0": 39.11,
+      "t1": 39.48,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 39.48,
+      "t1": 42.01,
+      "speaker": "Phil",
+      "text": "Well, let's start with our quiz, Becca."
+     },
+     {
+      "t0": 42.13,
+      "t1": 52.59,
+      "speaker": "Phil",
+      "text": "There was a social media post that says that every week we ingest the same amount of plastic as there is in a credit card, but that's not true."
+     },
+     {
+      "t0": 52.67,
+      "t1": 53.56,
+      "speaker": "Becca",
+      "text": "Oh, thank goodness!"
+     },
+     {
+      "t0": 53.56,
+      "t1": 60.33,
+      "speaker": "Phil",
+      "text": "So, my question for you is how long would it really take to ingest that amount of microplastics?"
+     },
+     {
+      "t0": 60.43,
+      "t1": 70.85,
+      "speaker": "Phil",
+      "text": "Would it be: a) 13,000 years, b) 23,000 years, or c) 33,000 years?"
+     },
+     {
+      "t0": 70.85,
+      "t1": 75.74,
+      "speaker": "Becca",
+      "text": "Well, I want to be hopeful, so I'll go with the longest period of time."
+     },
+     {
+      "t0": 75.74,
+      "t1": 77.97,
+      "speaker": "Becca",
+      "text": "That would be 33,000 years."
+     },
+     {
+      "t0": 77.97,
+      "t1": 78.34,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 78.34,
+      "t1": 81.19,
+      "speaker": "Phil",
+      "text": "Well, we'll find out the answer at the end of the programme."
+     },
+     {
+      "t0": 81.57,
+      "t1": 88.05,
+      "speaker": "Becca",
+      "text": "So, the World Health Organisation says that microplastics have been found in many different food groups."
+     },
+     {
+      "t0": 88.19,
+      "t1": 92.35,
+      "speaker": "Becca",
+      "text": "But Phil, what is the food group that is more affected by microplastics?"
+     },
+     {
+      "t0": 92.39,
+      "t1": 104.71,
+      "speaker": "Phil",
+      "text": "Well, scientists have found that seafood is one of the main food groups where microplastics can be found, and BBC World Service programme The Evidence has been investigating this."
+     },
+     {
+      "t0": 104.91,
+      "t1": 113.83,
+      "speaker": "Phil",
+      "text": "Professor Shilpa Chokshi told host Claudia Hammond about some pictures that she was shown by a microplastics expert."
+     },
+     {
+      "t0": 114.61,
+      "t1": 119.65,
+      "speaker": "Professor Shilpa Chokshi",
+      "text": "And he showed me all these marine animals that looked like they had plastics in their livers and hind guts."
+     },
+     {
+      "t0": 119.83,
+      "t1": 133.09,
+      "speaker": "Professor Shilpa Chokshi",
+      "text": "And from that initial discussion, I went away and I looked at the literature and I looked at the data, and there was emerging evidence that there was plastics in the liver, and there was this correlation increase."
+     },
+     {
+      "t0": 133.09,
+      "t1": 136.86,
+      "speaker": "Becca",
+      "text": "Shilpa says that plastics have been found in marine animals."
+     },
+     {
+      "t0": 136.86,
+      "t1": 142.43,
+      "speaker": "Becca",
+      "text": "Marine describes anything related to, found in or produced by the sea."
+     },
+     {
+      "t0": 142.61,
+      "t1": 150.23,
+      "speaker": "Phil",
+      "text": "Yes, these pictures of marine animals with plastics in their bodies inspired Shilpa to dive deeper into the data."
+     },
+     {
+      "t0": 150.41,
+      "t1": 161.51,
+      "speaker": "Phil",
+      "text": "She found emerging evidence, and the adjective emerging describes something coming into view after being hidden, allowing it to develop or be better understood."
+     },
+     {
+      "t0": 161.73,
+      "t1": 165.63,
+      "speaker": "Becca",
+      "text": "And from this emerging evidence, Shilpa noticed a correlation."
+     },
+     {
+      "t0": 166.07,
+      "t1": 168.65,
+      "speaker": "Becca",
+      "text": "You'll hear this word a lot when talking about data."
+     },
+     {
+      "t0": 169.01,
+      "t1": 173.05,
+      "speaker": "Becca",
+      "text": "A correlation is a link or connection between two or more things."
+     },
+     {
+      "t0": 173.33,
+      "t1": 179.83,
+      "speaker": "Becca",
+      "text": "So, Phil, we know how toxic microplastics get into our body, but are they definitely harmful?"
+     },
+     {
+      "t0": 179.83,
+      "t1": 190.78,
+      "speaker": "Phil",
+      "text": "Well, plastics have been a big part of daily life since the 1950s, but it's only recently that we've started thinking about microplastics as a health issue."
+     },
+     {
+      "t0": 190.78,
+      "t1": 199.21,
+      "speaker": "Phil",
+      "text": "For example, scientists have been looking at people who worked in nylon factories where they were exposed to high levels of microplastic."
+     },
+     {
+      "t0": 199.31,
+      "t1": 207.27,
+      "speaker": "Phil",
+      "text": "And the scientists think that there may be a correlation between this and diseases that they developed later on."
+     },
+     {
+      "t0": 207.73,
+      "t1": 219.31,
+      "speaker": "Phil",
+      "text": "Science professor Mark Miodownik, from University College London, has mixed feelings about microplastics and explained these to BBC World Service programme The Evidence."
+     },
+     {
+      "t0": 219.93,
+      "t1": 227.67,
+      "speaker": "Professor Mark Miodownik",
+      "text": "Well, you know, we have been exposed for decades and surely if it was that bad, you know, we'd have seen a spike or something by now."
+     },
+     {
+      "t0": 227.89,
+      "t1": 234.69,
+      "speaker": "Professor Mark Miodownik",
+      "text": "But on the other hand, you know, I think, you know, if you look at how much plastic packaging is in supermarkets, it's gone up and up and up and up."
+     },
+     {
+      "t0": 235.05,
+      "t1": 243.03,
+      "speaker": "Professor Mark Miodownik",
+      "text": "And this is not a quantified measure, but our exposure seems to be increasing, and that's the worry for me."
+     },
+     {
+      "t0": 243.03,
+      "t1": 251.07,
+      "speaker": "Becca",
+      "text": "Mark mentions that some people say if microplastics were harmful, we surely would have seen a spike in issues related to them by now."
+     },
+     {
+      "t0": 251.51,
+      "t1": 257.61,
+      "speaker": "Becca",
+      "text": "A spike is literally a pointy shape, but here it means a sudden, sharp increase in something."
+     },
+     {
+      "t0": 257.67,
+      "t1": 258.23,
+      "speaker": "Phil",
+      "text": "Right."
+     },
+     {
+      "t0": 258.23,
+      "t1": 265.49,
+      "speaker": "Phil",
+      "text": "And though the amount of plastic packaging we use has increased, this isn't a quantified measure."
+     },
+     {
+      "t0": 265.49,
+      "t1": 271.13,
+      "speaker": "Phil",
+      "text": "If something is quantified, then it's measured and given a number or a value."
+     },
+     {
+      "t0": 271.31,
+      "t1": 276.11,
+      "speaker": "Becca",
+      "text": "So, Mark concludes that he is worried about our exposure to plastics."
+     },
+     {
+      "t0": 276.61,
+      "t1": 281.87,
+      "speaker": "Becca",
+      "text": "Exposure means coming into contact with something that may have an impact on you."
+     },
+     {
+      "t0": 282.25,
+      "t1": 282.62,
+      "speaker": "Becca",
+      "text": "OK."
+     },
+     {
+      "t0": 282.62,
+      "t1": 288.85,
+      "speaker": "Becca",
+      "text": "Phil, so, if people are worried about their exposure to microplastics, what can they do to reduce this?"
+     },
+     {
+      "t0": 288.95,
+      "t1": 296.75,
+      "speaker": "Phil",
+      "text": "Well, one thing they can do is to replace things like plastic chopping boards, utensils and food storage containers."
+     },
+     {
+      "t0": 297.15,
+      "t1": 306.85,
+      "speaker": "Phil",
+      "text": "And another tip from BBC World Service's The Evidence is to replace tea bags, which often contain microplastics, with loose-leaf tea."
+     },
+     {
+      "t0": 308.01,
+      "t1": 308.38,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 308.38,
+      "t1": 312.85,
+      "speaker": "Phil",
+      "text": "Becca, now it's time to get the answer to our quiz question."
+     },
+     {
+      "t0": 312.85,
+      "t1": 320.77,
+      "speaker": "Phil",
+      "text": "And I asked you how long it would take to ingest a credit-card-sized amount of microplastics."
+     },
+     {
+      "t0": 321.35,
+      "t1": 325.19,
+      "speaker": "Becca",
+      "text": "Yes, and I said 33,000 years."
+     },
+     {
+      "t0": 325.77,
+      "t1": 326.26,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 326.26,
+      "t1": 328.6,
+      "speaker": "Phil",
+      "text": "Well, I've got two bits of bad news for you, Becca."
+     },
+     {
+      "t0": 328.6,
+      "t1": 330.37,
+      "speaker": "Phil",
+      "text": "One, you were wrong."
+     },
+     {
+      "t0": 330.67,
+      "t1": 336.61,
+      "speaker": "Phil",
+      "text": "And two, I'm afraid it's only 23,000 years that it would take to ingest that plastic."
+     },
+     {
+      "t0": 336.71,
+      "t1": 337.23,
+      "speaker": "Phil",
+      "text": "OK."
+     },
+     {
+      "t0": 337.61,
+      "t1": 349.19,
+      "speaker": "Phil",
+      "text": "Let's recap the vocabulary we learned in this programme, starting with marine, which describes anything related to, found in or produced by the sea."
+     },
+     {
+      "t0": 349.79,
+      "t1": 358.91,
+      "speaker": "Becca",
+      "text": "The adjective emerging describes something coming into view after being hidden, allowing it to develop or be better understood."
+     },
+     {
+      "t0": 359.27,
+      "t1": 363.71,
+      "speaker": "Phil",
+      "text": "A correlation is a relationship between two or more things."
+     },
+     {
+      "t0": 364.23,
+      "t1": 367.79,
+      "speaker": "Becca",
+      "text": "A spike is a sudden, sharp increase in something."
+     },
+     {
+      "t0": 367.93,
+      "t1": 373.35,
+      "speaker": "Phil",
+      "text": "If something is quantified, it's measured and given a number or a value."
+     },
+     {
+      "t0": 373.85,
+      "t1": 379.91,
+      "speaker": "Becca",
+      "text": "And exposure means to come into contact with something that may have an impact on you."
+     },
+     {
+      "t0": 380.19,
+      "t1": 382.56,
+      "speaker": "Phil",
+      "text": "Once again, our six minutes are up."
+     },
+     {
+      "t0": 382.56,
+      "t1": 388.81,
+      "speaker": "Phil",
+      "text": "Test what you've learned with the worksheet on our website, bbclearningenglish.com."
+     }
+    ]
+   }
+  ],
+  "task": "출근길 운전하면서 한 번은 대략적인 내용만 듣고, 저녁에 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'marine', 'emerging', 'correlation', 'spike', 'quantified', 'exposure'가 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "How long would it really take to ingest a credit-card-sized amount of microplastics? a) 13,000 years, b) 23,000 years, c) 33,000 years",
+   "answer": "b) 23,000 years. '매주 신용카드 한 장만큼 먹는다'는 SNS 이야기는 사실이 아니었어요. Becca는 33,000년을 골라서 틀렸어요!"
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Nov 19",
+  "sentences": [
+   {
+    "text": "What's the last plastic thing you had in your hands?",
+    "ko": "마지막으로 손에 들었던 플라스틱 물건이 뭐예요?",
+    "t0": 3.99,
+    "t1": 7.03,
+    "track": 0
+   },
+   {
+    "text": "Shilpa says that plastics have been found in marine animals.",
+    "ko": "Shilpa는 바다 동물에서 플라스틱이 발견됐다고 말해요.",
+    "t0": 133.09,
+    "t1": 136.86,
+    "track": 0
+   },
+   {
+    "text": "You'll hear this word a lot when talking about data.",
+    "ko": "이 단어는 데이터 이야기할 때 많이 듣게 될 거예요.",
+    "t0": 166.07,
+    "t1": 168.65,
+    "track": 0
+   },
+   {
+    "text": "So, Mark concludes that he is worried about our exposure to plastics.",
+    "ko": "그래서 Mark는 우리가 플라스틱에 노출되는 것이 걱정된다고 결론 내려요.",
+    "t0": 271.31,
+    "t1": 276.11,
+    "track": 0
+   },
+   {
+    "text": "A correlation is a relationship between two or more things.",
+    "ko": "correlation은 두 가지 이상의 것 사이의 관계예요.",
+    "t0": 359.27,
+    "t1": 363.71,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "The return of measles in America",
+  "url": "https://www.hindustantimes.com/science/the-return-of-measles-in-america-101795055989355.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "United States · Nov 19th 2026",
+  "minutes": 6,
+  "summaryKo": "11월 17일 WHO 산하 기구가 미국에서 홍역(measles)의 토착 전파가 1999년 이후 처음으로 다시 확립됐다고 발표했어요. 백신 관련 잘못된 정보, 코로나로 인한 예방접종 공백, 백신 회의론자인 RFK Jr. 보건장관의 정책이 겹친 결과예요. 올해 45개 주에서 환자가 나오고 10명이 숨졌는데, 이번엔 환자의 약 40%가 성인이라 1990년대보다 퇴치가 더 어렵대요. 접촉자 추적·격리·백신 캠페인에 환자 1명당 평균 4만3천 달러가 드는데, CDC 인력은 30%나 줄었어요. 검사실에서 일하는 입장에서 보면 흥미로운 기사예요.",
+  "excerpt": [
+   "The failure is as monumental as it was avoidable. For years, widespread misinformation had led to a steady decline in vaccination rates in America.",
+   "Measles is highly contagious, an airborne pathogen that takes up residence in a patient’s nose and throat before symptoms appear."
+  ],
+  "tip": "첫 문장 'The failure is as monumental as it was avoidable.'처럼 'as A as B' 구조로 두 가지를 동시에 강조하는 게 Economist 스타일이에요. 'immune amnesia'(면역 기억상실), 'chains of transmission'(전파 고리), 'fend off'(막아내다) 같은 의학 표현도 눈여겨보세요."
+ },
+ "vocab": [
+  {
+   "word": "exposure (to)",
+   "meaning": "(~에의) 노출",
+   "example": "Our exposure to plastics seems to be increasing."
+  },
+  {
+   "word": "correlation",
+   "meaning": "상관관계",
+   "example": "There may be a correlation between this and diseases they developed later on."
+  },
+  {
+   "word": "spike",
+   "meaning": "급증, 갑작스러운 증가",
+   "example": "Surely we'd have seen a spike by now."
+  },
+  {
+   "word": "emerging",
+   "meaning": "새로 나타나는, 부상하는",
+   "example": "There was emerging evidence that there was plastics in the liver."
+  },
+  {
+   "word": "contagious",
+   "meaning": "전염성이 있는",
+   "example": "Measles is highly contagious."
+  },
+  {
+   "word": "contain (an outbreak)",
+   "meaning": "(유행을) 억제하다, 막다",
+   "example": "To contain an outbreak, public-health workers must trace the contacts of infected people."
+  },
+  {
+   "word": "vaccine sceptic",
+   "meaning": "백신 회의론자",
+   "example": "Mr Kennedy is a famous vaccine sceptic."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English: What is one small change your family could make to use less plastic at home?",
+  "question": "Do you trust health news you see on social media? How do you check if it is true?",
+  "hint": "이런 표현을 써 보세요: We could replace our plastic ... with ... / I'm a bit worried about our exposure to ... / I usually check the evidence by ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, explain to a friend why vaccines are important for kids. Use one example from your work or family.",
+  "phrases": [
+   "In my lab, we often see ...",
+   "Measles is very contagious, so ...",
+   "That's why I make sure my kids ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Say three short sentences about plastic at home (e.g. We use a lot of plastic. I want to use less.)."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "금요일이에요! 어제 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
