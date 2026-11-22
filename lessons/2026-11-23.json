@@ -1,0 +1,543 @@
+{
+ "date": "2026-11-23",
+ "theme": "Home & health · 집안일과 건강",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Who does the housework?",
+    "show": "BBC Learning English · 6 Minute English (Aug 13)",
+    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260813_6_minute_english_who_does_the_housework_download.mp3",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260813.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260813-075.mp3"
+    ],
+    "minutes": 6,
+    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813",
+    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813",
+    "note": "Neil과 Pippa가 집안일(household chores)을 누가 얼마나 하는지 이야기해요. 인도네시아 Rote 섬의 '여자 일' 문화와, 아빠와 아들이 집안일을 배우는 크로아티아의 'Superdads' 프로젝트가 나와요. 두 아이 아빠로서 공감 가는 주제예요! 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "transcript": [
+     {
+      "t0": 4.67,
+      "t1": 11.17,
+      "speaker": "Neil",
+      "text": "Hello, this is 6 Minute English from BBC Learning English."
+     },
+     {
+      "t0": 11.17,
+      "t1": 11.77,
+      "speaker": "Neil",
+      "text": "I'm Neil."
+     },
+     {
+      "t0": 11.77,
+      "t1": 12.95,
+      "speaker": "Pippa",
+      "text": "And I'm Pippa."
+     },
+     {
+      "t0": 13.05,
+      "t1": 21.23,
+      "speaker": "Pippa",
+      "text": "When it comes to household chores, jobs like cleaning, washing clothes or looking after the kids, it's often women who do most of the work."
+     },
+     {
+      "t0": 21.53,
+      "t1": 27.46,
+      "speaker": "Pippa",
+      "text": "Here, two female listeners of BBC World Service programme People Fixing the World share their experiences."
+     },
+     {
+      "t0": 27.46,
+      "t1": 29.78,
+      "speaker": "Pippa",
+      "text": "Do they sound familiar to you?"
+     },
+     {
+      "t0": 29.78,
+      "t1": 30.93,
+      "speaker": "Pippa",
+      "text": "Listener 1 I do everything."
+     },
+     {
+      "t0": 30.93,
+      "t1": 37.48,
+      "speaker": "Pippa",
+      "text": "I do all the house chores, I do the food shopping, I do all the cooking, I clean the bathroom."
+     },
+     {
+      "t0": 37.48,
+      "t1": 41.05,
+      "speaker": "Pippa",
+      "text": "Listener 2 Are the chores done equally between me and my husband?"
+     },
+     {
+      "t0": 41.67,
+      "t1": 43.63,
+      "speaker": "Pippa",
+      "text": "No, they're not done equally."
+     },
+     {
+      "t0": 43.93,
+      "t1": 45.69,
+      "speaker": "Pippa",
+      "text": "I do most of the chores."
+     },
+     {
+      "t0": 46.43,
+      "t1": 48.3,
+      "speaker": "Pippa",
+      "text": "So, you're a family man, Neil."
+     },
+     {
+      "t0": 48.3,
+      "t1": 51.09,
+      "speaker": "Pippa",
+      "text": "Do you do your fair share of household chores?"
+     },
+     {
+      "t0": 51.43,
+      "t1": 52.73,
+      "speaker": "Neil",
+      "text": "I think so."
+     },
+     {
+      "t0": 53.05,
+      "t1": 62.27,
+      "speaker": "Neil",
+      "text": "My wife works part time and I work full time, so when I'm not working, I do things, and when she's not working, she does things."
+     },
+     {
+      "t0": 62.29,
+      "t1": 69.13,
+      "speaker": "Pippa",
+      "text": "Yeah, it's similar in my house, so me and my husband try to split things, but it's difficult, isn't it?"
+     },
+     {
+      "t0": 69.13,
+      "t1": 69.91,
+      "speaker": "Neil",
+      "text": "It is."
+     },
+     {
+      "t0": 69.97,
+      "t1": 76.73,
+      "speaker": "Pippa",
+      "text": "Of course, no one enjoys cleaning the toilet or taking out the bins, but there is a serious side to the issue."
+     },
+     {
+      "t0": 76.85,
+      "t1": 87.87,
+      "speaker": "Pippa",
+      "text": "Figures from UN Women, an organisation promoting gender equality, suggest that every day women around the world spend three hours more than men on unpaid care and domestic work."
+     },
+     {
+      "t0": 87.87,
+      "t1": 95.07,
+      "speaker": "Pippa",
+      "text": "So, in this episode, we'll be hearing about two projects helping husbands and wives share the housework more fairly."
+     },
+     {
+      "t0": 95.11,
+      "t1": 102.17,
+      "speaker": "Neil",
+      "text": "And as usual, you'll find a quiz and a worksheet to go with this episode on our website, bbclearningenglish.com."
+     },
+     {
+      "t0": 102.31,
+      "t1": 105.09,
+      "speaker": "Neil",
+      "text": "But now I have a question for you, Pippa."
+     },
+     {
+      "t0": 105.09,
+      "t1": 114.23,
+      "speaker": "Neil",
+      "text": "According to a survey conducted by Good Housekeeping magazine earlier this year, what is the most hated household chore in Britain?"
+     },
+     {
+      "t0": 114.43,
+      "t1": 121.56,
+      "speaker": "Neil",
+      "text": "Is it: a) deep cleaning the oven, b) scrubbing the toilet, or c) cleaning the windows?"
+     },
+     {
+      "t0": 121.56,
+      "t1": 122.26,
+      "speaker": "Pippa",
+      "text": "Hmm."
+     },
+     {
+      "t0": 122.67,
+      "t1": 127.41,
+      "speaker": "Pippa",
+      "text": "I'm going to say deep cleaning the oven because I really hate that job."
+     },
+     {
+      "t0": 127.41,
+      "t1": 128.67,
+      "speaker": "Pippa",
+      "text": "I hardly ever do it."
+     },
+     {
+      "t0": 129.17,
+      "t1": 133.99,
+      "speaker": "Neil",
+      "text": "I don't like any of those, but we'll find out the answer at the end of the programme."
+     },
+     {
+      "t0": 134.63,
+      "t1": 139.93,
+      "speaker": "Neil",
+      "text": "Now, the first project we're going to look at is on the remote Indonesian island of Rote."
+     },
+     {
+      "t0": 140.41,
+      "t1": 147.89,
+      "speaker": "Neil",
+      "text": "Here, men traditionally work as rice farmers or fishermen, while women look after the home, the children and older people."
+     },
+     {
+      "t0": 148.35,
+      "t1": 153.93,
+      "speaker": "Neil",
+      "text": "But with few washing machines and no running water, these domestic chores take a long time."
+     },
+     {
+      "t0": 153.93,
+      "t1": 160.11,
+      "speaker": "Pippa",
+      "text": "The NGO ARUNGI runs a project trying to change attitudes about the role of the island's women."
+     },
+     {
+      "t0": 160.11,
+      "t1": 167.37,
+      "speaker": "Pippa",
+      "text": "They work alongside community leaders like Mama Shilpa, who spoke with BBC World Service reporter Ade Mardiyati."
+     },
+     {
+      "t0": 167.37,
+      "t1": 178.55,
+      "speaker": "Mama Shilpa",
+      "text": "It is expected that the tasks done in the house, like holding the child, feeding the child, washing dishes, cooking, will all be done by the mother."
+     },
+     {
+      "t0": 178.99,
+      "t1": 182.35,
+      "speaker": "Ade Mardiyati",
+      "text": "Shilpa tells me these are all considered women's work."
+     },
+     {
+      "t0": 182.63,
+      "t1": 189.45,
+      "speaker": "Ade Mardiyati",
+      "text": "And you might be thinking, \"Well, the man is busy in the fields, so it's just a fair division of labour.\""
+     },
+     {
+      "t0": 189.71,
+      "t1": 193.53,
+      "speaker": "Ade Mardiyati",
+      "text": "But Shilpa tells me women also help out in the fields."
+     },
+     {
+      "t0": 193.89,
+      "t1": 203.75,
+      "speaker": "Neil",
+      "text": "On Rote, cleaning, cooking and sweeping are considered women's work – a negative term for boring and repetitive tasks which are traditionally done by women."
+     },
+     {
+      "t0": 203.75,
+      "t1": 211.05,
+      "speaker": "Pippa",
+      "text": "Many cultures have a division of labour – a way of organising work where different tasks are done by different groups of people."
+     },
+     {
+      "t0": 211.21,
+      "t1": 217.15,
+      "speaker": "Pippa",
+      "text": "But on Rote this means women work even harder, helping out with the farming and fishing too."
+     },
+     {
+      "t0": 217.25,
+      "t1": 227.87,
+      "speaker": "Neil",
+      "text": "You might think this only happens in traditional societies, but research suggests that women in wealthy countries also spend much more time on unpaid care work than men."
+     },
+     {
+      "t0": 228.39,
+      "t1": 234.47,
+      "speaker": "Neil",
+      "text": "One such country is Croatia, where the NGO Status M run their Superdads project."
+     },
+     {
+      "t0": 234.81,
+      "t1": 242.25,
+      "speaker": "Neil",
+      "text": "Project worker Anamarija Sočo leads workshops encouraging dads and sons to take some of the pressure off mums."
+     },
+     {
+      "t0": 242.59,
+      "t1": 246.51,
+      "speaker": "Neil",
+      "text": "Here, she explains the benefits of this to the BBC World Service."
+     },
+     {
+      "t0": 246.77,
+      "t1": 255.67,
+      "speaker": "Anamarija Sočo",
+      "text": "Mothers have, you know, of course, more space for their careers, or hobbies, or just simply to rest – I mean, just to take a breather."
+     },
+     {
+      "t0": 256.13,
+      "t1": 262.31,
+      "speaker": "Anamarija Sočo",
+      "text": "Women tend to especially appreciate men who do these kinds of chores."
+     },
+     {
+      "t0": 263.11,
+      "t1": 269.73,
+      "speaker": "Anamarija Sočo",
+      "text": "And when they start pulling their weight, then they jokingly say that, \"Uh yeah, women tend to nag less.\""
+     },
+     {
+      "t0": 270.31,
+      "t1": 276.03,
+      "speaker": "Pippa",
+      "text": "Sometimes mums need to take a breather – an informal way of saying stop and rest a while."
+     },
+     {
+      "t0": 276.03,
+      "t1": 280.97,
+      "speaker": "Neil",
+      "text": "Anamarija also thinks women appreciate it when their husbands pull their weight."
+     },
+     {
+      "t0": 281.05,
+      "t1": 284.27,
+      "speaker": "Neil",
+      "text": "If you pull your weight, you work as hard as everyone else."
+     },
+     {
+      "t0": 284.53,
+      "t1": 294.75,
+      "speaker": "Pippa",
+      "text": "Both these NGO projects agree about one thing – men doing more to help around the house results in happier homes, even if that means cleaning the toilet now and then."
+     },
+     {
+      "t0": 294.83,
+      "t1": 299.23,
+      "speaker": "Pippa",
+      "text": "And speaking of cleaning the toilet, what was the answer to your quiz question, Neil?"
+     },
+     {
+      "t0": 299.63,
+      "t1": 303.69,
+      "speaker": "Neil",
+      "text": "I asked you what chore is the most hated in Britain."
+     },
+     {
+      "t0": 303.71,
+      "t1": 305.65,
+      "speaker": "Pippa",
+      "text": "I thought it was cleaning the oven."
+     },
+     {
+      "t0": 305.97,
+      "t1": 308.45,
+      "speaker": "Neil",
+      "text": "Well, I'm afraid that's not the right answer."
+     },
+     {
+      "t0": 308.61,
+      "t1": 312.79,
+      "speaker": "Neil",
+      "text": "People hate cleaning the windows even more than scrubbing the oven."
+     },
+     {
+      "t0": 312.79,
+      "t1": 317.85,
+      "speaker": "Neil",
+      "text": "Apparently, 23% of the people who did the survey said cleaning the windows."
+     },
+     {
+      "t0": 318.29,
+      "t1": 318.9,
+      "speaker": "Neil",
+      "text": "OK."
+     },
+     {
+      "t0": 318.9,
+      "t1": 327.29,
+      "speaker": "Neil",
+      "text": "Let's recap the vocabulary we've learned, starting with chores – household tasks like cleaning, washing and ironing that have to be done regularly."
+     },
+     {
+      "t0": 327.59,
+      "t1": 331.73,
+      "speaker": "Pippa",
+      "text": "If you do your fair share of work, you do a reasonable amount."
+     },
+     {
+      "t0": 332.09,
+      "t1": 338.83,
+      "speaker": "Neil",
+      "text": "Women's work is a negative term for the boring and repetitive tasks which are stereotypically done by women."
+     },
+     {
+      "t0": 338.95,
+      "t1": 345.03,
+      "speaker": "Pippa",
+      "text": "The division of labour is a way of organising work where different tasks are done by different groups of people."
+     },
+     {
+      "t0": 345.09,
+      "t1": 349.78,
+      "speaker": "Neil",
+      "text": "The idiom take a breather means to stop what you're doing for a short time and rest."
+     },
+     {
+      "t0": 349.78,
+      "t1": 355.45,
+      "speaker": "Pippa",
+      "text": "And finally, if you pull your weight, you work as hard as everyone else doing the same job."
+     },
+     {
+      "t0": 355.77,
+      "t1": 364.38,
+      "speaker": "Pippa",
+      "text": "Once again, our six minutes are up, but remember, you can find a free transcript including all the vocabulary on our website, at bbclearningenglish.com."
+     },
+     {
+      "t0": 364.38,
+      "t1": 365.33,
+      "speaker": "Pippa",
+      "text": "Goodbye for now."
+     },
+     {
+      "t0": 365.33,
+      "t1": 365.93,
+      "speaker": "Neil",
+      "text": "Goodbye!"
+     }
+    ]
+   }
+  ],
+  "task": "출근길 운전하면서 한 번은 대략적인 내용만 듣고, 저녁에 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'fair share', 'division of labour', 'take a breather', 'pull your weight'가 나오는 부분을 잘 들어 보세요.",
+  "quiz": {
+   "q": "According to the Good Housekeeping survey, what is the most hated household chore in Britain? a) deep cleaning the oven, b) scrubbing the toilet, c) cleaning the windows",
+   "answer": "c) cleaning the windows. 응답자의 23%가 창문 닦기를 가장 싫어한다고 했어요. Pippa는 오븐 청소라고 했는데 틀렸어요!"
+  }
+ },
+ "shadowing": {
+  "lang": "en-GB",
+  "source": "BBC 6 Minute English, Aug 13",
+  "sentences": [
+   {
+    "text": "Do you do your fair share of household chores?",
+    "ko": "집안일을 공평하게 나눠서 하나요?",
+    "t0": 48.3,
+    "t1": 51.09,
+    "track": 0
+   },
+   {
+    "text": "I'm going to say deep cleaning the oven because I really hate that job.",
+    "ko": "오븐 대청소라고 할게요. 그 일이 정말 싫거든요.",
+    "t0": 122.67,
+    "t1": 127.41,
+    "track": 0
+   },
+   {
+    "text": "Sometimes mums need to take a breather – an informal way of saying stop and rest a while.",
+    "ko": "엄마들도 가끔은 한숨 돌릴 시간이 필요해요.",
+    "t0": 270.31,
+    "t1": 276.03,
+    "track": 0
+   },
+   {
+    "text": "If you pull your weight, you work as hard as everyone else.",
+    "ko": "pull your weight는 다른 사람만큼 열심히 일한다는 뜻이에요.",
+    "t0": 281.05,
+    "t1": 284.27,
+    "track": 0
+   },
+   {
+    "text": "People hate cleaning the windows even more than scrubbing the oven.",
+    "ko": "사람들은 오븐 닦기보다 창문 닦기를 더 싫어해요.",
+    "t0": 308.61,
+    "t1": 312.79,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Are some salts healthier than others?",
+  "url": "https://www.hindustantimes.com/lifestyle/are-some-salts-healthier-than-others-101795251285413.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "Health · Nov 21st 2026",
+  "minutes": 5,
+  "summaryKo": "핑크 히말라야 소금, 플뢰르 드 셀 같은 비싼 소금도 결국 대부분 염화나트륨이라, 미량 미네랄로 건강 효과를 보려면 하루 30g 이상(WHO 권장량의 6배) 먹어야 한대요. 의미 있는 첨가물은 두 가지뿐: 아이·임산부에게 중요한 요오드(iodine), 그리고 나트륨 일부를 대체하는 칼륨(potassium). 중국 농촌 약 2만 1천 명 연구에서 칼륨 강화 소금(나트륨 75% + 칼륨 25%)이 혈압을 낮추고 뇌졸중·심혈관 사건·사망 위험을 약 13% 줄였어요. 그래도 가장 간단한 방법은 소금을 덜 먹는 것이고, 신장질환이 있으면 칼륨 과다에 주의해야 한대요. 검사실에서 Na/K 수치를 보는 입장에서 읽으면 더 재미있을 거예요.",
+  "excerpt": [
+   "HUMANS NEED salt. It contains sodium, which draws water out of cells to hydrate the bloodstream; enables muscles to contract and relax; and helps the intestines absorb nutrients. But one can have too much of a good thing.",
+   "Despite their differing appearances and price points, most supermarket salts—from fleur de sel to pink Himalayan—predominantly consist of plain old sodium chloride."
+  ],
+  "tip": "Economist는 말장난을 좋아해요: 'more than a grain of truth'(일리가 있다), 'taken with a pinch of salt'(곧이곧대로 믿지 않다), 'worth their salt'(제 몫을 하는) 모두 소금(salt/grain/pinch)과 관련된 관용구예요. 하나씩 찾아보세요!"
+ },
+ "vocab": [
+  {
+   "word": "chores",
+   "meaning": "(집안) 허드렛일, 집안일",
+   "example": "I do all the house chores."
+  },
+  {
+   "word": "fair share",
+   "meaning": "공평한 몫",
+   "example": "Do you do your fair share of household chores?"
+  },
+  {
+   "word": "division of labour",
+   "meaning": "분업, 역할 분담",
+   "example": "Many cultures have a division of labour."
+  },
+  {
+   "word": "take a breather",
+   "meaning": "잠깐 쉬다, 한숨 돌리다",
+   "example": "Sometimes mums need to take a breather."
+  },
+  {
+   "word": "pull your weight",
+   "meaning": "제 몫을 다하다",
+   "example": "Women appreciate it when their husbands pull their weight."
+  },
+  {
+   "word": "mitigate",
+   "meaning": "(피해를) 완화하다, 줄이다",
+   "example": "Some manufacturers say certain varieties mitigate the harm."
+  },
+  {
+   "word": "trace amounts",
+   "meaning": "극미량",
+   "example": "Some salts contain trace amounts of other minerals."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English: How do you and your family share the housework?",
+  "question": "Which chore do you do most at home, and which one do you hate the most?",
+  "hint": "이런 표현을 써 보세요: At home, I usually ... / My least favourite chore is ... / I try to do my fair share by ..."
+ },
+ "speaking": {
+  "prompt": "In one minute, talk about salt and your diet. Do you try to eat less salt? Is it easy with Korean food?",
+  "phrases": [
+   "I try to eat less salt because ...",
+   "Korean food is often salty, for example ...",
+   "One easy way to cut down is ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Say three short sentences about your meals (e.g. I like kimchi. It is salty. I eat less soup now.)."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "새로운 한 주예요! 지난번 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
