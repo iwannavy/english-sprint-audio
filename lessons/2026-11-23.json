@@ -1,472 +1,4211 @@
 {
  "date": "2026-11-23",
- "theme": "Home & health · 집안일과 건강",
+ "theme": "Value investing & health · 가치투자와 건강",
  "listening": {
   "tracks": [
    {
-    "title": "Who does the housework?",
-    "show": "BBC Learning English · 6 Minute English (Aug 13)",
-    "url": "https://downloads.bbc.co.uk/learningenglish/features/6min/260813_6_minute_english_who_does_the_housework_download.mp3",
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 1/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=5s",
     "audioSrcs": [
-     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260813.mp3"
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p1.mp3"
     ],
     "slowSrcs": [
-     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/bbc-260813-075.mp3"
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p1-075.mp3"
     ],
-    "minutes": 6,
-    "episodeUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813",
-    "transcriptUrl": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813",
-    "note": "Neil과 Pippa가 집안일(household chores)을 누가 얼마나 하는지 이야기해요. 인도네시아 Rote 섬의 '여자 일' 문화와, 아빠와 아들이 집안일을 배우는 크로아티아의 'Superdads' 프로젝트가 나와요. 두 아이 아빠로서 공감 가는 주제예요! 1회차는 대략적인 내용만, 2회차는 스크립트를 보면서 들어요.",
+    "minutes": 15,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "Tano Santos 교수의 소개 후, Li Lu가 가치투자의 6가지 원칙을 정리해요: Ben Graham의 3가지(주식=기업 소유권, 시장은 나를 '가르치는' 게 아니라 '섬기는' 존재, 안전마진), Buffett의 능력범위(circle of competence), Munger의 '물고기가 있는 곳에서 낚시하라', 그리고 Li Lu 자신의 '부 = 세계 구매력에 대한 지분'. 시장 참여자 4가지 유형 이야기도 나와요. 1회차는 대략적인 흐름만, 2회차는 스크립트를 보면서 들어요.",
     "transcript": [
      {
-      "t0": 4.67,
-      "t1": 11.17,
-      "speaker": "Neil",
-      "text": "Hello, this is 6 Minute English from BBC Learning English."
+      "t0": 2.0,
+      "t1": 2.97,
+      "speaker": "Tano Santos",
+      "text": "Thank you so much."
      },
      {
-      "t0": 11.17,
-      "t1": 11.77,
-      "speaker": "Neil",
-      "text": "I'm Neil."
+      "t0": 2.97,
+      "t1": 12.18,
+      "speaker": "Tano Santos",
+      "text": "I know you guys are incredibly excited to be here, and I know it’s not because of me, but rather because of our guest today, who I will introduce shortly."
      },
      {
-      "t0": 11.77,
-      "t1": 12.95,
-      "speaker": "Pippa",
-      "text": "And I'm Pippa."
+      "t0": 14.28,
+      "t1": 25.84,
+      "speaker": "Tano Santos",
+      "text": "Before we start with the interview, let me take a couple of minutes to tell you that, as always at this time of year, the Heilbrunn year is up and running in full swing."
      },
      {
-      "t0": 13.05,
-      "t1": 21.23,
-      "speaker": "Pippa",
-      "text": "When it comes to household chores, jobs like cleaning, washing clothes or looking after the kids, it's often women who do most of the work."
+      "t0": 26.52,
+      "t1": 31.82,
+      "speaker": "Tano Santos",
+      "text": "The students, some of whom are here, have already taken my Modern Value class."
      },
      {
-      "t0": 21.53,
-      "t1": 27.46,
-      "speaker": "Pippa",
-      "text": "Here, two female listeners of BBC World Service programme People Fixing the World share their experiences."
+      "t0": 31.82,
+      "t1": 37.88,
+      "speaker": "Tano Santos",
+      "text": "They’re taking the Applied Value Investing class, their Credit Superhighway, all the electives."
      },
      {
-      "t0": 27.46,
-      "t1": 29.78,
-      "speaker": "Pippa",
-      "text": "Do they sound familiar to you?"
+      "t0": 38.36,
+      "t1": 39.35,
+      "speaker": "Tano Santos",
+      "text": "We’re having a blast."
      },
      {
-      "t0": 29.78,
-      "t1": 30.93,
-      "speaker": "Pippa",
-      "text": "Listener 1 I do everything."
+      "t0": 39.35,
+      "t1": 41.32,
+      "speaker": "Tano Santos",
+      "text": "They’re all absolutely wonderful."
      },
      {
-      "t0": 30.93,
-      "t1": 37.48,
-      "speaker": "Pippa",
-      "text": "I do all the house chores, I do the food shopping, I do all the cooking, I clean the bathroom."
+      "t0": 41.86,
+      "t1": 46.15,
+      "speaker": "Tano Santos",
+      "text": "In addition, we have a new initiative this year in the Heilbrunn Center."
      },
      {
-      "t0": 37.48,
-      "t1": 41.05,
-      "speaker": "Pippa",
-      "text": "Listener 2 Are the chores done equally between me and my husband?"
+      "t0": 46.15,
+      "t1": 56.58,
+      "speaker": "Tano Santos",
+      "text": "We launched our first Global Value Investor program, and the first cohort of that program, a joint effort with Columbia Business School Executive Education, is here."
      },
      {
-      "t0": 41.67,
-      "t1": 43.63,
-      "speaker": "Pippa",
-      "text": "No, they're not done equally."
+      "t0": 56.58,
+      "t1": 61.62,
+      "speaker": "Tano Santos",
+      "text": "These are all the wonderful friends from China who are visiting us this year."
      },
      {
-      "t0": 43.93,
-      "t1": 45.69,
-      "speaker": "Pippa",
-      "text": "I do most of the chores."
+      "t0": 61.66,
+      "t1": 64.78,
+      "speaker": "Tano Santos",
+      "text": "Thank you so much for being here."
      },
      {
-      "t0": 46.43,
-      "t1": 48.3,
-      "speaker": "Pippa",
-      "text": "So, you're a family man, Neil."
+      "t0": 65.7,
+      "t1": 74.84,
+      "speaker": "Tano Santos",
+      "text": "Michael and I — I get asked this question a little too often — are already working on a new season of the Value Investing with Legends podcast."
      },
      {
-      "t0": 48.3,
-      "t1": 51.09,
-      "speaker": "Pippa",
-      "text": "Do you do your fair share of household chores?"
+      "t0": 77.72,
+      "t1": 83.14,
+      "speaker": "Tano Santos",
+      "text": "Episodes will be coming soon, so that is something to look forward to."
      },
      {
-      "t0": 51.43,
-      "t1": 52.73,
-      "speaker": "Neil",
-      "text": "I think so."
+      "t0": 83.54,
+      "t1": 90.9,
+      "speaker": "Tano Santos",
+      "text": "We made our new stock selections for the student portfolio, the Tom Russo student portfolio."
      },
      {
-      "t0": 53.05,
-      "t1": 62.27,
-      "speaker": "Neil",
-      "text": "My wife works part time and I work full time, so when I'm not working, I do things, and when she's not working, she does things."
+      "t0": 91.88,
+      "t1": 93.51,
+      "speaker": "Tano Santos",
+      "text": "What did we buy this year?"
      },
      {
-      "t0": 62.29,
-      "t1": 69.13,
-      "speaker": "Pippa",
-      "text": "Yeah, it's similar in my house, so me and my husband try to split things, but it's difficult, isn't it?"
+      "t0": 93.51,
+      "t1": 95.82,
+      "speaker": "Tano Santos",
+      "text": "Equifax, Humana."
      },
      {
-      "t0": 69.13,
-      "t1": 69.91,
-      "speaker": "Neil",
-      "text": "It is."
+      "t0": 97.42,
+      "t1": 98.11,
+      "speaker": "Tano Santos",
+      "text": "What else?"
      },
      {
-      "t0": 69.97,
-      "t1": 76.73,
-      "speaker": "Pippa",
-      "text": "Of course, no one enjoys cleaning the toilet or taking out the bins, but there is a serious side to the issue."
+      "t0": 98.11,
+      "t1": 108.5,
+      "speaker": "Tano Santos",
+      "text": "We bought the great Japanese bicycle company, Shimano, a classic value play if there was one; Copart, an online auction company; Perimeter Solutions, fire solutions."
      },
      {
-      "t0": 76.85,
-      "t1": 87.87,
-      "speaker": "Pippa",
-      "text": "Figures from UN Women, an organisation promoting gender equality, suggest that every day women around the world spend three hours more than men on unpaid care and domestic work."
+      "t0": 109.16,
+      "t1": 110.28,
+      "speaker": "Tano Santos",
+      "text": "A lot of fun things."
      },
      {
-      "t0": 87.87,
-      "t1": 95.07,
-      "speaker": "Pippa",
-      "text": "So, in this episode, we'll be hearing about two projects helping husbands and wives share the housework more fairly."
+      "t0": 110.28,
+      "t1": 118.63,
+      "speaker": "Tano Santos",
+      "text": "As always, you can download all the reports the students have done over the years on the different companies."
      },
      {
-      "t0": 95.11,
-      "t1": 102.17,
-      "speaker": "Neil",
-      "text": "And as usual, you'll find a quiz and a worksheet to go with this episode on our website, bbclearningenglish.com."
+      "t0": 118.63,
+      "t1": 122.84,
+      "speaker": "Tano Santos",
+      "text": "It’s a wonderful resource, and I very much encourage you to look at that."
      },
      {
-      "t0": 102.31,
-      "t1": 105.09,
-      "speaker": "Neil",
-      "text": "But now I have a question for you, Pippa."
+      "t0": 125.46,
+      "t1": 129.66,
+      "speaker": "Tano Santos",
+      "text": "I want to single out a wonderful member of our community."
      },
      {
-      "t0": 105.09,
-      "t1": 114.23,
-      "speaker": "Neil",
-      "text": "According to a survey conducted by Good Housekeeping magazine earlier this year, what is the most hated household chore in Britain?"
+      "t0": 129.7,
+      "t1": 147.54,
+      "speaker": "Tano Santos",
+      "text": "I’m always amazed by Tom Russo’s generosity with the Heilbrunn Center, not only because of the student portfolio, but because of everything he does for the program, and in particular this year, making sure that our friend Li Lu could be here, for which we’re always thankful."
      },
      {
-      "t0": 114.43,
-      "t1": 121.56,
-      "speaker": "Neil",
-      "text": "Is it: a) deep cleaning the oven, b) scrubbing the toilet, or c) cleaning the windows?"
+      "t0": 148.14,
+      "t1": 151.43,
+      "speaker": "Tano Santos",
+      "text": "We just had a wonderful week, as I told you a moment ago."
      },
      {
-      "t0": 121.56,
-      "t1": 122.26,
-      "speaker": "Pippa",
-      "text": "Hmm."
+      "t0": 151.43,
+      "t1": 161.78,
+      "speaker": "Tano Santos",
+      "text": "With this new program, the Global Value Investor program, Andrew Gundlach and Kristin Gilbertson put on a show for them, which I also want to acknowledge publicly."
      },
      {
-      "t0": 122.67,
-      "t1": 127.41,
-      "speaker": "Pippa",
-      "text": "I'm going to say deep cleaning the oven because I really hate that job."
+      "t0": 162.7,
+      "t1": 166.82,
+      "speaker": "Tano Santos",
+      "text": "Finally, we’re getting ready for a terrific CIMA conference."
      },
      {
-      "t0": 127.41,
-      "t1": 128.67,
-      "speaker": "Pippa",
-      "text": "I hardly ever do it."
+      "t0": 168.66,
+      "t1": 174.12,
+      "speaker": "Tano Santos",
+      "text": "It’s amazing, the names that are coming this year."
      },
      {
-      "t0": 129.17,
-      "t1": 133.99,
-      "speaker": "Neil",
-      "text": "I don't like any of those, but we'll find out the answer at the end of the programme."
+      "t0": 176.88,
+      "t1": 188.6,
+      "speaker": "Tano Santos",
+      "text": "We’re going to have Howard Marks, Bill Ackman will be there, Josh Wolfe of Lux Capital will be there, Samantha McLemore from Patient Capital."
      },
      {
-      "t0": 134.63,
-      "t1": 139.93,
-      "speaker": "Neil",
-      "text": "Now, the first project we're going to look at is on the remote Indonesian island of Rote."
+      "t0": 188.82,
+      "t1": 193.22,
+      "speaker": "Tano Santos",
+      "text": "I very much hope to see many of you there."
      },
      {
-      "t0": 140.41,
-      "t1": 147.89,
-      "speaker": "Neil",
-      "text": "Here, men traditionally work as rice farmers or fishermen, while women look after the home, the children and older people."
+      "t0": 194.58,
+      "t1": 196.13,
+      "speaker": "Tano Santos",
+      "text": "Now, to the main event."
      },
      {
-      "t0": 148.35,
-      "t1": 153.93,
-      "speaker": "Neil",
-      "text": "But with few washing machines and no running water, these domestic chores take a long time."
+      "t0": 196.13,
+      "t1": 205.64,
+      "speaker": "Tano Santos",
+      "text": "Li Lu, of course, needs no introduction, as he’s truly one of the great modern value investing legends."
      },
      {
-      "t0": 153.93,
-      "t1": 160.11,
-      "speaker": "Pippa",
-      "text": "The NGO ARUNGI runs a project trying to change attitudes about the role of the island's women."
+      "t0": 206.04,
+      "t1": 211.16,
+      "speaker": "Tano Santos",
+      "text": "He’s the founder and chairman of Himalaya Capital, which he founded in 1997."
      },
      {
-      "t0": 160.11,
-      "t1": 167.37,
-      "speaker": "Pippa",
-      "text": "They work alongside community leaders like Mama Shilpa, who spoke with BBC World Service reporter Ade Mardiyati."
+      "t0": 211.74,
+      "t1": 215.68,
+      "speaker": "Tano Santos",
+      "text": "He has built an enormous record of performance in the last 30 years."
      },
      {
-      "t0": 167.37,
-      "t1": 178.55,
-      "speaker": "Mama Shilpa",
-      "text": "It is expected that the tasks done in the house, like holding the child, feeding the child, washing dishes, cooking, will all be done by the mother."
+      "t0": 216.2,
+      "t1": 219.62,
+      "speaker": "Tano Santos",
+      "text": "Li Lu, as many of you know, is one of our most distinguished alums."
      },
      {
-      "t0": 178.99,
-      "t1": 182.35,
-      "speaker": "Ade Mardiyati",
-      "text": "Shilpa tells me these are all considered women's work."
+      "t0": 219.62,
+      "t1": 227.92,
+      "speaker": "Tano Santos",
+      "text": "He graduated with a law degree, an MBA degree, and a BA from Columbia College, because why get just one degree when you can get three?"
      },
      {
-      "t0": 182.63,
-      "t1": 189.45,
-      "speaker": "Ade Mardiyati",
-      "text": "And you might be thinking, \"Well, the man is busy in the fields, so it's just a fair division of labour.\""
+      "t0": 228.72,
+      "t1": 231.7,
+      "speaker": "Tano Santos",
+      "text": "Apparently, this was how he thought about it."
      },
      {
-      "t0": 189.71,
-      "t1": 193.53,
-      "speaker": "Ade Mardiyati",
-      "text": "But Shilpa tells me women also help out in the fields."
+      "t0": 232.0,
+      "t1": 233.45,
+      "speaker": "Tano Santos",
+      "text": "His personal story is well known."
      },
      {
-      "t0": 193.89,
-      "t1": 203.75,
-      "speaker": "Neil",
-      "text": "On Rote, cleaning, cooking and sweeping are considered women's work – a negative term for boring and repetitive tasks which are traditionally done by women."
+      "t0": 233.45,
+      "t1": 234.74,
+      "speaker": "Tano Santos",
+      "text": "I won’t repeat it here."
      },
      {
-      "t0": 203.75,
-      "t1": 211.05,
-      "speaker": "Pippa",
-      "text": "Many cultures have a division of labour – a way of organising work where different tasks are done by different groups of people."
+      "t0": 235.32,
+      "t1": 246.38,
+      "speaker": "Tano Santos",
+      "text": "Li Lu is famous as an early investor in BYD and many of the great Chinese names, and we’ll have the opportunity to discuss issues related to the Chinese stock market today."
      },
      {
-      "t0": 211.21,
-      "t1": 217.15,
-      "speaker": "Pippa",
-      "text": "But on Rote this means women work even harder, helping out with the farming and fishing too."
+      "t0": 248.86,
+      "t1": 251.42,
+      "speaker": "Tano Santos",
+      "text": "First of all, Li Lu, welcome, and thank you so much for being here."
      },
      {
-      "t0": 217.25,
-      "t1": 227.87,
-      "speaker": "Neil",
-      "text": "You might think this only happens in traditional societies, but research suggests that women in wealthy countries also spend much more time on unpaid care work than men."
+      "t0": 251.42,
+      "t1": 252.58,
+      "speaker": "Li Lu",
+      "text": "Thank you, Tano."
      },
      {
-      "t0": 228.39,
-      "t1": 234.47,
-      "speaker": "Neil",
-      "text": "One such country is Croatia, where the NGO Status M run their Superdads project."
+      "t0": 255.18,
+      "t1": 260.96,
+      "speaker": "Tano Santos",
+      "text": "I’m going to talk for about 15 minutes, and then I’ll open it up for questions."
      },
      {
-      "t0": 234.81,
-      "t1": 242.25,
-      "speaker": "Neil",
-      "text": "Project worker Anamarija Sočo leads workshops encouraging dads and sons to take some of the pressure off mums."
+      "t0": 261.6,
+      "t1": 264.92,
+      "speaker": "Tano Santos",
+      "text": "I’m going to ask you to keep them short and to the point, and I will be ruthless."
      },
      {
-      "t0": 242.59,
-      "t1": 246.51,
-      "speaker": "Neil",
-      "text": "Here, she explains the benefits of this to the BBC World Service."
+      "t0": 265.08,
+      "t1": 273.96,
+      "speaker": "Tano Santos",
+      "text": "If you take more time than I consider necessary to get your point across, I’ll cut you off and give you a nasty look."
      },
      {
-      "t0": 246.77,
-      "t1": 255.67,
-      "speaker": "Anamarija Sočo",
-      "text": "Mothers have, you know, of course, more space for their careers, or hobbies, or just simply to rest – I mean, just to take a breather."
+      "t0": 276.28,
+      "t1": 278.7,
+      "speaker": "Tano Santos",
+      "text": "Keep them short, because I’m sure there will be many questions."
      },
      {
-      "t0": 256.13,
-      "t1": 262.31,
-      "speaker": "Anamarija Sočo",
-      "text": "Women tend to especially appreciate men who do these kinds of chores."
+      "t0": 278.7,
+      "t1": 283.57,
+      "speaker": "Tano Santos",
+      "text": "Li Lu, I want to start here."
      },
      {
-      "t0": 263.11,
-      "t1": 269.73,
-      "speaker": "Anamarija Sočo",
-      "text": "And when they start pulling their weight, then they jokingly say that, \"Uh yeah, women tend to nag less.\""
+      "t0": 284.72,
+      "t1": 287.92,
+      "speaker": "Tano Santos",
+      "text": "As I said, you are one of the great names in modern value investing."
      },
      {
-      "t0": 270.31,
-      "t1": 276.03,
-      "speaker": "Pippa",
-      "text": "Sometimes mums need to take a breather – an informal way of saying stop and rest a while."
+      "t0": 288.82,
+      "t1": 292.45,
+      "speaker": "Tano Santos",
+      "text": "You’re deeply intertwined with the story of value investing at Columbia Business School."
      },
      {
-      "t0": 276.03,
-      "t1": 280.97,
-      "speaker": "Neil",
-      "text": "Anamarija also thinks women appreciate it when their husbands pull their weight."
+      "t0": 292.45,
+      "t1": 294.55,
+      "speaker": "Tano Santos",
+      "text": "We were talking about that over lunch."
      },
      {
-      "t0": 281.05,
-      "t1": 284.27,
-      "speaker": "Neil",
-      "text": "If you pull your weight, you work as hard as everyone else."
+      "t0": 294.55,
+      "t1": 298.34,
+      "speaker": "Tano Santos",
+      "text": "You were there at the very beginning when Bruce was launching this program."
      },
      {
-      "t0": 284.53,
-      "t1": 294.75,
-      "speaker": "Pippa",
-      "text": "Both these NGO projects agree about one thing – men doing more to help around the house results in happier homes, even if that means cleaning the toilet now and then."
+      "t0": 298.84,
+      "t1": 304.62,
+      "speaker": "Tano Santos",
+      "text": "We know of your friendship and partnership with Charlie and Warren, and how many things you guys did together."
      },
      {
-      "t0": 294.83,
-      "t1": 299.23,
-      "speaker": "Pippa",
-      "text": "And speaking of cleaning the toilet, what was the answer to your quiz question, Neil?"
+      "t0": 304.98,
+      "t1": 312.06,
+      "speaker": "Tano Santos",
+      "text": "We will be celebrating 30 years of the founding of Himalaya Capital next year, which is a remarkable achievement."
      },
      {
-      "t0": 299.63,
-      "t1": 303.69,
-      "speaker": "Neil",
-      "text": "I asked you what chore is the most hated in Britain."
+      "t0": 313.04,
+      "t1": 314.32,
+      "speaker": "Tano Santos",
+      "text": "I want to start here."
      },
      {
-      "t0": 303.71,
-      "t1": 305.65,
-      "speaker": "Pippa",
-      "text": "I thought it was cleaning the oven."
+      "t0": 314.42,
+      "t1": 321.31,
+      "speaker": "Tano Santos",
+      "text": "I want you to tell us a little bit: What have you learned about value investing, and where do you think we are today?"
      },
      {
-      "t0": 305.97,
-      "t1": 308.45,
-      "speaker": "Neil",
-      "text": "Well, I'm afraid that's not the right answer."
+      "t0": 321.31,
+      "t1": 324.47,
+      "speaker": "Tano Santos",
+      "text": "What is the thing you wish you had known at the beginning?"
      },
      {
-      "t0": 308.61,
-      "t1": 312.79,
-      "speaker": "Neil",
-      "text": "People hate cleaning the windows even more than scrubbing the oven."
+      "t0": 324.47,
+      "t1": 330.76,
+      "speaker": "Tano Santos",
+      "text": "What is the lesson we have now that we didn’t have when you were studying these ideas at Columbia Business School?"
      },
      {
-      "t0": 312.79,
-      "t1": 317.85,
-      "speaker": "Neil",
-      "text": "Apparently, 23% of the people who did the survey said cleaning the windows."
+      "t0": 332.52,
+      "t1": 333.82,
+      "speaker": "Li Lu",
+      "text": "Thank you, Tano."
      },
      {
-      "t0": 318.29,
-      "t1": 318.9,
-      "speaker": "Neil",
-      "text": "OK."
+      "t0": 334.28,
+      "t1": 338.38,
+      "speaker": "Li Lu",
+      "text": "First of all, thank you all for being here."
      },
      {
-      "t0": 318.9,
-      "t1": 327.29,
-      "speaker": "Neil",
-      "text": "Let's recap the vocabulary we've learned, starting with chores – household tasks like cleaning, washing and ironing that have to be done regularly."
+      "t0": 338.38,
+      "t1": 341.36,
+      "speaker": "Li Lu",
+      "text": "It is such a wonderful occasion."
      },
      {
-      "t0": 327.59,
-      "t1": 331.73,
-      "speaker": "Pippa",
-      "text": "If you do your fair share of work, you do a reasonable amount."
+      "t0": 341.98,
+      "t1": 350.09,
+      "speaker": "Li Lu",
+      "text": "Back when I was a student, as well as a young professional, I also attended a few of those luncheons."
      },
      {
-      "t0": 332.09,
-      "t1": 338.83,
-      "speaker": "Neil",
-      "text": "Women's work is a negative term for the boring and repetitive tasks which are stereotypically done by women."
+      "t0": 350.09,
+      "t1": 351.62,
+      "speaker": "Li Lu",
+      "text": "It was the highlight."
      },
      {
-      "t0": 338.95,
-      "t1": 345.03,
-      "speaker": "Pippa",
-      "text": "The division of labour is a way of organising work where different tasks are done by different groups of people."
+      "t0": 351.98,
+      "t1": 355.34,
+      "speaker": "Li Lu",
+      "text": "I hope I do some justice now, 30 years later."
      },
      {
-      "t0": 345.09,
-      "t1": 349.78,
-      "speaker": "Neil",
-      "text": "The idiom take a breather means to stop what you're doing for a short time and rest."
+      "t0": 357.28,
+      "t1": 361.3,
+      "speaker": "Li Lu",
+      "text": "The discipline of value investing started with Columbia."
      },
      {
-      "t0": 349.78,
-      "t1": 355.45,
-      "speaker": "Pippa",
-      "text": "And finally, if you pull your weight, you work as hard as everyone else doing the same job."
+      "t0": 363.9,
+      "t1": 369.5,
+      "speaker": "Li Lu",
+      "text": "When Ben Graham first started his classes, it was almost 90 years ago."
      },
      {
-      "t0": 355.77,
-      "t1": 364.38,
-      "speaker": "Pippa",
-      "text": "Once again, our six minutes are up, but remember, you can find a free transcript including all the vocabulary on our website, at bbclearningenglish.com."
+      "t0": 370.02,
+      "t1": 378.0,
+      "speaker": "Li Lu",
+      "text": "Of course, he practiced 10 or 20 years before that, so we call it a 100-year-old discipline."
      },
      {
-      "t0": 364.38,
-      "t1": 365.33,
-      "speaker": "Pippa",
-      "text": "Goodbye for now."
+      "t0": 378.28,
+      "t1": 388.08,
+      "speaker": "Li Lu",
+      "text": "It really has evolved, but some of the core principles have not and have become timeless."
      },
      {
-      "t0": 365.33,
-      "t1": 365.93,
-      "speaker": "Neil",
-      "text": "Goodbye!"
+      "t0": 389.1,
+      "t1": 399.14,
+      "speaker": "Li Lu",
+      "text": "If I have to distill the main principles for the discipline of value investing, I would say there are six in my mind."
+     },
+     {
+      "t0": 399.66,
+      "t1": 416.17,
+      "speaker": "Li Lu",
+      "text": "Three come directly from Ben Graham, the namesake of today’s lunch; one each from Warren and Charlie; and we add a small twist — you could call that the sixth."
+     },
+     {
+      "t0": 416.17,
+      "t1": 424.46,
+      "speaker": "Li Lu",
+      "text": "Here are the six basic principles in my mind that have guided our discipline, at least our practice, over the last 33 years."
+     },
+     {
+      "t0": 426.46,
+      "t1": 436.78,
+      "speaker": "Li Lu",
+      "text": "Ben Graham laid it out pretty quickly as he started this discipline with three basic ideas."
+     },
+     {
+      "t0": 437.12,
+      "t1": 441.66,
+      "speaker": "Li Lu",
+      "text": "A stock is a piece of ownership, not a piece of paper to trade around."
+     },
+     {
+      "t0": 442.06,
+      "t1": 445.9,
+      "speaker": "Li Lu",
+      "text": "Buying stock is really the same as buying a company."
+     },
+     {
+      "t0": 446.78,
+      "t1": 459.12,
+      "speaker": "Li Lu",
+      "text": "Secondly, the market is there to serve you, not to instruct you, which is a profound insight if you are in the midst of market activities."
+     },
+     {
+      "t0": 459.54,
+      "t1": 465.36,
+      "speaker": "Li Lu",
+      "text": "Thirdly, investing is about predicting the future, which is inherently unpredictable."
+     },
+     {
+      "t0": 466.12,
+      "t1": 475.8,
+      "speaker": "Li Lu",
+      "text": "Therefore, you always want to require a margin of safety that will help protect the downside as well as make a better upside."
+     },
+     {
+      "t0": 477.74,
+      "t1": 484.84,
+      "speaker": "Li Lu",
+      "text": "When Warren practiced, I think he added this further discipline, which I call a circle of competence."
+     },
+     {
+      "t0": 487.6,
+      "t1": 503.26,
+      "speaker": "Li Lu",
+      "text": "All of us are probably predisposed to have certain interests, and over time you develop particular expertise and try to study more and make it better."
+     },
+     {
+      "t0": 504.32,
+      "t1": 521.0,
+      "speaker": "Li Lu",
+      "text": "The most important concept of a circle of competence is knowing the edge of it, because most of us are wired to think we know a little more than we actually do."
+     },
+     {
+      "t0": 521.36,
+      "t1": 527.35,
+      "speaker": "Li Lu",
+      "text": "Understanding the edge is as important as understanding what is inside it."
+     },
+     {
+      "t0": 528.68,
+      "t1": 536.39,
+      "speaker": "Li Lu",
+      "text": "Charlie had this idea that you’ve got to fish where the fish are."
+     },
+     {
+      "t0": 536.39,
+      "t1": 544.7,
+      "speaker": "Li Lu",
+      "text": "He was a lifelong fisherman, and that is a wonderful analogy for the actual market."
+     },
+     {
+      "t0": 545.0,
+      "t1": 551.98,
+      "speaker": "Li Lu",
+      "text": "There are certain markets, industries, and businesses that draw a lot of attention."
+     },
+     {
+      "t0": 552.42,
+      "t1": 560.13,
+      "speaker": "Li Lu",
+      "text": "With that competition, your returns are averaged out."
+     },
+     {
+      "t0": 560.13,
+      "t1": 569.74,
+      "speaker": "Li Lu",
+      "text": "Then there are other industries, businesses, countries, or markets that don’t attract enough attention and have far fewer fishermen."
+     },
+     {
+      "t0": 570.16,
+      "t1": 573.52,
+      "speaker": "Li Lu",
+      "text": "You do way better to fish where the fish are."
+     },
+     {
+      "t0": 574.28,
+      "t1": 578.14,
+      "speaker": "Li Lu",
+      "text": "It’s a simple idea, but in practice it is amazingly effective."
+     },
+     {
+      "t0": 578.94,
+      "t1": 598.52,
+      "speaker": "Li Lu",
+      "text": "Lastly, over my own 33 years of practice as a global investor, applying the principles of value investing on a global basis at a time when global commerce is becoming one single market."
+     },
+     {
+      "t0": 599.28,
+      "t1": 609.9,
+      "speaker": "Li Lu",
+      "text": "One insight we have is that wealth, in the end, is really the percentage ownership of global purchasing power."
+     },
+     {
+      "t0": 610.66,
+      "t1": 618.02,
+      "speaker": "Li Lu",
+      "text": "It isn’t expressed, especially in the modern economy, in the amount of gold, diamonds, or currencies of any kind."
+     },
+     {
+      "t0": 619.0,
+      "t1": 623.66,
+      "speaker": "Li Lu",
+      "text": "With inflation, all of those will dissipate over time."
+     },
+     {
+      "t0": 624.34,
+      "t1": 631.5,
+      "speaker": "Li Lu",
+      "text": "What is important is what you can buy with it, what you can use it for."
+     },
+     {
+      "t0": 632.1,
+      "t1": 638.46,
+      "speaker": "Li Lu",
+      "text": "A better measurement of wealth is your percentage ownership of global purchasing power."
+     },
+     {
+      "t0": 639.14,
+      "t1": 654.76,
+      "speaker": "Li Lu",
+      "text": "The way we express that is by buying great businesses in the most dynamic economies at advantageous prices, waiting long enough for value to be created over time, and sharing proportionally in the upside."
+     },
+     {
+      "t0": 655.62,
+      "t1": 665.24,
+      "speaker": "Li Lu",
+      "text": "Here are the six basic ideas that I think can withstand the test of time and will serve everyone well."
+     },
+     {
+      "t0": 665.94,
+      "t1": 667.79,
+      "speaker": "Tano Santos",
+      "text": "I like this last point very much."
+     },
+     {
+      "t0": 667.79,
+      "t1": 682.58,
+      "speaker": "Tano Santos",
+      "text": "I’m already deviating from the script you and I agreed on, because I think going forward, keeping an eye on that purchasing power is going to be key if we’re not able to control inflation in the presence of these fiscal challenges."
+     },
+     {
+      "t0": 682.74,
+      "t1": 685.02,
+      "speaker": "Tano Santos",
+      "text": "If we have time, we’ll come back to this."
+     },
+     {
+      "t0": 685.7,
+      "t1": 686.01,
+      "speaker": "Li Lu",
+      "text": "Sure."
+     },
+     {
+      "t0": 686.01,
+      "t1": 691.1,
+      "speaker": "Tano Santos",
+      "text": "I want to get a question in before we run out of time, for the benefit of my students in the room."
+     },
+     {
+      "t0": 692.24,
+      "t1": 696.6,
+      "speaker": "Tano Santos",
+      "text": "This is my prerogative as the person asking you the questions, so we’ll get this out of the way."
+     },
+     {
+      "t0": 699.84,
+      "t1": 702.92,
+      "speaker": "Tano Santos",
+      "text": "Value investing as a practice has seen ups and downs."
+     },
+     {
+      "t0": 703.12,
+      "t1": 710.62,
+      "speaker": "Tano Santos",
+      "text": "It’s been improving conceptually over time, with Bruce, your leadership, and many of the people in this room as well."
+     },
+     {
+      "t0": 711.42,
+      "t1": 716.5,
+      "speaker": "Tano Santos",
+      "text": "What is the future of the equity analyst in the age of AI?"
+     },
+     {
+      "t0": 717.34,
+      "t1": 722.54,
+      "speaker": "Tano Santos",
+      "text": "Do you think we can still teach what we do at Columbia Business School going forward?"
+     },
+     {
+      "t0": 725.66,
+      "t1": 731.04,
+      "speaker": "Li Lu",
+      "text": "Let me answer that in two parts."
+     },
+     {
+      "t0": 731.94,
+      "t1": 739.3,
+      "speaker": "Li Lu",
+      "text": "First, what investors do, and then let’s talk about AI separately."
+     },
+     {
+      "t0": 739.3,
+      "t1": 746.09,
+      "speaker": "Li Lu",
+      "text": "If you look at market participants, there are basically four different kinds of people."
+     },
+     {
+      "t0": 746.09,
+      "t1": 753.54,
+      "speaker": "Li Lu",
+      "text": "There are investors who stay with the company over time for value creation."
+     },
+     {
+      "t0": 755.14,
+      "t1": 760.94,
+      "speaker": "Li Lu",
+      "text": "There are also people who arbitrage the rights and wrongs of market pricing."
+     },
+     {
+      "t0": 762.38,
+      "t1": 769.84,
+      "speaker": "Li Lu",
+      "text": "In Ben Graham’s terms, as a realist, you buy from the pessimist and sell to the optimist."
+     },
+     {
+      "t0": 770.8,
+      "t1": 773.23,
+      "speaker": "Li Lu",
+      "text": "Those are the arbitrageurs."
+     },
+     {
+      "t0": 773.23,
+      "t1": 782.85,
+      "speaker": "Li Lu",
+      "text": "Then you have people who are in it mostly for speculation, mostly guessing what other people would buy or sell in a certain security."
+     },
+     {
+      "t0": 782.85,
+      "t1": 789.54,
+      "speaker": "Li Lu",
+      "text": "They don’t care about either the value pricing of the security or value creation."
+     },
+     {
+      "t0": 790.2,
+      "t1": 798.71,
+      "speaker": "Li Lu",
+      "text": "Then there are the brokers and market makers who facilitate all that."
+     },
+     {
+      "t0": 798.71,
+      "t1": 802.28,
+      "speaker": "Li Lu",
+      "text": "Most people are not necessarily purists."
+     },
+     {
+      "t0": 802.66,
+      "t1": 806.26,
+      "speaker": "Li Lu",
+      "text": "They encompass somewhat of all four."
+     },
+     {
+      "t0": 807.7,
+      "t1": 813.48,
+      "speaker": "Li Lu",
+      "text": "If you have indexing, it is exactly that average, in a sense."
+     },
+     {
+      "t0": 814.26,
+      "t1": 825.48,
+      "speaker": "Li Lu",
+      "text": "But value investors are into getting the right pricing discovery and waiting for value creation over a period of time."
+     },
+     {
+      "t0": 825.76,
+      "t1": 837.78,
+      "speaker": "Li Lu",
+      "text": "I would say Ben Graham was more of an arbitrageur, and Warren is using the arbitrage price, but mostly for value creation."
+     },
+     {
+      "t0": 840.3,
+      "t1": 846.41,
+      "speaker": "Li Lu",
+      "text": "The social benefit of all different ones is also quite interesting."
+     },
+     {
+      "t0": 846.41,
+      "t1": 860.78,
+      "speaker": "Li Lu",
+      "text": "Speculators, by definition, don’t stay there long enough for any of the value changes or creations, so they add up to roughly zero."
+     },
+     {
+      "t0": 861.58,
+      "t1": 867.72,
+      "speaker": "Li Lu",
+      "text": "Whatever is made and lost probably adds up exactly to that."
+     },
+     {
+      "t0": 868.28,
+      "t1": 873.88,
+      "speaker": "Li Lu",
+      "text": "Net to society, it is a cost to the functioning of the market."
+     },
+     {
+      "t0": 875.86,
+      "t1": 885.78,
+      "speaker": "Li Lu",
+      "text": "Brokerage and market making are also a cost to the functioning of the market."
+     }
+    ]
+   },
+   {
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 2/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=891s",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p2.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p2-075.mp3"
+    ],
+    "minutes": 15,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "시장의 존재 이유(저축을 생산적인 기업으로 보내는 것)와 Buffett의 비유 'a church with a casino attached'. 제로섬 게임이냐 가치 창출이냐의 선택, 그리고 AI가 '도구(tool)'인지 '피조물(creature)'인지에 대한 Li Lu의 생각이에요.",
+    "transcript": [
+     {
+      "t0": 0.44,
+      "t1": 22.54,
+      "speaker": "Li Lu",
+      "text": "The market exists primarily for the goal of channeling excess savings into productive use, into deserving companies, and creating this modern economy that has compound economic growth."
+     },
+     {
+      "t0": 23.44,
+      "t1": 32.24,
+      "speaker": "Li Lu",
+      "text": "That is why the stock market exists in the first place."
+     },
+     {
+      "t0": 33.9,
+      "t1": 36.43,
+      "speaker": "Li Lu",
+      "text": "Why do you have this speculative side?"
+     },
+     {
+      "t0": 36.43,
+      "t1": 40.98,
+      "speaker": "Li Lu",
+      "text": "It’s part of the human condition."
+     },
+     {
+      "t0": 42.04,
+      "t1": 48.92,
+      "speaker": "Li Lu",
+      "text": "Warren always describes the stock market as a church with a casino attached to it."
+     },
+     {
+      "t0": 49.76,
+      "t1": 62.26,
+      "speaker": "Li Lu",
+      "text": "The church is where the values are created, and the casino is almost part of the building permit, a necessary cost because of the human condition."
+     },
+     {
+      "t0": 62.66,
+      "t1": 72.84,
+      "speaker": "Li Lu",
+      "text": "Four hundred years ago, when it was created, this was how you inspired the animal spirit, and 400 years later it is still doing that."
+     },
+     {
+      "t0": 74.88,
+      "t1": 78.75,
+      "speaker": "Li Lu",
+      "text": "This is where you’re going to make a choice as students."
+     },
+     {
+      "t0": 78.75,
+      "t1": 83.6,
+      "speaker": "Li Lu",
+      "text": "Do you want to be in the zero-sum game, or the value creation game?"
+     },
+     {
+      "t0": 85.14,
+      "t1": 87.12,
+      "speaker": "Li Lu",
+      "text": "That’s a personal choice."
+     },
+     {
+      "t0": 87.12,
+      "t1": 89.15,
+      "speaker": "Li Lu",
+      "text": "As a society, you also have a choice."
+     },
+     {
+      "t0": 89.15,
+      "t1": 100.88,
+      "speaker": "Li Lu",
+      "text": "You don’t want the casino side to be so out of proportion that it overwhelms the primary objective of why the market exists in the first place."
+     },
+     {
+      "t0": 101.48,
+      "t1": 107.36,
+      "speaker": "Li Lu",
+      "text": "Those are choices on the individual level as well as for society."
+     },
+     {
+      "t0": 108.92,
+      "t1": 122.77,
+      "speaker": "Li Lu",
+      "text": "Over 400 years, despite all this huge boom and bust, giant waste, somehow this mechanism has survived and continued to propel society as a core function."
+     },
+     {
+      "t0": 122.77,
+      "t1": 126.98,
+      "speaker": "Li Lu",
+      "text": "It is pretty miraculous, to say the least."
+     },
+     {
+      "t0": 128.52,
+      "t1": 134.79,
+      "speaker": "Li Lu",
+      "text": "For your students, it is important to make that distinction early on: What do you want to do personally?"
+     },
+     {
+      "t0": 134.79,
+      "t1": 142.66,
+      "speaker": "Li Lu",
+      "text": "As a society, we should also calibrate the proportion of each."
+     },
+     {
+      "t0": 143.8,
+      "t1": 146.82,
+      "speaker": "Li Lu",
+      "text": "But they coexist as part of the human condition."
+     },
+     {
+      "t0": 147.68,
+      "t1": 150.71,
+      "speaker": "Li Lu",
+      "text": "Now, onto AI and the market."
+     },
+     {
+      "t0": 150.71,
+      "t1": 154.54,
+      "speaker": "Li Lu",
+      "text": "That’s a more complex question."
+     },
+     {
+      "t0": 155.08,
+      "t1": 161.02,
+      "speaker": "Li Lu",
+      "text": "First of all, what is AI, or this wave of generative AI?"
+     },
+     {
+      "t0": 164.46,
+      "t1": 168.68,
+      "speaker": "Li Lu",
+      "text": "It is obviously a technology, a huge technological wave."
+     },
+     {
+      "t0": 169.54,
+      "t1": 176.79,
+      "speaker": "Li Lu",
+      "text": "As a technology, we’ve been dealing with that for the last few hundred years, ever since the Industrial Revolution."
+     },
+     {
+      "t0": 176.79,
+      "t1": 184.81,
+      "speaker": "Li Lu",
+      "text": "We have wave after wave of technological change, and the disruption and creation associated with it."
+     },
+     {
+      "t0": 184.81,
+      "t1": 190.31,
+      "speaker": "Li Lu",
+      "text": "Through that process of creative destruction, we understand some aspects of it."
+     },
+     {
+      "t0": 190.31,
+      "t1": 193.92,
+      "speaker": "Li Lu",
+      "text": "But somehow we feel this wave is different."
+     },
+     {
+      "t0": 194.22,
+      "t1": 201.78,
+      "speaker": "Li Lu",
+      "text": "Every wave is different, but this wave is unusually different from anything we’ve experienced so far."
+     },
+     {
+      "t0": 202.78,
+      "t1": 206.08,
+      "speaker": "Li Lu",
+      "text": "What makes it so different this time?"
+     },
+     {
+      "t0": 206.46,
+      "t1": 222.87,
+      "speaker": "Li Lu",
+      "text": "On the surface, you can see the pace of change, the scale involved, and the concentrated financial impact at the top, the nature of that concentrated financial impact at the top."
+     },
+     {
+      "t0": 222.87,
+      "t1": 225.76,
+      "speaker": "Li Lu",
+      "text": "They’re all incredibly unprecedented."
+     },
+     {
+      "t0": 228.86,
+      "t1": 231.9,
+      "speaker": "Li Lu",
+      "text": "Then you ask why that is the case."
+     },
+     {
+      "t0": 234.26,
+      "t1": 236.07,
+      "speaker": "Li Lu",
+      "text": "The narrative is slightly different."
+     },
+     {
+      "t0": 236.07,
+      "t1": 245.4,
+      "speaker": "Li Lu",
+      "text": "Most of the time, until this moment, we’ve been dealing with technological changes as a fundamental tool for human productivity."
+     },
+     {
+      "t0": 246.72,
+      "t1": 250.94,
+      "speaker": "Li Lu",
+      "text": "With this technology, we introduce a different element."
+     },
+     {
+      "t0": 251.24,
+      "t1": 262.24,
+      "speaker": "Li Lu",
+      "text": "We now have a spectrum of tool versus creature, and we begin to change on that spectrum of tool versus creature."
+     },
+     {
+      "t0": 263.2,
+      "t1": 268.75,
+      "speaker": "Li Lu",
+      "text": "The moment it was first introduced, nearly four years ago, was the moment of the Turing test."
+     },
+     {
+      "t0": 268.75,
+      "t1": 277.76,
+      "speaker": "Li Lu",
+      "text": "At that point, we could no longer tell from language whether it was a machine or a human."
+     },
+     {
+      "t0": 279.5,
+      "t1": 289.23,
+      "speaker": "Li Lu",
+      "text": "From that point on, we were introduced to reasoning, and it began to gain more and more human features."
+     },
+     {
+      "t0": 289.23,
+      "t1": 291.5,
+      "speaker": "Li Lu",
+      "text": "From reasoning comes coding."
+     },
+     {
+      "t0": 291.94,
+      "t1": 300.92,
+      "speaker": "Li Lu",
+      "text": "With coding capability, it becomes an autonomously executing agent that functions much as a human does."
+     },
+     {
+      "t0": 301.92,
+      "t1": 310.78,
+      "speaker": "Li Lu",
+      "text": "Then comes the collaboration of all the agents in complex and long-lasting tasks—call that long reasoning."
+     },
+     {
+      "t0": 314.08,
+      "t1": 326.92,
+      "speaker": "Li Lu",
+      "text": "Much like human society, agents would organize, self-organize, prioritize, and execute tasks in an ever more sophisticated fashion, with their own language communication tools."
+     },
+     {
+      "t0": 328.02,
+      "t1": 329.36,
+      "speaker": "Li Lu",
+      "text": "That’s where we are."
+     },
+     {
+      "t0": 330.28,
+      "t1": 347.0,
+      "speaker": "Li Lu",
+      "text": "If you look at the Silicon Valley narrative, the generative AI will go to the stage of RSI, which we’re partially in – the idea that all the improvement would eventually be self-made, without a human in the loop."
+     },
+     {
+      "t0": 347.54,
+      "t1": 362.06,
+      "speaker": "Li Lu",
+      "text": "From RSI we will come to AGI, then ASI, the intelligence level exceeding all humans, individually as well as together."
+     },
+     {
+      "t0": 363.1,
+      "t1": 370.58,
+      "speaker": "Li Lu",
+      "text": "From there, you would say we’re creating somewhat of a semi-god or demigod, but a man-made creation."
+     },
+     {
+      "t0": 372.32,
+      "t1": 383.4,
+      "speaker": "Li Lu",
+      "text": "Because that is so powerful and all-encompassing, the economic impact, by definition, has to be huge and therefore justify all the different investment costs."
+     },
+     {
+      "t0": 383.4,
+      "t1": 395.72,
+      "speaker": "Li Lu",
+      "text": "When you have trillion-dollar IPOs, you’re all invited to participate in the IPO of a god or something."
+     },
+     {
+      "t0": 396.82,
+      "t1": 403.51,
+      "speaker": "Li Lu",
+      "text": "That is the narrative, and that is what makes it different."
+     },
+     {
+      "t0": 403.51,
+      "t1": 412.85,
+      "speaker": "Li Lu",
+      "text": "But if you step back and say – If this were indeed the case, what would become of humans?"
+     },
+     {
+      "t0": 412.85,
+      "t1": 429.78,
+      "speaker": "Li Lu",
+      "text": "We would live in a society lorded over by a man-made god, accessed by very few and understood by none."
+     },
+     {
+      "t0": 430.4,
+      "t1": 435.91,
+      "speaker": "Li Lu",
+      "text": "Not even controlled – we can’t say that, because nobody understands it at that point."
+     },
+     {
+      "t0": 435.91,
+      "t1": 440.89,
+      "speaker": "Li Lu",
+      "text": "Is there anyone in humanity who would like to live in that society?"
+     },
+     {
+      "t0": 440.89,
+      "t1": 442.97,
+      "speaker": "Li Lu",
+      "text": "My answer is probably a resounding no."
+     },
+     {
+      "t0": 442.97,
+      "t1": 445.97,
+      "speaker": "Li Lu",
+      "text": "I don’t think anyone would want to live in that society."
+     },
+     {
+      "t0": 445.97,
+      "t1": 448.73,
+      "speaker": "Li Lu",
+      "text": "There are only two outcomes, in a sense."
+     },
+     {
+      "t0": 448.73,
+      "t1": 469.64,
+      "speaker": "Li Lu",
+      "text": "A) This technology is not progressing in that direction, and we can discuss what it is and why it is not; or B) If it is indeed progressing in that direction, we will all, at some point, unite together to stop it from becoming that."
+     },
+     {
+      "t0": 469.92,
+      "t1": 476.65,
+      "speaker": "Li Lu",
+      "text": "In neither case are we going to have a man-made god living and lording over human society."
+     },
+     {
+      "t0": 476.65,
+      "t1": 495.78,
+      "speaker": "Li Lu",
+      "text": "That is what distinguishes this generation of technology, why it is different, and the different impacts, particularly the financial market impact."
+     },
+     {
+      "t0": 497.18,
+      "t1": 503.82,
+      "speaker": "Li Lu",
+      "text": "But leaving that aside, when you ask – Is this a useful technology?"
+     },
+     {
+      "t0": 504.52,
+      "t1": 506.74,
+      "speaker": "Li Lu",
+      "text": "The answer is also a resounding yes."
+     },
+     {
+      "t0": 507.24,
+      "t1": 509.3,
+      "speaker": "Li Lu",
+      "text": "What is it, in essence?"
+     },
+     {
+      "t0": 509.84,
+      "t1": 546.94,
+      "speaker": "Li Lu",
+      "text": "If I were to give it a provisional definition, from observing what it does and where it came from – Generative AI is a machine that by applying brute compute with clever algorithms, using all human-generated data and its first derivative, come up and establish systematic contextual correlations among near-infinite variables of human-generated data and its first derivative."
+     },
+     {
+      "t0": 547.4,
+      "t1": 554.14,
+      "speaker": "Li Lu",
+      "text": "In doing so, it establishes capabilities that include much of human reasoning and human intelligence."
+     },
+     {
+      "t0": 555.28,
+      "t1": 570.85,
+      "speaker": "Li Lu",
+      "text": "At present, we know how it works and how to make it better, but we don’t quite understand why it works, much as to the extent that we don’t quite understand how human machinery works."
+     },
+     {
+      "t0": 573.0,
+      "t1": 589.88,
+      "speaker": "Li Lu",
+      "text": "With that provisional definition, observing what is happening now, it equalizes a layer of the economy that is very helpful."
+     },
+     {
+      "t0": 590.1,
+      "t1": 595.58,
+      "speaker": "Li Lu",
+      "text": "If you look at the economy, at the bottom we have energy and transportation."
+     },
+     {
+      "t0": 596.34,
+      "t1": 599.04,
+      "speaker": "Li Lu",
+      "text": "On top of that sits manufacturing."
+     },
+     {
+      "t0": 599.94,
+      "t1": 604.12,
+      "speaker": "Li Lu",
+      "text": "On top of that, we have communication and digital media."
+     },
+     {
+      "t0": 604.78,
+      "t1": 618.2,
+      "speaker": "Li Lu",
+      "text": "Then we have an enormous amount of knowledge-based, technology-based services that synthesize all the knowledge we’ve accumulated and serve all the different layers of the economy."
+     },
+     {
+      "t0": 619.56,
+      "t1": 635.05,
+      "speaker": "Li Lu",
+      "text": "Generative AI today, at its current stage, is great at synthesizing and equalizing all the knowledge and expertise that has accrued to that layer, helping all the other ones."
+     },
+     {
+      "t0": 635.05,
+      "t1": 639.55,
+      "speaker": "Li Lu",
+      "text": "But it can’t change, for example, energy and transportation."
+     },
+     {
+      "t0": 639.55,
+      "t1": 652.34,
+      "speaker": "Li Lu",
+      "text": "It doesn’t change manufacturing, which is essentially the combination of different molecules and atoms and transforming them into different combinations."
+     },
+     {
+      "t0": 652.34,
+      "t1": 657.33,
+      "speaker": "Li Lu",
+      "text": "In communication and digitization, they’re already great synthesizers."
+     },
+     {
+      "t0": 657.33,
+      "t1": 660.35,
+      "speaker": "Li Lu",
+      "text": "That is the realm where it is going."
+     },
+     {
+      "t0": 660.35,
+      "t1": 662.88,
+      "speaker": "Li Lu",
+      "text": "It has not gone beyond humans."
+     },
+     {
+      "t0": 665.02,
+      "t1": 672.33,
+      "speaker": "Li Lu",
+      "text": "By this extension, it may not rise to whatever the narrative would dictate or lead you to believe."
+     },
+     {
+      "t0": 672.33,
+      "t1": 676.11,
+      "speaker": "Li Lu",
+      "text": "We’re still firmly within the human-generated data realm."
+     },
+     {
+      "t0": 676.11,
+      "t1": 683.84,
+      "speaker": "Li Lu",
+      "text": "To go to the biological sense requires a whole different level."
+     },
+     {
+      "t0": 683.92,
+      "t1": 686.63,
+      "speaker": "Li Lu",
+      "text": "For example, our—this may be going too far."
+     },
+     {
+      "t0": 686.63,
+      "t1": 687.65,
+      "speaker": "Tano Santos",
+      "text": "Go for it."
+     },
+     {
+      "t0": 687.65,
+      "t1": 688.43,
+      "speaker": "Tano Santos",
+      "text": "Knock yourself out."
+     },
+     {
+      "t0": 688.43,
+      "t1": 700.24,
+      "speaker": "Li Lu",
+      "text": "Each cell contains let’s say at least fifty petabytes of files, and you need to multiply that by trillions to get us on the biological level."
+     },
+     {
+      "t0": 700.3,
+      "t1": 704.98,
+      "speaker": "Li Lu",
+      "text": "We’re not anywhere close to getting to that level."
+     },
+     {
+      "t0": 705.92,
+      "t1": 713.28,
+      "speaker": "Li Lu",
+      "text": "But what has been established already begins to tip this balance between tool versus creature."
+     },
+     {
+      "t0": 716.28,
+      "t1": 726.0,
+      "speaker": "Li Lu",
+      "text": "One of the two arguments would persuade you to stop any further development without a human in the loop."
+     },
+     {
+      "t0": 727.1,
+      "t1": 739.46,
+      "speaker": "Li Lu",
+      "text": "RSI – recursive self-improvement – without a human in the loop would be very dangerous."
+     },
+     {
+      "t0": 741.96,
+      "t1": 751.1,
+      "speaker": "Li Lu",
+      "text": "They would develop goals and subgoals for their own purposes, and that would get them further from human control."
+     },
+     {
+      "t0": 751.66,
+      "t1": 761.64,
+      "speaker": "Li Lu",
+      "text": "In summary, this technology is enormously helpful, transformative, and extraordinarily dangerous."
+     },
+     {
+      "t0": 763.02,
+      "t1": 779.63,
+      "speaker": "Li Lu",
+      "text": "We have to, as a society and together as human beings, have a red line to firmly establish that whatever the self-learning or utilization of the tools, it cannot be without a human in the loop."
+     },
+     {
+      "t0": 779.63,
+      "t1": 784.78,
+      "speaker": "Li Lu",
+      "text": "In other words, firmly establish it on the tool side rather than the creature side."
+     },
+     {
+      "t0": 787.62,
+      "t1": 798.62,
+      "speaker": "Li Lu",
+      "text": "It’s also enormously disruptive, from employment to emotional dependency to risks from cyber to bio to nuclear."
+     },
+     {
+      "t0": 801.0,
+      "t1": 813.94,
+      "speaker": "Li Lu",
+      "text": "In the end, what you want society to develop is a balanced pace of development that balances benefit and risk."
+     },
+     {
+      "t0": 819.12,
+      "t1": 824.45,
+      "speaker": "Li Lu",
+      "text": "By the way, this technology will always have incremental costs."
+     },
+     {
+      "t0": 824.45,
+      "t1": 834.75,
+      "speaker": "Li Lu",
+      "text": "This is fundamentally different from the internet or a bunch of previous technologies, where you have a one-time investment and can amortize it for a long time."
+     },
+     {
+      "t0": 834.75,
+      "t1": 836.06,
+      "speaker": "Li Lu",
+      "text": "This is not the case."
+     },
+     {
+      "t0": 836.26,
+      "t1": 840.26,
+      "speaker": "Li Lu",
+      "text": "You always have an incremental cost associated with it."
+     },
+     {
+      "t0": 841.9,
+      "t1": 847.48,
+      "speaker": "Li Lu",
+      "text": "Cost, revenue, and profit are also very important."
+     },
+     {
+      "t0": 847.92,
+      "t1": 853.98,
+      "speaker": "Li Lu",
+      "text": "Capital needs and financial discipline will always be in operation."
+     },
+     {
+      "t0": 856.78,
+      "t1": 862.91,
+      "speaker": "Li Lu",
+      "text": "Also, the pace of development and the level of societal tolerance."
+     },
+     {
+      "t0": 862.91,
+      "t1": 871.72,
+      "speaker": "Li Lu",
+      "text": "You have four or five different layers of considerations for pacing and development into it."
+     },
+     {
+      "t0": 872.36,
+      "t1": 875.27,
+      "speaker": "Li Lu",
+      "text": "How does human society adapt to those kinds of changes?"
+     },
+     {
+      "t0": 875.27,
+      "t1": 877.14,
+      "speaker": "Li Lu",
+      "text": "Not always by planning."
+     },
+     {
+      "t0": 877.64,
+      "t1": 884.12,
+      "speaker": "Li Lu",
+      "text": "We’re going to go through big boom and bust cycles, or even multiple ones."
+     },
+     {
+      "t0": 884.12,
+      "t1": 887.4,
+      "speaker": "Li Lu",
+      "text": "That is the nature of how it is going to develop."
+     },
+     {
+      "t0": 887.88,
+      "t1": 902.17,
+      "speaker": "Li Lu",
+      "text": "Those are the lines we have to think about as we approach this transformative, dangerous, disruptive, and costly technological wave."
+     }
+    ]
+   },
+   {
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 3/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=1793s",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p3.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p3-075.mp3"
+    ],
+    "minutes": 14,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "Nvidia 쏠림 시장과 AI 회사 상장 설명서의 모순(2조 달러 가치, 인류 위험 10%)을 예로 시장의 비합리성을 이야기해요. 이어서 중국 경제의 지난 10년: 중진국 함정, 2021년 부동산 정점, 가계 자산 60–70% 하락.",
+    "transcript": [
+     {
+      "t0": 0,
+      "t1": 20.38,
+      "speaker": "Tano Santos",
+      "text": "I think what you said, Li Lu, about this combination of being extraordinary, dangerous, and our not completely understanding why it is generating some of the answers it is generating, would require a human in the loop to check over it."
+     },
+     {
+      "t0": 20.38,
+      "t1": 21.12,
+      "speaker": "Li Lu",
+      "text": "Right."
+     },
+     {
+      "t0": 21.12,
+      "t1": 31.6,
+      "speaker": "Tano Santos",
+      "text": "Once again, it’s going to be the scarce supply of this skill, of the person monitoring the artificial intelligence output, that will determine where rents are going to be located."
+     },
+     {
+      "t0": 31.6,
+      "t1": 32.28,
+      "speaker": "Li Lu",
+      "text": "That’s right."
+     },
+     {
+      "t0": 32.28,
+      "t1": 43.98,
+      "speaker": "Tano Santos",
+      "text": "That effectively means if you’re smart and can communicate effectively with that AI inside any domain, you’re going to be the scarce resource, and probably the rents are going to accrue to you."
+     },
+     {
+      "t0": 43.98,
+      "t1": 45.9,
+      "speaker": "Tano Santos",
+      "text": "Do I understand this correctly?"
+     },
+     {
+      "t0": 45.9,
+      "t1": 49.4,
+      "speaker": "Li Lu",
+      "text": "I think that’s somewhere along those lines."
+     },
+     {
+      "t0": 49.4,
+      "t1": 57.35,
+      "speaker": "Li Lu",
+      "text": "It has different aspects and nuances, but I think that’s the case in the end."
+     },
+     {
+      "t0": 59.21,
+      "t1": 61.23,
+      "speaker": "Tano Santos",
+      "text": "Let’s start projecting these ideas."
+     },
+     {
+      "t0": 61.29,
+      "t1": 75.49,
+      "speaker": "Tano Santos",
+      "text": "One of the things that is most striking when we walk into the classroom—there are many of my colleagues here teaching capital markets, financial markets, value investing, investing in general—is that this is one peculiar market."
+     },
+     {
+      "t0": 78.89,
+      "t1": 82.15,
+      "speaker": "Tano Santos",
+      "text": "I have a very vague question for you."
+     },
+     {
+      "t0": 84.67,
+      "t1": 91.29,
+      "speaker": "Tano Santos",
+      "text": "The market seems to be driven by a very low number of companies that are pushing the technological frontier."
+     },
+     {
+      "t0": 91.35,
+      "t1": 100.98,
+      "speaker": "Tano Santos",
+      "text": "The world seems dependent on these companies to push this frontier, and as a result, valuations are completely distorted by that."
+     },
+     {
+      "t0": 100.98,
+      "t1": 111.4,
+      "speaker": "Tano Santos",
+      "text": "There’s a plot I show my students: the market capitalization of the company with the highest market capitalization, normalized by GDP."
+     },
+     {
+      "t0": 111.4,
+      "t1": 116.06,
+      "speaker": "Tano Santos",
+      "text": "That number traditionally has been between 2 and 4 percent."
+     },
+     {
+      "t0": 116.06,
+      "t1": 119.57,
+      "speaker": "Tano Santos",
+      "text": "It is now about 15 percent with Nvidia."
+     },
+     {
+      "t0": 121.55,
+      "t1": 130.84,
+      "speaker": "Tano Santos",
+      "text": "How do you think about this market, one that is becoming overly dependent on those few companies, with a very high beta to those companies?"
+     },
+     {
+      "t0": 130.84,
+      "t1": 138.24,
+      "speaker": "Tano Santos",
+      "text": "How do we design portfolios to protect ourselves against the shocks of this technology?"
+     },
+     {
+      "t0": 138.24,
+      "t1": 140.62,
+      "speaker": "Li Lu",
+      "text": "The market always does peculiar things."
+     },
+     {
+      "t0": 140.62,
+      "t1": 141.47,
+      "speaker": "Tano Santos",
+      "text": "Yes."
+     },
+     {
+      "t0": 141.63,
+      "t1": 148.1,
+      "speaker": "Li Lu",
+      "text": "From the very beginning, we go through this, and we’ll probably continue to do so."
+     },
+     {
+      "t0": 148.1,
+      "t1": 154.06,
+      "speaker": "Li Lu",
+      "text": "You don’t have to be dictated to by what the market decides to do at any given time."
+     },
+     {
+      "t0": 154.06,
+      "t1": 159.91,
+      "speaker": "Li Lu",
+      "text": "This is one of the most important insights and contributions from Ben Graham himself."
+     },
+     {
+      "t0": 161.91,
+      "t1": 171.56,
+      "speaker": "Li Lu",
+      "text": "At this point, if you look at the proposition of one recent prospectus that I read."
+     },
+     {
+      "t0": 171.56,
+      "t1": 189.08,
+      "speaker": "Li Lu",
+      "text": "Here’s a company that calls itself a research lab, yet it burns through tens of billions and promises to continue burning through hundreds of billions of dollars."
+     },
+     {
+      "t0": 189.08,
+      "t1": 201.91,
+      "speaker": "Li Lu",
+      "text": "It promises a transformative technology, but at the same time has a 10 percent chance of killing everyone."
+     },
+     {
+      "t0": 202.77,
+      "t1": 208.41,
+      "speaker": "Li Lu",
+      "text": "It wrote that in the prospectus and invited everybody to put in at least $100 billion at a $2 trillion valuation."
+     },
+     {
+      "t0": 209.09,
+      "t1": 213.98,
+      "speaker": "Li Lu",
+      "text": "If there is there any inconsistency or irony?!"
+     },
+     {
+      "t0": 213.98,
+      "t1": 215.42,
+      "speaker": "Li Lu",
+      "text": "Then this is."
+     },
+     {
+      "t0": 215.42,
+      "t1": 222.51,
+      "speaker": "Li Lu",
+      "text": "This is one extreme illustration of how irrational the market gets."
+     },
+     {
+      "t0": 223.25,
+      "t1": 228.39,
+      "speaker": "Li Lu",
+      "text": "It cannot both be true, but that’s where they are."
+     },
+     {
+      "t0": 228.55,
+      "t1": 234.05,
+      "speaker": "Li Lu",
+      "text": "It also tells you that things are not rational and not sustainable."
+     },
+     {
+      "t0": 234.21,
+      "t1": 238.34,
+      "speaker": "Li Lu",
+      "text": "Eventually, they won’t continue."
+     },
+     {
+      "t0": 238.34,
+      "t1": 244.67,
+      "speaker": "Li Lu",
+      "text": "Those are also the rules of the market, if you look throughout the centuries."
+     },
+     {
+      "t0": 245.07,
+      "t1": 248.49,
+      "speaker": "Li Lu",
+      "text": "They do strange things over a long period of time."
+     },
+     {
+      "t0": 248.89,
+      "t1": 253.58,
+      "speaker": "Li Lu",
+      "text": "Take the S&P since 2010, for example."
+     },
+     {
+      "t0": 253.58,
+      "t1": 258.01,
+      "speaker": "Li Lu",
+      "text": "In the last 16 years, it averaged 14 or 15 percent."
+     },
+     {
+      "t0": 259.23,
+      "t1": 267.61,
+      "speaker": "Li Lu",
+      "text": "In the preceding 10 years, from 2000 to 2010, it averaged exactly zero — in fact, slightly negative for 10 years."
+     },
+     {
+      "t0": 268.39,
+      "t1": 277.17,
+      "speaker": "Li Lu",
+      "text": "If you average the last 26 years, you get high single digits, and that is roughly right over the long term."
+     },
+     {
+      "t0": 277.55,
+      "t1": 291.34,
+      "speaker": "Li Lu",
+      "text": "If GDP grew in that period maybe 2 percent, and you have 2 to 3 percent inflation, you average about 4 to 5 percent nominal growth."
+     },
+     {
+      "t0": 291.34,
+      "t1": 300.45,
+      "speaker": "Li Lu",
+      "text": "Publicly listed companies do slightly better, especially those chosen by elimination to be the 500 best companies."
+     },
+     {
+      "t0": 302.63,
+      "t1": 309.39,
+      "speaker": "Li Lu",
+      "text": "You come up with high single digits, and that is where the long-term average has been."
+     },
+     {
+      "t0": 310.35,
+      "t1": 322.03,
+      "speaker": "Li Lu",
+      "text": "That should serve as a basic grounding pillar of getting what you deserve and how the market rationalizes over a longer period."
+     },
+     {
+      "t0": 322.31,
+      "t1": 328.18,
+      "speaker": "Li Lu",
+      "text": "But it is punctuated by periods, sometimes long periods, when it goes to extremes."
+     },
+     {
+      "t0": 328.18,
+      "t1": 336.05,
+      "speaker": "Li Lu",
+      "text": "The example we just cited does strike people as, at a minimum, odd."
+     },
+     {
+      "t0": 337.91,
+      "t1": 339.83,
+      "speaker": "Li Lu",
+      "text": "That happens throughout history."
+     },
+     {
+      "t0": 341.39,
+      "t1": 353.89,
+      "speaker": "Li Lu",
+      "text": "If we ground society in the sense that a super-creature is simply not allowed or tolerated, it won’t go there."
+     },
+     {
+      "t0": 354.49,
+      "t1": 363.35,
+      "speaker": "Li Lu",
+      "text": "If it stays in the realm of tools, it will be like any other tool, with costs and benefits associated with it."
+     },
+     {
+      "t0": 363.77,
+      "t1": 370.0,
+      "speaker": "Li Lu",
+      "text": "Therefore, financial discipline and capital market discipline will eventually apply."
+     },
+     {
+      "t0": 370.0,
+      "t1": 376.03,
+      "speaker": "Li Lu",
+      "text": "The way you get there is through multiple ups and downs and boom and bust cycles, and that’s also fine."
+     },
+     {
+      "t0": 376.93,
+      "t1": 389.55,
+      "speaker": "Li Lu",
+      "text": "From that perspective, the bifurcation as a result of it — at any given time, you don’t create an enormous amount of new capital."
+     },
+     {
+      "t0": 391.41,
+      "t1": 402.99,
+      "speaker": "Li Lu",
+      "text": "If it is overwhelmingly driven to the top, that means you also have a whole bunch of otherwise wonderful businesses trading at very low prices."
+     },
+     {
+      "t0": 403.59,
+      "t1": 410.16,
+      "speaker": "Li Lu",
+      "text": "This is the same here, in China, or anywhere else."
+     },
+     {
+      "t0": 410.16,
+      "t1": 414.15,
+      "speaker": "Li Lu",
+      "text": "In China, it is probably more extreme, as some of the Chinese participants would be well aware."
+     },
+     {
+      "t0": 418.39,
+      "t1": 426.68,
+      "speaker": "Li Lu",
+      "text": "Over time, the weight of the market will dictate the long-term returns of investors."
+     },
+     {
+      "t0": 426.68,
+      "t1": 429.36,
+      "speaker": "Li Lu",
+      "text": "You still get what you deserve in the end."
+     },
+     {
+      "t0": 429.36,
+      "t1": 435.83,
+      "speaker": "Li Lu",
+      "text": "There’s not much of a free lunch, even if it appears to be for a period of time, even a long period."
+     },
+     {
+      "t0": 436.85,
+      "t1": 443.02,
+      "speaker": "Li Lu",
+      "text": "Over the longer term, it will be weighed out by the natural weight of market rationalization itself."
+     },
+     {
+      "t0": 443.02,
+      "t1": 445.59,
+      "speaker": "Li Lu",
+      "text": "That’s why it has existed for a few hundred years already."
+     },
+     {
+      "t0": 446.97,
+      "t1": 466.84,
+      "speaker": "Li Lu",
+      "text": "I would say this bifurcation offers those with a rational mind a better opportunity set than at other times, if you stay rational, which is very difficult."
+     },
+     {
+      "t0": 466.84,
+      "t1": 477.46,
+      "speaker": "Li Lu",
+      "text": "It’s easy to get swept up, especially when you have a big technology wave."
+     },
+     {
+      "t0": 477.46,
+      "t1": 481.89,
+      "speaker": "Li Lu",
+      "text": "Your margin of imagination can expand dramatically."
+     },
+     {
+      "t0": 482.27,
+      "t1": 497.73,
+      "speaker": "Li Lu",
+      "text": "The speculative side of the market gets much more active, and the imagination becomes wilder, so the exaggerations tend to be more extreme."
+     },
+     {
+      "t0": 498.41,
+      "t1": 507.83,
+      "speaker": "Li Lu",
+      "text": "But for a rational mind, those create a better long-term opportunity set than otherwise."
+     },
+     {
+      "t0": 509.61,
+      "t1": 513.11,
+      "speaker": "Tano Santos",
+      "text": "You mentioned China briefly there."
+     },
+     {
+      "t0": 513.77,
+      "t1": 515.18,
+      "speaker": "Tano Santos",
+      "text": "Let’s talk a little bit about that."
+     },
+     {
+      "t0": 515.18,
+      "t1": 517.84,
+      "speaker": "Tano Santos",
+      "text": "I just came back from China."
+     },
+     {
+      "t0": 517.84,
+      "t1": 530.56,
+      "speaker": "Tano Santos",
+      "text": "I was teaching the participants in Hong Kong, and I took advantage of that occasion to do a couple of cases on Chinese companies and study the Chinese market a little."
+     },
+     {
+      "t0": 530.56,
+      "t1": 534.73,
+      "speaker": "Tano Santos",
+      "text": "It’s been quite a ride over the last few years."
+     },
+     {
+      "t0": 537.27,
+      "t1": 545.12,
+      "speaker": "Tano Santos",
+      "text": "How do you think about the Chinese market these days, with the problems in the Chinese economy associated with the real estate bust and the banking crisis?"
+     },
+     {
+      "t0": 545.12,
+      "t1": 548.77,
+      "speaker": "Tano Santos",
+      "text": "It looks reminiscent of some of the things we’ve seen in other places."
+     },
+     {
+      "t0": 551.35,
+      "t1": 554.39,
+      "speaker": "Tano Santos",
+      "text": "How do you see investing in China these days?"
+     },
+     {
+      "t0": 555.87,
+      "t1": 557.86,
+      "speaker": "Li Lu",
+      "text": "You mentioned the Chinese market."
+     },
+     {
+      "t0": 557.86,
+      "t1": 564.35,
+      "speaker": "Li Lu",
+      "text": "If you look at the last 10 years, it has basically been stagnant."
+     },
+     {
+      "t0": 566.03,
+      "t1": 568.67,
+      "speaker": "Li Lu",
+      "text": "What happened in those 10 years is fascinating."
+     },
+     {
+      "t0": 569.75,
+      "t1": 578.27,
+      "speaker": "Li Lu",
+      "text": "Ten years ago, the Chinese government had a decision to make."
+     },
+     {
+      "t0": 578.97,
+      "t1": 582.32,
+      "speaker": "Li Lu",
+      "text": "They had achieved somewhat of a middle-income level."
+     },
+     {
+      "t0": 582.32,
+      "t1": 586.35,
+      "speaker": "Li Lu",
+      "text": "The question was: How do we break away from it?"
+     },
+     {
+      "t0": 586.87,
+      "t1": 597.31,
+      "speaker": "Li Lu",
+      "text": "So many countries have reached that level and stagnated there, so much so that there is a term to describe it – the middle-income trap."
+     },
+     {
+      "t0": 598.75,
+      "t1": 603.66,
+      "speaker": "Li Lu",
+      "text": "Dozens of countries achieved that and stayed there 40 or 50 years later."
+     },
+     {
+      "t0": 603.66,
+      "t1": 616.41,
+      "speaker": "Li Lu",
+      "text": "China is a large economy, so the question naturally is: What keeps a middle-income country stagnant and prevents it from breaking through the ceiling?"
+     },
+     {
+      "t0": 618.95,
+      "t1": 627.55,
+      "speaker": "Li Lu",
+      "text": "You manufacture, you industrialize, you go with mid- to low-end manufacturing, but never break away from it."
+     },
+     {
+      "t0": 630.79,
+      "t1": 632.65,
+      "speaker": "Li Lu",
+      "text": "They had a decision to make."
+     },
+     {
+      "t0": 632.83,
+      "t1": 640.07,
+      "speaker": "Li Lu",
+      "text": "Do we want to break out, and can we do something to accelerate that process or make sure it happens?"
+     },
+     {
+      "t0": 641.71,
+      "t1": 652.03,
+      "speaker": "Li Lu",
+      "text": "On its natural course, a lot of countries have failed to achieve that and stayed there for 40 or 50 years, some countries even longer."
+     },
+     {
+      "t0": 654.33,
+      "t1": 665.35,
+      "speaker": "Li Lu",
+      "text": "They embarked on this process of deliberately migrating the economy from low- to mid-end manufacturing into mid- to high-end manufacturing."
+     },
+     {
+      "t0": 666.47,
+      "t1": 683.53,
+      "speaker": "Li Lu",
+      "text": "Instead of a five-year plan, they had a 10- year plan called Made in China 2025, in which they listed about 10 major objectives aimed at transforming Chinese basic manufacturing from low- to mid-end into mid- to high-end."
+     },
+     {
+      "t0": 686.71,
+      "t1": 692.96,
+      "speaker": "Li Lu",
+      "text": "A few years after that started, the first Trump administration came on board and started the trade war."
+     },
+     {
+      "t0": 692.96,
+      "t1": 708.54,
+      "speaker": "Li Lu",
+      "text": "This reinforced their idea that not only might they not break through that ceiling on their own natural course, but other countries might deliberately constrain them underneath it."
+     },
+     {
+      "t0": 710.99,
+      "t1": 722.79,
+      "speaker": "Li Lu",
+      "text": "The first Trump administration was followed by the Biden administration, which not only kept the trade tariffs but also added more technology restrictions."
+     },
+     {
+      "t0": 724.33,
+      "t1": 733.17,
+      "speaker": "Li Lu",
+      "text": "Five years into the 10-year plan, by 2021, the Chinese government doubled down on that direction."
+     },
+     {
+      "t0": 735.77,
+      "t1": 756.93,
+      "speaker": "Li Lu",
+      "text": "In addition to migrating manufacturing into the mid- to high-end, it added technological self- sufficiency, particularly in areas where they had real bottlenecks: semiconductors, big aircraft engines, operating software code, and so on."
+     },
+     {
+      "t0": 756.93,
+      "t1": 760.02,
+      "speaker": "Li Lu",
+      "text": "There was a long list China was facing."
+     },
+     {
+      "t0": 760.02,
+      "t1": 767.87,
+      "speaker": "Li Lu",
+      "text": "That started another five years of doubling down and accelerating that process."
+     },
+     {
+      "t0": 768.09,
+      "t1": 780.7,
+      "speaker": "Li Lu",
+      "text": "When you try to achieve those impossible goals that so many countries have failed to achieve, it doesn’t come without deep and heavy costs."
+     },
+     {
+      "t0": 782.93,
+      "t1": 786.46,
+      "speaker": "Li Lu",
+      "text": "That has been the model by which China developed its economy."
+     },
+     {
+      "t0": 786.46,
+      "t1": 794.04,
+      "speaker": "Li Lu",
+      "text": "At different periods, they have big objectives and targets, with big costs associated with them."
+     },
+     {
+      "t0": 794.04,
+      "t1": 795.2,
+      "speaker": "Li Lu",
+      "text": "You mentioned real estate."
+     },
+     {
+      "t0": 795.2,
+      "t1": 810.52,
+      "speaker": "Li Lu",
+      "text": "In the last five years, one of the principal costs of achieving that goal has been the balance sheets and family wealth of middle-class Chinese families."
+     },
+     {
+      "t0": 814.07,
+      "t1": 821.08,
+      "speaker": "Li Lu",
+      "text": "By 2021, real estate prices reached their peak."
+     },
+     {
+      "t0": 821.08,
+      "t1": 830.8,
+      "speaker": "Li Lu",
+      "text": "A typical middle-class Chinese family had 70 percent of its net worth tied up in the home it owned."
+     },
+     {
+      "t0": 830.8,
+      "t1": 836.37,
+      "speaker": "Li Lu",
+      "text": "But that home carried roughly 50 percent leverage through a mortgage."
+     },
+     {
+      "t0": 838.19,
+      "t1": 850.32,
+      "speaker": "Li Lu",
+      "text": "In the next five years, until now, real estate prices nationwide lost about 40 percent of their value on average."
+     },
+     {
+      "t0": 850.32,
+      "t1": 857.89,
+      "speaker": "Li Lu",
+      "text": "They saw their entire family fortune go down 60 to 70 percent on average."
+     },
+     {
+      "t0": 859.19,
+      "t1": 861.05,
+      "speaker": "Li Lu",
+      "text": "When that happens, what do you do?"
+     }
+    ]
+   },
+   {
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 4/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=2655s",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p4.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p4-075.mp3"
+    ],
+    "minutes": 14,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "중국 가계가 한 세 가지(덜 쓰고, 더 저축하고, 빚 갚기), Made in China 2025와 '목표(objective)가 비용(cost)이 되는' 구조, 그리고 싸게 거래되는 세계적 기업들. 지난 30년간 형성된 단일 글로벌 시장 이야기예요.",
+    "transcript": [
+     {
+      "t0": 0.49,
+      "t1": 7.76,
+      "speaker": "Li Lu",
+      "text": "You do three things: consume less, save more, and, to the extent possible, pay down debt."
+     },
+     {
+      "t0": 7.76,
+      "t1": 14.95,
+      "speaker": "Li Lu",
+      "text": "That is exactly what typical middle-class Chinese families have done over the last five years."
+     },
+     {
+      "t0": 16.13,
+      "t1": 25.45,
+      "speaker": "Li Lu",
+      "text": "Domestic demand has been growing slower and slower, to today roughly zero."
+     },
+     {
+      "t0": 26.76,
+      "t1": 39.77,
+      "speaker": "Li Lu",
+      "text": "Savings have gone up to about 120 percent of GDP, probably the largest savings deposits anywhere in the world, basically RMB 165 trillion."
+     },
+     {
+      "t0": 42.93,
+      "t1": 56.89,
+      "speaker": "Li Lu",
+      "text": "People have also been through two or three years of roughly zero price increases or slightly negative ones, more or less in that range."
+     },
+     {
+      "t0": 57.41,
+      "t1": 62.16,
+      "speaker": "Li Lu",
+      "text": "Therefore, they have a bit of a confidence issue when they look to the future."
+     },
+     {
+      "t0": 62.16,
+      "t1": 64.16,
+      "speaker": "Li Lu",
+      "text": "That is one tier of the economy."
+     },
+     {
+      "t0": 64.16,
+      "t1": 76.89,
+      "speaker": "Li Lu",
+      "text": "But if you look at the other tier, at the Chinese government’s objectives over the last 10 years and five years, you see a remarkably different picture."
+     },
+     {
+      "t0": 78.03,
+      "t1": 87.06,
+      "speaker": "Li Lu",
+      "text": "Chinese manufacturing has finally broken through from low- to mid-end, firmly into mid- to high-end."
+     },
+     {
+      "t0": 87.06,
+      "t1": 93.96,
+      "speaker": "Li Lu",
+      "text": "Every single objective of Made in China 2025 has been hit."
+     },
+     {
+      "t0": 93.96,
+      "t1": 106.22,
+      "speaker": "Li Lu",
+      "text": "In the last five years, solving the bottleneck issues has also made tremendous progress."
+     },
+     {
+      "t0": 106.22,
+      "t1": 109.22,
+      "speaker": "Li Lu",
+      "text": "Take the example of semiconductors."
+     },
+     {
+      "t0": 109.22,
+      "t1": 128.0,
+      "speaker": "Li Lu",
+      "text": "It turns out that the U.S.-led technology sanctions have been a godsend for the Chinese semiconductor industry because they have one of the most precious things in a market economy – DEMAND."
+     },
+     {
+      "t0": 128.0,
+      "t1": 133.06,
+      "speaker": "Li Lu",
+      "text": "Ask any entrepreneur what is most important, and they say the order book."
+     },
+     {
+      "t0": 133.06,
+      "t1": 138.62,
+      "speaker": "Li Lu",
+      "text": "If you have revenue, you get the whole ball rolling."
+     },
+     {
+      "t0": 138.62,
+      "t1": 146.09,
+      "speaker": "Li Lu",
+      "text": "With more revenue comes profit, comes R&D, comes better improvement, comes more revenue."
+     },
+     {
+      "t0": 146.97,
+      "t1": 159.89,
+      "speaker": "Li Lu",
+      "text": "That happened to the point that, on mature nodes, both the Chinese equipment side and fabrication side have achieved almost complete self- sufficiency."
+     },
+     {
+      "t0": 160.37,
+      "t1": 172.41,
+      "speaker": "Li Lu",
+      "text": "On more cutting-edge, advanced nodes, they are getting close to self-sufficiency, with a few key missing ingredients."
+     },
+     {
+      "t0": 172.55,
+      "t1": 176.07,
+      "speaker": "Li Lu",
+      "text": "If you keep this way, on its natural course it will happen."
+     },
+     {
+      "t0": 176.71,
+      "t1": 178.01,
+      "speaker": "Li Lu",
+      "text": "That’s just one aspect."
+     },
+     {
+      "t0": 179.17,
+      "t1": 188.37,
+      "speaker": "Li Lu",
+      "text": "One of the key capabilities of generative AI is producing intelligence at scale on demand."
+     },
+     {
+      "t0": 189.19,
+      "t1": 205.72,
+      "speaker": "Li Lu",
+      "text": "One of the biggest applications is code generation, and that solves a big problem in some of those bottlenecks, primarily the missing layer of operating code systems."
+     },
+     {
+      "t0": 205.72,
+      "t1": 216.81,
+      "speaker": "Li Lu",
+      "text": "From PCs to servers to semiconductors to CUDA system of Nvidia, one by one, all of those are now being replaced with the help of AI."
+     },
+     {
+      "t0": 216.97,
+      "t1": 219.71,
+      "speaker": "Li Lu",
+      "text": "This becomes a great equalizer."
+     },
+     {
+      "t0": 220.25,
+      "t1": 237.07,
+      "speaker": "Li Lu",
+      "text": "Field after field, over the last 10 years, you’ve seen remarkable progress in migrating the basic contours of manufacturing from low- to mid-end to mid- to high-end."
+     },
+     {
+      "t0": 237.47,
+      "t1": 249.02,
+      "speaker": "Li Lu",
+      "text": "In some areas—new energy, EVs, storage, batteries, you name it, and it goes on and on, heavy machinery—they dominate."
+     },
+     {
+      "t0": 249.02,
+      "t1": 251.35,
+      "speaker": "Li Lu",
+      "text": "They have become global leaders."
+     },
+     {
+      "t0": 252.41,
+      "t1": 257.77,
+      "speaker": "Li Lu",
+      "text": "In areas where they have bottlenecks, they have also begun to migrate and close the gap."
+     },
+     {
+      "t0": 258.65,
+      "t1": 263.78,
+      "speaker": "Li Lu",
+      "text": "At the same time, it comes with very heavy costs to other industries."
+     },
+     {
+      "t0": 263.78,
+      "t1": 273.32,
+      "speaker": "Li Lu",
+      "text": "Real estate, for example, on an annual new sales basis, we’re now probably down about 70 percent."
+     },
+     {
+      "t0": 273.32,
+      "t1": 286.75,
+      "speaker": "Li Lu",
+      "text": "That RMB 10 trillion is also exactly how much has been spent on manufacturing upgrading and technology efficiency, about RMB 10 trillion a year."
+     },
+     {
+      "t0": 287.31,
+      "t1": 292.05,
+      "speaker": "Li Lu",
+      "text": "If you look at the diversion, it is around 2021."
+     },
+     {
+      "t0": 294.57,
+      "t1": 302.38,
+      "speaker": "Li Lu",
+      "text": "That has been the development model if you look back over the last 50 years of China’s development."
+     },
+     {
+      "t0": 302.38,
+      "t1": 313.48,
+      "speaker": "Li Lu",
+      "text": "At any given time, roughly every 10 years or so in my mind, you get a new set of objectives and targets, and it comes with heavy costs."
+     },
+     {
+      "t0": 313.48,
+      "t1": 319.76,
+      "speaker": "Li Lu",
+      "text": "Sometimes in the next 10 years, the objective could become the cost."
+     },
+     {
+      "t0": 319.76,
+      "t1": 327.68,
+      "speaker": "Li Lu",
+      "text": "In the early days of industrial takeoff, the environment, air pollution, and rivers all became costs."
+     },
+     {
+      "t0": 327.68,
+      "t1": 337.35,
+      "speaker": "Li Lu",
+      "text": "In the proceeding next 10 years, they became the objectives, and new environmentally friendly technologies were developed."
+     },
+     {
+      "t0": 337.91,
+      "t1": 339.85,
+      "speaker": "Li Lu",
+      "text": "The polluters were the cost."
+     },
+     {
+      "t0": 341.25,
+      "t1": 354.47,
+      "speaker": "Li Lu",
+      "text": "In the course of urbanization, real estate developers were the objective, building China into what it is, with home ownership and firm middle-class wealth."
+     },
+     {
+      "t0": 355.15,
+      "t1": 357.95,
+      "speaker": "Li Lu",
+      "text": "In the last five or 10 years, they became the cost."
+     },
+     {
+      "t0": 359.41,
+      "t1": 366.44,
+      "speaker": "Li Lu",
+      "text": "You begin to suffer quite a bit, but overall you see the progress of the country through those periods."
+     },
+     {
+      "t0": 366.44,
+      "t1": 374.17,
+      "speaker": "Li Lu",
+      "text": "That is why you can compress development over a few hundred years into, say, 40 years."
+     },
+     {
+      "t0": 374.69,
+      "t1": 388.77,
+      "speaker": "Li Lu",
+      "text": "But at any given time, as an investor or entrepreneur — and I’m sure all those people from China would strongly identify — you always want to know whether you are the objective or the cost."
+     },
+     {
+      "t0": 389.35,
+      "t1": 393.56,
+      "speaker": "Li Lu",
+      "text": "Being the cost of a state objective is no fun!"
+     },
+     {
+      "t0": 393.56,
+      "t1": 403.25,
+      "speaker": "Li Lu",
+      "text": "I’m sure all of you intimately know that or have friends involved in the process."
+     },
+     {
+      "t0": 403.33,
+      "t1": 404.95,
+      "speaker": "Li Lu",
+      "text": "That’s how it has developed."
+     },
+     {
+      "t0": 405.63,
+      "t1": 424.45,
+      "speaker": "Li Lu",
+      "text": "Overall, if you give the score, you would say that, of all those changes, you now have a country of such size and population that has finally embarked on a complete course of modernization."
+     },
+     {
+      "t0": 425.95,
+      "t1": 440.45,
+      "speaker": "Li Lu",
+      "text": "But because of this two-tier economy and the general loss of confidence, you also have a financial market that has been stagnant for 10 years, going nowhere."
+     },
+     {
+      "t0": 441.19,
+      "t1": 447.31,
+      "speaker": "Li Lu",
+      "text": "Meanwhile, you have some of the greatest companies, globally competitive, trading at very low prices."
+     },
+     {
+      "t0": 447.95,
+      "t1": 450.97,
+      "speaker": "Li Lu",
+      "text": "Again, you have the bifurcation you see here."
+     },
+     {
+      "t0": 451.37,
+      "t1": 459.13,
+      "speaker": "Li Lu",
+      "text": "If you’re a rational investor and look at the whole picture, you might take a different perspective."
+     },
+     {
+      "t0": 459.73,
+      "t1": 466.53,
+      "speaker": "Li Lu",
+      "text": "I would say that in today’s market, you probably find a better opportunity set than you would at different times."
+     },
+     {
+      "t0": 467.23,
+      "t1": 469.77,
+      "speaker": "Li Lu",
+      "text": "That’s what you want."
+     },
+     {
+      "t0": 470.39,
+      "t1": 472.43,
+      "speaker": "Tano Santos",
+      "text": "I’m going to take questions in a moment."
+     },
+     {
+      "t0": 472.55,
+      "t1": 474.88,
+      "speaker": "Tano Santos",
+      "text": "While you get your questions ready, raise your hand."
+     },
+     {
+      "t0": 474.88,
+      "t1": 477.33,
+      "speaker": "Tano Santos",
+      "text": "I want to ask you one last question, very quickly."
+     },
+     {
+      "t0": 478.77,
+      "t1": 483.09,
+      "speaker": "Tano Santos",
+      "text": "You founded Himalaya Capital in 1997."
+     },
+     {
+      "t0": 483.49,
+      "t1": 488.21,
+      "speaker": "Tano Santos",
+      "text": "I arrived at the University of Chicago about the same time as a young assistant professor."
+     },
+     {
+      "t0": 490.03,
+      "t1": 500.3,
+      "speaker": "Tano Santos",
+      "text": "The world, at least to me — I don’t know how it looked to you then; we didn’t know each other — was very different, or looked very different from how it looks to me now."
+     },
+     {
+      "t0": 500.3,
+      "t1": 507.76,
+      "speaker": "Tano Santos",
+      "text": "It was a world that was open, transnational, where with travel you could do so many things."
+     },
+     {
+      "t0": 507.76,
+      "t1": 515.44,
+      "speaker": "Tano Santos",
+      "text": "It had, I don’t know how to say it, a generosity of spirit that seems to be a little lacking today."
+     },
+     {
+      "t0": 515.44,
+      "t1": 517.59,
+      "speaker": "Tano Santos",
+      "text": "It looks very different to me now."
+     },
+     {
+      "t0": 519.89,
+      "t1": 527.07,
+      "speaker": "Tano Santos",
+      "text": "How do you see it going forward, and do you incorporate any of those ideas into the way you think about investing?"
+     },
+     {
+      "t0": 527.33,
+      "t1": 529.89,
+      "speaker": "Li Lu",
+      "text": "It’s a great question, Tano."
+     },
+     {
+      "t0": 530.03,
+      "t1": 534.51,
+      "speaker": "Li Lu",
+      "text": "The world has changed over the last 30 years."
+     },
+     {
+      "t0": 536.67,
+      "t1": 538.23,
+      "speaker": "Li Lu",
+      "text": "There’s no question about that."
+     },
+     {
+      "t0": 539.67,
+      "t1": 551.05,
+      "speaker": "Li Lu",
+      "text": "The world order, or the big questions of how the world governs and operates itself, changes on a slow scale."
+     },
+     {
+      "t0": 553.87,
+      "t1": 561.65,
+      "speaker": "Li Lu",
+      "text": "It takes decades, sometimes a hundred years, for an order to form and transform."
+     },
+     {
+      "t0": 562.93,
+      "t1": 573.53,
+      "speaker": "Li Lu",
+      "text": "The current world order was founded through two great world wars, which brought the whole world to the brink of collapse."
+     },
+     {
+      "t0": 574.21,
+      "t1": 579.94,
+      "speaker": "Li Lu",
+      "text": "Coming out of that, an American-led order emerged."
+     },
+     {
+      "t0": 579.94,
+      "t1": 583.45,
+      "speaker": "Li Lu",
+      "text": "Through the Cold War and the end of the Cold War, it became one order."
+     },
+     {
+      "t0": 583.47,
+      "t1": 590.73,
+      "speaker": "Li Lu",
+      "text": "Now it’s transforming once again into something yet to be seen, to emerge into what would emerge out of it."
+     },
+     {
+      "t0": 592.23,
+      "t1": 601.72,
+      "speaker": "Li Lu",
+      "text": "Underneath, there is another order that has been steadily forming for the last few hundred years: the economic order."
+     },
+     {
+      "t0": 601.72,
+      "t1": 612.84,
+      "speaker": "Li Lu",
+      "text": "It forms when more and more countries and populations join in common trade and transact business with each other."
+     },
+     {
+      "t0": 612.84,
+      "t1": 615.16,
+      "speaker": "Li Lu",
+      "text": "They form a common market."
+     },
+     {
+      "t0": 615.16,
+      "t1": 625.66,
+      "speaker": "Li Lu",
+      "text": "That common market was finally formed roughly 30 years ago, with the collapse of the Soviet Union and the end of the Cold War."
+     },
+     {
+      "t0": 625.66,
+      "t1": 633.78,
+      "speaker": "Li Lu",
+      "text": "Virtually all countries and populations began to join one market economy."
+     },
+     {
+      "t0": 633.78,
+      "t1": 650.25,
+      "speaker": "Li Lu",
+      "text": "What is interesting about this economic order is that, once a common market is formed, it is very difficult for any single country to withdraw voluntarily."
+     },
+     {
+      "t0": 652.27,
+      "t1": 669.0,
+      "speaker": "Li Lu",
+      "text": "Out of the market comes efficiency, comes the flywheel of continuous improvement along the lines of technology, efficiency, division of labor, trading of resources, and so on."
+     },
+     {
+      "t0": 669.0,
+      "t1": 675.51,
+      "speaker": "Li Lu",
+      "text": "Any country that withdraws for an extended period would face a great deal of cost."
+     },
+     {
+      "t0": 676.39,
+      "t1": 682.42,
+      "speaker": "Li Lu",
+      "text": "In the end, once it is formed, it is very difficult to disintegrate."
+     },
+     {
+      "t0": 682.42,
+      "t1": 684.21,
+      "speaker": "Li Lu",
+      "text": "It lasts much longer."
+     },
+     {
+      "t0": 684.23,
+      "t1": 690.06,
+      "speaker": "Li Lu",
+      "text": "Look at the trade wars and trade frictions over the preceding hundred years."
+     },
+     {
+      "t0": 690.06,
+      "t1": 703.35,
+      "speaker": "Li Lu",
+      "text": "No matter what frictions and barriers you erect, people find a way to trade through a third country, along the same principles of comparative advantage."
+     },
+     {
+      "t0": 704.67,
+      "t1": 706.84,
+      "speaker": "Li Lu",
+      "text": "Take U.S.–China trade."
+     },
+     {
+      "t0": 706.84,
+      "t1": 716.66,
+      "speaker": "Li Lu",
+      "text": "Of course, that has declined, but if you look at overall U.S. trade with Mexico plus ASEAN, they exactly offset it."
+     },
+     {
+      "t0": 716.66,
+      "t1": 722.75,
+      "speaker": "Li Lu",
+      "text": "Basically, U.S.–China trade remains the same, it just goes through a third-party country."
+     },
+     {
+      "t0": 723.65,
+      "t1": 726.94,
+      "speaker": "Li Lu",
+      "text": "That is roughly true in most other markets as well."
+     },
+     {
+      "t0": 726.94,
+      "t1": 751.94,
+      "speaker": "Li Lu",
+      "text": "In the political order, the U.S., having led the globe for 80 years and shouldered most of the costs of ensuring that the economic common market functions as it sees fit, began to realize that the costs and benefits derived from it were probably a bit out of proportion."
+     },
+     {
+      "t0": 751.94,
+      "t1": 763.63,
+      "speaker": "Li Lu",
+      "text": "It began to voluntarily withdraw some of those responsibilities, not very successfully so far, leaving a vacuum."
+     },
+     {
+      "t0": 764.63,
+      "t1": 772.27,
+      "speaker": "Li Lu",
+      "text": "The single biggest change in the political order is the rise of China over the last 30 or 40 years."
+     },
+     {
+      "t0": 772.99,
+      "t1": 796.06,
+      "speaker": "Li Lu",
+      "text": "It has become an enormous economic entity, with a complete set of manufacturing and technological self-sufficiency, and a single largest market that is also open, with unified regulation."
+     },
+     {
+      "t0": 796.06,
+      "t1": 804.31,
+      "speaker": "Li Lu",
+      "text": "That is a huge change to both the political and economic orders we are witnessing."
+     },
+     {
+      "t0": 807.41,
+      "t1": 817.88,
+      "speaker": "Li Lu",
+      "text": "At the same time, our mutual dependency, with one single market, has only increased, not decreased, over that period."
+     },
+     {
+      "t0": 817.88,
+      "t1": 819.91,
+      "speaker": "Li Lu",
+      "text": "I’ll give you one example."
+     },
+     {
+      "t0": 822.77,
+      "t1": 831.56,
+      "speaker": "Li Lu",
+      "text": "In generative AI, the one thing everybody needs is chips, semiconductor chips."
+     },
+     {
+      "t0": 831.56,
+      "t1": 835.23,
+      "speaker": "Li Lu",
+      "text": "Where are those chips being made?"
+     },
+     {
+      "t0": 838.29,
+      "t1": 841.36,
+      "speaker": "Li Lu",
+      "text": "Think about all the countries that produce them."
+     },
+     {
+      "t0": 842.69,
+      "t1": 848.38,
+      "speaker": "Li Lu",
+      "text": "They have one thing in common."
+     },
+     {
+      "t0": 848.38,
+      "t1": 851.51,
+      "speaker": "Li Lu",
+      "text": "What do you think that might be?"
+     },
+     {
+      "t0": 852.49,
+      "t1": 855.5,
+      "speaker": "Li Lu",
+      "text": "Sorry, I’m not putting you on the spot."
+     },
+     {
+      "t0": 855.5,
+      "t1": 855.92,
+      "speaker": "Tano Santos",
+      "text": "I’m perfectly on the spot."
+     },
+     {
+      "t0": 855.92,
+      "t1": 859.53,
+      "speaker": "Tano Santos",
+      "text": "Now I have to think about semiconductors when I was thinking that I need to open for questions."
+     },
+     {
+      "t0": 859.65,
+      "t1": 862.47,
+      "speaker": "Tano Santos",
+      "text": "What do they all have in common?"
+     }
+    ]
+   },
+   {
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 5/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=3518s",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p5.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p5-075.mp3"
+    ],
+    "minutes": 14,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "반도체 국가들의 공통점(젓가락!), 미·중 상호의존과 전략적 안정. Berkshire가 '교회'를 대성당으로 키웠다는 비유 후 Q&A가 시작돼요: 중국 vs 미국 AI, 중국 증시, 정치 리스크.",
+    "transcript": [
+     {
+      "t0": 0.54,
+      "t1": 30.44,
+      "speaker": "Li Lu",
+      "text": "One thing in common among all the places that produce semiconductor chips essential for this technological wave, which the whole country seems to be betting on, is that every country and all the people who produce semiconductor chips use chopsticks."
+     },
+     {
+      "t0": 34.3,
+      "t1": 37.94,
+      "speaker": "Li Lu",
+      "text": "Think about that."
+     },
+     {
+      "t0": 39.72,
+      "t1": 41.17,
+      "speaker": "Li Lu",
+      "text": "Without exception."
+     },
+     {
+      "t0": 60.86,
+      "t1": 62.44,
+      "speaker": "Li Lu",
+      "text": "Yes."
+     },
+     {
+      "t0": 63.48,
+      "t1": 78.26,
+      "speaker": "Li Lu",
+      "text": "Of course, all the people leading the semiconductor companies in this country also use chopsticks, from Jensen to Lip-bu to Lisa, you name it, Hock, all of them."
+     },
+     {
+      "t0": 79.94,
+      "t1": 84.08,
+      "speaker": "Li Lu",
+      "text": "There is a great deal of mutual dependency, as you can see."
+     },
+     {
+      "t0": 84.72,
+      "t1": 98.74,
+      "speaker": "Li Lu",
+      "text": "If you’re betting to the extent we’re currently betting as a country and as companies on this new technology, whatever its promise and peril could be, then you have to be nice to people who use chopsticks."
+     },
+     {
+      "t0": 103.28,
+      "t1": 106.13,
+      "speaker": "Li Lu",
+      "text": "This is not changing."
+     },
+     {
+      "t0": 106.13,
+      "t1": 109.9,
+      "speaker": "Li Lu",
+      "text": "It didn’t happen by accident; we can go into why."
+     },
+     {
+      "t0": 114.94,
+      "t1": 126.96,
+      "speaker": "Li Lu",
+      "text": "There is a reason the president of the United States and the president of China find an urgency to meet four times in eight months."
+     },
+     {
+      "t0": 128.12,
+      "t1": 130.27,
+      "speaker": "Li Lu",
+      "text": "Two into it, the other two coming."
+     },
+     {
+      "t0": 130.27,
+      "t1": 134.73,
+      "speaker": "Li Lu",
+      "text": "The most important accomplishment of every meeting is that we schedule the next meeting."
+     },
+     {
+      "t0": 134.73,
+      "t1": 142.09,
+      "speaker": "Li Lu",
+      "text": "That comes the term strategic stability."
+     },
+     {
+      "t0": 142.09,
+      "t1": 146.45,
+      "speaker": "Li Lu",
+      "text": "In other words, stability is of strategic importance."
+     },
+     {
+      "t0": 146.45,
+      "t1": 160.41,
+      "speaker": "Li Lu",
+      "text": "I highlighted the sense of one global common market, the cost of withdrawing voluntarily from it, and mutual dependency deepening in a peaceful manner."
+     },
+     {
+      "t0": 162.16,
+      "t1": 167.08,
+      "speaker": "Li Lu",
+      "text": "Meanwhile, everybody is competing fiercely, all believing time is on their side."
+     },
+     {
+      "t0": 168.26,
+      "t1": 180.56,
+      "speaker": "Li Lu",
+      "text": "China to complete semiconductor self-sufficiency and all kinds of other things, the U.S. hoping for a breakthrough in AI and what it can promise."
+     },
+     {
+      "t0": 180.84,
+      "t1": 184.19,
+      "speaker": "Li Lu",
+      "text": "Other countries have different sets of calculations."
+     },
+     {
+      "t0": 184.19,
+      "t1": 193.34,
+      "speaker": "Li Lu",
+      "text": "It all highlights that peaceful stability is of paramount importance to everyone, of strategic importance."
+     },
+     {
+      "t0": 194.18,
+      "t1": 201.4,
+      "speaker": "Li Lu",
+      "text": "The largest countries have the responsibility and the desire to keep it that way."
+     },
+     {
+      "t0": 202.24,
+      "t1": 210.73,
+      "speaker": "Li Lu",
+      "text": "All countries would felt the weight of one single common market and the cost of withdrawing from it."
+     },
+     {
+      "t0": 211.74,
+      "t1": 216.75,
+      "speaker": "Li Lu",
+      "text": "The world, by and large, will continue to progress in that regard."
+     },
+     {
+      "t0": 216.75,
+      "t1": 226.34,
+      "speaker": "Li Lu",
+      "text": "The order we have been familiar with since the end of World War II is changing and transforming."
+     },
+     {
+      "t0": 227.64,
+      "t1": 231.89,
+      "speaker": "Li Lu",
+      "text": "What will emerge, and in what form, is yet to be seen."
+     },
+     {
+      "t0": 231.89,
+      "t1": 247.58,
+      "speaker": "Li Lu",
+      "text": "But the underlying formation of something with a more prominent impact, the forming of one single global common market, is here to stay."
+     },
+     {
+      "t0": 248.4,
+      "t1": 251.16,
+      "speaker": "Li Lu",
+      "text": "What is the implication for an investor?"
+     },
+     {
+      "t0": 251.74,
+      "t1": 259.69,
+      "speaker": "Li Lu",
+      "text": "We come back to our basic tenets of value investing, the six principles."
+     },
+     {
+      "t0": 259.69,
+      "t1": 274.96,
+      "speaker": "Li Lu",
+      "text": "The last one we added is that, as a global investor, your wealth is expressed as your percentage ownership of global purchasing power."
+     },
+     {
+      "t0": 276.2,
+      "t1": 303.26,
+      "speaker": "Li Lu",
+      "text": "One way to accomplish that, certainly the way we’ve been practicing, is by buying great businesses in dynamic countries and markets at advantageous prices, and holding them for the long term to create value, preserve our percentage, and grow it over time."
+     },
+     {
+      "t0": 309.32,
+      "t1": 322.58,
+      "speaker": "Li Lu",
+      "text": "Back to Warren’s analogy describing the stock market as a church with a casino attached to it."
+     },
+     {
+      "t0": 323.32,
+      "t1": 347.6,
+      "speaker": "Li Lu",
+      "text": "What Berkshire has accomplished over the last 60 years is to build that church into a gigantic cathedral, which not only symbolizes and functions, but where people can find spiritual solace, because it provides the right function for which the market exists."
+     },
+     {
+      "t0": 350.78,
+      "t1": 366.51,
+      "speaker": "Li Lu",
+      "text": "What we’re trying to practice, back to your question, over the last 30 years, is that we want to prove that the gospel can be spread."
+     },
+     {
+      "t0": 366.51,
+      "t1": 370.73,
+      "speaker": "Li Lu",
+      "text": "We can build churches in other countries."
+     },
+     {
+      "t0": 370.73,
+      "t1": 381.0,
+      "speaker": "Li Lu",
+      "text": "We chose to build that church in Asia as well as other regions, as a global investor."
+     },
+     {
+      "t0": 381.83,
+      "t1": 390.71,
+      "speaker": "Li Lu",
+      "text": "Over time, some of those churches will appear in different countries, and some might grow into cathedrals as well."
+     },
+     {
+      "t0": 390.71,
+      "t1": 403.59,
+      "speaker": "Li Lu",
+      "text": "Let’s come back to your other question, to students and young professionals: What would you choose to do in this market?"
+     },
+     {
+      "t0": 403.59,
+      "t1": 414.32,
+      "speaker": "Li Lu",
+      "text": "This is the basic setup, a church with a casino attached as part of the permitting process because of the human condition."
+     },
+     {
+      "t0": 415.72,
+      "t1": 420.96,
+      "speaker": "Li Lu",
+      "text": "They have different implications for the overall society."
+     },
+     {
+      "t0": 422.72,
+      "t1": 428.97,
+      "speaker": "Li Lu",
+      "text": "On one side, you have a win-win approach and a net benefit to society."
+     },
+     {
+      "t0": 428.97,
+      "t1": 438.0,
+      "speaker": "Li Lu",
+      "text": "On the other, you have zero-sum and a net cost, a net negative impact on society."
+     },
+     {
+      "t0": 439.72,
+      "t1": 441.44,
+      "speaker": "Li Lu",
+      "text": "The choices are yours."
+     },
+     {
+      "t0": 442.54,
+      "t1": 450.08,
+      "speaker": "Li Lu",
+      "text": "Technology, including AI, will remain a tool, not a replacement."
+     },
+     {
+      "t0": 450.86,
+      "t1": 460.8,
+      "speaker": "Li Lu",
+      "text": "If it has any tendency to replace humans, as I said, we will all unite to oppose such a creation of a man- made god."
+     },
+     {
+      "t0": 462.62,
+      "t1": 470.76,
+      "speaker": "Li Lu",
+      "text": "Therefore, in my view, you don’t have to participate in a prospectus that calls it an IPO of a demigod."
+     },
+     {
+      "t0": 474.06,
+      "t1": 478.86,
+      "speaker": "Li Lu",
+      "text": "That is one way to express our collective duties to a good society."
+     },
+     {
+      "t0": 480.2,
+      "t1": 485.1,
+      "speaker": "Li Lu",
+      "text": "That’s why this program exists, and I think it ought to continue."
+     },
+     {
+      "t0": 485.28,
+      "t1": 486.17,
+      "speaker": "Li Lu",
+      "text": "Thank you very much."
+     },
+     {
+      "t0": 486.17,
+      "t1": 487.04,
+      "speaker": "Tano Santos",
+      "text": "Thank you."
+     },
+     {
+      "t0": 496.52,
+      "t1": 499.82,
+      "speaker": "Tano Santos",
+      "text": "We have 15 minutes for a couple of questions."
+     },
+     {
+      "t0": 500.06,
+      "t1": 505.38,
+      "speaker": "Tano Santos",
+      "text": "All the way in the back—you were the first to raise your hand, so you get the right to do it."
+     },
+     {
+      "t0": 506.52,
+      "t1": 509.4,
+      "speaker": "Tano Santos",
+      "text": "The only thing is that I’m going to ask you guys seriously to make it quick."
+     },
+     {
+      "t0": 514.06,
+      "t1": 514.87,
+      "speaker": "Audience",
+      "text": "Thank you again."
+     },
+     {
+      "t0": 514.87,
+      "t1": 516.05,
+      "speaker": "Audience",
+      "text": "I really appreciate it."
+     },
+     {
+      "t0": 516.05,
+      "t1": 523.36,
+      "speaker": "Audience",
+      "text": "I just want to get your sense of the difference between Chinese AI and American AI."
+     },
+     {
+      "t0": 524.5,
+      "t1": 525.06,
+      "speaker": "Audience",
+      "text": "Thank you."
+     },
+     {
+      "t0": 525.12,
+      "t1": 527.41,
+      "speaker": "Li Lu",
+      "text": "I’ll take two more questions at the same time."
+     },
+     {
+      "t0": 527.41,
+      "t1": 528.73,
+      "speaker": "Li Lu",
+      "text": "I will answer all three together."
+     },
+     {
+      "t0": 528.73,
+      "t1": 531.0,
+      "speaker": "Tano Santos",
+      "text": "Who else were raising their hand."
+     },
+     {
+      "t0": 531.02,
+      "t1": 532.32,
+      "speaker": "Tano Santos",
+      "text": "All the way in the back there."
+     },
+     {
+      "t0": 532.96,
+      "t1": 535.64,
+      "speaker": "Tano Santos",
+      "text": "And someone here, too."
+     },
+     {
+      "t0": 536.08,
+      "t1": 538.91,
+      "speaker": "Li Lu",
+      "text": "We’ll do three questions at a time."
+     },
+     {
+      "t0": 542.14,
+      "t1": 543.86,
+      "speaker": "Audience",
+      "text": "You mentioned the Chinese market."
+     },
+     {
+      "t0": 544.02,
+      "t1": 554.2,
+      "speaker": "Audience",
+      "text": "I want to hear your opinion about whether the Chinese stock market could be the objective or the cost."
+     },
+     {
+      "t0": 555.14,
+      "t1": 556.6,
+      "speaker": "Tano Santos",
+      "text": "That’s a good question, actually."
+     },
+     {
+      "t0": 556.6,
+      "t1": 557.18,
+      "speaker": "Li Lu",
+      "text": "One more."
+     },
+     {
+      "t0": 559.72,
+      "t1": 569.06,
+      "speaker": "Audience",
+      "text": "I’m curious how you underwrite political risk when the rules can change overnight, considering you’ve been so successful investing in Chinese businesses."
+     },
+     {
+      "t0": 571.1,
+      "t1": 578.91,
+      "speaker": "Li Lu",
+      "text": "The Chinese approach towards AI, whether the Chinese market is objective or cost, and how you underwrite political risk."
+     },
+     {
+      "t0": 578.91,
+      "t1": 580.38,
+      "speaker": "Li Lu",
+      "text": "They’re all connected, of course."
+     },
+     {
+      "t0": 582.4,
+      "t1": 591.26,
+      "speaker": "Li Lu",
+      "text": "If you describe the Silicon Valley approach to AI, the fundamental question is: What else can this technology do?"
+     },
+     {
+      "t0": 593.12,
+      "t1": 596.93,
+      "speaker": "Li Lu",
+      "text": "That’s why they still call them research labs."
+     },
+     {
+      "t0": 596.93,
+      "t1": 598.63,
+      "speaker": "Li Lu",
+      "text": "I want to see what else it can do."
+     },
+     {
+      "t0": 598.63,
+      "t1": 600.99,
+      "speaker": "Li Lu",
+      "text": "How far can we push the edge of it?"
+     },
+     {
+      "t0": 600.99,
+      "t1": 602.49,
+      "speaker": "Li Lu",
+      "text": "That’s why I also call it a frontier."
+     },
+     {
+      "t0": 602.49,
+      "t1": 609.91,
+      "speaker": "Li Lu",
+      "text": "The Chinese AI companies, I would say, are fundamentally curious about those questions as well."
+     },
+     {
+      "t0": 609.91,
+      "t1": 619.3,
+      "speaker": "Li Lu",
+      "text": "But in addition, and more importantly, they ask: What can this technology do for my customers, both my consumers and enterprise customers?"
+     },
+     {
+      "t0": 619.96,
+      "t1": 622.45,
+      "speaker": "Li Lu",
+      "text": "There lies a very different approach."
+     },
+     {
+      "t0": 622.45,
+      "t1": 627.44,
+      "speaker": "Li Lu",
+      "text": "You can see from various metrics how the results will be different."
+     },
+     {
+      "t0": 627.8,
+      "t1": 631.33,
+      "speaker": "Li Lu",
+      "text": "The Chinese stock market — is that the objective or cost?"
+     },
+     {
+      "t0": 631.33,
+      "t1": 636.49,
+      "speaker": "Li Lu",
+      "text": "At different times, the emphasis is different."
+     },
+     {
+      "t0": 636.49,
+      "t1": 668.38,
+      "speaker": "Li Lu",
+      "text": "But when you are the primary balance sheets of both individual families and the nation, when the real estate as a proportion begins to go down in one way, by the way, they don’t really go down forever because it has real value, then what in its place, would constitute the wealth of the nation, the people, and the families?"
+     },
+     {
+      "t0": 668.7,
+      "t1": 677.66,
+      "speaker": "Li Lu",
+      "text": "When you answer that question, you would say that at some point, whether it’s today or another time, it has to be."
+     },
+     {
+      "t0": 679.0,
+      "t1": 693.68,
+      "speaker": "Li Lu",
+      "text": "That is the only asset that grows with the economy, in fact grows because of the economy, and is also the reason why the economy grows."
+     },
+     {
+      "t0": 693.76,
+      "t1": 697.14,
+      "speaker": "Li Lu",
+      "text": "They are all in a flywheel together."
+     },
+     {
+      "t0": 697.98,
+      "t1": 710.61,
+      "speaker": "Li Lu",
+      "text": "On political risk, that comes to do with understanding the objective at any given time, the history, and examining the record of all of it."
+     },
+     {
+      "t0": 710.61,
+      "t1": 716.97,
+      "speaker": "Li Lu",
+      "text": "That doesn’t just relate to China, it relates to the U.S. and a whole bunch of different questions."
+     },
+     {
+      "t0": 716.97,
+      "t1": 725.4,
+      "speaker": "Li Lu",
+      "text": "Our whole world is still somewhat organized around nation-states, and that’s the reality we live with."
+     },
+     {
+      "t0": 725.84,
+      "t1": 730.52,
+      "speaker": "Li Lu",
+      "text": "With all the considerations we talked about, we should apply that to all the countries in which we operate."
+     },
+     {
+      "t0": 731.12,
+      "t1": 731.69,
+      "speaker": "Li Lu",
+      "text": "Okay."
+     },
+     {
+      "t0": 731.69,
+      "t1": 732.92,
+      "speaker": "Li Lu",
+      "text": "Next set of questions."
+     },
+     {
+      "t0": 746.76,
+      "t1": 756.75,
+      "speaker": "Audience",
+      "text": "Can you apply value investing principles and strategies to investments in growth companies or high-tech companies?"
+     },
+     {
+      "t0": 756.75,
+      "t1": 757.42,
+      "speaker": "Audience",
+      "text": "Thank you."
+     },
+     {
+      "t0": 757.64,
+      "t1": 759.52,
+      "speaker": "Tano Santos",
+      "text": "The tech question."
+     },
+     {
+      "t0": 760.0,
+      "t1": 773.03,
+      "speaker": "Audience",
+      "text": "The second question I have is about the issue of energy convergence and intellectual capital, because energy markets are now very correlated with the consumption of knowledge-based businesses."
+     },
+     {
+      "t0": 773.03,
+      "t1": 782.79,
+      "speaker": "Audience",
+      "text": "I’m wondering whether this has implications for solving or creating problems involving climate issues, environmental issues, and others."
+     },
+     {
+      "t0": 782.79,
+      "t1": 789.54,
+      "speaker": "Audience",
+      "text": "I would also love to hear any thoughts you have on crypto markets in the context of global financial conditions."
+     },
+     {
+      "t0": 791.26,
+      "t1": 794.9,
+      "speaker": "Tano Santos",
+      "text": "You got three questions in one, but we will forgive you."
+     },
+     {
+      "t0": 795.96,
+      "t1": 806.1,
+      "speaker": "Audience",
+      "text": "I’m a Columbia alumnus and already in the church of value investing and have been practicing for two years."
+     },
+     {
+      "t0": 807.42,
+      "t1": 817.52,
+      "speaker": "Audience",
+      "text": "The risk of underperformance in the investment business, where you try to preach value and see things slip away, holds real career risks."
+     },
+     {
+      "t0": 818.08,
+      "t1": 820.15,
+      "speaker": "Audience",
+      "text": "How do you think about it?"
+     },
+     {
+      "t0": 820.15,
+      "t1": 821.4,
+      "speaker": "Tano Santos",
+      "text": "That’s a wonderful question."
+     },
+     {
+      "t0": 821.84,
+      "t1": 824.46,
+      "speaker": "Li Lu",
+      "text": "There are five or six questions, somewhere there."
+     },
+     {
+      "t0": 832.12,
+      "t1": 851.6,
+      "speaker": "Li Lu",
+      "text": "Value investing principles and growth and technology companies; energy and all the associated implications for current AI, climate change, and somehow relating to crypto."
+     },
+     {
+      "t0": 853.54,
+      "t1": 854.79,
+      "speaker": "Tano Santos",
+      "text": "You can do it, Li Lu."
+     }
+    ]
+   },
+   {
+    "title": "Li Lu at the 36th Annual Graham & Dodd Luncheon (Part 6/6)",
+    "show": "Columbia Business School · Heilbrunn Center · Fireside chat (Oct 5, 2026)",
+    "url": "https://www.youtube.com/watch?v=YRhnX_JAbC8&t=4373s",
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p6.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-lilu-gd36-p6-075.mp3"
+    ],
+    "minutes": 15,
+    "episodeUrl": "https://www.youtube.com/watch?v=YRhnX_JAbC8",
+    "transcriptUrl": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/36th%20Annual%20Graham%20%26%20Dodd%20Luncheon%20Transcript%20(20261005)%20CBS.pdf",
+    "note": "Q&A 후반: 성장주에도 가치투자를 적용할 수 있나, 크립토에 대한 짧은 답, 안전마진 확보법, 그리고 마지막 메시지 '복리의 핵심은 이미 가진 것을 잃지 않는 것'.",
+    "transcript": [
+     {
+      "t0": 0,
+      "t1": 0.61,
+      "speaker": "Li Lu",
+      "text": "Sure."
+     },
+     {
+      "t0": 6.45,
+      "t1": 17.75,
+      "speaker": "Li Lu",
+      "text": "The third one is about underperformance and how you keep yourself in business, even though you’re two years into it."
+     },
+     {
+      "t0": 19.49,
+      "t1": 25.46,
+      "speaker": "Li Lu",
+      "text": "First of all, the value principle — I put it this way."
+     },
+     {
+      "t0": 25.46,
+      "t1": 36.65,
+      "speaker": "Li Lu",
+      "text": "I think all intelligent investment is value investment, because you always want to get a little more than what you pay for."
+     },
+     {
+      "t0": 36.73,
+      "t1": 38.98,
+      "speaker": "Li Lu",
+      "text": "What you pay is the price; what you get is value."
+     },
+     {
+      "t0": 38.98,
+      "t1": 67.97,
+      "speaker": "Li Lu",
+      "text": "Whatever value you can express yourself, whether it is in a business that is stagnant or even declining but pays you a whole bunch of money back, or a company that is rapidly growing, or a bet that has only a small percentage of winning and a large percentage of losing, therefore you spread — all of that come down to your understanding of where value will be created."
+     },
+     {
+      "t0": 68.41,
+      "t1": 79.34,
+      "speaker": "Li Lu",
+      "text": "The basic principle is discounted future cash flow, to the extent that you can understand and estimate it accurately."
+     },
+     {
+      "t0": 79.34,
+      "t1": 81.58,
+      "speaker": "Li Lu",
+      "text": "They all come down to the same mathematics."
+     },
+     {
+      "t0": 84.43,
+      "t1": 89.46,
+      "speaker": "Li Lu",
+      "text": "That’s why I say almost all intelligent investing is value investing."
+     },
+     {
+      "t0": 89.46,
+      "t1": 91.26,
+      "speaker": "Li Lu",
+      "text": "The basic principle doesn’t change."
+     },
+     {
+      "t0": 91.26,
+      "t1": 98.07,
+      "speaker": "Li Lu",
+      "text": "You can apply it differently based on where your circle of competence is, going back to the concept Warren articulated so well."
+     },
+     {
+      "t0": 103.57,
+      "t1": 107.88,
+      "speaker": "Li Lu",
+      "text": "Energy is obviously essential, an essential layer of the economy."
+     },
+     {
+      "t0": 107.88,
+      "t1": 115.74,
+      "speaker": "Li Lu",
+      "text": "I see energy and transportation, manufacturing, communication, and then knowledge-based services."
+     },
+     {
+      "t0": 115.74,
+      "t1": 118.47,
+      "speaker": "Li Lu",
+      "text": "Those are essentially the entire economy."
+     },
+     {
+      "t0": 118.87,
+      "t1": 121.63,
+      "speaker": "Li Lu",
+      "text": "Of course, they have applications in every single layer."
+     },
+     {
+      "t0": 121.67,
+      "t1": 127.88,
+      "speaker": "Li Lu",
+      "text": "Of cause right now, the constraint on AI ranges from chips to electricity to labor."
+     },
+     {
+      "t0": 127.88,
+      "t1": 132.27,
+      "speaker": "Li Lu",
+      "text": "It applies differently, and it has an impact on climate."
+     },
+     {
+      "t0": 135.47,
+      "t1": 143.1,
+      "speaker": "Li Lu",
+      "text": "Any one of those subjects, we could go into almost endless aspects of it."
+     },
+     {
+      "t0": 143.1,
+      "t1": 148.43,
+      "speaker": "Li Lu",
+      "text": "But your third question, regarding your question about crypto, I have a very simple answer."
+     },
+     {
+      "t0": 148.75,
+      "t1": 150.77,
+      "speaker": "Li Lu",
+      "text": "I don’t think anything of it."
+     },
+     {
+      "t0": 151.05,
+      "t1": 158.07,
+      "speaker": "Li Lu",
+      "text": "I think eventually it will disappear on its own, and that’s okay, because it’s fundamentally bogus."
+     },
+     {
+      "t0": 158.27,
+      "t1": 169.82,
+      "speaker": "Li Lu",
+      "text": "If you think about what constitutes a currency that is redeemable, it is enforced because of the forces associated with it."
+     },
+     {
+      "t0": 169.82,
+      "t1": 180.57,
+      "speaker": "Li Lu",
+      "text": "Without that mechanism of enforcement, you cannot have any enforceable measure of settlement or store of wealth."
+     },
+     {
+      "t0": 181.33,
+      "t1": 185.37,
+      "speaker": "Li Lu",
+      "text": "Some guys creating it out of a garage doesn’t do the job."
+     },
+     {
+      "t0": 186.47,
+      "t1": 192.97,
+      "speaker": "Li Lu",
+      "text": "Yes, it helps criminals and facilitates all kinds of illicit transactions."
+     },
+     {
+      "t0": 193.79,
+      "t1": 197.08,
+      "speaker": "Li Lu",
+      "text": "I think we’re all better off banning it, but that’s okay."
+     },
+     {
+      "t0": 197.08,
+      "t1": 206.26,
+      "speaker": "Li Lu",
+      "text": "If somebody wants to collect it in the same way people think a certain artist is worth a certain price, that’s your personal preference."
+     },
+     {
+      "t0": 206.26,
+      "t1": 209.77,
+      "speaker": "Li Lu",
+      "text": "But as a society, I think nothing of it."
+     },
+     {
+      "t0": 209.87,
+      "t1": 210.74,
+      "speaker": "Li Lu",
+      "text": "It’s very simple."
+     },
+     {
+      "t0": 210.74,
+      "t1": 213.6,
+      "speaker": "Li Lu",
+      "text": "Now, your question is very real."
+     },
+     {
+      "t0": 213.6,
+      "t1": 225.73,
+      "speaker": "Li Lu",
+      "text": "You’re buying into it, but then, of course, you also want to ask it to cooperate with you."
+     },
+     {
+      "t0": 227.47,
+      "t1": 230.8,
+      "speaker": "Li Lu",
+      "text": "As I said, that is where human psychology is."
+     },
+     {
+      "t0": 230.8,
+      "t1": 234.9,
+      "speaker": "Li Lu",
+      "text": "Everybody likes to have the best of both worlds."
+     },
+     {
+      "t0": 234.9,
+      "t1": 253.29,
+      "speaker": "Li Lu",
+      "text": "In fact, they want everything – I want to be doing win-win, but I also want to report good numbers every year at least, preferably every quarter, then every month, every day, every hour – Pretty soon, you will become a speculator."
+     },
+     {
+      "t0": 255.03,
+      "t1": 256.86,
+      "speaker": "Li Lu",
+      "text": "You cannot have both worlds."
+     },
+     {
+      "t0": 256.86,
+      "t1": 262.61,
+      "speaker": "Li Lu",
+      "text": "Either you think the market is there to instruct you, or you think the market is there to serve you."
+     },
+     {
+      "t0": 263.05,
+      "t1": 265.72,
+      "speaker": "Li Lu",
+      "text": "You can only take one of the two."
+     },
+     {
+      "t0": 265.72,
+      "t1": 275.62,
+      "speaker": "Li Lu",
+      "text": "Anyone who wants to mishmash all of it is better off indexing, because it is exactly the average of all the market participants."
+     },
+     {
+      "t0": 275.62,
+      "t1": 281.0,
+      "speaker": "Li Lu",
+      "text": "You average out those four kinds of market participants, that’s the index."
+     },
+     {
+      "t0": 281.0,
+      "t1": 282.41,
+      "speaker": "Li Lu",
+      "text": "You’re better off doing that."
+     },
+     {
+      "t0": 284.23,
+      "t1": 294.63,
+      "speaker": "Li Lu",
+      "text": "If you say – How do I make a business out of it? – In the end, you have to have people with a like- minded approach who stick with you."
+     },
+     {
+      "t0": 295.91,
+      "t1": 305.98,
+      "speaker": "Li Lu",
+      "text": "The difficult thing about this line of work is that you have to be a bit contrarian in terms of human nature."
+     },
+     {
+      "t0": 305.98,
+      "t1": 319.18,
+      "speaker": "Li Lu",
+      "text": "You’ve got to have some element of a mutated genome to think you are right because logic and facts say so, not because anybody else agrees or disagrees with you."
+     },
+     {
+      "t0": 319.18,
+      "t1": 323.77,
+      "speaker": "Li Lu",
+      "text": "That requires a different kind of psychology."
+     },
+     {
+      "t0": 324.13,
+      "t1": 327.65,
+      "speaker": "Li Lu",
+      "text": "Some people fit it, if you decide you don’t, don’t even try."
+     },
+     {
+      "t0": 328.55,
+      "t1": 333.29,
+      "speaker": "Li Lu",
+      "text": "You also have to have people who believe in that to be along with you."
+     },
+     {
+      "t0": 333.29,
+      "t1": 339.11,
+      "speaker": "Li Lu",
+      "text": "Therefore, you cannot say – I want to have the biggest fund, have this AUM. – It doesn’t happen that way."
+     },
+     {
+      "t0": 339.39,
+      "t1": 342.12,
+      "speaker": "Li Lu",
+      "text": "You get what you deserve in the end."
+     },
+     {
+      "t0": 342.12,
+      "t1": 347.74,
+      "speaker": "Tano Santos",
+      "text": "Let’s take a question from this side."
+     },
+     {
+      "t0": 347.74,
+      "t1": 350.98,
+      "speaker": "Audience",
+      "text": "Hi, Li Lu."
+     },
+     {
+      "t0": 350.98,
+      "t1": 352.61,
+      "speaker": "Audience",
+      "text": "Thanks so much for doing this."
+     },
+     {
+      "t0": 355.73,
+      "t1": 359.11,
+      "speaker": "Audience",
+      "text": "You’ve been such a successful investor for such a long time."
+     },
+     {
+      "t0": 359.45,
+      "t1": 367.07,
+      "speaker": "Audience",
+      "text": "What have you learned in the last 10 years that you think are the most important lessons that make you a better investor today than you were 10 years ago?"
+     },
+     {
+      "t0": 367.47,
+      "t1": 373.74,
+      "speaker": "Audience",
+      "text": "If I can sneak in a second one: You keep your mind and body very sharp at 60 years old."
+     },
+     {
+      "t0": 373.74,
+      "t1": 376.62,
+      "speaker": "Audience",
+      "text": "You’re taking three questions at a time and remembering all the nuances."
+     },
+     {
+      "t0": 376.62,
+      "t1": 383.06,
+      "speaker": "Audience",
+      "text": "I’d love to hear about your daily or weekly routines to keep your mind and body"
+     },
+     {
+      "t0": 383.06,
+      "t1": 385.04,
+      "speaker": "Li Lu",
+      "text": "You got a few questions out there."
+     },
+     {
+      "t0": 385.04,
+      "t1": 392.23,
+      "speaker": "Tano Santos",
+      "text": "This is like the Martha Stewart segment of the conversation, your diet and—"
+     },
+     {
+      "t0": 392.89,
+      "t1": 393.75,
+      "speaker": "Li Lu",
+      "text": "Anybody else?"
+     },
+     {
+      "t0": 396.37,
+      "t1": 403.18,
+      "speaker": "Audience",
+      "text": "My question is about structural changes in the U.S. and Chinese capital markets."
+     },
+     {
+      "t0": 404.51,
+      "t1": 405.57,
+      "speaker": "Li Lu",
+      "text": "Say that again?"
+     },
+     {
+      "t0": 408.71,
+      "t1": 417.88,
+      "speaker": "Audience",
+      "text": "Looking ahead a decade or more, what are the most important structural changes in the U.S. and Chinese capital markets?"
+     },
+     {
+      "t0": 417.88,
+      "t1": 418.68,
+      "speaker": "Audience",
+      "text": "Thank you."
+     },
+     {
+      "t0": 418.68,
+      "t1": 422.83,
+      "speaker": "Tano Santos",
+      "text": "Say it in Chinese."
+     },
+     {
+      "t0": 435.17,
+      "t1": 435.88,
+      "speaker": "Tano Santos",
+      "text": "I will translate."
+     },
+     {
+      "t0": 435.88,
+      "t1": 447.42,
+      "speaker": "Audience",
+      "text": "I’m asking about structural changes in the Chinese and U.S. capital markets."
+     },
+     {
+      "t0": 447.42,
+      "t1": 453.45,
+      "speaker": "Tano Santos",
+      "text": "Now I got it."
+     },
+     {
+      "t0": 454.79,
+      "t1": 457.43,
+      "speaker": "Li Lu",
+      "text": "I’m still struggling."
+     },
+     {
+      "t0": 458.09,
+      "t1": 464.34,
+      "speaker": "Li Lu",
+      "text": "I’ll choose to understand whatever I can with my limited ability, now that I’m 60 years old."
+     },
+     {
+      "t0": 464.34,
+      "t1": 466.98,
+      "speaker": "Li Lu",
+      "text": "Thank you for reminding me."
+     },
+     {
+      "t0": 466.98,
+      "t1": 467.96,
+      "speaker": "Li Lu",
+      "text": "One more."
+     },
+     {
+      "t0": 467.96,
+      "t1": 470.29,
+      "speaker": "Li Lu",
+      "text": "Last one."
+     },
+     {
+      "t0": 475.61,
+      "t1": 484.49,
+      "speaker": "Audience",
+      "text": "When you are underwriting an investment, how do you ensure you have an adequate margin of safety and downside protection?"
+     },
+     {
+      "t0": 496.29,
+      "t1": 513.12,
+      "speaker": "Li Lu",
+      "text": "Where do you see the margin of safety, what have I learned in the last 10 years and how do I keep engaged this far, and structural changes between the U.S. and Chinese markets?"
+     },
+     {
+      "t0": 513.12,
+      "t1": 517.69,
+      "speaker": "Li Lu",
+      "text": "I don’t know what that means, but I will say something along those lines."
+     },
+     {
+      "t0": 523.31,
+      "t1": 538.87,
+      "speaker": "Li Lu",
+      "text": "One of the distinguishing characteristics that separates a value investor from most other investors is the enormous attention paid to downside protection."
+     },
+     {
+      "t0": 539.91,
+      "t1": 547.75,
+      "speaker": "Li Lu",
+      "text": "Investing is predicting the future, which is inherently unpredictable."
+     },
+     {
+      "t0": 548.89,
+      "t1": 553.69,
+      "speaker": "Li Lu",
+      "text": "What you do is invest in the things you do know."
+     },
+     {
+      "t0": 557.37,
+      "t1": 560.4,
+      "speaker": "Li Lu",
+      "text": "What you know could be limited."
+     },
+     {
+      "t0": 560.4,
+      "t1": 565.12,
+      "speaker": "Li Lu",
+      "text": "Everybody starts with very limited known knowledge."
+     },
+     {
+      "t0": 565.12,
+      "t1": 568.66,
+      "speaker": "Li Lu",
+      "text": "That’s how I started when I was in my 20s."
+     },
+     {
+      "t0": 568.66,
+      "t1": 569.89,
+      "speaker": "Li Lu",
+      "text": "I didn’t know much."
+     },
+     {
+      "t0": 570.63,
+      "t1": 575.44,
+      "speaker": "Li Lu",
+      "text": "I go with the things I know are there."
+     },
+     {
+      "t0": 575.44,
+      "t1": 584.11,
+      "speaker": "Li Lu",
+      "text": "The balance sheet, obviously, as in Benjamin Graham’s work, because some things are easier to understand."
+     },
+     {
+      "t0": 585.37,
+      "t1": 593.57,
+      "speaker": "Li Lu",
+      "text": "Then I gradually progress from something simple to something less simple and more complex."
+     },
+     {
+      "t0": 593.79,
+      "t1": 598.03,
+      "speaker": "Li Lu",
+      "text": "It’s a natural progression in terms of the circle of competence."
+     },
+     {
+      "t0": 598.79,
+      "t1": 603.37,
+      "speaker": "Li Lu",
+      "text": "About circle of competence, one thing is to understand its edge."
+     },
+     {
+      "t0": 603.59,
+      "t1": 609.49,
+      "speaker": "Li Lu",
+      "text": "The other is consciously to expand it gradually over time."
+     },
+     {
+      "t0": 610.73,
+      "t1": 619.76,
+      "speaker": "Li Lu",
+      "text": "I always say, if you can compound your knowledge sustainably, eventually you can compound your capital as well."
+     },
+     {
+      "t0": 619.76,
+      "t1": 626.04,
+      "speaker": "Li Lu",
+      "text": "That goes back to your question about what I’ve learned over 10 years."
+     },
+     {
+      "t0": 626.04,
+      "t1": 633.69,
+      "speaker": "Li Lu",
+      "text": "Every 10 years, I find I’ve learned so much that you’re almost somewhat a different person."
+     },
+     {
+      "t0": 635.27,
+      "t1": 649.28,
+      "speaker": "Li Lu",
+      "text": "You want to have that renewed sense that, over a long period, if you do the right thing in the right way, it will be remarkable to find that you actually compound."
+     },
+     {
+      "t0": 649.28,
+      "t1": 659.44,
+      "speaker": "Li Lu",
+      "text": "This is another reason, I would say, if you want to choose to go to a win-win situation rather than zero-sum."
+     },
+     {
+      "t0": 659.44,
+      "t1": 667.24,
+      "speaker": "Li Lu",
+      "text": "You actually will compound your ability and knowledge, and perhaps your health, too."
+     },
+     {
+      "t0": 667.24,
+      "t1": 674.12,
+      "speaker": "Li Lu",
+      "text": "Maybe not quite, but you can at least prolong your productive span, your health span."
+     },
+     {
+      "t0": 674.12,
+      "t1": 677.28,
+      "speaker": "Li Lu",
+      "text": "Maybe not lifespan, but your health span."
+     },
+     {
+      "t0": 677.28,
+      "t1": 678.4,
+      "speaker": "Li Lu",
+      "text": "You keep engaged."
+     },
+     {
+      "t0": 678.4,
+      "t1": 679.4,
+      "speaker": "Li Lu",
+      "text": "It’s interesting."
+     },
+     {
+      "t0": 679.4,
+      "t1": 684.24,
+      "speaker": "Li Lu",
+      "text": "You know it’s helpful to society, and you’re not taking away from society."
+     },
+     {
+      "t0": 684.24,
+      "t1": 691.4,
+      "speaker": "Li Lu",
+      "text": "With the zero-sum game, the trouble is that a lot of human nature goes to zero-sum, to the short term."
+     },
+     {
+      "t0": 691.4,
+      "t1": 694.5,
+      "speaker": "Li Lu",
+      "text": "Whatever you learn today is useless tomorrow."
+     },
+     {
+      "t0": 694.5,
+      "t1": 696.77,
+      "speaker": "Li Lu",
+      "text": "You don’t accumulate."
+     },
+     {
+      "t0": 697.81,
+      "t1": 700.72,
+      "speaker": "Li Lu",
+      "text": "You rely more and more on the impersonal."
+     },
+     {
+      "t0": 700.72,
+      "t1": 703.45,
+      "speaker": "Li Lu",
+      "text": "You get a bigger computer, and now you use AI."
+     },
+     {
+      "t0": 705.23,
+      "t1": 710.37,
+      "speaker": "Li Lu",
+      "text": "You’ll be replaced at some point, so what is the value of that as a human?"
+     },
+     {
+      "t0": 711.43,
+      "t1": 715.97,
+      "speaker": "Li Lu",
+      "text": "Of course, I like the human in the loop."
+     },
+     {
+      "t0": 716.99,
+      "t1": 730.65,
+      "speaker": "Li Lu",
+      "text": "I advocate learning, having an engaged and improved life over time, and compounding your knowledge as well as the capital of the people in the trusting way."
+     },
+     {
+      "t0": 731.47,
+      "t1": 749.68,
+      "speaker": "Li Lu",
+      "text": "What my mentor, partner, and teacher Charlie Munger always said and advocated is that the highest order of relationship he could discover is a seamless web of deserved trust."
+     },
+     {
+      "t0": 749.68,
+      "t1": 755.49,
+      "speaker": "Li Lu",
+      "text": "A seamless web of deserved trust!"
+     },
+     {
+      "t0": 756.71,
+      "t1": 767.53,
+      "speaker": "Li Lu",
+      "text": "There lies a whole philosophy of approaching life in a productive way that is win-win for society as well."
+     },
+     {
+      "t0": 770.05,
+      "t1": 777.36,
+      "speaker": "Li Lu",
+      "text": "I recommend anyone starting your career to lean towards that way of life."
+     },
+     {
+      "t0": 777.36,
+      "t1": 780.68,
+      "speaker": "Li Lu",
+      "text": "It could take years."
+     },
+     {
+      "t0": 780.68,
+      "t1": 788.37,
+      "speaker": "Li Lu",
+      "text": "It could be slow, but slowly and surely you will get to where you deserve to go."
+     },
+     {
+      "t0": 789.15,
+      "t1": 791.65,
+      "speaker": "Li Lu",
+      "text": "That is a better way of living."
+     },
+     {
+      "t0": 792.59,
+      "t1": 797.29,
+      "speaker": "Li Lu",
+      "text": "Some people have a little more luck than others along the way."
+     },
+     {
+      "t0": 797.64,
+      "t1": 804.68,
+      "speaker": "Li Lu",
+      "text": "Our life, success, and failure are sometimes a combination of lucky or unlucky breaks in life."
+     },
+     {
+      "t0": 804.68,
+      "t1": 807.17,
+      "speaker": "Li Lu",
+      "text": "We’ve had a fair share of all of it."
+     },
+     {
+      "t0": 808.11,
+      "t1": 815.36,
+      "speaker": "Li Lu",
+      "text": "I, for one, never felt our record was completely our genius or anything."
+     },
+     {
+      "t0": 815.36,
+      "t1": 819.13,
+      "speaker": "Li Lu",
+      "text": "We’ve got so many lucky breaks along the way."
+     },
+     {
+      "t0": 819.71,
+      "t1": 836.96,
+      "speaker": "Li Lu",
+      "text": "But if you choose the right partners, the right approach, the right people to bet on, and the right things to do, over time it’s remarkable how compound returns work."
+     },
+     {
+      "t0": 836.96,
+      "t1": 842.27,
+      "speaker": "Li Lu",
+      "text": "The basic idea of compounding is that you don’t lose what you already have."
+     },
+     {
+      "t0": 842.89,
+      "t1": 844.76,
+      "speaker": "Li Lu",
+      "text": "That’s a profound idea."
+     },
+     {
+      "t0": 844.76,
+      "t1": 857.39,
+      "speaker": "Li Lu",
+      "text": "You don’t lose what you already have, including your knowledge, your trusting relationships, your wisdom, and even your health."
+     },
+     {
+      "t0": 858.05,
+      "t1": 862.65,
+      "speaker": "Li Lu",
+      "text": "Those are amazingly powerful things to have in life."
+     },
+     {
+      "t0": 863.29,
+      "t1": 868.22,
+      "speaker": "Li Lu",
+      "text": "In that regard, I think structurally the U.S. and China are the same."
+     },
+     {
+      "t0": 868.22,
+      "t1": 871.43,
+      "speaker": "Li Lu",
+      "text": "In fact, that’s the structure of humanity."
+     },
+     {
+      "t0": 871.65,
+      "t1": 874.36,
+      "speaker": "Li Lu",
+      "text": "That doesn’t necessarily answer your question, I’m sure."
+     },
+     {
+      "t0": 874.36,
+      "t1": 879.47,
+      "speaker": "Li Lu",
+      "text": "Maybe we’ll find another time to discuss exactly what you mean by structural changes."
+     },
+     {
+      "t0": 880.19,
+      "t1": 882.67,
+      "speaker": "Li Lu",
+      "text": "There are always changes in life."
+     },
+     {
+      "t0": 882.93,
+      "t1": 887.63,
+      "speaker": "Li Lu",
+      "text": "This is one constant we’re always going to have to deal with."
+     },
+     {
+      "t0": 888.49,
+      "t1": 898.67,
+      "speaker": "Li Lu",
+      "text": "You will always have your share of luck and unluck, and your share of great opportunities, no matter which way you naturally lean."
+     },
+     {
+      "t0": 899.65,
+      "t1": 913.43,
+      "speaker": "Li Lu",
+      "text": "Finding something you naturally lean towards and building on it over time in a compounded and cumulative fashion is just a better way of living a productive life."
+     },
+     {
+      "t0": 915.09,
+      "t1": 917.0,
+      "speaker": "Tano Santos",
+      "text": "Thank you so much, Li Lu."
+     },
+     {
+      "t0": 917.0,
+      "t1": 918.01,
+      "speaker": "Tano Santos",
+      "text": "This was wonderful!"
      }
     ]
    }
   ],
-  "task": "출근길 운전하면서 한 번은 대략적인 내용만 듣고, 저녁에 두 번째는 스크립트를 보면서 들어요. 그다음 퀴즈에 답해 보세요. 'fair share', 'division of labour', 'take a breather', 'pull your weight'가 나오는 부분을 잘 들어 보세요.",
+  "task": "오늘부터 출근길 듣기는 투자 거장의 실제 강연이에요. Li Lu가 Columbia Business School의 제36회 Graham & Dodd Luncheon(2026년 10월 5일)에서 한 대담 전체(약 88분)를 6개 파트로 나눴어요. 출근길에 Part 1–2, 퇴근길에 Part 3–4, Part 5–6은 시간 날 때 이어서 들어요. 어려우면 Part 1만 들어도 충분해요. 'a piece of ownership', 'margin of safety', 'circle of competence', 'fish where the fish are'가 나오는 부분을 잘 들어 보세요. 스크립트는 Columbia가 공개한 공식 녹취록(가볍게 다듬은 버전)이라 실제 말과 조금 다를 수 있어요.",
   "quiz": {
-   "q": "According to the Good Housekeeping survey, what is the most hated household chore in Britain? a) deep cleaning the oven, b) scrubbing the toilet, c) cleaning the windows",
-   "answer": "c) cleaning the windows. 응답자의 23%가 창문 닦기를 가장 싫어한다고 했어요. Pippa는 오븐 청소라고 했는데 틀렸어요!"
+   "q": "In Part 1, Li Lu lists six principles of value investing. Which one does he credit to Charlie Munger? a) circle of competence, b) margin of safety, c) fish where the fish are",
+   "answer": "c) fish where the fish are. 평생 낚시꾼이었던 Munger의 비유로, 관심이 몰린 시장은 경쟁 때문에 수익이 평균으로 수렴하니 '낚시꾼이 적은 곳'에서 찾으라는 뜻이에요. a)는 Buffett, b)는 Ben Graham의 원칙이에요."
   }
  },
  "shadowing": {
-  "lang": "en-GB",
-  "source": "BBC 6 Minute English, Aug 13",
+  "lang": "en-US",
+  "source": "Li Lu · 36th Graham & Dodd Luncheon (Oct 5, 2026)",
   "sentences": [
    {
-    "text": "Do you do your fair share of household chores?",
-    "ko": "집안일을 공평하게 나눠서 하나요?",
-    "t0": 48.3,
-    "t1": 51.09,
+    "text": "A stock is a piece of ownership, not a piece of paper to trade around.",
+    "ko": "주식은 기업의 소유권 일부이지, 사고파는 종이 쪼가리가 아니에요.",
+    "t0": 437.12,
+    "t1": 441.66,
     "track": 0
    },
    {
-    "text": "I'm going to say deep cleaning the oven because I really hate that job.",
-    "ko": "오븐 대청소라고 할게요. 그 일이 정말 싫거든요.",
-    "t0": 122.67,
-    "t1": 127.41,
+    "text": "Charlie had this idea that you’ve got to really fish where the fish are.",
+    "ko": "찰리는 물고기가 있는 곳에서 낚시해야 한다고 생각했어요.",
+    "t0": 528.68,
+    "t1": 536.39,
     "track": 0
    },
    {
-    "text": "Sometimes mums need to take a breather – an informal way of saying stop and rest a while.",
-    "ko": "엄마들도 가끔은 한숨 돌릴 시간이 필요해요.",
-    "t0": 270.31,
-    "t1": 276.03,
-    "track": 0
+    "text": "Warren always describes the stock market as a church with a casino attached to it.",
+    "ko": "워런은 주식시장을 카지노가 딸린 교회라고 표현하곤 해요.",
+    "t0": 42.04,
+    "t1": 48.92,
+    "track": 1
    },
    {
-    "text": "If you pull your weight, you work as hard as everyone else.",
-    "ko": "pull your weight는 다른 사람만큼 열심히 일한다는 뜻이에요.",
-    "t0": 281.05,
-    "t1": 284.27,
-    "track": 0
+    "text": "You still kind of get what you deserve in the end.",
+    "ko": "결국에는 자기가 받을 만한 만큼 받게 돼요.",
+    "t0": 426.68,
+    "t1": 429.36,
+    "track": 2
    },
    {
-    "text": "People hate cleaning the windows even more than scrubbing the oven.",
-    "ko": "사람들은 오븐 닦기보다 창문 닦기를 더 싫어해요.",
-    "t0": 308.61,
-    "t1": 312.79,
-    "track": 0
+    "text": "The basic idea of compounding is that you don’t lose what you already have.",
+    "ko": "복리의 기본 개념은 이미 가진 것을 잃지 않는 거예요.",
+    "t0": 836.96,
+    "t1": 842.27,
+    "track": 5
    }
   ]
  },
@@ -485,29 +4224,29 @@
  },
  "vocab": [
   {
-   "word": "chores",
-   "meaning": "(집안) 허드렛일, 집안일",
-   "example": "I do all the house chores."
+   "word": "a piece of ownership",
+   "meaning": "소유권의 일부 (주식 = 기업의 일부를 소유하는 것)",
+   "example": "A stock is a piece of ownership, not a piece of paper to trade around."
   },
   {
-   "word": "fair share",
-   "meaning": "공평한 몫",
-   "example": "Do you do your fair share of household chores?"
+   "word": "margin of safety",
+   "meaning": "안전마진 (가치와 가격 사이의 여유)",
+   "example": "You always want to require a margin of safety."
   },
   {
-   "word": "division of labour",
-   "meaning": "분업, 역할 분담",
-   "example": "Many cultures have a division of labour."
+   "word": "circle of competence",
+   "meaning": "능력범위, 잘 아는 영역",
+   "example": "Understanding the edge is as important as understanding what is inside it."
   },
   {
-   "word": "take a breather",
-   "meaning": "잠깐 쉬다, 한숨 돌리다",
-   "example": "Sometimes mums need to take a breather."
+   "word": "zero-sum game",
+   "meaning": "한쪽이 얻으면 다른 쪽이 잃는 게임",
+   "example": "Do you want to be in the zero-sum game, or the value creation game?"
   },
   {
-   "word": "pull your weight",
-   "meaning": "제 몫을 다하다",
-   "example": "Women appreciate it when their husbands pull their weight."
+   "word": "compounding",
+   "meaning": "복리, 누적 성장",
+   "example": "The basic idea of compounding is that you don't lose what you already have."
   },
   {
    "word": "mitigate",
@@ -521,9 +4260,9 @@
   }
  ],
  "writing": {
-  "prompt": "Write 3–5 sentences in English: How do you and your family share the housework?",
-  "question": "Which chore do you do most at home, and which one do you hate the most?",
-  "hint": "이런 표현을 써 보세요: At home, I usually ... / My least favourite chore is ... / I try to do my fair share by ..."
+  "prompt": "Write 3–5 sentences in English: Which of Li Lu's six value-investing principles do you agree with most, and why?",
+  "question": "Is there an area you know really well — your 'circle of competence' — at work or in investing?",
+  "hint": "이런 표현을 써 보세요: I agree most with ... because ... / For me, buying a stock means ... / My circle of competence is ..."
  },
  "speaking": {
   "prompt": "In one minute, talk about salt and your diet. Do you try to eat less salt? Is it easy with Korean food?",
