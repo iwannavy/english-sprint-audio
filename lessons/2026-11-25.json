@@ -1,0 +1,1132 @@
+{
+ "date": "2026-11-25",
+ "theme": "Surviving sell-offs & India's deep tech · 폭락장 대처법과 인도의 딥테크",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Jim Cramer: Sell-Off Survival Guide — Black Monday 1987 (14 min)",
+    "show": "CNBC · Mad Money (podcast, Nov 21, 2026)",
+    "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+    "minutes": 14,
+    "episodeUrl": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+    "speakerFocus": "Jim Cramer",
+    "transcript": [
+     {
+      "t0": 0,
+      "t1": 4.64,
+      "speaker": "Announcer",
+      "text": "AI is here, transforming how we work, live, and lead."
+     },
+     {
+      "t0": 4.88,
+      "t1": 8.5,
+      "speaker": "Announcer",
+      "text": "And the women I talk to aren't waiting for the future, they're shaping it."
+     },
+     {
+      "t0": 8.72,
+      "t1": 12.26,
+      "speaker": "Announcer",
+      "text": "I'm Julia Boorstin, Senior Media and Tech Correspondent at CNBC."
+     },
+     {
+      "t0": 12.88,
+      "t1": 20.22,
+      "speaker": "Announcer",
+      "text": "This is CNBC Changemakers, where I talk with the female leaders transforming business, as AI reshapes the world."
+     },
+     {
+      "t0": 20.54,
+      "t1": 26.6,
+      "speaker": "Announcer",
+      "text": "Follow and listen to CNBC Changemakers, Women Leading in the Age of AI, wherever you get your podcasts."
+     },
+     {
+      "t0": 30.31,
+      "t1": 33.53,
+      "speaker": "Jim Cramer",
+      "text": "My mission is simple, to make you money."
+     },
+     {
+      "t0": 34.13,
+      "t1": 36.93,
+      "speaker": "Jim Cramer",
+      "text": "I'm here to level the playing field for all investors."
+     },
+     {
+      "t0": 37.47,
+      "t1": 41.59,
+      "speaker": "Jim Cramer",
+      "text": "There's always a homework at summer, and I promise to help you find it."
+     },
+     {
+      "t0": 41.71,
+      "t1": 43.41,
+      "speaker": "Jim Cramer",
+      "text": "Mad Money starts now."
+     },
+     {
+      "t0": 46.65,
+      "t1": 47.35,
+      "speaker": "Jim Cramer",
+      "text": "I'm Kramer."
+     },
+     {
+      "t0": 47.49,
+      "t1": 48.59,
+      "speaker": "Jim Cramer",
+      "text": "Welcome to Mad Money."
+     },
+     {
+      "t0": 48.67,
+      "t1": 49.87,
+      "speaker": "Jim Cramer",
+      "text": "Welcome to Cramerica."
+     },
+     {
+      "t0": 49.97,
+      "t1": 52.37,
+      "speaker": "Jim Cramer",
+      "text": "If you want to make friends, I'm just trying to make you a little money."
+     },
+     {
+      "t0": 52.77,
+      "t1": 55.67,
+      "speaker": "Jim Cramer",
+      "text": "My job is not just to sit here and entertain, but to teach."
+     },
+     {
+      "t0": 55.77,
+      "t1": 57.49,
+      "speaker": "Jim Cramer",
+      "text": "And I'm telling you, I'm going to do a lot of teaching tonight."
+     },
+     {
+      "t0": 57.63,
+      "t1": 60.24,
+      "speaker": "Jim Cramer",
+      "text": "So call me at 1-800-743-CBC or tweet me at Jim Cramer."
+     },
+     {
+      "t0": 60.19,
+      "t1": 66.39,
+      "speaker": "Jim Cramer",
+      "text": "Tough days do not last forever, but when they come along you need to know how to respond."
+     },
+     {
+      "t0": 66.77,
+      "t1": 75.81,
+      "speaker": "Jim Cramer",
+      "text": "You need a game plan ready so you can figure out what kind of sell-off we're dealing with and then react appropriately because the early days of decline are never easy to navigate."
+     },
+     {
+      "t0": 76.03,
+      "t1": 77.95,
+      "speaker": "Jim Cramer",
+      "text": "You need all the help you can get."
+     },
+     {
+      "t0": 78.15,
+      "t1": 82.54,
+      "speaker": "Jim Cramer",
+      "text": "To borrow a line from Tolstoy's fantastic Anna Karenina, all happy rallies are alike."
+     },
+     {
+      "t0": 82.49,
+      "t1": 86.21,
+      "speaker": "Jim Cramer",
+      "text": "Like each sell-off is unhappy in its own way."
+     },
+     {
+      "t0": 87.61,
+      "t1": 88.31,
+      "speaker": "Jim Cramer",
+      "text": "It's true."
+     },
+     {
+      "t0": 88.59,
+      "t1": 94.37,
+      "speaker": "Jim Cramer",
+      "text": "Full market and stocks hire and everyone thinks they're genius participating because it seems so darn easy."
+     },
+     {
+      "t0": 94.75,
+      "t1": 98.15,
+      "speaker": "Jim Cramer",
+      "text": "Same every time, but big declines, much harder."
+     },
+     {
+      "t0": 98.55,
+      "t1": 105.69,
+      "speaker": "Jim Cramer",
+      "text": "They could be the start of a bear market or maybe something worse, or they might actually be just a buyable glitch."
+     },
+     {
+      "t0": 106.55,
+      "t1": 110.47,
+      "speaker": "Jim Cramer",
+      "text": "That's why tonight we're turning to history to illustrate some of the common qualities to sell-offs."
+     },
+     {
+      "t0": 110.69,
+      "t1": 114.07,
+      "speaker": "Jim Cramer",
+      "text": "So you know what to do the next time the market has an inevitable moment of weakness."
+     },
+     {
+      "t0": 114.39,
+      "t1": 119.35,
+      "speaker": "Jim Cramer",
+      "text": "Now, really, there have only been truly horrifying sell-offs since I started investing over four decades ago."
+     },
+     {
+      "t0": 119.47,
+      "t1": 124.79,
+      "speaker": "Jim Cramer",
+      "text": "The one-day crash of 1987 and the rolling crash of 2007 to 2009, that was the financial crisis."
+     },
+     {
+      "t0": 125.23,
+      "t1": 125.63,
+      "speaker": "Jim Cramer",
+      "text": "Do you know what?"
+     },
+     {
+      "t0": 125.63,
+      "t1": 136.02,
+      "speaker": "Jim Cramer",
+      "text": "Even the COVID crash, when the SPF 500 lost 35% of its value in just over a month, that wasn't nearly as bad as these two, especially when you remember that the market started rebounding almost immediately."
+     },
+     {
+      "t0": 135.97,
+      "t1": 136.29,
+      "speaker": "Jim Cramer",
+      "text": "deal."
+     },
+     {
+      "t0": 136.69,
+      "t1": 140.65,
+      "speaker": "Jim Cramer",
+      "text": "So let's deal with the two big ones head on, because they make for great examples."
+     },
+     {
+      "t0": 141.61,
+      "t1": 147.31,
+      "speaker": "Jim Cramer",
+      "text": "1987 and the financial crisis are actually polar opposites, although the percentage of the clients were really pretty similar."
+     },
+     {
+      "t0": 147.91,
+      "t1": 156.21,
+      "speaker": "Jim Cramer",
+      "text": "On October 19, 1987, also known as Black Monday, the Dow Jones Industrial Average fell 508 points, or more than 22% in a single session."
+     },
+     {
+      "t0": 156.65,
+      "t1": 163.32,
+      "speaker": "Jim Cramer",
+      "text": "I was trading that day, and even as the previous week had been one of the worst weeks of market history, Black Monday hit fast and hit hard."
+     },
+     {
+      "t0": 163.27,
+      "t1": 173.53,
+      "speaker": "Jim Cramer",
+      "text": "It felt like there were no buyers to be found from Dow 2,246 where the crash started to Dow 1,738, where at last it ended that day."
+     },
+     {
+      "t0": 173.53,
+      "t1": 175.65,
+      "speaker": "Jim Cramer",
+      "text": "It kept tumbling right into the clothes."
+     },
+     {
+      "t0": 176.11,
+      "t1": 181.71,
+      "speaker": "Jim Cramer",
+      "text": "I remember thinking, saved by the bell, except it felt like there wasn't that much money left to be saved."
+     },
+     {
+      "t0": 182.19,
+      "t1": 186.09,
+      "speaker": "Jim Cramer",
+      "text": "But most people don't remember that the week before was horrendous, too."
+     },
+     {
+      "t0": 186.23,
+      "t1": 189.55,
+      "speaker": "Jim Cramer",
+      "text": "The Dow had already plunged from 2,482 to 2,246."
+     },
+     {
+      "t0": 189.63,
+      "t1": 190.72,
+      "speaker": "Jim Cramer",
+      "text": "That's nearly a 10% decline."
+     },
+     {
+      "t0": 190.67,
+      "t1": 198.17,
+      "speaker": "Jim Cramer",
+      "text": "That horse pulled back and encouraged bargain hunters and trepid souls who thought they could flip in Monday morning into some strength."
+     },
+     {
+      "t0": 198.17,
+      "t1": 203.27,
+      "speaker": "Jim Cramer",
+      "text": "They bought Friday, flipped it on Monday, except the strength never showed up and they got badly burned."
+     },
+     {
+      "t0": 204.35,
+      "t1": 206.25,
+      "speaker": "Jim Cramer",
+      "text": "In fact, the weakness continued into the next day."
+     },
+     {
+      "t0": 206.25,
+      "t1": 210.47,
+      "speaker": "Jim Cramer",
+      "text": "You know, that day became known as Trouble Tuesday, where the Dow kind of just broke down entirely."
+     },
+     {
+      "t0": 210.53,
+      "t1": 211.93,
+      "speaker": "Jim Cramer",
+      "text": "The market simply stopped functioning."
+     },
+     {
+      "t0": 211.93,
+      "t1": 212.59,
+      "speaker": "Jim Cramer",
+      "text": "But you know what?"
+     },
+     {
+      "t0": 212.91,
+      "t1": 216.13,
+      "speaker": "Jim Cramer",
+      "text": "I was there and I was actually able to calculate that bottom."
+     },
+     {
+      "t0": 216.13,
+      "t1": 219.71,
+      "speaker": "Jim Cramer",
+      "text": "The bottom turned out to be about Dow 1,400."
+     },
+     {
+      "t0": 220.31,
+      "t1": 226.01,
+      "speaker": "Jim Cramer",
+      "text": "That was down another 122 points or about 7% from where we closed on Black Monday at the end of the day."
+     },
+     {
+      "t0": 226.25,
+      "t1": 229.51,
+      "speaker": "Jim Cramer",
+      "text": "It was all just, I pieced them together one by one."
+     },
+     {
+      "t0": 229.51,
+      "t1": 232.71,
+      "speaker": "Jim Cramer",
+      "text": "And people didn't think it ever went down below Dale, 1,600, but they were wrong."
+     },
+     {
+      "t0": 233.35,
+      "t1": 239.93,
+      "speaker": "Jim Cramer",
+      "text": "Then Fed Chairman Alan Greenspan stopped the decline in his tracks when he said he'd provide all the liquidity necessary to stabilize the market."
+     },
+     {
+      "t0": 240.15,
+      "t1": 243.27,
+      "speaker": "Jim Cramer",
+      "text": "Now, I still remember that green line when it came over your screen."
+     },
+     {
+      "t0": 243.41,
+      "t1": 251.57,
+      "speaker": "Jim Cramer",
+      "text": "He enlisted multiple firms around Wall Street to help put in bottom, and the market stage remarkable two-day rally that took the Dow more than 400 points from its lows."
+     },
+     {
+      "t0": 251.57,
+      "t1": 253.19,
+      "speaker": "Jim Cramer",
+      "text": "This seemed pretty unbelievable at the time."
+     },
+     {
+      "t0": 253.45,
+      "t1": 256.69,
+      "speaker": "Jim Cramer",
+      "text": "The effects of the crash lasted for just three months when we had a retest that held."
+     },
+     {
+      "t0": 257.01,
+      "t1": 262.13,
+      "speaker": "Jim Cramer",
+      "text": "But do you know that it took until mid-1989 for the average return to where they were trading before this big breakdown?"
+     },
+     {
+      "t0": 262.49,
+      "t1": 266.23,
+      "speaker": "Jim Cramer",
+      "text": "The bear market that began in October of 2007 was a totally different animal."
+     },
+     {
+      "t0": 266.81,
+      "t1": 282.87,
+      "speaker": "Jim Cramer",
+      "text": "Dow fell from $14,198, so it was $14,000, Remember, the other one was 2014,000, and it didn't bottom until March 6th of 2009 when it landed at a staggering 6,470."
+     },
+     {
+      "t0": 283.91,
+      "t1": 287.77,
+      "speaker": "Jim Cramer",
+      "text": "We didn't return to that hallowed 2007 level until March of 2013."
+     },
+     {
+      "t0": 288.81,
+      "t1": 292.83,
+      "speaker": "Jim Cramer",
+      "text": "Why did one sell-off end so quickly when the other took six years to unwind?"
+     },
+     {
+      "t0": 293.19,
+      "t1": 296.49,
+      "speaker": "Jim Cramer",
+      "text": "Well, that's the question that defines the two extremes of unhappy sell-offs."
+     },
+     {
+      "t0": 296.77,
+      "t1": 302.52,
+      "speaker": "Jim Cramer",
+      "text": "See, Black Monday was a mechanical sell-off, the first one I can remember, where the averages melted down because of pure market dysfunction."
+     },
+     {
+      "t0": 302.47,
+      "t1": 302.83,
+      "speaker": "Jim Cramer",
+      "text": "function."
+     },
+     {
+      "t0": 303.11,
+      "t1": 313.89,
+      "speaker": "Jim Cramer",
+      "text": "It's instructive to unpack Black Monday because the way it played out was reminiscent of two other crashes, the flash crash of 2010 and its doppelganger in 2015, both times when the market simply failed to work."
+     },
+     {
+      "t0": 315.09,
+      "t1": 319.33,
+      "speaker": "Jim Cramer",
+      "text": "Now, all three of these started with the S&P 500 futures pits in Chicago."
+     },
+     {
+      "t0": 319.61,
+      "t1": 324.77,
+      "speaker": "Jim Cramer",
+      "text": "See, Chicago overwhelmed Wall Street, New York, where the stocks underneath the futures are traded."
+     },
+     {
+      "t0": 325.01,
+      "t1": 331.86,
+      "speaker": "Jim Cramer",
+      "text": "Black Monday happened because stock traders didn't understand the power of the futures market back then, which could flood the stock market with instant unseen supply."
+     },
+     {
+      "t0": 331.81,
+      "t1": 333.21,
+      "speaker": "Jim Cramer",
+      "text": "no one was ready for it."
+     },
+     {
+      "t0": 333.23,
+      "t1": 341.13,
+      "speaker": "Jim Cramer",
+      "text": "These days, we accept the futures are worth watching, but it wasn't like it back then, because they were relatively new instruments created about five years before the crash and no one knew the power they had."
+     },
+     {
+      "t0": 341.49,
+      "t1": 346.35,
+      "speaker": "Jim Cramer",
+      "text": "See, the power of the futures snuck up on us, as they were initially a much smaller market than the stocks themselves."
+     },
+     {
+      "t0": 346.77,
+      "t1": 358.83,
+      "speaker": "Jim Cramer",
+      "text": "Because portfolio managers could go in easily and out easily, though, the futures became the most powerful drivers of stock prices, particularly for hedge funds, even more powerful than the actual forms of the underlying companies that stocks are meant to represent."
+     },
+     {
+      "t0": 359.37,
+      "t1": 364.23,
+      "speaker": "Jim Cramer",
+      "text": "Underlying corporate earnings used to mean much more to the day-to-day action of the stock."
+     },
+     {
+      "t0": 364.71,
+      "t1": 369.07,
+      "speaker": "Jim Cramer",
+      "text": "The thing is, even with the relatively new impact of futures, Black Monday was highly unusual."
+     },
+     {
+      "t0": 370.05,
+      "t1": 372.29,
+      "speaker": "Jim Cramer",
+      "text": "We had a big run going into the crash of 1987."
+     },
+     {
+      "t0": 372.29,
+      "t1": 375.71,
+      "speaker": "Jim Cramer",
+      "text": "It was a remarkable multi-year rally with nary a substantial decline."
+     },
+     {
+      "t0": 376.17,
+      "t1": 382.89,
+      "speaker": "Jim Cramer",
+      "text": "And don't I know it, I left Goldman Sachs in 1987 to start my own hedge fund because my returns have been so bountiful for investors."
+     },
+     {
+      "t0": 383.35,
+      "t1": 392.17,
+      "speaker": "Jim Cramer",
+      "text": "The multi-year rally in the mid to late 80s had created such an appendice gains that The group of clever salespeople started offering big funds."
+     },
+     {
+      "t0": 392.31,
+      "t1": 398.47,
+      "speaker": "Jim Cramer",
+      "text": "What they claimed were insurance policies that could lock in gains and stop out losses after their funds had gone up so much."
+     },
+     {
+      "t0": 398.71,
+      "t1": 411.87,
+      "speaker": "Jim Cramer",
+      "text": "So-called portfolio insurance involved something called dynamic hedging, where these specialists said they could use futures to ensure that you'd no longer be exposed to stock market risk, say, down 5% or 10%, or some other number, depending on the policy you took out."
+     },
+     {
+      "t0": 411.87,
+      "t1": 413.25,
+      "speaker": "Jim Cramer",
+      "text": "Yeah, it was like a stop loss."
+     },
+     {
+      "t0": 413.93,
+      "t1": 417.2,
+      "speaker": "Jim Cramer",
+      "text": "The idea was that these policies would let you sidestep the losses."
+     },
+     {
+      "t0": 417.15,
+      "t1": 421.35,
+      "speaker": "Jim Cramer",
+      "text": "Of course, it's impossible to do that, but they had such a great sales pitch."
+     },
+     {
+      "t0": 421.55,
+      "t1": 424.33,
+      "speaker": "Jim Cramer",
+      "text": "People believed them because the stock futures were so novel."
+     },
+     {
+      "t0": 424.69,
+      "t1": 430.09,
+      "speaker": "Jim Cramer",
+      "text": "In reality, though, when the losses all kicked in at once on Black Monday, the portfolio insurance didn't work."
+     },
+     {
+      "t0": 430.77,
+      "t1": 438.31,
+      "speaker": "Jim Cramer",
+      "text": "If anything, the futures selling from these insurance policies actually accelerated the decline in the stock market, causing massive losses for the poor saps who bought these things."
+     },
+     {
+      "t0": 438.59,
+      "t1": 441.67,
+      "speaker": "Jim Cramer",
+      "text": "Many of the actual clients were wiped out."
+     },
+     {
+      "t0": 442.05,
+      "t1": 445.28,
+      "speaker": "Jim Cramer",
+      "text": "The people who sold these policies, they were Charlton's and Mount Bank's."
+     },
+     {
+      "t0": 445.23,
+      "t1": 450.03,
+      "speaker": "Jim Cramer",
+      "text": "Although history remembers them as just really idiots, not the crooks I thought they were."
+     },
+     {
+      "t0": 450.29,
+      "t1": 456.65,
+      "speaker": "Jim Cramer",
+      "text": "I lean toward the latter theory because there's no magic trick that can get you returns from investing in the stock market without much risk."
+     },
+     {
+      "t0": 456.67,
+      "t1": 457.41,
+      "speaker": "Jim Cramer",
+      "text": "Come on."
+     },
+     {
+      "t0": 457.71,
+      "t1": 459.01,
+      "speaker": "Jim Cramer",
+      "text": "The two go hand in hand."
+     },
+     {
+      "t0": 459.07,
+      "t1": 460.75,
+      "speaker": "Jim Cramer",
+      "text": "Don't believe anyone who tells you different."
+     },
+     {
+      "t0": 460.89,
+      "t1": 462.47,
+      "speaker": "Jim Cramer",
+      "text": "Those people are charlatans."
+     },
+     {
+      "t0": 463.11,
+      "t1": 466.87,
+      "speaker": "Jim Cramer",
+      "text": "Of course, at the time, we didn't know that the power of the futures could cause a crash."
+     },
+     {
+      "t0": 467.09,
+      "t1": 468.69,
+      "speaker": "Jim Cramer",
+      "text": "We figured where there's smoke, there's fire."
+     },
+     {
+      "t0": 468.89,
+      "t1": 472.05,
+      "speaker": "Jim Cramer",
+      "text": "If the market's crashed, then there's going to be something wrong with the economy, right?"
+     },
+     {
+      "t0": 472.43,
+      "t1": 474,
+      "speaker": "Jim Cramer",
+      "text": "So they had to be recession lurking."
+     },
+     {
+      "t0": 473.95,
+      "t1": 476.67,
+      "speaker": "Jim Cramer",
+      "text": "The stocks couldn't go down on their own, they had to."
+     },
+     {
+      "t0": 476.67,
+      "t1": 481.07,
+      "speaker": "Jim Cramer",
+      "text": "Otherwise, how could the Dow plump at 22% in a single day after 4 and 10% the week before?"
+     },
+     {
+      "t0": 481.63,
+      "t1": 484.23,
+      "speaker": "Jim Cramer",
+      "text": "I say, though, it turned out wrong."
+     },
+     {
+      "t0": 484.69,
+      "t1": 488.15,
+      "speaker": "Jim Cramer",
+      "text": "The economy was strong going in the 87 crash, and it was strong coming out of it."
+     },
+     {
+      "t0": 488.23,
+      "t1": 491.73,
+      "speaker": "Jim Cramer",
+      "text": "There just wasn't any economic correlation with Black Monday at all."
+     },
+     {
+      "t0": 492.05,
+      "t1": 497.17,
+      "speaker": "Jim Cramer",
+      "text": "It was the interplay between Chicago, much more powerful than real, as in New York, much weaker that set up the conflagration."
+     },
+     {
+      "t0": 497.31,
+      "t1": 510.93,
+      "speaker": "Jim Cramer",
+      "text": "And when the Treasury Department examined what happened that day, it concluded that the futures set off immense selling, while some specialist firms on the floor of the exchange and some brokerage houses failed to step up in what's known as stabilize the tape."
+     },
+     {
+      "t0": 511.01,
+      "t1": 515.23,
+      "speaker": "Jim Cramer",
+      "text": "The latter had no duty to stabilize things, but the former were supposed to do so."
+     },
+     {
+      "t0": 515.27,
+      "t1": 517.53,
+      "speaker": "Jim Cramer",
+      "text": "The Treasury found out that many didn't do the jobs."
+     },
+     {
+      "t0": 517.83,
+      "t1": 521.55,
+      "speaker": "Jim Cramer",
+      "text": "Now, I was fortunate enough to actually be in cash on Black Monday."
+     },
+     {
+      "t0": 523.25,
+      "t1": 526.95,
+      "speaker": "Jim Cramer",
+      "text": "Having liquidated my portfolio early in the previous week, there's the market axel barely."
+     },
+     {
+      "t0": 526.95,
+      "t1": 528.05,
+      "speaker": "Jim Cramer",
+      "text": "I didn't want any part of it."
+     },
+     {
+      "t0": 528.43,
+      "t1": 530.52,
+      "speaker": "Jim Cramer",
+      "text": "Now, in retrospect, it did make my career."
+     },
+     {
+      "t0": 530.47,
+      "t1": 536.93,
+      "speaker": "Jim Cramer",
+      "text": "I look like a true genius, but the truth is I was just frightened of the market and wanted to regroup."
+     },
+     {
+      "t0": 538.25,
+      "t1": 545.63,
+      "speaker": "Jim Cramer",
+      "text": "I always say though it's better to be lucky than good, but discipline can't help maximize luck, which is why we spend so much time teaching you discipline in the CBC Investing Club."
+     },
+     {
+      "t0": 545.87,
+      "t1": 546.89,
+      "speaker": "Jim Cramer",
+      "text": "So here's the bottom line."
+     },
+     {
+      "t0": 547.09,
+      "t1": 549.15,
+      "speaker": "Jim Cramer",
+      "text": "Sometimes crashes have nothing to do with the economy."
+     },
+     {
+      "t0": 549.27,
+      "t1": 551.21,
+      "speaker": "Jim Cramer",
+      "text": "They're caused by the mechanics of the market."
+     },
+     {
+      "t0": 551.53,
+      "t1": 567.52,
+      "speaker": "Jim Cramer",
+      "text": "Stay tuned for more examples of this kind of decline and the more serious animal, the bear market of 2007-2009, So you can figure out what to do when they really more Irma in New York Irma Yes, good evening."
+     },
+     {
+      "t0": 567.47,
+      "t1": 595.73,
+      "speaker": "Jim Cramer",
+      "text": "Mr. Kramer I'm planning to open rough Nondeductible rough ira's IRAs for my grandchildren who are all in their 20s Okay better off with a growth fund or an index fund I want you to be in growth growth for growth because they're young You can switch the index in the 30s Let's go for some real risk here because they got their whole life ahead of and I really want you to hit it big Right now for them Tony."
+     },
+     {
+      "t0": 595.73,
+      "t1": 605.43,
+      "speaker": "Jim Cramer",
+      "text": "I am a I am alone in that but I don't care I really want risk taken when they're younger Tony in Florida, Tony Hey, Jim."
+     },
+     {
+      "t0": 605.43,
+      "t1": 606.4,
+      "speaker": "Jim Cramer",
+      "text": "I just want to let you know."
+     },
+     {
+      "t0": 606.39,
+      "t1": 608.21,
+      "speaker": "Jim Cramer",
+      "text": "I'm a member from day one."
+     },
+     {
+      "t0": 608.21,
+      "t1": 624.55,
+      "speaker": "Jim Cramer",
+      "text": "It will be like I love you What I want to ask you is, when we like a stock, or love a stock, and it supports earnings that are really good, but then for some reason the market buys it down, can we buy it day one,"
+     },
+     {
+      "t0": 624.57,
+      "t1": 630.07,
+      "speaker": "Jim Cramer",
+      "text": "or do we have to use that rule like everybody says, wait three days before you buy a stock that goes down?"
+     },
+     {
+      "t0": 630.41,
+      "t1": 633.73,
+      "speaker": "Jim Cramer",
+      "text": "No, no, no, you buy it at your prices."
+     },
+     {
+      "t0": 633.79,
+      "t1": 639.02,
+      "speaker": "Jim Cramer",
+      "text": "You buy a little bit at the beginning, and then like we teach at the club, you buy it on the way down."
+     },
+     {
+      "t0": 638.97,
+      "t1": 671.35,
+      "speaker": "Jim Cramer",
+      "text": "We may have a real battle on our hands now You know we battle in the club and we've been very successful in most of our battles some of them have been tougher But that's the way you make it so that your battle won't be too hard Buying it all at once does that and we don't want that tough days don't last forever people But when they come along you need to know how to respond for man tonight I'm getting a crash course in crashes So offs pullbacks and big market declines So you'll be prepared to get the best possible outcome from the worst possible situations So stay with Cramor."
+     },
+     {
+      "t0": 676.15,
+      "t1": 677.93,
+      "speaker": "Announcer",
+      "text": "Don't miss a second of Mad Money."
+     },
+     {
+      "t0": 678.07,
+      "t1": 680.15,
+      "speaker": "Announcer",
+      "text": "Follow at Jim Cramor on X."
+     },
+     {
+      "t0": 680.31,
+      "t1": 681.11,
+      "speaker": "Announcer",
+      "text": "Have a question?"
+     },
+     {
+      "t0": 681.25,
+      "t1": 682.11,
+      "speaker": "Announcer",
+      "text": "Tweet Cramor."
+     },
+     {
+      "t0": 682.11,
+      "t1": 684.15,
+      "speaker": "Announcer",
+      "text": "Hashtag Mad Mentions."
+     },
+     {
+      "t0": 684.41,
+      "t1": 691.47,
+      "speaker": "Announcer",
+      "text": "Send Jim an email to madmoney at cnbc.com or give us a call at 1-800-743-CNBC."
+     },
+     {
+      "t0": 691.85,
+      "t1": 692.65,
+      "speaker": "Announcer",
+      "text": "Miss something?"
+     },
+     {
+      "t0": 692.85,
+      "t1": 695.95,
+      "speaker": "Announcer",
+      "text": "Head to madmoney.cnbc.com."
+     },
+     {
+      "t0": 701.19,
+      "t1": 705.44,
+      "speaker": "Announcer",
+      "text": "AI is here, transforming how we work, live, and lead."
+     },
+     {
+      "t0": 705.39,
+      "t1": 709.53,
+      "speaker": "Announcer",
+      "text": "And the women I talk to aren't waiting for the future, they're shaping it."
+     },
+     {
+      "t0": 709.75,
+      "t1": 713.33,
+      "speaker": "Announcer",
+      "text": "I'm Julia Boorstin, senior media and tech correspondent at CNBC."
+     },
+     {
+      "t0": 713.87,
+      "t1": 721.19,
+      "speaker": "Announcer",
+      "text": "This is CNBC Changemakers, where I talk with the female leader's transforming business as AI reshapes the world."
+     },
+     {
+      "t0": 721.51,
+      "t1": 727.63,
+      "speaker": "Announcer",
+      "text": "Follow and listen to CNBC Changemakers, Women Leading in the Age of AI, wherever you get your podcasts."
+     },
+     {
+      "t0": 737.33,
+      "t1": 740.02,
+      "speaker": "Jim Cramer",
+      "text": "Today I'm teaching you how to cope with all sorts of declines."
+     },
+     {
+      "t0": 739.97,
+      "t1": 745.63,
+      "speaker": "Jim Cramer",
+      "text": "I already covered the crash of 1987 and how it wasn't really related to the economy."
+     },
+     {
+      "t0": 745.63,
+      "t1": 746.15,
+      "speaker": "Jim Cramer",
+      "text": "Shocker."
+     },
+     {
+      "t0": 746.45,
+      "t1": 748.99,
+      "speaker": "Jim Cramer",
+      "text": "So it made sense to buy stocks from the smoke clear."
+     },
+     {
+      "t0": 749.03,
+      "t1": 754.85,
+      "speaker": "Jim Cramer",
+      "text": "1987 was a rare opportunity that took a little time to reveal itself, but when it did, ooh la la."
+     },
+     {
+      "t0": 755.45,
+      "t1": 761.69,
+      "speaker": "Jim Cramer",
+      "text": "It was also the first instance of the S&P 500 futures exercising the pernicious power over individual stocks."
+     },
+     {
+      "t0": 761.79,
+      "t1": 766.11,
+      "speaker": "Jim Cramer",
+      "text": "Sadly, it was the first of many, which brings me to the fabled flash crash of 2010."
+     },
+     {
+      "t0": 766.17,
+      "t1": 774.65,
+      "speaker": "Jim Cramer",
+      "text": "One of those negative moments that drove away so many investors who never came back to stocks because they didn't know their value could be destroyed so quickly, almost whimsically."
+     },
+     {
+      "t0": 774.93,
+      "t1": 778.45,
+      "speaker": "Jim Cramer",
+      "text": "Who wants to keep their life savings and instruments that can blow up in the blink of an eye?"
+     },
+     {
+      "t0": 778.63,
+      "t1": 781.77,
+      "speaker": "Jim Cramer",
+      "text": "Look, I don't blame anyone for not wanting to be in after the flash crash."
+     },
+     {
+      "t0": 782.01,
+      "t1": 783.37,
+      "speaker": "Jim Cramer",
+      "text": "What happened that afternoon?"
+     },
+     {
+      "t0": 783.41,
+      "t1": 785.91,
+      "speaker": "Jim Cramer",
+      "text": "Well, it was pretty much the same deal as Black Monday of 87."
+     },
+     {
+      "t0": 786.25,
+      "t1": 791.75,
+      "speaker": "Jim Cramer",
+      "text": "The futures overwhelmed the stock market and buyers just walked away, betting that there had to be some substance behind the destruction, right?"
+     },
+     {
+      "t0": 791.75,
+      "t1": 794.77,
+      "speaker": "Jim Cramer",
+      "text": "Couldn't just be the machines breaking down for everything, could it?"
+     },
+     {
+      "t0": 795.09,
+      "t1": 797.46,
+      "speaker": "Jim Cramer",
+      "text": "The last crash started at 2.32 p.m."
+     },
+     {
+      "t0": 797.41,
+      "t1": 799.65,
+      "speaker": "Jim Cramer",
+      "text": "on May 6 of 2010."
+     },
+     {
+      "t0": 800.03,
+      "t1": 805.91,
+      "speaker": "Jim Cramer",
+      "text": "It lasted for 36 minutes, and at 36 minutes, the Dow fell almost 1,000 points from roughly 10,000 level."
+     },
+     {
+      "t0": 806.17,
+      "t1": 809.39,
+      "speaker": "Jim Cramer",
+      "text": "Very memorable for me because I had to be on air at the time."
+     },
+     {
+      "t0": 810.31,
+      "t1": 813.43,
+      "speaker": "Jim Cramer",
+      "text": "Immediately, money managers tried to play the pin in the tail on the sell-off."
+     },
+     {
+      "t0": 813.51,
+      "t1": 825.03,
+      "speaker": "Jim Cramer",
+      "text": "There were riots in Greece, and maybe this time, as everyone was focused on Southern Europe, thanks to endless sovereign debt crises, others pinned it on the newfound And we just in the US economy of which for the record, there really wasn't any."
+     },
+     {
+      "t0": 825.03,
+      "t1": 829.77,
+      "speaker": "Jim Cramer",
+      "text": "Perhaps because I had the benefit of trading on Black Monday, I recognized the flash crash was active from what it was."
+     },
+     {
+      "t0": 830.17,
+      "t1": 833.97,
+      "speaker": "Jim Cramer",
+      "text": "Another situation when the machines were breaking as the futures overwhelmed the stocks."
+     },
+     {
+      "t0": 834.03,
+      "t1": 835.57,
+      "speaker": "Jim Cramer",
+      "text": "It wasn't the fundamentals."
+     },
+     {
+      "t0": 835.91,
+      "t1": 840,
+      "speaker": "Jim Cramer",
+      "text": "We didn't know it at the time, but a gigantic errand sell order caused tremendous fear of the spread of the Guelph."
+     }
+    ],
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide-075.mp3"
+    ],
+    "transcriptSrc": "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/t/guru-cramer-mm-selloff-guide.json",
+    "note": "Cramer가 거의 혼자 말해요(약 12분). 0:00–0:30 다른 CNBC 프로그램 광고 → 오프닝 → 폭락장 대처법 소개 → 1987 Black Monday와 2007–09 금융위기 비교 → portfolio insurance가 하락을 키운 이유 → 결론(9:07) → 시청자 전화 Q&A. 스크립트는 자동 음성인식(whisper)이라 틀린 곳이 있어요(예: Kramer = Cramer, SPF 500 = S&P 500, CBC = CNBC). 1회차는 흐름만, 2회차는 스크립트를 보면서 들어요."
+   }
+  ],
+  "task": "오늘은 Jim Cramer의 CNBC 'Mad Money'(팟캐스트 2026년 11월 21일 공개) 앞부분 14분이에요. 주제는 '폭락장 생존 가이드' — 1987년 Black Monday를 직접 겪은 이야기예요. 처음 30초는 다른 프로그램 광고라 건너뛰어도 돼요. 출근길에 1배속(어려우면 0.75배속)으로 흐름만 듣고, 퇴근길에 한 번 더 들어요. 'all happy rallies are alike', 'Black Monday', 'portfolio insurance', 'it's better to be lucky than good'이 나오는 부분을 잘 들어 보세요. 바쁘면 Part 1의 첫 9분(~'here's the bottom line')만 들어도 OK예요. 9분 이후는 시청자 전화 질문이에요.",
+  "quiz": {
+   "q": "According to Cramer, what really caused the Black Monday crash of 1987? a) A recession that was already hurting the US economy, b) The mechanics of the market — futures selling from 'portfolio insurance' overwhelmed stocks, c) The Fed suddenly raising interest rates",
+   "answer": "b) Cramer은 1987년 경제는 폭락 전에도 후에도 튼튼했다고 해요. 시카고 선물시장의 매도, 특히 'portfolio insurance'(dynamic hedging)가 하락을 오히려 키웠대요. 결론: 'Sometimes crashes have nothing to do with the economy.'"
+  }
+ },
+ "shadowing": {
+  "lang": "en-US",
+  "source": "Jim Cramer · CNBC Mad Money (Nov 2026)",
+  "sentences": [
+   {
+    "text": "My job is not just to sit here and entertain, but to teach.",
+    "ko": "제 일은 여기 앉아서 즐겁게 해 드리는 것만이 아니라 가르치는 거예요.",
+    "t0": 52.77,
+    "t1": 55.67,
+    "track": 0
+   },
+   {
+    "text": "That's why tonight we're turning to history to illustrate some of the common qualities to sell-offs.",
+    "ko": "그래서 오늘 밤엔 역사를 통해 하락장들의 공통된 특징을 보여 드릴게요.",
+    "t0": 106.55,
+    "t1": 110.47,
+    "track": 0
+   },
+   {
+    "text": "The two go hand in hand. Don't believe anyone who tells you different.",
+    "ko": "(수익과 위험) 둘은 늘 함께 가요. 다르게 말하는 사람은 믿지 마세요.",
+    "t0": 457.71,
+    "t1": 460.75,
+    "track": 0
+   },
+   {
+    "text": "The economy was strong going into the '87 crash, and it was strong coming out of it.",
+    "ko": "87년 폭락 직전에도 경제는 튼튼했고, 폭락 후에도 튼튼했어요.",
+    "t0": 484.69,
+    "t1": 488.15,
+    "track": 0
+   },
+   {
+    "text": "Sometimes crashes have nothing to do with the economy.",
+    "ko": "때로는 폭락이 경제와 전혀 상관이 없어요.",
+    "t0": 547.09,
+    "t1": 549.15,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "The world’s back office aims to become a “deep-tech” powerhouse",
+  "url": "https://www.hindustantimes.com/business/the-world-s-back-office-aims-to-become-a-deep-tech-powerhouse-101795489220546.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "Business · Nov 2026 (HT reprint, Nov 24th)",
+  "minutes": 6,
+  "summaryKo": "'세계의 백오피스'였던 인도 벵갈루루가 이제 우주·국방·반도체 같은 '딥테크' 도시로 변신 중이래요. 위성 스타트업 Pixxel(창업자 Awais Ahmed, 20살에 창업해 2억 달러 유치), 인도 첫 우주 유니콘 Skyroot 같은 회사가 대표적이고, 우주 스타트업이 10년 만에 1곳에서 400곳 이상이 됐어요. 1차 IT 붐은 정부와 상관없이 일어났지만, 이번엔 모디 정부의 규제 완화·조달·자금 지원이 큰 역할을 해요. 다만 부처 간 조율 부족, 성장 자금 부족, 안보 우려, 그리고 엉망인 도시 인프라(교통체증, 움푹 팬 도로)가 위험 요소래요.",
+  "excerpt": [
+   "For decades Bangalore has powered India’s software and IT industry, as the home to giants that include Infosys, Wipro and TCS. Now the buzz in India’s startup capital is “deep tech”—a somewhat loosely applied term for products supposedly based on scientific breakthroughs or advanced engineering in sectors like space, defence and semiconductors.",
+   "India’s first tech boom happened largely in spite of the government. This time is different. India’s notoriously bureaucratic government has become highly involved in what it considers to be strategic sectors. When it loosens its grip, things take off."
+  ],
+  "tip": "'in spite of'(~에도 불구하고)와 'This time is different'의 대비가 기사 전체 구조예요. 'not all plain sailing'(순탄치만은 않다), 'loosens its grip'(통제를 느슨하게 하다), 'take off'(급성장하다)도 Economist가 자주 쓰는 표현이에요."
+ },
+ "vocab": [
+  {
+   "word": "sell-off",
+   "meaning": "(주식 등의) 대량 매도, 급락",
+   "example": "Each sell-off is unhappy in its own way."
+  },
+  {
+   "word": "bargain hunter",
+   "meaning": "싼 값에 사려는 사람, 저가 매수자",
+   "example": "The pullback encouraged bargain hunters."
+  },
+  {
+   "word": "charlatan",
+   "meaning": "사기꾼, 돌팔이",
+   "example": "Those people are charlatans."
+  },
+  {
+   "word": "go hand in hand",
+   "meaning": "함께 가다, 밀접하게 연관되다",
+   "example": "Return and risk go hand in hand."
+  },
+  {
+   "word": "take off",
+   "meaning": "급성장하다, 순식간에 인기를 얻다",
+   "example": "When the government loosens its grip, things take off."
+  },
+  {
+   "word": "not all plain sailing",
+   "meaning": "순탄치만은 않다",
+   "example": "It is not all plain sailing for India's deep-tech startups."
+  },
+  {
+   "word": "talent pool",
+   "meaning": "인재풀, 인재 자원",
+   "example": "India has a huge talent pool of engineers."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English: Cramer says risk and return go hand in hand. Describe one time the market (or your own portfolio) fell sharply. How did you react?",
+  "question": "Next time stocks crash, what is your game plan?",
+  "hint": "이런 표현을 써 보세요: When the market fell in ..., I ... / Looking back, I should have ... / Next time, my game plan is to ..."
+ },
+ "speaking": {
+  "prompt": "In one minute: Bangalore wants to become a deep-tech hub. Which Korean city or company do you think is strongest in deep tech (chips, bio, space)? Why?",
+  "phrases": [
+   "I think ... is the strongest because ...",
+   "What makes it special is ...",
+   "The biggest risk, though, is ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Say three short sentences (e.g. Korea is strong in chips. Samsung is a big company. I am proud of it.)."
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "수요일, 한 주의 중간이에요. 지난번 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
