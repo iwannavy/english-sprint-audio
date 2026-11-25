@@ -1,0 +1,27 @@
+{
+ "v": 1,
+ "source": "test",
+ "items": [
+  {
+   "id": "t1126cramer1",
+   "savedAt": "2026-11-26T02:50:00+09:00",
+   "lessonDate": "2026-11-25",
+   "kind": "listening",
+   "text": "Because portfolio managers could go in easily and out easily, though, the futures became the most powerful drivers of stock prices, particularly for hedge funds, even more powerful than the actual forms of the underlying companies that stocks are meant to represent.",
+   "cause": "structure",
+   "trackIndex": 0,
+   "trackUrl": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+   "t0": 346.77,
+   "t1": 358.83,
+   "speaker": "Jim Cramer"
+  },
+  {
+   "id": "t1126econ01",
+   "savedAt": "2026-11-26T02:50:30+09:00",
+   "lessonDate": "2026-11-25",
+   "kind": "reading",
+   "text": "Now the buzz in India’s startup capital is “deep tech”—a somewhat loosely applied term for products supposedly based on scientific breakthroughs or advanced engineering in sectors like space, defence and semiconductors.",
+   "cause": null
+  }
+ ]
+}
