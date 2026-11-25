@@ -1128,5 +1128,78 @@
   "book": "Wonder (R. J. Palacio)",
   "pages": 10,
   "note": "수요일, 한 주의 중간이에요. 지난번 읽은 데서 이어서 10페이지. 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ },
+ "stuck": {
+  "note": "샘플: 어제 막힌 문장 2개 · 문장당 2–3분 (이렇게 보여요)",
+  "items": [
+   {
+    "id": "t1126cramer1",
+    "kind": "listening",
+    "from": "Jim Cramer · CNBC · Mad Money · 11/25 듣기",
+    "savedDate": "2026-11-25",
+    "text": "Because portfolio managers could go in easily and out easily, though, the futures became the most powerful drivers of stock prices, particularly for hedge funds, even more powerful than the actual forms of the underlying companies that stocks are meant to represent.",
+    "cause": "structure",
+    "causeKo": "구조 · 문장이 길고 꼬임",
+    "why": "주어(the futures)가 앞의 Because절과 though 뒤에 숨어 있어요. 'Because ~, though,' = '그런데 ~했기 때문에'. 대본의 'forms'는 실제로는 firms(기업)로 말한 거예요.",
+    "chunks": [
+     "Because portfolio managers",
+     "could go in easily",
+     "and out easily, though,",
+     "the futures became",
+     "the most powerful drivers",
+     "of stock prices,",
+     "particularly for hedge funds,",
+     "even more powerful",
+     "than the actual forms",
+     "of the underlying companies",
+     "that stocks are meant to represent."
+    ],
+    "paraphrase": "Fund managers could buy and sell futures quickly, so futures moved stock prices more than the real companies behind the stocks did.",
+    "ko": "펀드매니저들이 선물은 쉽게 사고팔 수 있었기 때문에, 선물이 주가를 움직이는 가장 큰 힘이 됐어요. 주식이 원래 대표하는 실제 기업들보다도 더 강하게요.",
+    "todo": [
+     "0.75x로 듣고 3번 따라 말하기",
+     "Paraphrase 소리 내어 1번 말하기"
+    ],
+    "clip": {
+     "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+     "audioSrcs": [
+      "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide.mp3"
+     ],
+     "slowSrcs": [
+      "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide-075.mp3"
+     ],
+     "minutes": 14,
+     "t0": 346.77,
+     "t1": 358.83
+    }
+   },
+   {
+    "id": "t1126econ01",
+    "kind": "reading",
+    "from": "The Economist · 11/25 읽기",
+    "savedDate": "2026-11-25",
+    "text": "Now the buzz in India’s startup capital is “deep tech”—a somewhat loosely applied term for products supposedly based on scientific breakthroughs or advanced engineering in sectors like space, defence and semiconductors.",
+    "cause": "vocab",
+    "causeKo": "단어 · 단어/숙어",
+    "why": "대시(—) 뒤는 'deep tech'를 풀어 설명하는 부분이에요. buzz = 화제·유행어, loosely applied = 대충(느슨하게) 붙이는, supposedly = ~라고들 하는(의심 섞임).",
+    "chunks": [
+     "Now the buzz",
+     "in India’s startup capital",
+     "is “deep tech”",
+     "—a somewhat loosely applied term",
+     "for products",
+     "supposedly based on",
+     "scientific breakthroughs",
+     "or advanced engineering",
+     "in sectors like space, defence and semiconductors."
+    ],
+    "paraphrase": "Today everyone in Bangalore is talking about “deep tech”, a vague label for products said to come from real science or advanced engineering, in areas like space, defence and chips.",
+    "ko": "요즘 인도 스타트업 수도(벵갈루루)의 화두는 '딥테크'예요. 우주·국방·반도체처럼 과학적 돌파나 첨단 공학에 기반한다고들 하는 제품에 꽤 느슨하게 붙이는 말이죠.",
+    "todo": [
+     "소리 내어 끊어 읽기 3번",
+     "Paraphrase 소리 내어 1번 말하기"
+    ]
+   }
+  ]
  }
 }
