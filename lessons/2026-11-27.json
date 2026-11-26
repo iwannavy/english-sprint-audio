@@ -1,0 +1,1069 @@
+{
+ "date": "2026-11-27",
+ "theme": "Clarity, legitimacy & knowing when not to play · 드러켄밀러의 '쉬는 판단'과 중국의 정당성",
+ "listening": {
+  "tracks": [
+   {
+    "title": "Stan Druckenmiller: Why he's 'not playing' right now (14 min)",
+    "show": "Morgan Stanley · TomorrowX Summit, with Iliana Bouzali (Nov 17, 2026)",
+    "url": "https://www.youtube.com/watch?v=6r3D-CMJkuI",
+    "minutes": 14,
+    "episodeUrl": "https://www.youtube.com/watch?v=6r3D-CMJkuI",
+    "speakerFocus": "Stanley Druckenmiller",
+    "transcript": [
+     {
+      "t0": 0,
+      "t1": 4.91,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I can't remember a period where I had less clarity on where we're going to be in 12 months."
+     },
+     {
+      "t0": 4.95,
+      "t1": 7.51,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Who's going to compete with these guys in cyber security?"
+     },
+     {
+      "t0": 7.55,
+      "t1": 11.09,
+      "speaker": "Stanley Druckenmiller",
+      "text": "You have the biggest thing going on in the history of American visits."
+     },
+     {
+      "t0": 11.21,
+      "t1": 12.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I think we're going to beat cancer."
+     },
+     {
+      "t0": 12.81,
+      "t1": 14.63,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I think it's going to be a managed disease."
+     },
+     {
+      "t0": 14.63,
+      "t1": 16.85,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And I mean in 10 years, not 20 years."
+     },
+     {
+      "t0": 16.95,
+      "t1": 17.93,
+      "speaker": "Iliana Bouzali",
+      "text": "It's auto reply."
+     },
+     {
+      "t0": 18.13,
+      "t1": 19.09,
+      "speaker": "Iliana Bouzali",
+      "text": "Don't talk to me."
+     },
+     {
+      "t0": 19.29,
+      "t1": 20.11,
+      "speaker": "Iliana Bouzali",
+      "text": "I'm not playing."
+     },
+     {
+      "t0": 20.91,
+      "t1": 21.93,
+      "speaker": "Iliana Bouzali",
+      "text": "Hi, Stan."
+     },
+     {
+      "t0": 22.65,
+      "t1": 23.59,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Hello, Eliana."
+     },
+     {
+      "t0": 24.85,
+      "t1": 27.49,
+      "speaker": "Iliana Bouzali",
+      "text": "Gavin, thanks for giving us an excuse to do this again."
+     },
+     {
+      "t0": 27.63,
+      "t1": 29.71,
+      "speaker": "Iliana Bouzali",
+      "text": "We did it about nine months ago."
+     },
+     {
+      "t0": 30.51,
+      "t1": 35.45,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Before we start, I know we're time pressed, but I have to tell a little story about Ileana and Gavin."
+     },
+     {
+      "t0": 35.67,
+      "t1": 39.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Ileana runs the global derivatives business at Morgan Stanley."
+     },
+     {
+      "t0": 40.67,
+      "t1": 47.37,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And she has these Zoom calls for, back then, we were called macro legends."
+     },
+     {
+      "t0": 47.63,
+      "t1": 50.65,
+      "speaker": "Stanley Druckenmiller",
+      "text": "More appropriately, in my opinion, macro has-beens."
+     },
+     {
+      "t0": 51.23,
+      "t1": 56.27,
+      "speaker": "Stanley Druckenmiller",
+      "text": "But we had this Zoom call about a month after chat GPT."
+     },
+     {
+      "t0": 56.93,
+      "t1": 62.07,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And all the macro legends were opining on interest rates and other matters."
+     },
+     {
+      "t0": 62.93,
+      "t1": 72.23,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And this guy I'd never seen before, Gavin comes on the Zoom and he says, you guys all have your head up here, you know what?"
+     },
+     {
+      "t0": 72.89,
+      "t1": 77.49,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And you have the biggest thing going on in the history of American business."
+     },
+     {
+      "t0": 77.65,
+      "t1": 80.27,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And you're all here talking about nickels and dimes."
+     },
+     {
+      "t0": 80.81,
+      "t1": 94.61,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And, Gavin, I want to thank you because that was right when it all started, and you predicted the whole thing, and you predicted the very of it, and I want to thank you, Ileana, because I would not have met Gavin if it weren't for you."
+     },
+     {
+      "t0": 94.61,
+      "t1": 95.65,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So thank you both."
+     },
+     {
+      "t0": 96.05,
+      "t1": 96.87,
+      "speaker": "Iliana Bouzali",
+      "text": "You're welcome."
+     },
+     {
+      "t0": 97.79,
+      "t1": 122.07,
+      "speaker": "Iliana Bouzali",
+      "text": "So I went back to our January conversation, similar to this, a smaller audience, and When you were bullish the economy, you were long equities, you were short treasuries as a hedge, you were long copper, and you had this belief that healthcare was going to be a breakout winner."
+     },
+     {
+      "t0": 122.39,
+      "t1": 126.41,
+      "speaker": "Iliana Bouzali",
+      "text": "So how much of that portfolio do you own today?"
+     },
+     {
+      "t0": 129.25,
+      "t1": 131.24,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Basically almost none."
+     },
+     {
+      "t0": 131.19,
+      "t1": 140.53,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And when I looked at January when you interviewed me, it was a unique time."
+     },
+     {
+      "t0": 140.63,
+      "t1": 146.73,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Sometimes in my career I've had clarity, and sometimes I have no clarity."
+     },
+     {
+      "t0": 147.29,
+      "t1": 155.43,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And when I have clarity, I like to play big, and when I don't have clarity, I'll almost sometimes not play."
+     },
+     {
+      "t0": 155.97,
+      "t1": 160.22,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So at the time, if you'll recall, the economy was very strong."
+     },
+     {
+      "t0": 160.17,
+      "t1": 171.11,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Now, more importantly, looking forward, Fed funds were three and a half, nominal growth was six percent, so monetary policy was ridiculously loose."
+     },
+     {
+      "t0": 171.69,
+      "t1": 179.95,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And if you looked at the so-called Fed dot plot, more interest rate cuts were supposedly coming later in the year."
+     },
+     {
+      "t0": 180.63,
+      "t1": 184.15,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Commodities were breaking out to a new high, including copper."
+     },
+     {
+      "t0": 184.89,
+      "t1": 194.15,
+      "speaker": "Stanley Druckenmiller",
+      "text": "The advanced decline line and other technicals I look at the market were all making new highs, credit spreads were very, very tight."
+     },
+     {
+      "t0": 194.99,
+      "t1": 205.59,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So it seemed almost impossible to me that we could have a recession within six to 12 months and with overly stimulated monetary policy."
+     },
+     {
+      "t0": 206.05,
+      "t1": 222.85,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And then there was another thing happening, which was Claude Code, the previous fall pretty late, had just kind of gotten everyone excited, excited, or let's say the insiders excited, about an acceleration in AI."
+     },
+     {
+      "t0": 223.77,
+      "t1": 226.15,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So we were quite bullish on capital spending."
+     },
+     {
+      "t0": 226.79,
+      "t1": 232.87,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So this all made us quite bullish equities, and as you said, the economy."
+     },
+     {
+      "t0": 234.51,
+      "t1": 238.97,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Unfortunately, about a month later, something called a war started."
+     },
+     {
+      "t0": 240.75,
+      "t1": 241.85,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I panicked."
+     },
+     {
+      "t0": 242.59,
+      "t1": 257.93,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We sold a bunch of stuff, but I actually ended up lucky because when we brought it back, which we did quickly, it was more apparent than ever that AI infrastructure was going to have a complete liftoff."
+     },
+     {
+      "t0": 257.93,
+      "t1": 262.41,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So it cleaned out all the stuff in the portfolio that wasn't going to be a big rise."
+     },
+     {
+      "t0": 262.49,
+      "t1": 264.91,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So now let's look at today."
+     },
+     {
+      "t0": 266.05,
+      "t1": 274.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "The economy still is strong, but everything else I just talked about has completely flipped on its head."
+     },
+     {
+      "t0": 275.49,
+      "t1": 277.87,
+      "speaker": "Stanley Druckenmiller",
+      "text": "The Fed is not cutting, they're hiking."
+     },
+     {
+      "t0": 278.65,
+      "t1": 284.63,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We've had regime change at the Fed, a gentleman I know while he sat next to me for 15 years."
+     },
+     {
+      "t0": 285.83,
+      "t1": 291.74,
+      "speaker": "Stanley Druckenmiller",
+      "text": "He is not happy that we had free money for 15 years while the deficit and everything else went through the roof."
+     },
+     {
+      "t0": 291.69,
+      "t1": 296.81,
+      "speaker": "Stanley Druckenmiller",
+      "text": "He's even less happy that inflation's been above target for five years."
+     },
+     {
+      "t0": 297.19,
+      "t1": 299.75,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So we have monetary tightening going on."
+     },
+     {
+      "t0": 300.09,
+      "t1": 306.73,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We have commodities, which were breaking out in January, looked like they topped and are going down."
+     },
+     {
+      "t0": 307.13,
+      "t1": 308.93,
+      "speaker": "Stanley Druckenmiller",
+      "text": "In fact, we're now short copper."
+     },
+     {
+      "t0": 310.37,
+      "t1": 320.52,
+      "speaker": "Stanley Druckenmiller",
+      "text": "The advanced decline line, which is making a new high when we were interviewed, made its high back on August 14, despite the fact the average is making their high in October."
+     },
+     {
+      "t0": 320.47,
+      "t1": 322.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "credit spreads are widening."
+     },
+     {
+      "t0": 323.49,
+      "t1": 325.03,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I think you're getting the joke here."
+     },
+     {
+      "t0": 325.51,
+      "t1": 331.59,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Everything is the exact opposite of the way it was then, so we are not long equities."
+     },
+     {
+      "t0": 332.11,
+      "t1": 333.61,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We're not short equities."
+     },
+     {
+      "t0": 334.51,
+      "t1": 343.29,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I like to go short, I admit it, but for all the reasons I think most people came to this conference, I wouldn't dare go short."
+     },
+     {
+      "t0": 343.77,
+      "t1": 345.99,
+      "speaker": "Stanley Druckenmiller",
+      "text": "The innovation and everything going on here."
+     },
+     {
+      "t0": 346.37,
+      "t1": 377.41,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Also, a lot of that stuff is oversold and washed out and I think positions are down tactically so my choice here is to do what I've sort of always done when I don't have clarity and I've been doing this oh my god for 50 years I've been doing this I can't remember a period where I had less clarity on where we're going to be in 12 months unlike last January so as you made fun of me on one of these zoom calls the other day and you said,"
+     },
+     {
+      "t0": 377.63,
+      "t1": 381.75,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Stan has a button now when I call it just says, I'm not playing."
+     },
+     {
+      "t0": 381.75,
+      "t1": 382.93,
+      "speaker": "Iliana Bouzali",
+      "text": "It's auto reply."
+     },
+     {
+      "t0": 383.09,
+      "t1": 384.13,
+      "speaker": "Iliana Bouzali",
+      "text": "Don't talk to me."
+     },
+     {
+      "t0": 384.17,
+      "t1": 385.17,
+      "speaker": "Iliana Bouzali",
+      "text": "I'm not playing."
+     },
+     {
+      "t0": 385.97,
+      "t1": 387.23,
+      "speaker": "Stanley Druckenmiller",
+      "text": "That's where we are."
+     },
+     {
+      "t0": 387.25,
+      "t1": 391.17,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We have some small positions in the dollar."
+     },
+     {
+      "t0": 392.33,
+      "t1": 395.51,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Our equity positions are basically flat, but there's a mishmash."
+     },
+     {
+      "t0": 395.53,
+      "t1": 397.19,
+      "speaker": "Stanley Druckenmiller",
+      "text": "There's some shorts and longs in there."
+     },
+     {
+      "t0": 397.73,
+      "t1": 400.05,
+      "speaker": "Stanley Druckenmiller",
+      "text": "But we're basically staying away."
+     },
+     {
+      "t0": 401.61,
+      "t1": 406.09,
+      "speaker": "Stanley Druckenmiller",
+      "text": "They mentioned in the introduction some kind words about my record."
+     },
+     {
+      "t0": 406.73,
+      "t1": 408.43,
+      "speaker": "Stanley Druckenmiller",
+      "text": "It's a record that has been."
+     },
+     {
+      "t0": 408.63,
+      "t1": 411.99,
+      "speaker": "Iliana Bouzali",
+      "text": "You never lost money, you never had it down here."
+     },
+     {
+      "t0": 412.43,
+      "t1": 414.95,
+      "speaker": "Stanley Druckenmiller",
+      "text": "That's correct, but it was the luck of the calendar."
+     },
+     {
+      "t0": 414.95,
+      "t1": 420.57,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I had big drawdowns, I was just never down from December 31st to December 31st."
+     },
+     {
+      "t0": 420.95,
+      "t1": 427.37,
+      "speaker": "Stanley Druckenmiller",
+      "text": "But my record is really partly, I'd say it's due to a couple things."
+     },
+     {
+      "t0": 427.43,
+      "t1": 435.57,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Number one, because we trade four asset classes, commodities, bonds, stocks, and interest rates."
+     },
+     {
+      "t0": 436.49,
+      "t1": 441.51,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We don't feel the need to ever be heavily in one or the other."
+     },
+     {
+      "t0": 441.73,
+      "t1": 443.51,
+      "speaker": "Iliana Bouzali",
+      "text": "You invented that style to be clear."
+     },
+     {
+      "t0": 443.51,
+      "t1": 444.95,
+      "speaker": "Iliana Bouzali",
+      "text": "You're not a mandate investor."
+     },
+     {
+      "t0": 446.13,
+      "t1": 453.33,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I probably did invent it, but I invented out a necessity because I didn't know what I was doing back then."
+     },
+     {
+      "t0": 453.53,
+      "t1": 460.47,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Anyway, by pure coincidence, bonds and currencies tend to take their biggest move when equities are in bare markets."
+     },
+     {
+      "t0": 461.21,
+      "t1": 467.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So it made me more willing to just put aside equities and not have to be invested in that asset category."
+     },
+     {
+      "t0": 468.23,
+      "t1": 469.73,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So you had other alternatives."
+     },
+     {
+      "t0": 469.73,
+      "t1": 472.69,
+      "speaker": "Stanley Druckenmiller",
+      "text": "It kind of made its own kind of discipline."
+     },
+     {
+      "t0": 473.33,
+      "t1": 481.99,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So we've had periods where we've withdrawn from the market, and then we've had periods where we're playing in other macro instruments other than equities."
+     },
+     {
+      "t0": 482.57,
+      "t1": 486.79,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Right now, because I can't have any, I don't have a lot of clarity on anything."
+     },
+     {
+      "t0": 487.33,
+      "t1": 492.99,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We're pretty much in one of those periods where I would say we're in capital preservation."
+     },
+     {
+      "t0": 493.01,
+      "t1": 496.49,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We're trying to not lose money as opposed to make money."
+     },
+     {
+      "t0": 496.75,
+      "t1": 508.83,
+      "speaker": "Iliana Bouzali",
+      "text": "We were backstage and we were having a laugh because you were telling me how someone has analyzed your style over 50 years."
+     },
+     {
+      "t0": 508.97,
+      "t1": 512.43,
+      "speaker": "Iliana Bouzali",
+      "text": "Can you share with the audience what we have learned from that?"
+     },
+     {
+      "t0": 512.85,
+      "t1": 516.25,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Yeah, you must not be listening, because I think that's what I just said."
+     },
+     {
+      "t0": 518.59,
+      "t1": 534.23,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Duquesne has made their money in scoops over the years, so we go marginally up like five to eight percent years, and then all of a sudden there'll be like a three or four year run that goes up, and then there's another sideways."
+     },
+     {
+      "t0": 535.13,
+      "t1": 537.16,
+      "speaker": "Stanley Druckenmiller",
+      "text": "But we've avoided it downtown."
+     },
+     {
+      "t0": 537.11,
+      "t1": 547.09,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And I feel we just made, mainly because I was lucky enough to have a lot of young people at my firm, and the Gavin call didn't hurt either."
+     },
+     {
+      "t0": 547.57,
+      "t1": 565.4,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We just had a great three or four year scoop, and a lot of the stuff I just mentioned that underline that, there's a lot of uncertainty around that, and so I'm just taking a break, which could last two days or six months, I don't know."
+     },
+     {
+      "t0": 565.35,
+      "t1": 571.51,
+      "speaker": "Iliana Bouzali",
+      "text": "So you're in one of these cold streaks, so how do you know when you're back?"
+     },
+     {
+      "t0": 571.87,
+      "t1": 573.97,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I'm not cold, I'm on an out streak."
+     },
+     {
+      "t0": 575.37,
+      "t1": 582.63,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I think you're mentioning the fact if you look at my risk management, it's a little unusual."
+     },
+     {
+      "t0": 582.95,
+      "t1": 587.99,
+      "speaker": "Stanley Druckenmiller",
+      "text": "We don't use VAR, we don't use stress tax, we don't use any of that stuff."
+     },
+     {
+      "t0": 589.31,
+      "t1": 597.39,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I remember when I was running the quantum fund for Soros, banks wouldn't lend us money because we didn't do VAR, so I gave them their stupid VAR."
+     },
+     {
+      "t0": 598.33,
+      "t1": 612.21,
+      "speaker": "Stanley Druckenmiller",
+      "text": "What I've always done, because we are a matrix investor, the four categories I just mentioned, is I look at my P&L, and if it's not behaving the way it should be, if it's not correlating properly, I'll start cutting back."
+     },
+     {
+      "t0": 612.69,
+      "t1": 614.71,
+      "speaker": "Stanley Druckenmiller",
+      "text": "So the P&L is my true signal."
+     },
+     {
+      "t0": 614.77,
+      "t1": 616.57,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Why do I think that's better in VAR?"
+     },
+     {
+      "t0": 617.07,
+      "t1": 622.85,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Because when you get in chaos and when you get in bear periods, none of these correlations work."
+     },
+     {
+      "t0": 623.35,
+      "t1": 629.95,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I think some very talented people found that out the hard way with software and AI infrastructure earlier in the year."
+     },
+     {
+      "t0": 631.23,
+      "t1": 643.27,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Yeah, crazy stuff just starts happening and your P&L will pick it up and we do that and then you mentioned what is one of the most important targets of my job?"
+     },
+     {
+      "t0": 643.81,
+      "t1": 645.09,
+      "speaker": "Stanley Druckenmiller",
+      "text": "I believe in streaks."
+     },
+     {
+      "t0": 645.37,
+      "t1": 647.07,
+      "speaker": "Stanley Druckenmiller",
+      "text": "People in Texas know sports."
+     },
+     {
+      "t0": 647.65,
+      "t1": 653.91,
+      "speaker": "Stanley Druckenmiller",
+      "text": "As you know in baseball, way beyond random you get streaks, hitting streaks, winning streaks."
+     },
+     {
+      "t0": 654.99,
+      "t1": 656.37,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Same in my business."
+     },
+     {
+      "t0": 656.41,
+      "t1": 659.43,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Sometimes I'm seeing the ball, sometimes I'm not."
+     },
+     {
+      "t0": 660.51,
+      "t1": 663.75,
+      "speaker": "Stanley Druckenmiller",
+      "text": "A big part of my job is to know whether I'm cold or hot."
+     },
+     {
+      "t0": 664.19,
+      "t1": 666.15,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And believe me, I've had some cold periods."
+     },
+     {
+      "t0": 666.43,
+      "t1": 675.89,
+      "speaker": "Stanley Druckenmiller",
+      "text": "But I play big when I'm hot, and when I'm cold, I try and make little bunts, and if my average starts going up, then I figure I might be seeing it better, and I'll play harder."
+     },
+     {
+      "t0": 676.09,
+      "t1": 677.52,
+      "speaker": "Iliana Bouzali",
+      "text": "I had a multiple choice."
+     },
+     {
+      "t0": 677.47,
+      "t1": 687.25,
+      "speaker": "Iliana Bouzali",
+      "text": "the multiple-choice question was choosing between themes or stocks that you want to buy here, but it doesn't seem like you want to really buy anything."
+     },
+     {
+      "t0": 687.25,
+      "t1": 688.47,
+      "speaker": "Iliana Bouzali",
+      "text": "So let's scratch that."
+     },
+     {
+      "t0": 688.47,
+      "t1": 690.85,
+      "speaker": "Iliana Bouzali",
+      "text": "I'm going to ask you a similar question."
+     },
+     {
+      "t0": 691.09,
+      "t1": 701.44,
+      "speaker": "Iliana Bouzali",
+      "text": "You're not ready to buy things in size, but what are you watching that you're intrigued by, that you might want to"
+     },
+     {
+      "t0": 701.39,
+      "t1": 702.8,
+      "speaker": "Iliana Bouzali",
+      "text": "buy?"
+     },
+     {
+      "t0": 702.75,
+      "t1": 703.59,
+      "speaker": "Iliana Bouzali",
+      "text": "it in broadly?"
+     },
+     {
+      "t0": 708.26,
+      "t1": 729.33,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Well, given the way commodities are acting and the fact that I didn't mention also a year ago, cyclical stocks were outperforming defenses, and now all the defenses are leading, I'm really alert to the fact that the second half of 27 could be economically disappointed,"
+     },
+     {
+      "t0": 729.32,
+      "t1": 732.84,
+      "speaker": "Stanley Druckenmiller",
+      "text": "so I'm about that in terms of interest rates."
+     },
+     {
+      "t0": 733.54,
+      "t1": 741.56,
+      "speaker": "Stanley Druckenmiller",
+      "text": "In terms of equities, we're looking for AI use cases as opposed to infrastructure."
+     },
+     {
+      "t0": 742.32,
+      "t1": 756.54,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Infrastructure may be a great tactical trade because they they've really been washed out positions, but I don't think they're going to be the engine they were to provide that scoop they did for us the last four years, but I think use cases could."
+     },
+     {
+      "t0": 757.62,
+      "t1": 762.48,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Ironically, maybe be the most interesting use case is a lab."
+     },
+     {
+      "t0": 763.74,
+      "t1": 769.48,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And that's because I don't personally believe they're going to be in the token business."
+     },
+     {
+      "t0": 769.5,
+      "t1": 770.48,
+      "speaker": "Stanley Druckenmiller",
+      "text": "That's what's longer."
+     },
+     {
+      "t0": 770.84,
+      "t1": 776.34,
+      "speaker": "Stanley Druckenmiller",
+      "text": "My own belief is that they're not going to be releasing models."
+     },
+     {
+      "t0": 776.94,
+      "t1": 783.6,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And if you have the number one intelligence in the world, you can start selling tasks instead of tokens."
+     },
+     {
+      "t0": 784.08,
+      "t1": 786.01,
+      "speaker": "Stanley Druckenmiller",
+      "text": "And you can create your own businesses."
+     },
+     {
+      "t0": 785.96,
+      "t1": 789.12,
+      "speaker": "Stanley Druckenmiller",
+      "text": "doesn't take a genius, cyber security."
+     },
+     {
+      "t0": 789.8,
+      "t1": 792.36,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Who's going to compete with these guys in cyber security?"
+     },
+     {
+      "t0": 792.36,
+      "t1": 797.8,
+      "speaker": "Stanley Druckenmiller",
+      "text": "They created the problem, so now they're ones that could have forms of agents defending us from them."
+     },
+     {
+      "t0": 799.06,
+      "t1": 807.56,
+      "speaker": "Stanley Druckenmiller",
+      "text": "Health care, there's all kinds of use cases, so if there's going to be another big push in the equity market, I think that's where we'll want to go."
+     },
+     {
+      "t0": 808.08,
+      "t1": 810.12,
+      "speaker": "Iliana Bouzali",
+      "text": "Selling tasks, no tokens."
+     },
+     {
+      "t0": 810.5,
+      "t1": 811.78,
+      "speaker": "Iliana Bouzali",
+      "text": "You heard it here first."
+     },
+     {
+      "t0": 812.4,
+      "t1": 814.3,
+      "speaker": "Iliana Bouzali",
+      "text": "Okay, so a slightly different question."
+     },
+     {
+      "t0": 815.6,
+      "t1": 819.88,
+      "speaker": "Iliana Bouzali",
+      "text": "Let's leave AI aside for five minutes."
+     },
+     {
+      "t0": 820.74,
+      "t1": 837.78,
+      "speaker": "Iliana Bouzali",
+      "text": "So social media is very good at picking up things that are here and now but many important things happen quietly and over longer periods of time and under the surface."
+     },
+     {
+      "t0": 838.6,
+      "t1": 839.88,
+      "speaker": "Iliana Bouzali",
+      "text": "What might be some"
+     }
+    ],
+    "audioSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-druck-tomorrowx-2026.mp3"
+    ],
+    "slowSrcs": [
+     "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-druck-tomorrowx-2026-075.mp3"
+    ],
+    "transcriptSrc": "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/t/guru-druck-tomorrowx-2026.json",
+    "note": "Druckenmiller가 대부분 말해요(14분 중 약 11분, 진행자 Iliana Bouzali는 질문). 0:00–0:17 예고 몽타주 → 0:30 'macro has-beens'와 Gavin 이야기 → 2:09 1월엔 왜 강세였나 → 4:24 지금은 모든 게 뒤집혔다('I'm not playing') → 6:41 그의 기록과 4개 자산군 → 9:35 VaR 대신 P&L, 'streaks'(연속 안타) → 11:48 AI 'use cases', 'tasks instead of tokens'(14분에서 끊겨요). 스크립트는 자동 음성인식(whisper)이라 틀린 곳이 있어요: American visits = American business, Eliana/Ileana = Iliana, bare markets = bear markets, stress tax = stress tests, VAR = VaR(value at risk), quantum fund = Quantum Fund, economically disappointed = economically disappointing. 1회차는 흐름만, 2회차는 스크립트를 보면서 들어요."
+   }
+  ],
+  "task": "오늘은 Stanley Druckenmiller의 Morgan Stanley TomorrowX Summit 대담(2026년 11월 17일) 앞부분 14분이에요. 진행자 Iliana Bouzali가 묻고 Druckenmiller가 길게 답해요. 출근길(8:30–9:00)에는 0:00–6:40(1월엔 왜 강세였나 → 지금은 모든 게 뒤집혀서 'I'm not playing')을 1배속(어려우면 0.75배속)으로 흐름만 듣고, 퇴근길(17:30–18:10)에는 6:40–14:00(4개 자산군, P&L이 신호, 야구의 'streaks', AI 'tasks instead of tokens')을 들어요. 시간이 남으면 처음부터 한 번 더! 'macro has-beens', 'flipped on its head', 'capital preservation', 'selling tasks instead of tokens'가 나오는 부분을 잘 들어 보세요. 바쁘면 Part 1의 처음 6분(~'That's where we are')만 들어도 OK예요.",
+  "quiz": {
+   "q": "Why is Druckenmiller 'not playing' right now? a) He lost a lot of money this year and is scared, b) He has very little clarity — the signals that made him bullish in January (loose Fed, rising commodities, tight credit spreads) have all flipped, c) He thinks AI is a bubble and wants to go short",
+   "answer": "b) 1월에는 Fed가 완화적이고 원자재·기술적 지표가 좋아서 강세였지만, 지금은 Fed가 금리를 올리고, 원자재는 꺾이고, 신용 스프레드가 벌어지는 등 '모든 게 정반대'예요. 50년 중 12개월 뒤가 이렇게 안 보인 적이 없어서 쉬고 있대요. 숏(c)은 'I wouldn't dare go short'라고 했어요."
+  }
+ },
+ "shadowing": {
+  "lang": "en-US",
+  "source": "Stanley Druckenmiller · Morgan Stanley TomorrowX Summit (Nov 17, 2026)",
+  "sentences": [
+   {
+    "text": "Sometimes in my career I've had clarity, and sometimes I have no clarity.",
+    "ko": "제 경력에서 어떤 때는 (시장이) 분명히 보였고, 어떤 때는 전혀 안 보였어요.",
+    "t0": 140.63,
+    "t1": 146.73,
+    "track": 0
+   },
+   {
+    "text": "We're trying to not lose money as opposed to make money.",
+    "ko": "우리는 돈을 벌려는 게 아니라 잃지 않으려고 하고 있어요.",
+    "t0": 493.01,
+    "t1": 496.49,
+    "track": 0
+   },
+   {
+    "text": "So the P&L is my true signal.",
+    "ko": "그래서 손익(P&L)이 제게 진짜 신호예요.",
+    "t0": 612.69,
+    "t1": 614.71,
+    "track": 0
+   },
+   {
+    "text": "Sometimes I'm seeing the ball, sometimes I'm not.",
+    "ko": "어떤 때는 공이 잘 보이고, 어떤 때는 안 보여요.",
+    "t0": 656.41,
+    "t1": 659.43,
+    "track": 0
+   },
+   {
+    "text": "A big part of my job is to know whether I'm cold or hot.",
+    "ko": "제 일의 큰 부분은 지금 제가 '안 맞는 때'인지 '잘 맞는 때'인지 아는 거예요.",
+    "t0": 660.51,
+    "t1": 663.75,
+    "track": 0
+   }
+  ]
+ },
+ "reading": {
+  "title": "Does a crummy economy threaten China’s social contract?",
+  "url": "https://www.hindustantimes.com/world-news/does-a-crummy-economy-threaten-china-s-social-contract-101795488150298.html",
+  "source": "The Economist (public reprint via Hindustan Times)",
+  "section": "China · Chaguan column (HT reprint, Nov 24th 2026)",
+  "minutes": 6,
+  "summaryKo": "연말에 중국을 찾는 외국 방문객들은 '경제가 나빠졌으니 정치적 자유와 번영을 맞바꾼 중국의 사회계약이 깨진 것 아니냐'고 묻는대요. 칼럼은 정당성이 돈만의 문제가 아니라고 말해요: 치안·기차·올림픽 금메달, '100년 굴욕'을 끝낸 역사, 다른 나라의 혼란도 공산당 편이에요. 학자 Zhao Dingxin은 정당성을 절차·성과·이념 세 가지로 나누는데, 성과 정당성은 사람들이 계속 '더'를 원해서 본래 불안정하대요. 그래서 시진핑은 이념과 '강대국 지위'를 키우려 하고, 경제가 처져도 계약이 깨진 게 아니라 다른 지지 기반을 키우고 있다는 결론이에요.",
+  "excerpt": [
+   "Many leave impressed by the slick modernity of China’s wealthiest cities. The more intrepid also see some rougher edges. Invited to chat with several delegations, Chaguan heard one question again and again. Visitors wanted to know whether China’s social contract was in tatters.",
+   "In the simplified version of the supposed Chinese social contract—the visitors’ version—the exchange is straightforward, even vulgar. You swap political rights for higher incomes. Legitimacy, by contrast, comes from multiple sources."
+  ],
+  "tip": "'Chaguan'은 The Economist 중국 칼럼 이름(찻집)이라 칼럼니스트가 자신을 3인칭으로 불러요. 'in tatters'(누더기가 된 → 엉망이 된), 'the more intrepid'(더 대담한 사람들), 'by contrast'(대조적으로)를 보세요. 줄표(—the visitors’ version—)는 괄호처럼 '설명 끼워넣기'예요."
+ },
+ "vocab": [
+  {
+   "word": "clarity",
+   "meaning": "명확성, (앞이) 분명히 보임",
+   "example": "I can't remember a period where I had less clarity."
+  },
+  {
+   "word": "capital preservation",
+   "meaning": "자본 보존 — 벌기보다 잃지 않는 것",
+   "example": "We're in capital preservation; we're trying to not lose money."
+  },
+  {
+   "word": "flip on its head",
+   "meaning": "완전히 뒤집히다",
+   "example": "Everything else has completely flipped on its head."
+  },
+  {
+   "word": "drawdown",
+   "meaning": "(고점 대비) 손실폭, 하락",
+   "example": "I had big drawdowns, but I was never down for a full year."
+  },
+  {
+   "word": "in tatters",
+   "meaning": "엉망이 된, 산산조각 난",
+   "example": "Visitors wanted to know whether China’s social contract was in tatters."
+  },
+  {
+   "word": "legitimacy",
+   "meaning": "정당성",
+   "example": "Legitimacy comes from multiple sources, not just money."
+  },
+  {
+   "word": "streak",
+   "meaning": "연속(연승·연속 안타), 흐름",
+   "example": "A big part of my job is to know whether I'm on a hot or cold streak."
+  }
+ ],
+ "writing": {
+  "prompt": "Write 3–5 sentences in English: The Economist says legitimacy is 'about more than money'. Why do people trust a hospital or a clinical lab? Is it only results, or something more?",
+  "question": "What is one thing (not money) that makes patients trust your lab?",
+  "hint": "이런 표현을 써 보세요: People trust ... because ... / It is not only about ...; it is also about ... / For example, in my lab we ..."
+ },
+ "speaking": {
+  "prompt": "In one minute: Druckenmiller says, 'When I don't have clarity, I don't play.' Tell me about a time you decided to wait instead of acting — in investing, work, or family life.",
+  "phrases": [
+   "I didn't have enough clarity, so I ...",
+   "Instead of ..., I decided to wait.",
+   "Looking back, it was a good / bad decision because ..."
+  ],
+  "seconds": 60,
+  "alt": "쉬운 버전: Say three short sentences (e.g. I wanted to buy a stock. The market was strange. I waited one month.)."
+ },
+ "stuck": {
+  "note": "이번 주 막힌 문장, 한 번 더 봐요",
+  "items": [],
+  "reviewTitle": "이번 주 막힌 문장 복습 · Weekly review",
+  "review": [
+   {
+    "id": "t1126cramer1",
+    "kind": "listening",
+    "from": "Jim Cramer · CNBC · Mad Money · 11/25 듣기",
+    "savedDate": "2026-11-25",
+    "text": "Because portfolio managers could go in easily and out easily, though, the futures became the most powerful drivers of stock prices, particularly for hedge funds, even more powerful than the actual forms of the underlying companies that stocks are meant to represent.",
+    "cause": "structure",
+    "causeKo": "구조 · 문장이 길고 꼬임",
+    "why": "주어(the futures)가 앞의 Because절과 though 뒤에 숨어 있어요. 'Because ~, though,' = '그런데 ~했기 때문에'. 대본의 'forms'는 실제로는 firms(기업)로 말한 거예요.",
+    "chunks": [
+     "Because portfolio managers",
+     "could go in easily",
+     "and out easily, though,",
+     "the futures became",
+     "the most powerful drivers",
+     "of stock prices,",
+     "particularly for hedge funds,",
+     "even more powerful",
+     "than the actual forms",
+     "of the underlying companies",
+     "that stocks are meant to represent."
+    ],
+    "paraphrase": "Fund managers could buy and sell futures quickly, so futures moved stock prices more than the real companies behind the stocks did.",
+    "ko": "펀드매니저들이 선물은 쉽게 사고팔 수 있었기 때문에, 선물이 주가를 움직이는 가장 큰 힘이 됐어요. 주식이 원래 대표하는 실제 기업들보다도 더 강하게요.",
+    "todo": [
+     "0.75x로 듣고 3번 따라 말하기",
+     "Paraphrase 소리 내어 1번 말하기"
+    ],
+    "clip": {
+     "url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/9e7e94dd-0e87-46ac-9860-c63be80507ed/episodes/6ecad7d0-2d26-4492-b6f2-9dc18f9bec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e7e94dd-0e87-46ac-9860-c63be80507ed&awEpisodeId=6ecad7d0-2d26-4492-b6f2-9dc18f9bec09&feed=TkQfZXMD",
+     "audioSrcs": [
+      "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide.mp3"
+     ],
+     "slowSrcs": [
+      "https://raw.githubusercontent.com/iwannavy/english-sprint-audio/main/a/guru-cramer-mm-selloff-guide-075.mp3"
+     ],
+     "minutes": 14,
+     "t0": 346.77,
+     "t1": 358.83
+    }
+   },
+   {
+    "id": "t1126econ01",
+    "kind": "reading",
+    "from": "The Economist · 11/25 읽기",
+    "savedDate": "2026-11-25",
+    "text": "Now the buzz in India’s startup capital is “deep tech”—a somewhat loosely applied term for products supposedly based on scientific breakthroughs or advanced engineering in sectors like space, defence and semiconductors.",
+    "cause": "vocab",
+    "causeKo": "단어 · 단어/숙어",
+    "why": "대시(—) 뒤는 'deep tech'를 풀어 설명하는 부분이에요. buzz = 화제·유행어, loosely applied = 대충(느슨하게) 붙이는, supposedly = ~라고들 하는(의심 섞임).",
+    "chunks": [
+     "Now the buzz",
+     "in India’s startup capital",
+     "is “deep tech”",
+     "—a somewhat loosely applied term",
+     "for products",
+     "supposedly based on",
+     "scientific breakthroughs",
+     "or advanced engineering",
+     "in sectors like space, defence and semiconductors."
+    ],
+    "paraphrase": "Today everyone in Bangalore is talking about “deep tech”, a vague label for products said to come from real science or advanced engineering, in areas like space, defence and chips.",
+    "ko": "요즘 인도 스타트업 수도(벵갈루루)의 화두는 '딥테크'예요. 우주·국방·반도체처럼 과학적 돌파나 첨단 공학에 기반한다고들 하는 제품에 꽤 느슨하게 붙이는 말이죠.",
+    "todo": [
+     "소리 내어 끊어 읽기 3번",
+     "Paraphrase 소리 내어 1번 말하기"
+    ]
+   }
+  ]
+ },
+ "evening": {
+  "book": "Wonder (R. J. Palacio)",
+  "pages": 10,
+  "note": "금요일이에요 🎉 지난번 읽은 데서 이어서 10페이지. 한 주 마무리라 피곤하면 5페이지만, 아니면 Minimum day도 OK."
+ }
+}
